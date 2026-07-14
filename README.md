@@ -43,11 +43,13 @@ The **PDF polish system** (systematic fixes + a hand-fix overlay) is documented 
 
 ## Website
 
-`build/site/` holds the data feeds (canonical) and a self-contained static site shell.
-The **live website UI** is currently deployed inside the `kestrel-admin` app
-(`public/liquorista/`), where a separate agent maintains the UI + a curated `techniques.json`.
-The feeds published here are host-portable (recipe-id keyed) and can move to any host.
-Reconciling the repo's site shell with the evolved kestrel UI is a pending decision.
+`build/site/` is the **canonical, self-contained website** — UI (`index.html`, `app.js`,
+`styles.css`), the curated `techniques.json`, hero art under `assets/`, and the generated,
+host-portable data feeds (recipe-id keyed). It can be served from any static host.
+
+**Deployment:** the `kestrel-admin` app currently hosts a copy at `public/liquorista/`. This
+repo is now upstream — deploy by syncing `build/site/` → the host, rather than editing the
+host copy directly (which would re-diverge).
 
 ## License / rights
 The original work is **public domain** (author Castoldi d. 1910; pre-1929 publication).
