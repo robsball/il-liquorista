@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "title": "The Techniques",
+    "subtitle": "The general rules of the manual — the knowledge every recipe assumes",
+    "source": "Distilled from the full text of Il Liquorista (1921), general part and section preambles. Page numbers refer to this English edition.",
+    "generated": "2026-07-09"
+  },
+  "sweetening_table": {
+    "title": "How much sugar a liqueur should contain",
+    "refs": "pp. 220, 350, 463, 787",
+    "rows": [
+      { "cls": "Spirits (eaux-de-vie)", "g_l": [20, 85], "note": "some contain none at all — Cognac, Kirsch, Gin, Whisky" },
+      { "cls": "Double spirits", "g_l": [50, 70], "note": "36–50% alcohol, \"little sugar (5–7%)\", long aging" },
+      { "cls": "Ordinary liqueurs", "g_l": [100, 150], "note": "hydrometer check: reads 5°" },
+      { "cls": "Fine liqueurs", "g_l": [175, 325], "note": "top-quality refined sugar is mandatory" },
+      { "cls": "Ratafias (fruit)", "g_l": [200, 200], "note": "\"~25% alcohol or less, sweetened with 20% sugar\" (p. 787)" },
+      { "cls": "Rosolios & creams", "g_l": [350, 550], "note": "the dense, velvety class — sugar dissolved hot" }
+    ]
+  },
+  "syrup": {
+    "formula": "Sugar 1.750 kg + water 1 L, heated to the boil, strained, filtered (cold preparation needs ~5% more sugar). 1 kg of sugar yields ≈ 1.14 L of finished syrup. Target: 30° Baumé boiling, 35° cold.",
+    "anticryst": "To prevent crystallization add 100–200 g citric acid per 100 kg of sugar after boiling — imperceptible to taste.",
+    "refs": "pp. 349–351"
+  },
+  "groups": [
+    { "id": "foundations", "title": "Foundations" },
+    { "id": "processes", "title": "The Processes" },
+    { "id": "finishing", "title": "Finishing" },
+    { "id": "cellar", "title": "The Cellar" },
+    { "id": "families", "title": "The Families" }
+  ],
+  "topics": [
+    {
+      "slug": "anatomy",
+      "group": "foundations",
+      "title": "The Anatomy of a Liqueur",
+      "tagline": "Alcohol, sugar, water, aroma, color — and the order they meet",
+      "pages": "pp. 2–14, 396–397",
+      "blocks": [
+        { "t": "p", "x": "\"All liqueurs without exception are composed of pure alcohol or aromatized spirits, of simple syrup (water and sugar) or of various syrups, and of coloring substances.\" (p. 3) Every recipe in this manual is a variation on those five parts. The aroma may come by three roads: <b>distillation</b> (the finest bouquet), <b>maceration or digestion</b> (the domestic method — and the only way to capture bitter principles), or <b>mixing essential oils and essences</b> (the quickest, for ordinary goods)." },
+        { "t": "h", "x": "The mixing order" },
+        { "t": "p", "x": "The book states it twice, once in the introduction and again at the head of the recipe collection (pp. 13, 396): pour in this sequence, stirring continuously —" },
+        { "t": "list", "items": ["1. Plain alcohol", "2. Aromatized alcohol (tincture, alcoholate, essence pre-dissolved in alcohol)", "3. Sugar or syrup — hot syrup poured in thin streams", "4. Water (the remainder)", "5. Coloring, in small portions with repeated checks"] },
+        { "t": "p", "x": "Mix cold except in special cases (volatile aromatics escape warm mixtures), but dissolve the sugar itself <i>hot</i>: \"the fineness and the smooth, velvety quality of the liqueur are much more developed\" (p. 13). Then rest. \"The result of the preparation cannot be judged by tasting until after 2 or 3 days from the mixing.\" (p. 397)" },
+        { "t": "h", "x": "The six types" },
+        { "t": "p", "x": "By composition (pp. 9–10): <b>simple spirits</b> (40–72% alcohol, ~2% sugar or none); <b>double spirits</b> (2–12% sugar); <b>liqueurs proper</b> (12–30% sugar, 25–50% alcohol); <b>creams, rosolios and elixirs</b> (over 30% sugar, 20–40% alcohol); <b>ratafias</b> (fruit, strongly sweetened); <b>bitters</b> (sparingly sweetened or not at all)." },
+        { "t": "note", "x": "\"The good liquorist should not limit himself to following recipes exactly. These are meant only as a guide.\" — p. 12" }
+      ]
+    },
+    {
+      "slug": "quality-classes",
+      "group": "foundations",
+      "title": "The Four Qualities",
+      "tagline": "Ordinary, semi-fine, fine, superfine — the grades every recipe assumes",
+      "pages": "pp. 11, 367, 400, 477",
+      "blocks": [
+        { "t": "p", "x": "Most recipes in the book name their botanicals but not their sugar or final strength — because those were fixed by <i>grade</i>, stated once and assumed everywhere. The rule (p. 400): \"the proportions of alcohol or sugar are <b>constant</b>, while those for the aroma and for water are variable.\"" },
+        { "t": "h", "x": "The constants — per hectolitre of finished liqueur (p. 400)" },
+        { "t": "table", "cols": ["Grade", "Alcohol of 85°", "Sugar"], "rows": [["Ordinary", "25 L", "12.5 kg"], ["Double", "50 L", "25 kg"], ["Semi-fine", "28 L", "25 kg"], ["Fine", "30–32 L", "37–45 kg"], ["Superior", "32–40 L", "50–60 kg"]] },
+        { "t": "h", "x": "The French classification — per 100 L (p. 11)" },
+        { "t": "table", "cols": ["Category", "Alcohol (85°–90°)", "Sugar", "Water"], "rows": [["Ordinary liqueurs", "25% by volume", "12–15 kg", "remainder to 100 L"], ["Semi-fine liqueurs", "28–30%", "25 kg", "remainder"], ["Fine liqueurs", "32–35%", "36–45 kg", "distilled water, remainder"], ["Superfine liqueurs", "36–60 L", "white sugar 48–56 kg", "distilled water, remainder"]] },
+        { "t": "p", "x": "A worked example of the whole ladder is the Seven Seeds Liqueur (p. 477): the same seven tinctures at 0.2–0.7 L each, with sugar climbing 2.5 → 5 → 8.75 → 11 kg per 10-litre batch and water falling 11.2 → 5.2 L as the grade rises." },
+        { "t": "note", "x": "Quick checks from the shop floor: an ordinary liqueur reads 5° on the syrup hydrometer, a semi-fine 10° (p. 367). And from the book's own survey (p. 1029): fine liqueurs run 23–24% alcohol, ordinary 20–21%, Chartreuse elixir 82–84%, vermouth 14–18%." }
+      ]
+    },
+    {
+      "slug": "simple-liqueur",
+      "group": "foundations",
+      "title": "The Simple Liqueur",
+      "tagline": "The invisible base that hundreds of recipes silently assume",
+      "pages": "pp. 357, 633, 702–704",
+      "blocks": [
+        { "t": "p", "x": "The book's single most important hidden rule. Cold-process recipes — anything built on essences or extracts — assume a ready-made <b>excipient</b>: \"a mixture composed of alcohol, water, and sugar, termed Simple Liqueur\" (p. 633). Whole chapters of recipes list <i>only the aromatics</i> and say nothing of alcohol, sugar or water, because the base was defined once:" },
+        { "t": "h", "x": "Base formulations, yielding 10 litres (p. 702)" },
+        { "t": "table", "cols": ["Quality", "Alcohol 85°", "Water", "Sugar"], "rows": [["Extra-fine", "4.0 L", "2.5 L", "5.5 kg"], ["Fine", "3.2 L", "3.8 L", "4.4 kg"], ["Ordinary", "2.5 L", "6.5 L", "1.3 kg"]] },
+        { "t": "p", "x": "The small-batch version appears over and over in the recipes themselves: <b>alcohol 90° 650 g + sugar 800 g + water 650 g</b> — roughly two litres of fine-grade simple liqueur. When a recipe shows those three lines, everything else in it is the aroma." },
+        { "t": "h", "x": "Dosing the aroma into the base (pp. 703–704)" },
+        { "t": "list", "items": ["Extracts made by maceration or digestion: <b>1 kg flavors 40–50 litres</b> of liqueur", "Essence blends not pre-diluted in alcohol: <b>100 g per 40–50 litres</b>", "The essence-blend recipes near the book's end each flavor <b>12 litres</b>: \"we have omitted the quantity of simple liqueur, which is to be considered for all practically the same\" (p. 704)"] },
+        { "t": "note", "x": "This is why so many recipes in our database appear to have \"no sugar\": the sugar lives here, in the base the recipe assumed you already had." }
+      ]
+    },
+    {
+      "slug": "sweetening",
+      "group": "foundations",
+      "title": "Sugar & Sweetening",
+      "tagline": "The dosage table, the standard syrup, and the crystallization tricks",
+      "pages": "pp. 177–184, 219–224, 349–358",
+      "blocks": [
+        { "t": "p", "x": "\"Liqueur classification is based precisely on the percentage of sugar contained.\" (p. 177) The book's dosage table (p. 220) — the single most-referenced rule it never repeats:" },
+        { "t": "table", "cols": ["Type", "Sugar per litre"], "rows": [["Crèmes (and rosolios)", "350–550 g"], ["Fine liqueurs", "175–325 g"], ["Ordinary liqueurs", "100–150 g"], ["Eaux-de-vie (spirits)", "20–50 g"]] },
+        { "t": "h", "x": "The standard syrup (p. 349)" },
+        { "t": "p", "x": "<b>1.750 kg sugar + 1 L water</b>, heated to the boil, strained, filtered — about 2 L of syrup (1 kg sugar ≈ 1.14 L syrup). It should read 30° Baumé boiling and 35° cold, and keeps unaltered in barrels. Against crystallization: 100–200 g citric acid per quintal of sugar, added after boiling — no perceptible taste (p. 350)." },
+        { "t": "h", "x": "Rules the recipes assume" },
+        { "t": "list", "items": ["Dissolve sugar <b>hot</b>, never cold — velvet depends on it (p. 13)", "Dilute the alcohol with most of the water <i>before</i> the syrup meets it, or the strong alcohol pulls water out of the syrup and the sugar crystallizes (p. 222)", "When a recipe states sugar and water separately, make <i>that</i> solution — do not substitute ready syrup plus water (p. 356)", "Up to 1/10 of the sugar may be replaced with purified glycerin — improves keeping and dissolves saffron, indigo, cochineal (p. 224)", "In heavily sugared liqueurs, 1 L of glucose per hectolitre keeps the rest from crystallizing (p. 224)"] },
+        { "t": "note", "x": "And one warning that saved many batches: <b>reject bluish sugar</b>. The tint is ultramarine, which clouds the liqueur permanently — and with citric acid develops hydrogen sulfide, the smell of rotten eggs (p. 180)." }
+      ]
+    },
+    {
+      "slug": "maceration",
+      "group": "processes",
+      "title": "Maceration & Digestion",
+      "tagline": "The 60% rule, and why resins are the enemy",
+      "pages": "pp. 205–215",
+      "blocks": [
+        { "t": "p", "x": "Maceration is steeping at room temperature; <b>digestion</b> is the same with gentle heat (35–50°) when speed is wanted. It is the only road to a liqueur's <i>bitter</i> soul: bitter principles are not volatile and never survive a still." },
+        { "t": "h", "x": "The governing rule" },
+        { "t": "p", "x": "\"For alcoholic extractions of plant materials, use alcohol no stronger than 60%.\" (p. 208) Bitter extractives dissolve in weak alcohol (45–60%) but not in 90–95%. And <b>resins</b> — \"the worst enemy of liqueur-making\" (p. 207) — dissolve only above 70%: extracted into a strong tincture, they separate as milky, near-permanent cloud the moment they meet a weak liqueur." },
+        { "t": "h", "x": "Preparing the botanicals (p. 208)" },
+        { "t": "list", "items": ["<b>Cut small</b>: orange peel, lemon peel, tender roots", "<b>Pound in a mortar</b>: cinnamon, hard roots, nutmeg", "<b>Crush</b>: seeds", "<b>Rasp</b>: woods", "Citrus: <b>always remove the white pith</b> — no aroma, guaranteed cloud"] },
+        { "t": "p", "x": "Keep everything fully submerged (exposed parts spoil the batch), macerate no less than a week — usually 15 days to a month — shaking daily. Press the residues; the pressings run cloudy, so filter them through cotton before they rejoin the batch (p. 209)." },
+        { "t": "note", "x": "The trial standard for judging any single botanical: 100 g of drug per litre of 45–60% alcohol, evaluated against a plain base of alcohol, water and sugar (p. 206)." }
+      ]
+    },
+    {
+      "slug": "distillation",
+      "group": "processes",
+      "title": "Distillation",
+      "tagline": "Cloudy heads, the thin thread, and the bain-marie",
+      "pages": "pp. 195–203, 265–269, 277–278",
+      "blocks": [
+        { "t": "p", "x": "The liqueur-maker distills not to make alcohol but to move <i>aroma</i>: essential oils ride the alcohol vapor over, everything harsh or fixed stays behind. The standard run (pp. 202–203): charge the still (only 2/3 full), macerate 24 hours at 50–60°, lute every joint with flour paste, then drive it so the distillate falls in a <b>continuous thin thread</b>. Too much fire lifts fusel oils and scorches the botanicals into an empyreumatic (burnt) flavor." },
+        { "t": "list", "items": ["<b>Discard the cloudy heads</b> — the first portions that run turbid (p. 203)", "Prefer the <b>bain-marie</b> (water-bath) still for herbs, roots and anything that can scorch: its products are \"purer, lighter, never empyreumatic\" (p. 200)", "After any open-flame run, <b>rectify</b>: re-distill in a water bath with water added — \"indispensable if a fine delicate aroma is wanted\" (p. 202)", "Keep the still's aromatic waste-water to replace plain water in the next batch of the same spirit (p. 203)"] },
+        { "t": "h", "x": "The standard alcoholate (pp. 266–267)" },
+        { "t": "p", "x": "Aromatics 1 kg to alcohol of 86° 5 L; add 2.5 L water for the maceration; distill 5 L; add 2.5 L water and rectify back to 5 L. Colorless, and the aroma <i>increases</i> with time." },
+        { "t": "h", "x": "From the French masters (pp. 277–278)" },
+        { "t": "p", "x": "Ten workshop rules close the chapter, among them: 3–4% orange-flower water helps the other aromas marry; mint passes first, hyssop and cardamom last; vanilla will not pass at all unless combined with aloe or Peru balsam; and myrrh \"contains a particular essence that simulates the aging of liqueurs.\"" },
+        { "t": "note", "x": "Safety, 1921-style: if alcohol vapor escapes a joint and catches fire — kill the burner and smother the flames with wet cloths (p. 203)." }
+      ]
+    },
+    {
+      "slug": "auto-distillation",
+      "group": "processes",
+      "title": "Distilling Without a Still",
+      "tagline": "The vapor-contact method — an aromatic spirit from a jar and a string",
+      "pages": "pp. 203–205",
+      "blocks": [
+        { "t": "p", "x": "The book's most charming technique, \"recommended for small quantities\": a way to make a true colorless aromatic spirit with no still, no condenser, no fire." },
+        { "t": "list", "items": ["Put <b>1 litre of 85° alcohol</b> in a wide-necked 2-litre vessel", "Tie <b>125 g of dried botanicals</b> (caraway, cinnamon, anise…) into a doubled gauze bag", "Suspend the bag by a string through the stopper, <b>4–5 cm above the alcohol</b> — never touching it", "Seal tightly (wax the rim if needed) and forget it for <b>2–3 months</b> at room temperature"] },
+        { "t": "p", "x": "The mechanism is a slow, silent engine: alcohol vapor permeates the bag, saturates itself with essential oil, grows heavier, falls back into the liquid — and the cycle repeats for weeks. The result, says Castoldi, is comparable to (sometimes better than) a rectified spirit, without any risk of scorching (pp. 204–205)." },
+        { "t": "note", "x": "A perfect small-batch experiment for a modern kitchen — no equipment, and nothing to burn." }
+      ]
+    },
+    {
+      "slug": "dilution",
+      "group": "processes",
+      "title": "Diluting the Spirit",
+      "tagline": "\"Reduce to 40°\" — the tables behind the instruction",
+      "pages": "pp. 37–97",
+      "blocks": [
+        { "t": "p", "x": "Sixty pages of the manual are lookup tables for one operation the recipes state in three words: <i>reduce to N degrees</i>. The rule (p. 73): to lower a spirit's strength, add the tabulated volume of water per 100 volumes of spirit. The book's own example: 80° down to 40° takes 104 litres of water per 100 of spirit." },
+        { "t": "h", "x": "Water to add, per 100 volumes of spirit (pp. 71–72)" },
+        { "t": "table", "cols": ["Reduce to ↓ / from →", "95°", "90°", "85°", "80°", "70°", "60°"], "rows": [["70°", "39.1", "31.0", "23.1", "15.3", "—", "—"], ["60°", "63.0", "53.6", "44.4", "35.4", "17.6", "—"], ["50°", "95.9", "84.8", "73.9", "63.1", "41.8", "20.8"], ["40°", "144.7", "130.8", "117.3", "104.0", "77.6", "51.5"], ["30°", "234.1", "206.3", "188.6", "171.1", "136.3", "101.8"], ["25°", "293.5", "266.1", "245.1", "224.3", "182.8", "141.7"]] },
+        { "t": "p", "x": "Two physical facts hide inside those numbers. Mixing alcohol and water <b>contracts</b>: 60 L of alcohol plus 40 L of water gives 93.3 L, not 100. And an alcoholometer only tells the truth at its calibration temperature — correct by roughly 0.4° per degree Celsius (p. 43)." },
+        { "t": "note", "x": "Workshop wisdom from the same chapter: never substitute brandy for neutral spirit in a maceration — its alcohol is \"already saturated with essential oils\" and extracts poorly; and read the hydrometer at the flat of the liquid, not the top of the meniscus." }
+      ]
+    },
+    {
+      "slug": "tinctures",
+      "group": "processes",
+      "title": "Tinctures & Alcoholates",
+      "tagline": "The semi-finished goods every recipe reaches for",
+      "pages": "pp. 278–312, 731",
+      "blocks": [
+        { "t": "p", "x": "An <b>alcoholate</b> is aroma captured by distillation — volatile oils only, colorless, clean. A <b>tincture</b> is aroma captured by maceration — oils <i>plus</i> bitter principles, resins and color. The choice is doctrine (p. 173): if the plant's value includes anything non-volatile (every bitter), it must be a tincture; if only the perfume matters, distill." },
+        { "t": "h", "x": "Standard tincture strengths (p. 731)" },
+        { "t": "table", "cols": ["Plant material per 1 kg alcohol", "Alcohol strength", "Botanicals"], "rows": [["500 g", "80°", "bergamot, cacao, catechu, cinchona, bitter orange (curaçao)"], ["500 g", "70°", "blessed thistle, gentian, galangal, lavender, marjoram, rosemary, juniper"], ["1 kg", "75°", "angelica, aloe, bitter almond, calamus, lemon, ginger, cumin, coffee, rose"], ["100 g", "85°", "clove, tonka bean"], ["200 g", "85°", "rhubarb, mace, cinnamon, cardamom"]] },
+        { "t": "p", "x": "Essential-oil tinctures follow one general formula: <b>5–10 g of oil per litre of 96° alcohol</b> (p. 306). And the everyday referent for dozens of \"prepare as for…\" recipes is Cinnamon II: 200 g bark in 1 L of 85°, eight days at 25–30° (p. 288)." },
+        { "t": "note", "x": "Age them. \"The more they are aged, the better the result\" — tinctures, aromatic spirits and extracts alike want weeks of rest, dark and closed, before they meet a liqueur (p. 731)." }
+      ]
+    },
+    {
+      "slug": "essences",
+      "group": "processes",
+      "title": "Essential Oils & Essences",
+      "tagline": "Dilution rules, drop arithmetic, and the hot-vs-cold doctrine",
+      "pages": "pp. 137–173, 144, 316–317, 632–634",
+      "blocks": [
+        { "t": "p", "x": "The cold process — dissolving weighed oils in strong alcohol, then blending with syrup and water — is the fastest road to a liqueur, and the book uses it for entire chapters. Its arithmetic:" },
+        { "t": "list", "items": ["On receipt, dilute oils in very pure alcohol at <b>50% or 10%</b>; in recipes quoting pure essence, multiply by 2 or by 10 accordingly (p. 144)", "<b>26 drops of essential oil = 1 gram</b> — except clove, cinnamon and bitter almond, which are denser: 20 drops (p. 317)", "Pre-dilute compound essences at ~<b>50 g per litre of alcohol</b> and let them marry before final mixing (p. 316)", "Dissolve oils in a <i>portion</i> of the alcohol with vigorous shaking, then build the rest of the liqueur around them (p. 633)", "Never dilute a finished liqueur with water alone — always a pre-mixed water-and-alcohol blend, or it clouds (p. 634)"] },
+        { "t": "h", "x": "When oils are the wrong tool" },
+        { "t": "p", "x": "\"Essential oils impart only the characteristic odor of the plant but not always its true flavor\" (p. 729). Anything bitter needs the non-volatile principles — a tincture. Bitter-orange tincture beats bitter-orange essence for fine curaçaos on flavor, clarity <i>and</i> cost (p. 151). Isolated oils, says the doctrine flatly, \"never in finer liquors\" (p. 172)." },
+        { "t": "p", "x": "Stubborn dissolvers: juniper, orange and lemon oils want a paste of magnesium carbonate poured into 10 volumes of 90° alcohol; fennel and anise prefer a powdered-sugar paste, then filtration (p. 144). And the louche: 1 g of star-anise oil per litre of added 85° alcohol makes a liqueur cloud beautifully with water (p. 469)." },
+        { "t": "note", "x": "Buy, don't make: citron, cognac, bitter almond, mint, sweet orange and rose oils — the fresh material was out of a liquorist's reach even in 1921 (p. 216)." }
+      ]
+    },
+    {
+      "slug": "coloring",
+      "group": "finishing",
+      "title": "Coloring",
+      "tagline": "The dose table, caramel, and the colors the law forbade",
+      "pages": "pp. 184–194, 229–230, 378–396",
+      "blocks": [
+        { "t": "p", "x": "Color comes <b>last</b>, always to a finished, clarified liqueur, \"in small portions until the desired tint\" (pp. 230, 397). Target: the color of the dominant flavor plant. The standard tincture, when a recipe gives none: 5–10 g of pulverized colorant in 1 L of boiling distilled water; once dissolved and filtered, add 8–10% of 85° alcohol and 500 g of sugar syrup. Keep from light (p. 378)." },
+        { "t": "h", "x": "The dose table — tincture per litre of liqueur (pp. 387–388)" },
+        { "t": "table", "cols": ["Shade", "Formula"], "rows": [["Yellow", "turmeric 10 g or saffron 5 g"], ["Dark yellow", "caramel 4 g + turmeric 10 g"], ["Light green", "indigo 2 g + saffron 5 g"], ["Green", "indigo 10 g + chlorophyll 50 g"], ["Azure", "indigo 3 g"], ["Pink", "cochineal 4 g or bilberry 10–12 g"], ["Red", "cochineal 10 g or bilberry 20 g"], ["Violet", "indigo 4 g + bilberry 20 g"], ["Brown", "caramel 15 g (dark: 25 g)"]] },
+        { "t": "p", "x": "Caramel — the workhorse — is just 400 g of white sugar heated dark in an untinned pot, quenched with 300 g of boiling water (p. 185). But it clouds high-proof liqueurs: for those, use catechu brown instead (p. 185). Saffron is so potent that 1 cc of a 10% tincture colors a full litre (p. 189). Greens are always indigo + a yellow, in varying proportion (p. 388)." },
+        { "t": "note", "x": "The 1890s Italian decrees banned Martius yellow, metanil yellow, dinitrocresol, gamboge and picric acid from beverages (pp. 191–192) — food-dye law before the word existed. Everything in the table above is plant- or insect-derived." }
+      ]
+    },
+    {
+      "slug": "clarification",
+      "group": "finishing",
+      "title": "Clarification & Filtering",
+      "tagline": "Why liqueurs cloud, and the fining doses that cure them",
+      "pages": "pp. 217–219, 224–234",
+      "blocks": [
+        { "t": "p", "x": "Three causes of cloud (pp. 217–219): too much essential oil for the alcohol to hold (citron, orange, zedoary and juniper oils are the hardest); old, resinified oils; and careless water — essences must be dissolved in strong alcohol <i>first</i>, water added last, in a thin stream, stirring." },
+        { "t": "h", "x": "Fining doses (pp. 232–234)" },
+        { "t": "table", "cols": ["Agent", "Dose", "Best for"], "rows": [["Egg whites", "3 per hectolitre, beaten with 1 L water; rest 24–48 h", "general (1 only, for macerated liqueurs)"], ["Isinglass", "~10 g dissolved in wine or acidulated water", "very alcoholic liqueurs"], ["Gelatin", "20–30 g per litre of hot water", "colorless, less alcoholic liqueurs"], ["Starch", "50 g + 100 g sugar in 300 g water per 10 L; settle 2 days", "delicate liqueurs"], ["Kieselguhr", "1–2 tablespoons per litre", "mechanical polish"]] },
+        { "t": "p", "x": "Filter cloth is quartermaster's kit: mark each fabric filter and reserve it for one liqueur type forever (p. 15). And clarify <b>before</b> coloring — \"color only clarified liqueurs\" (p. 230)." },
+        { "t": "note", "x": "One agent is named and condemned: lead acetate, \"a criminal poison\" (p. 233)." }
+      ]
+    },
+    {
+      "slug": "aging",
+      "group": "finishing",
+      "title": "Aging & Tranchage",
+      "tagline": "Two days to judge, a year to sell — and the shortcuts",
+      "pages": "pp. 14, 234–236, 409–412",
+      "blocks": [
+        { "t": "p", "x": "\"Liqueurs should be kept at least a year before beginning their sale and consumption\" (p. 14) — and never judged before two or three days of rest. Age blends the aromas, softens the alcohol, and builds the esters that are the bouquet." },
+        { "t": "h", "x": "The accelerators" },
+        { "t": "list", "items": ["<b>Tranchage</b>: heat the liqueur to 80° in a closed vessel (nothing volatile escapes) — \"almost an artificial aging\" (p. 14)", "Water-bath heating just below distillation temperature, then cooling — always before coloring (p. 234)", "Villon's oxygen process: dissolve oxygen at 2 atm, heat to 5–6 atm, stand 24 h, repeat for 2–3 days (p. 235)", "Martinotti's method for spirits: 1–1.5% toasted oak shavings for a month, then two-thirds-filled bottles, loosely stoppered, tilted in light and warmth (p. 411)", "And the perfumer's cheat: myrrh \"simulates the aging of liqueurs\" (p. 278)"] },
+        { "t": "p", "x": "For true spirits the book is stricter: cognac wants a minimum of four years in low-tannin oak, better five to seven (pp. 409–410). Kirsch spends its first year in glass covered only with porous cloth, letting the acrid volatiles breathe away (p. 452)." },
+        { "t": "note", "x": "Storage rules that double as aging rules: large containers beat small (\"liqueurs acquire fineness if the entire mass is together\", p. 398), cellars are too cold, and light alters both color and flavor (p. 18)." }
+      ]
+    },
+    {
+      "slug": "alcohol",
+      "group": "cellar",
+      "title": "The Spirit",
+      "tagline": "Heads, heart, tails — and the 60% charcoal rule",
+      "pages": "pp. 19–36",
+      "blocks": [
+        { "t": "p", "x": "Only the <b>heart</b> of a distillation run — the fraction passing at 78° — belongs in a liqueur. The heads carry aldehydes and ethers; the tails carry butyl and amyl alcohols, \"quite toxic\" (p. 27). For liqueur work the book wants 95–96° Gay-Lussac rectified spirit, fully free of fusel oil (p. 34); merely rectified 94–95% \"suffices only for mediocre liqueurs.\"" },
+        { "t": "h", "x": "The commercial grades (p. 25)" },
+        { "t": "p", "x": "From absolute alcohol (lab-only) down through fine rectified spirit at 95–97°, first-quality at 94–96%, second at 92–94°, to diluted spirit at 68–69°. Trade slang: <i>triple</i> spirit = 96–97%, <i>double</i> = 88–90%. The old \"Proof of Holland\" shake test reads the pearl of foam on the surface." },
+        { "t": "h", "x": "Purification (pp. 34–36)" },
+        { "t": "p", "x": "Fresh wood charcoal absorbs fusel oil; bone char decolorizes. The critical detail: <b>reduce the alcohol to 60% before charcoal purification</b> — high-proof spirit refuses to give up its fusel oil (p. 36). The first portions through the vat taste foul and go back in until they run clean." },
+        { "t": "note", "x": "Quality test you can run in a glass: 50 cc of spirit with 2 cc of 0.2% permanganate — pure alcohol holds the violet color for 45 minutes; the more fusel, the faster it browns (p. 33)." }
+      ]
+    },
+    {
+      "slug": "water",
+      "group": "cellar",
+      "title": "Water",
+      "tagline": "The silent third of every bottle",
+      "pages": "pp. 174–177",
+      "blocks": [
+        { "t": "p", "x": "Water dilutes the spirit and dissolves the sugar — a third to a half of everything in the bottle. For fine liqueurs it must be chemically pure: distilled (discarding the first and last portions of the run) or carefully collected rainwater (p. 174)." },
+        { "t": "p", "x": "The enemy is lime. Calcareous water doesn't just taste flat: its salts \"hinder the formation of the ethers that determine the bouquet\" and precipitate the moment they meet alcohol — such liqueurs <i>never</i> clear (p. 175)." },
+        { "t": "h", "x": "The purification recipe (p. 176), per litre" },
+        { "t": "list", "items": ["Potassium permanganate 0.03 g + powdered alum 0.05 g — stir until the pink persists", "Then sodium thiosulfate 0.03 g + sodium carbonate 0.05 g", "Filter through absorbent cotton: \"very pure water\""] },
+        { "t": "note", "x": "Fair spring water can be rescued more simply: heat with 15–20 g of sodium carbonate per hectolitre, settle, decant (p. 176)." }
+      ]
+    },
+    {
+      "slug": "botanicals",
+      "group": "cellar",
+      "title": "The Botanical Pantry",
+      "tagline": "How the book organizes a hundred plants by tongue and nose",
+      "pages": "pp. 109–136",
+      "blocks": [
+        { "t": "p", "x": "Eighty pages of the manual are a materia medica — every root, seed, peel and flower a liquorist might buy, with its adulterations and its dose. The organizing insight (p. 134): every substance is <b>purely bitter</b>, <b>bitter-aromatic</b>, or <b>purely aromatic</b>, and a recipe balances the three." },
+        { "t": "h", "x": "The flavor groups (pp. 135–136)" },
+        { "t": "list", "items": ["<b>Very bitter</b>: wormwood, white agaric, quassia, aloe", "<b>Intensely bitter</b>: blessed thistle, bogbean, cinchona, colombo, gentian, centaury", "<b>Aromatic-bitter</b>: bitter orange peel, hops, bergamot, rhubarb, ginger, angostura", "<b>Intensely aromatic</b>: angelica, calamus, citrus peels, coriander, caraway, mints, rosemary, juniper, zedoary", "<b>Sweet</b>: anise, star anise, fennel, orange peel, figs, manna", "<b>Pungent</b>: galangal, cardamom, cinnamon, cloves", "<b>Vanilla-coumarin</b>: tonka, woodruff, melilot, vanilla", "<b>Bitter-almond</b>: apricot and peach kernels, cherry-laurel, bitter almonds"] },
+        { "t": "p", "x": "Aroma corrections, from the workshop bench (p. 13): clove corrects cinnamon; green anise corrects star anise; vanilla ground with sugar is more fragrant than vanilla alone; amber develops fully only with a trace of musk." },
+        { "t": "note", "x": "Safety, then and now: wormwood oil is poisonous (its use in liqueurs was already banned in France, p. 153); bitter almonds and stone-fruit kernels carry prussic acid (p. 123); and exhausted cloves float where good ones sink (p. 118)." }
+      ]
+    },
+    {
+      "slug": "fruit",
+      "group": "families",
+      "title": "Ratafias & Fruit Liqueurs",
+      "tagline": "The 25/20 rule and the fruit-juice grades",
+      "pages": "pp. 544–545, 787–788, 816",
+      "blocks": [
+        { "t": "p", "x": "\"Fruit ratafias generally have an alcohol content of 25% or less, and are sweetened with 20% sugar\" (p. 787) — 200 g per litre, prepared <b>cold</b>, by maceration, in season, from faultless ripe fruit." },
+        { "t": "h", "x": "The standing rules" },
+        { "t": "list", "items": ["Preserve juice by pressing the fruit with <b>1/4 of its weight in fine alcohol</b>; with long rest it turns crystal clear unaided (p. 787)", "5 L of preserved juice = 4 L plain juice + 1 L alcohol — adjust recipes accordingly", "Cherry wants a touch of bitter-almond oil; weak raspberry is rescued with cherry juice (p. 787)", "Stone fruits (maraschino): sweeten with clarified syrup at about <b>6 parts sugar per 30 of liqueur</b> (p. 545)"] },
+        { "t": "h", "x": "Fruit-juice liqueurs by grade (p. 816)" },
+        { "t": "table", "cols": ["", "Ordinary", "Semi-fine", "Fine"], "rows": [["Clarified juice", "1 L", "1.35 L", "2 L"], ["Alcohol 85°", "2 L", "2.8 L", "3 L"], ["Refined sugar", "1.25 kg", "2.5 kg", "3.75 kg"], ["Water", "5.6 kg", "4.25 kg", "2.4 kg"]] },
+        { "t": "note", "x": "Kirschwasser lore (pp. 449–452): cherries crushed pits and all, fermented 15–30 days with daily stirring, distilled <i>before</i> fermentation quite finishes; a quintal of cherries gives 8–10 litres at 45–50%." }
+      ]
+    },
+    {
+      "slug": "vermouth",
+      "group": "families",
+      "title": "Vermouth & Aromatized Wines",
+      "tagline": "\"The bridge between wine and liqueurs\" — and the birth of the Cocktail",
+      "pages": "pp. 961–985",
+      "blocks": [
+        { "t": "p", "x": "\"An alcoholized, aromatized, and bitterized wine, rich in sugar, which thus reunites the characteristics of both wine and liqueurs\" (p. 962). Base: an excellent, not-too-aromatic white — Moscato of Monferrato, Asti whites — ideally 2–3 years old. Final strength 14–17°; sugar 10–16%, about half added, always cane (pp. 963–965)." },
+        { "t": "list", "items": ["Botanicals are \"a jealously guarded trade secret of each house\" — Piedmont exported thousands of hectolitres a year (p. 966)", "Best practice is digestion of the botanicals in alcohol, not steeping herbs straight in the wine (\"primitive… now abandoned\")", "Dose the finished extract at <b>1.5–2 L per hectolitre of wine</b> (p. 977)", "Too bitter? The correction blend on p. 968: white wine, grape sugar, bitter-almond-peel tincture, and caramel — clarified twice", "After blending: months of rest, then repeated filtration (p. 967)"] },
+        { "t": "note", "x": "And on p. 982, a footnote to history: American vermouth is so called \"because in the United States it is customary to drink Vermouth mixed with bitters and gin (Whiskey), forming a drink called <b>'Cocktail'</b>.\" — the manual, explaining the cocktail to Italy, 1921." }
+      ]
+    },
+    {
+      "slug": "punch",
+      "group": "families",
+      "title": "Punch & Grog",
+      "tagline": "Rum arithmetic and the 88-litre syrup",
+      "pages": "pp. 940–951",
+      "blocks": [
+        { "t": "p", "x": "The foundations (p. 940): Jamaican rum at 70–74%, Goa or Batavia arrack at 55–58%, first-quality sugar \"free from bluish tint\", citric acid, and fresh citrus tinctures." },
+        { "t": "list", "items": ["Punch syrup is <b>dense</b>: at least 1.150 kg of sugar per litre of syrup", "Add 2% citric acid (per kg of sugar) during cooking to stop crystallization", "The calibration: 100 kg sugar + 45 L water must boil down to <b>exactly 88 litres</b>", "One litre of punch extract makes 3–4 litres of punch (p. 941)", "Punch <i>syrups</i> are richer in sugar than extracts: dilute 1 part with 2 parts boiling water (p. 949)"] },
+        { "t": "p", "x": "The house spirits (pp. 940–941): peel of 30 lemons in 5 L of arrack (8–10 days); peel of 20 oranges, pith removed, in 2 L of rum (15 days); 50 g of vanilla in 2 L of arrack; rose = 1 g of rose oil in 9 g of 90° alcohol." },
+        { "t": "note", "x": "Rum truths from p. 426: high proof is no sign of quality — French-colony rum ran 54%, Demerara 81% — and the only real test is the empty-glass aroma, which in genuine rum should linger for a full day." }
+      ]
+    },
+    {
+      "slug": "examination",
+      "group": "families",
+      "title": "Reverse-Engineering a Liqueur",
+      "tagline": "How Castoldi analyzed a competitor's bottle in 1921",
+      "pages": "pp. 1026–1030",
+      "blocks": [
+        { "t": "p", "x": "The book closes its teaching with industrial espionage, politely titled <i>Examination of Liqueurs</i>: \"Whenever one wishes to determine the composition of a liqueur… with the aim of imitating a commercial product, one proceeds as follows.\"" },
+        { "t": "list", "items": ["<b>Split it</b>: shake 1 L of the liqueur with 1 L of pure rectified alcohol; overnight it settles into two layers — water and sugar below, aromatics-in-alcohol above (p. 1026)", "<b>Concentrate</b>: distill the upper layer gently (never past 70°) down to 50 cc; the essential oils stay behind", "<b>Extract</b>: shake with two volumes of ether — the oils move into the ether", "<b>Smell the sequence</b>: evaporate on a watch glass at 36°; the most volatile oils leave first, so a practiced nose reads the recipe <i>in order of volatility</i> (p. 1027)", "<b>Alcohol</b>: distill two-thirds, dilute back to volume, read a Tralles alcoholometer", "<b>Sugar</b>: evaporate 100 g to dryness at 110° and weigh what remains"] },
+        { "t": "p", "x": "The honest conclusion (p. 1029): oils can be identified but never quantified — \"to formulate a liquor it is necessary to proceed by repeated trials until the desired result is achieved.\" Even reverse-engineering ends in tasting." },
+        { "t": "note", "x": "The same chapter leaves us a market survey of 1921 alcohol strengths — Chartreuse elixir 82–84%, green Chartreuse 56–58%, kümmel 50%, curaçao 39–40%, anisette 27%, vermouth 14–18% (pp. 1029–1030)." }
+      ]
+    }
+  ]
+}
