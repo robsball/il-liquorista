@@ -1,0 +1,249 @@
+[
+ {
+  "id": "fine-cognac-liqueur",
+  "page": 414,
+  "section_en": "Cognac-based Liqueurs",
+  "title_it": "Cognac fino",
+  "title_en": "Fine Cognac Liqueur",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "35% alcohol, 37% sugar"
+  },
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Cognac fino",
+    "name_en": "Fine Cognac",
+    "qty": 0.8,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit of 90°",
+    "qty": 5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 7.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Essenza di rose",
+    "name_en": "Rose essence",
+    "qty": 5,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": "Yield: 20 litres (35% alcohol, 37% sugar).",
+  "confidence": 0.95
+ },
+ {
+  "id": "walnut-rosolio-i",
+  "page": 414,
+  "section_en": "Noci (Walnut Rosolio)",
+  "title_it": "Noci (Rosolio) — I",
+  "title_en": "Walnut Rosolio — I",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci verdi (mallo)",
+    "name_en": "Green walnuts (husk)",
+    "qty": 1000,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon zest",
+    "qty": 26,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit of 90°",
+    "qty": 4500,
+    "unit": "millilitres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4000,
+    "unit": "millilitres"
+   },
+   {
+    "name_it": "Mallo di noci fresche",
+    "name_en": "Fresh walnut husk",
+    "qty": 200,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Radice di liquirizia",
+    "name_en": "Licorice root",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Spirito di nitro dolce",
+    "name_en": "Sweet nitrous spirit",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "Cognac",
+    "qty": 150,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 20,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amaro",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 5,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2500,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Macerate the green walnuts, lemon zest, spirit, and water for two days.",
+   "Distil the macerated mixture.",
+   "To the distilled liquid, mix in the fresh walnut husk, licorice root, sweet nitrous spirit, and Cognac.",
+   "Add the essential oils of cloves, cinnamon, and bitter almond.",
+   "Finally, add a hot solution of sugar and water.",
+   "After 24 hours, filter and colour brown."
+  ],
+  "notes_en": "The final product should be coloured brown.",
+  "ocr_flags": [
+   "Spirito di nitro dolce (possibly 'spirito di vino dolce' or another variant)",
+   "oro (likely '24 ore' = 24 hours, OCR corruption)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "walnut-rosolio-ii",
+  "page": 414,
+  "section_en": "Noci (Walnut Rosolio)",
+  "title_it": "Noci (Rosolio) — II",
+  "title_en": "Walnut Rosolio — II",
+  "method": "distillation",
+  "yield": {
+   "amount": 15,
+   "unit": "litres",
+   "note": "from 20 litres of spirit of 60°, then syrup added"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "duration": {
+   "amount": 1,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci verdi",
+    "name_en": "Green walnuts",
+    "qty": 500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Noci moscata",
+    "name_en": "Nutmeg",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 35,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit of 60°",
+    "qty": 20,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 15,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate the green walnuts, nutmeg, coriander seeds, cinnamon, cloves, vanilla, and green anise for 1 day.",
+   "Distil with 20 litres of spirit of 60°, yielding 15 litres.",
+   "Add 15 litres of sugar syrup to the distillate.",
+   "Colour green."
+  ],
+  "notes_en": "Final colouration: green.",
+  "confidence": 0.92
+ }
+]

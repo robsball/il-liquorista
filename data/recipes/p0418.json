@@ -1,0 +1,351 @@
+[
+ {
+  "id": "rosolio-fiorentino",
+  "page": 418,
+  "section_en": "Rosoli (Rose Liqueurs)",
+  "title_it": "Rosolio Fiorentino",
+  "title_en": "Florentine Rosolio",
+  "method": "distillation",
+  "yield": {
+   "amount": 15,
+   "unit": "liters",
+   "note": "at 72° after distillation"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ireos fiorentina",
+    "name_en": "Florentine iris root",
+    "qty": 35,
+    "unit": "grams",
+    "variants": [
+     125,
+     100
+    ]
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     40,
+     65
+    ],
+    "note": "first proportion omitted"
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 35,
+    "unit": "grams",
+    "variants": [
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 16,
+    "unit": "grams",
+    "variants": [
+     25,
+     16
+    ]
+   },
+   {
+    "name_it": "Macie",
+    "name_en": "Mace",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     null,
+     16
+    ]
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 16,
+    "unit": "grams",
+    "variants": [
+     125,
+     100
+    ]
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     null,
+     100
+    ]
+   },
+   {
+    "name_it": "Pinocchio",
+    "name_en": "Pine nuts",
+    "qty": 10,
+    "unit": "grams",
+    "variants": [
+     5,
+     null
+    ]
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60°",
+    "qty": 20,
+    "unit": "liters",
+    "variants": [
+     20,
+     20
+    ]
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 2,
+    "unit": "liters",
+    "variants": [
+     2,
+     1
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "liters",
+    "variants": [
+     1,
+     2
+    ]
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "liters",
+    "variants": [
+     14,
+     14
+    ]
+   },
+   {
+    "name_it": "Storace liquido",
+    "name_en": "Liquid styrax",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Rosa o rosso",
+    "name_en": "Rose or red coloring",
+    "qty": null,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in 60° spirit for 24 hours.",
+   "Distill to obtain 15 liters of 72° spirit.",
+   "Add rose water, water, and syrup.",
+   "Add liquid styrax and color with rose or red dye."
+  ],
+  "confidence": 0.85,
+  "ocr_flags": [
+   "Ireos fiorentina",
+   "pinocchio",
+   "storace liquido"
+  ]
+ },
+ {
+  "id": "rosolio-di-barbados",
+  "page": 418,
+  "section_en": "Rosoli (Rose Liqueurs)",
+  "title_it": "Rosolio di Barbados",
+  "title_en": "Barbados Rosolio",
+  "method": "distillation",
+  "yield": {
+   "amount": 14.5,
+   "unit": "liters",
+   "note": "distilled spirit before syrup addition"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze fresche di limoni",
+    "name_en": "Fresh lemon peel",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze fresche di arance",
+    "name_en": "Fresh orange peel",
+    "qty": 300,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 75,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 76,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Macie",
+    "name_en": "Mace",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60°",
+    "qty": 24,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 15,
+    "unit": "kilograms",
+    "note": "in syrup preparation"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "liters",
+    "note": "in syrup preparation"
+   }
+  ],
+  "steps_en": [
+   "Macerate fresh citrus peels and spices in 60° spirit.",
+   "Distill to obtain 14–15 liters of flavored spirit.",
+   "Prepare syrup by dissolving 15 kg sugar in 8 liters water.",
+   "Add syrup to distilled spirit."
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "rosolio-di-torino",
+  "page": 418,
+  "section_en": "Rosoli (Rose Liqueurs)",
+  "title_it": "Rosolio di Torino",
+  "title_en": "Turin Rosolio",
+  "method": "distillation",
+  "yield": {
+   "amount": 30,
+   "unit": "liters",
+   "note": "of perfumed spirit after distillation and rectification"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 1500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Semi d'albicocche",
+    "name_en": "Apricot kernels",
+    "qty": 2000,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 600,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 125,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 125,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit at 85°",
+    "qty": 32,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcoolato di rose",
+    "name_en": "Rose alcoholate",
+    "qty": 10,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua di cannella Ceylan",
+    "name_en": "Ceylon cinnamon water",
+    "qty": 0.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua di garofani",
+    "name_en": "Clove water",
+    "qty": 0.25,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Macerate bitter almonds, apricot kernels, and spices in 85° spirit for 24 hours.",
+   "Distill and rectify to obtain 30 liters of perfumed spirit.",
+   "Add rose alcoholate, Ceylon cinnamon water, and clove water."
+  ],
+  "confidence": 0.9
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "id": "bruno",
+  "page": 391,
+  "title_en": "Bruno",
+  "title_it": "Bruno",
+  "method": "distillation",
+  "yield": {
+   "amount": 15,
+   "unit": "liters",
+   "note": "from distillation of 15 liters at 72°"
+  },
+  "alcohol_strength": {
+   "degrees": 72,
+   "raw": "72°"
+  },
+  "ingredients": [
+   {
+    "name_en": "spirit at 72°",
+    "name_it": "alcool di 72°",
+    "qty": 15,
+    "unit": "liters"
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Siroppo",
+    "qty": 12,
+    "unit": "liters"
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 3,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Distill 15 liters of 72° spirit.",
+   "Add 12 liters of syrup and 3 liters of water."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "tricolore",
+  "page": 391,
+  "title_en": "Tricolore",
+  "title_it": "Tricolore",
+  "method": "distillation",
+  "yield": {
+   "amount": 14.5,
+   "unit": "liters",
+   "note": "from distillation of 60° spirit with roots and spices"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "60°"
+  },
+  "ingredients": [
+   {
+    "name_en": "calamus root",
+    "name_it": "Radico di calamo",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_en": "angelica root",
+    "name_it": "Radico di angelica",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_en": "iris root",
+    "name_it": "Radico di ireo",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_en": "spirit at 60°",
+    "name_it": "Alcool di 60°",
+    "qty": 20,
+    "unit": "liters"
+   },
+   {
+    "name_en": "sugar",
+    "name_it": "Zucchero",
+    "qty": 15,
+    "unit": "kilograms"
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 8,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Distill 14–15 liters, to which add a syrup composed of:",
+   "15 kg sugar and 8 liters water."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "cinnamon-rosolio",
+  "page": 391,
+  "section_en": "Cinnamon (Rosolio)",
+  "title_en": "Cinnamon Rosolio",
+  "title_it": "Cannella (Rosolio di)",
+  "method": "infusion",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "85°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Ceylon cinnamon",
+    "name_it": "Cannella Ceylon",
+    "qty": 80,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Chinese cinnamon",
+    "name_it": "Cannella Cina",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_en": "cloves",
+    "name_it": "Garofani",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_en": "spirit at 85°",
+    "name_it": "Alcool di 85°",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_en": "sugar",
+    "name_it": "Zucchero",
+    "qty": 5.5,
+    "unit": "kilograms"
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 2,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Follow the usual procedure."
+  ],
+  "notes_en": "Standard procedure for cinnamon rosolio: infuse spices in spirit, distill, and combine with sugar syrup.",
+  "confidence": 0.94
+ },
+ {
+  "id": "cedro-rosolio",
+  "page": 391,
+  "section_en": "Citron (Rosolio)",
+  "title_en": "Citron Rosolio",
+  "title_it": "Cedro (Rosolio di)",
+  "method": "maceration",
+  "yield": {
+   "amount": 4,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "85°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_en": "fresh citron peel",
+    "name_it": "Scorzo fresche di cedri",
+    "qty": 10,
+    "unit": "citrons",
+    "note": "from 10 citrons"
+   },
+   {
+    "name_en": "spirit at 85°",
+    "name_it": "alcool di 85°",
+    "qty": 5,
+    "unit": "liters"
+   },
+   {
+    "name_en": "water",
+    "name_it": "acqua",
+    "qty": 2,
+    "unit": "liters",
+    "note": "for distillation; then rectified with equal volume water"
+   }
+  ],
+  "steps_en": [
+   "Macerate fresh citron peel from 10 citrons for 24 hours with 5 liters of 85° spirit.",
+   "Distill with 2 liters of water, yielding 5 liters of product.",
+   "Rectify with the same volume of water to obtain 4 liters.",
+   "Proceed as for Cacao."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "citron-and-lemon-rosolio",
+  "page": 391,
+  "section_en": "Citron and Lemon (Rosolio)",
+  "title_en": "Citron and Lemon Rosolio",
+  "title_it": "Cedro e Limone (Rosolio)",
+  "method": "maceration",
+  "yield": {
+   "amount": 24,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 72,
+   "raw": "72°"
+  },
+  "duration": {
+   "amount": 1,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_en": "lemon peel",
+    "name_it": "scorze di limoni",
+    "qty": 40,
+    "unit": "lemons",
+    "note": "from 40 lemons"
+   },
+   {
+    "name_en": "spirit at 60°",
+    "name_it": "alcool a 60°",
+    "qty": 25,
+    "unit": "liters"
+   },
+   {
+    "name_en": "spirit at 72°",
+    "name_it": "alcool di 72°",
+    "qty": 20,
+    "unit": "liters",
+    "note": "for distillation"
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Siroppo",
+    "qty": 16,
+    "unit": "liters"
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 4,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Macerate lemon peel from 40 lemons for 1 day with 25 liters of 60° spirit.",
+   "Distill 20 liters of 72° spirit and mix with:",
+   "16 liters syrup and 4 liters water."
+  ],
+  "confidence": 0.91
+ }
+]

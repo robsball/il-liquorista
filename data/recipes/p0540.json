@@ -1,0 +1,373 @@
+[
+ {
+  "id": "absinthe-double-extract",
+  "page": 540,
+  "section_en": "Absinthe",
+  "title_it": "Assenzio (Estratto doppio)",
+  "title_en": "Absinthe (Double Extract)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     80,
+     60
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     75,
+     50
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     25,
+     12
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     30,
+     20
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     5,
+     2
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Neroli",
+    "name_en": "Neroli",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     2,
+     1
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     15,
+     10
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Colour green with indigo and saffron tincture."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "swiss-absinthe",
+  "page": 540,
+  "section_en": "Absinthe",
+  "title_it": "Assenzio svizzero",
+  "title_en": "Swiss Absinthe",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 100,
+   "raw": "alcool assoluto"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Anice russo",
+    "name_en": "Russian anise",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "After the solution is complete, add 100 g of rum extract.",
+   "Colour green with indigo tincture or sugar colouring."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "vienna-absinthe-formula-1",
+  "page": 540,
+  "section_en": "Absinthe",
+  "title_it": "Assenzio di Vienna I",
+  "title_en": "Vienna Absinthe (Formula I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice russo",
+    "name_en": "Russian anise",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "vienna-absinthe-formula-2",
+  "page": 540,
+  "section_en": "Absinthe",
+  "title_it": "Assenzio di Vienna II",
+  "title_en": "Vienna Absinthe (Formula II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.94
+ }
+]

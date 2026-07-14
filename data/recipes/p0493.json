@@ -1,0 +1,243 @@
+[
+ {
+  "id": "red-bilberry-liqueur-i",
+  "page": 493,
+  "section_en": "Red Bilberry Liqueur",
+  "title_it": "Colore rosso di mirtillo",
+  "title_en": "Red Bilberry Liqueur (Method I)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "at 40% alcohol strength"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "alcool 40%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Colorante di mirtillo",
+    "name_en": "Bilberry colouring",
+    "qty": null,
+    "note": "to colour red"
+   }
+  ],
+  "steps_en": [
+   "Colour the mixture red with bilberry."
+  ],
+  "notes_en": "Yields 10 litres at 40% alcohol strength.",
+  "confidence": 0.95
+ },
+ {
+  "id": "red-bilberry-liqueur-ii",
+  "page": 493,
+  "section_en": "Red Bilberry Liqueur",
+  "title_it": "Colore rosso di mirtillo",
+  "title_en": "Red Bilberry Liqueur (Method II)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "at 40% alcohol strength"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "alcool 40%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Astratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di mandorlo amaro",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of roses",
+    "qty": 24,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 15,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 20,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 20,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4.4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.6,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Colorante di mirtillo",
+    "name_en": "Bilberry colouring",
+    "qty": null,
+    "note": "to colour red"
+   }
+  ],
+  "steps_en": [
+   "Colour the mixture red with bilberry."
+  ],
+  "notes_en": "Yields 10 litres at 40% alcohol strength.",
+  "confidence": 0.93
+ },
+ {
+  "id": "lilac-rosolio",
+  "page": 493,
+  "section_en": "Rosolio",
+  "title_it": "Moscato (Rosolio)",
+  "title_en": "Muscatel (Rosolio)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 33.5,
+   "unit": "litres",
+   "note": "total of alcohol, syrup, and water"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence (p. 248)",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di macia",
+    "name_en": "Essential oil of mace",
+    "qty": 3,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di foglie di macia",
+    "name_en": "Essential oil of mace leaf",
+    "qty": 3,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di arance amaro",
+    "name_en": "Essential oil of bitter orange",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 0.5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di cubebe",
+    "name_en": "Essential oil of cubeb",
+    "qty": 0.5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 0.5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Tintura di iride",
+    "name_en": "Iris tincture",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 12.75,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.25,
+    "unit": "litres"
+   }
+  ],
+  "notes_en": "Light brown colour (bruno-chiaro).",
+  "ocr_flags": [
+   "Kssenza (likely 'Essenza')",
+   "macis (possibly 'macia' or variant spelling)"
+  ],
+  "confidence": 0.88
+ }
+]

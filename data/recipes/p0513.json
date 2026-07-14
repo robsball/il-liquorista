@@ -1,0 +1,326 @@
+[
+ {
+  "id": "maraschino-cattaho",
+  "page": 513,
+  "section_en": "Flavoring Essences (Coloring & Flavoring)",
+  "title_it": "Maraschino di Cattaho",
+  "title_en": "Maraschino di Cattaho",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "note": "quantity unclear in OCR"
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 0.2,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di macia",
+    "name_en": "Essential oil of mace",
+    "qty": 0.4,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "note": "quantity unclear in OCR"
+   },
+   {
+    "name_it": "Tintura d'ireos",
+    "name_en": "Tincture of iris",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Tincture of vanilla",
+    "qty": 4,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Tincture of cinnamon",
+    "qty": 4,
+    "unit": "drops",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Blend all essential oils and tinctures together."
+  ],
+  "notes_en": "For coloring purposes.",
+  "ocr_flags": [
+   "first ingredient quantity and unit unclear",
+   "arancio quantity unclear"
+  ],
+  "confidence": 0.65
+ },
+ {
+  "id": "melissa-romana",
+  "page": 513,
+  "section_en": "Flavoring Essences (Coloring & Flavoring)",
+  "title_it": "Melissa (Romana)",
+  "title_en": "Melissa (Roman Style)",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 0.5,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     0.5
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     0.5
+    ],
+    "note": "omitted in variant I"
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     0.5
+    ],
+    "note": "omitted in variant I"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     0.5
+    ],
+    "note": "omitted in variant I"
+   },
+   {
+    "name_it": "Olio essenz. di macia",
+    "name_en": "Essential oil of mace",
+    "qty": 0.5,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     0.5
+    ]
+   }
+  ],
+  "steps_en": [
+   "Blend all essential oils together according to the chosen variant."
+  ],
+  "notes_en": "Green coloring. Two proportion columns given; column I and variant II.",
+  "ocr_flags": [],
+  "confidence": 0.8
+ },
+ {
+  "id": "mint-white",
+  "page": 513,
+  "section_en": "Flavoring Essences (Coloring & Flavoring)",
+  "title_it": "Menta bianca",
+  "title_en": "White Mint",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 4,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di menta acquatica",
+    "name_en": "Essential oil of watermint",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "note": "quantity unclear in OCR"
+   }
+  ],
+  "steps_en": [
+   "Blend all essential oils together."
+  ],
+  "notes_en": "White coloring.",
+  "ocr_flags": [
+   "cloves quantity unclear (printed as 'J')"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "mint-elixir",
+  "page": 513,
+  "section_en": "Flavoring Essences (Coloring & Flavoring)",
+  "title_it": "Menta (Elixir di)",
+  "title_en": "Mint Elixir",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta",
+    "name_en": "Essential oil of mint",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di lavanda",
+    "name_en": "Essential oil of lavender",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 0.5,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 0.5,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 0.5,
+    "unit": "drops",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Blend all essential oils together."
+  ],
+  "notes_en": "Green coloring.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "peppermint",
+  "page": 513,
+  "section_en": "Flavoring Essences (Coloring & Flavoring)",
+  "title_it": "Menta piperita",
+  "title_en": "Peppermint",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Use essential oil of peppermint alone."
+  ],
+  "notes_en": "Green coloring.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "english-mint",
+  "page": 513,
+  "section_en": "Flavoring Essences (Coloring & Flavoring)",
+  "title_it": "Menta inglese",
+  "title_en": "English Mint",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 0.5,
+    "unit": "drops",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Blend both essential oils together."
+  ],
+  "notes_en": "Colorless or green.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

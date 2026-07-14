@@ -1,0 +1,212 @@
+[
+ {
+  "id": "maraschino-continuation",
+  "page": 411,
+  "section_en": "Maraschino",
+  "title_it": "Maraschino (continuazione)",
+  "title_en": "Maraschino (continued)",
+  "method": "distillation",
+  "yield": {
+   "amount": 6,
+   "unit": "litres",
+   "note": "distillate; total yield after mixing and aging"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "marasche",
+    "name_en": "sour cherries",
+    "qty": null,
+    "unit": "not specified in fragment",
+    "unit_implicit": true,
+    "note": "from previous section"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 6,
+    "unit": "litres"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "spirito rettificato",
+    "name_en": "rectified spirit",
+    "qty": 3,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Distil the mixture and draw off 6 litres of liquor.",
+   "To this, add 3 kg sugar and 3 litres of rectified spirit.",
+   "Leave at rest for 24 hours, shaking the vessel occasionally.",
+   "Filter through paper and bottle.",
+   "Age for one year to develop greater strength and flavour."
+  ],
+  "notes_en": "Natural aging for one year improves the maraschino's strength and flavour.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "peppermint-liqueur-v",
+  "page": 411,
+  "section_en": "Peppermint (Menta Piperita)",
+  "title_it": "Menta Piperita — Ricetta V",
+  "title_en": "Peppermint Liqueur — Recipe V",
+  "method": "distillation",
+  "yield": {
+   "amount": 5,
+   "unit": "litres",
+   "note": "distillate before final mixing"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Prugne dolci schiacciate coi noccioli",
+    "name_en": "sweet plums, crushed with pits",
+    "qty": 96,
+    "unit": "g"
+   },
+   {
+    "name_it": "Lamponi",
+    "name_en": "raspberries",
+    "qty": 48,
+    "unit": "g"
+   },
+   {
+    "name_it": "Foglie di ciliegio",
+    "name_en": "cherry leaves",
+    "qty": 16,
+    "unit": "g"
+   },
+   {
+    "name_it": "Noccioli di pesca",
+    "name_en": "peach kernels",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ireos di Firenze",
+    "name_en": "Florence iris (orris root)",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "alcohol at 85°",
+    "qty": 500,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "water",
+    "qty": 250,
+    "unit": "ml",
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Sciroppo di zucchero",
+    "name_en": "sugar syrup",
+    "qty": 240,
+    "unit": "ml",
+    "note": "added after distillation"
+   }
+  ],
+  "steps_en": [
+   "Macerate all solid ingredients in 500 litres of 85° alcohol for two days.",
+   "Distil and rectify to obtain the spirit required.",
+   "When cold, add 250 ml water and 240 ml sugar syrup.",
+   "Mix thoroughly and filter if necessary."
+  ],
+  "notes_en": "The fruit and herb mixture imparts flavour; rectification ensures purity before final dilution and sweetening.",
+  "ocr_flags": [
+   "Ireos (likely 'Iride' or orris root; Iris florentina)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "peppermint-cream-liqueur",
+  "page": 411,
+  "section_en": "Peppermint (Menta Piperita)",
+  "title_it": "Menta Piperita — Ricetta II (Crema)",
+  "title_en": "Peppermint Cream Liqueur — Recipe II",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Menta piperita (foglie fresche)",
+    "name_en": "peppermint (fresh leaves)",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Menta crispa (foglie fresche)",
+    "name_en": "curly mint (fresh leaves)",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di limoni freschi",
+    "name_en": "fresh lemon zest",
+    "qty": 4,
+    "unit": "number",
+    "note": "from 4 lemons"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "alcohol at 95°",
+    "qty": 3,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "water",
+    "qty": 3,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sciroppo di zucchero",
+    "name_en": "sugar syrup",
+    "qty": 2,
+    "unit": "kg",
+    "note": "dissolved in 2 litres water; added after distillation"
+   }
+  ],
+  "steps_en": [
+   "Macerate the peppermint, curly mint, and fresh lemon zest in 3 litres of 95° alcohol and 3 litres of water.",
+   "Distil 4 litres of the macerate.",
+   "Add sugar syrup (2 kg dissolved in 2 litres water).",
+   "Colour with chlorophyll tincture to a green shade.",
+   "Yield: 10 litres total."
+  ],
+  "notes_en": "A cream liqueur variant with fresh mint and lemon. Green colouring is achieved with chlorophyll tincture.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ }
+]

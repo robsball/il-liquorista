@@ -1,0 +1,186 @@
+[
+ {
+  "id": "rosolio-di-limone",
+  "page": 660,
+  "section_en": "Rosoli (Fruit Liqueurs)",
+  "title_it": "Rosolio di Limone",
+  "title_en": "Lemon Rosolio",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Acquavite di 58°",
+    "name_en": "Brandy (58° ABV)",
+    "qty": 8,
+    "unit": "liters",
+    "variants": [
+     9.2
+    ],
+    "note": "Cognac"
+   },
+   {
+    "name_it": "Rhum di 55°",
+    "name_en": "Rum (55° ABV)",
+    "qty": 1,
+    "unit": "liters",
+    "variants": [
+     2
+    ],
+    "note": "Jamaican rum"
+   },
+   {
+    "name_it": "Alcoolaturo di limoni concentrato",
+    "name_en": "Concentrated lemon alcoholate",
+    "qty": 20,
+    "unit": "cc",
+    "variants": [
+     30
+    ]
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 10,
+    "unit": "grams",
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Thè Hyson",
+    "name_en": "Hyson tea",
+    "qty": 25,
+    "unit": "grams",
+    "variants": [
+     40
+    ]
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 3.75,
+    "unit": "kg",
+    "variants": [
+     0.25
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "liters",
+    "variants": [
+     4
+    ],
+    "note": "As needed"
+   }
+  ],
+  "steps_en": [
+   "Infuse the tea in 800 cc of boiling water; let cool and strain, pressing the tea.",
+   "Pour the brandy, rum, and concentrated lemon alcoholate into a covered vessel.",
+   "Add the tea infusion, clarified sugar, and citric acid previously dissolved in a little water.",
+   "Mix everything thoroughly and color with caramel tincture as needed.",
+   "Clarify with gelatin and filter."
+  ],
+  "notes_en": "Two proportions given (Fine and Ordinario columns). The second method uses fresh lemon zest (1 kg, white part removed, cut into pieces and soaked in boiling water for 24 hours before adding to rum, cognac, fresh lemon juice, and syrup); color should be light brown.",
+  "ocr_flags": [
+   "Hyson (tea variety)",
+   "alcoolaturo (lemon extract/tincture)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "tea-extract",
+  "page": 660,
+  "section_en": "Extracts",
+  "title_it": "Estratto di Tschai",
+  "title_en": "Tea Extract",
+  "method": "infusion",
+  "yield": {
+   "amount": 1,
+   "unit": "liter",
+   "note": "base recipe yield"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 1.5,
+    "unit": "grams",
+    "variants": [
+     1.5
+    ]
+   },
+   {
+    "name_it": "Thè russo",
+    "name_en": "Russian tea",
+    "qty": 75,
+    "unit": "grams",
+    "variants": [
+     75
+    ]
+   },
+   {
+    "name_it": "Rhum Giamaicano fino",
+    "name_en": "Fine Jamaican rum",
+    "qty": 2.5,
+    "unit": "liters",
+    "variants": [
+     3.75
+    ]
+   },
+   {
+    "name_it": "Rhum Giamaicano ordinario",
+    "name_en": "Ordinary Jamaican rum",
+    "qty": 2.5,
+    "unit": "liters",
+    "variants": [
+     1.25
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4.5,
+    "unit": "kg",
+    "variants": [
+     5.4
+    ]
+   },
+   {
+    "name_it": "Glucosio",
+    "name_en": "Glucose",
+    "qty": 1,
+    "unit": "kg",
+    "variants": [
+     1
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": true,
+    "variants": [
+     1
+    ]
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two proportions given (Ordinario and Fine columns). Ingredients to be combined and likely macerated or infused to produce a concentrated tea extract.",
+  "ocr_flags": [
+   "Tschai (Russian/Eastern European spelling of chai/tea)"
+  ],
+  "confidence": 0.82
+ }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "id": "elixir-swedish",
+  "page": 638,
+  "section_en": "Elixirs",
+  "title_it": "Elixir Svedese",
+  "title_en": "Swedish Elixir",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": null,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio (senza stelo)",
+    "name_en": "Wormwood (without stem)",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo arom",
+    "name_en": "Aromatic calamus",
+    "qty": 450,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 230,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (rad.)",
+    "name_en": "Iris root",
+    "qty": 230,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Polipodio quercino",
+    "name_en": "Oak fern",
+    "qty": 380,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimento",
+    "qty": 225,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 225,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Enula camp",
+    "name_en": "Elecampane",
+    "qty": 330,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alloro (bacche)",
+    "name_en": "Bay laurel (berries)",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella (fiori)",
+    "name_en": "Cinnamon (flowers)",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Levistico (radice)",
+    "name_en": "Lovage (root)",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "listed as 0 g in source"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "listed as 0 L in source"
+   }
+  ],
+  "steps_en": [
+   "Macerate or digest for several days."
+  ],
+  "notes_en": "Recipe requires maceration or digestion for an unspecified number of days.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "drops-hamburg",
+  "page": 638,
+  "section_en": "Drops",
+  "title_it": "Gocce d'Amburgo",
+  "title_en": "Drops of Hamburg",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 2500,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     2250
+    ]
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     45
+    ]
+   },
+   {
+    "name_it": "Lauro (bacche)",
+    "name_en": "Bay laurel (berries)",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     830
+    ]
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 450,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     625
+    ]
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 565,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     45
+    ]
+   },
+   {
+    "name_it": "Pepe nero",
+    "name_en": "Black pepper",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Ireos in pezzi",
+    "name_en": "Iris root (pieces)",
+    "qty": 225,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     140
+    ]
+   },
+   {
+    "name_it": "Pepe di Spagna",
+    "name_en": "Spanish pepper",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 175,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     45
+    ]
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol 70°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     20
+    ]
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     25
+    ]
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days."
+  ],
+  "notes_en": "Very strong formula. Two proportion columns provided (I and II).",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "drops-danzig",
+  "page": 638,
+  "section_en": "Drops",
+  "title_it": "Gocce di Danzica",
+  "title_en": "Drops of Danzig",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; only ingredients listed (variant I column shown).",
+  "ocr_flags": [],
+  "confidence": 0.88
+ }
+]

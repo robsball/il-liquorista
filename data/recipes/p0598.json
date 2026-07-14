@@ -1,0 +1,234 @@
+[
+ {
+  "id": "bitter-liqueur-iii",
+  "page": 598,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "III",
+  "title_en": "Bitter Liqueur III",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Corteccia di china soppesta",
+    "name_en": "Chinchona bark, bruised",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella soppesta",
+    "name_en": "Cinnamon, bruised",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Fiori di camomilla",
+    "name_en": "Chamomile flowers",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di menta",
+    "name_en": "Mint tincture",
+    "qty": 75,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di genziana",
+    "name_en": "Gentian tincture",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di arancia amara",
+    "name_en": "Bitter orange tincture",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol, 95°",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Macerate chinchona bark, cinnamon, chamomile flowers, and cloves in 10 litres of 90° alcohol for 15 days.",
+   "Strain all liquid, pressing also what has been absorbed by the residue.",
+   "Mix the strained liquid with mint tincture, gentian tincture, and bitter orange tincture.",
+   "Add 1 litre of 95° alcohol, 1 litre of sugar syrup, and 5 litres of water.",
+   "Tint to a light brown and filter."
+  ],
+  "notes_en": "The initial filtered tincture from a preceding step (mentioned as 'tintura colata dopo digestione') is combined with additional spirits and syrups as detailed above.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "bitter-orange-liqueur-iv",
+  "page": 598,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "IV",
+  "title_en": "Bitter Orange Liqueur IV",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance amaro",
+    "name_en": "Bitter orange peel",
+    "qty": null,
+    "unit": "g",
+    "note": "quantity unclear in OCR"
+   },
+   {
+    "name_it": "Scorze di arance dolci",
+    "name_en": "Sweet orange peel",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "China corteccia",
+    "name_en": "Chinchona bark",
+    "qty": 90,
+    "unit": "g",
+    "note": "OCR reads '000'; interpreted as 90 g"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 180,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "note": "OCR reads 'o'; interpreted as 5 g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90°",
+    "qty": 4,
+    "unit": "L"
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 2.5,
+    "unit": "L"
+   },
+   {
+    "name_it": "Soluzione di zucchero",
+    "name_en": "Sugar solution",
+    "qty": 3,
+    "unit": "kg sugar in 3 L water"
+   }
+  ],
+  "steps_en": [
+   "Macerate bitter and sweet orange peels, chinchona bark, gentian root, Ceylon cinnamon, cardamom, and cloves in 4 litres of 90° alcohol and 2.5 litres of white wine for 8 days.",
+   "Filter and add a solution of 3 kg sugar dissolved in 3 litres of water."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "Bitter orange peel quantity (first ingredient after 'Scorze di arance amaro')",
+   "Chinchona bark quantity ('000' – assumed 90 g)",
+   "Cardamom quantity ('o' – assumed 5 g)"
+  ],
+  "confidence": 0.78
+ },
+ {
+  "id": "rhubarb-elixir",
+  "page": 598,
+  "section_en": "Elixirs",
+  "title_it": "Elixir di Rabarbaro",
+  "title_en": "Rhubarb Elixir",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Rabarbaro cinese a pezzetti",
+    "name_en": "Chinese rhubarb root, chopped",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Liquirizia (radice)",
+    "name_en": "Liquorice root",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Aniseed",
+    "qty": 10,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe is incomplete; only ingredients are listed. Method and further steps are not provided on this page.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ }
+]

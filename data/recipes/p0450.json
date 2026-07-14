@@ -1,0 +1,239 @@
+[
+ {
+  "id": "green-walnuts-ii",
+  "page": 450,
+  "section_en": "Green Walnuts (continuation)",
+  "title_it": "Noci verdi secche II",
+  "title_en": "Green Walnuts II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci verdi secche",
+    "name_en": "Green walnuts, dried",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90° proof",
+    "qty": 1350,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the dried green walnuts, cloves, cinnamon, ginger, and nutmeg in 90° alcohol for 15 days, then filter.",
+   "Prepare a solution of sugar dissolved in water and bitter almond water.",
+   "Mix the filtered liquid with the sugar solution."
+  ],
+  "notes_en": "After digestion for 15 days, filter and mix with a solution of 750 g sugar, 1650 g water, and 20 g bitter almond water.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "kola-nuts-elixir-i",
+  "page": 450,
+  "section_en": "Kola Nuts (Elixir)",
+  "title_it": "Noci di Kola (Elisir) I",
+  "title_en": "Kola Nuts (Elixir) I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool (90%)"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci di Kola torrefatte polverizzate",
+    "name_en": "Roasted and powdered kola nuts",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Glicerina",
+    "name_en": "Glycerin",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool 90%",
+    "name_en": "Alcohol, 90% proof",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino Madeira",
+    "name_en": "Madeira wine",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 160,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate roasted and powdered kola nuts, glycerin, and 90° alcohol for 48 hours.",
+   "Add Madeira wine, vanilla tincture, syrup, and water.",
+   "After 8 days, filter."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "kola-nuts-elixir-ii",
+  "page": 450,
+  "section_en": "Kola Nuts (Elixir)",
+  "title_it": "Noci di Kola (Elisir) II",
+  "title_en": "Kola Nuts (Elixir) II",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "final product at 30% alcohol"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci di Kola torrefatte polverizzate",
+    "name_en": "Roasted and powdered kola nuts",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arac",
+    "name_en": "Arrack",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di mandorle amare",
+    "name_en": "Bitter almond water",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito di nitro dolce",
+    "name_en": "Sweet nitric spirit",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90° proof",
+    "qty": 3.2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.8,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Digest all ingredients together for 8 days.",
+   "Filter.",
+   "Colour with cochineal tincture."
+  ],
+  "notes_en": "Final product: 10 litres at 30% alcohol.",
+  "ocr_flags": [
+   "Arac"
+  ],
+  "confidence": 0.91
+ }
+]

@@ -1,0 +1,296 @@
+[
+ {
+  "id": "liquor-from-previous-extract",
+  "page": 632,
+  "section_en": "Liqueur",
+  "title_it": "Liquore",
+  "title_en": "Liqueur (from previous extract)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 24,
+   "unit": "litres",
+   "note": "total of ingredients combined"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Previous extract",
+    "qty": 600,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol (90° Gay-Lussac)",
+    "qty": 4.25,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 2,
+    "unit": "litres",
+    "note": "may be omitted"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 17.75,
+    "unit": "litres"
+   }
+  ],
+  "notes_en": "Dark red colour. Syrup may be omitted.",
+  "confidence": 0.95
+ },
+ {
+  "id": "aftmannin",
+  "page": 632,
+  "section_en": "Herbal liqueurs",
+  "title_it": "A. Haftmannin",
+  "title_en": "A. Haftmannin",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "duration": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Calamus root",
+    "qty": 350,
+    "unit": "g"
+   },
+   {
+    "name_it": "Senna",
+    "name_en": "Senna",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 165,
+    "unit": "g"
+   },
+   {
+    "name_it": "Camomilla romana",
+    "name_en": "Roman chamomile",
+    "qty": 165,
+    "unit": "g"
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 165,
+    "unit": "g"
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 165,
+    "unit": "g"
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 225,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 330,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol (75° Gay-Lussac)",
+    "qty": 8,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate all herbs in 8 litres of 75° alcohol for 30 days."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "malakoff",
+  "page": 632,
+  "section_en": "Herbal liqueurs",
+  "title_it": "A. Malakoff",
+  "title_en": "A. Malakoff",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "formulation I yields 20 litres extract; formulation II yields 18 litres extract"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scordio",
+    "name_en": "Water germander",
+    "qty": 750,
+    "unit": "g",
+    "variants": [
+     750
+    ]
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 750,
+    "unit": "g",
+    "variants": [
+     750
+    ]
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 200,
+    "unit": "g",
+    "variants": [
+     350
+    ]
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 150,
+    "unit": "g",
+    "variants": [
+     150
+    ]
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 300,
+    "unit": "g",
+    "variants": [
+     375
+    ]
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 700,
+    "unit": "g",
+    "variants": [
+     800
+    ]
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Calamus root",
+    "qty": 35,
+    "unit": "g",
+    "variants": [
+     37
+    ]
+   },
+   {
+    "name_it": "Imperatoria (rad.)",
+    "name_en": "Imperatoria root",
+    "qty": 200,
+    "unit": "g",
+    "variants": [
+     null
+    ],
+    "note": "omitted in formulation II"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 40,
+    "unit": "g",
+    "variants": [
+     38
+    ]
+   },
+   {
+    "name_it": "Cannella Cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 550,
+    "unit": "g",
+    "variants": [
+     375
+    ]
+   },
+   {
+    "name_it": "Pepe Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": 40,
+    "unit": "g",
+    "variants": [
+     38
+    ]
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 20,
+    "unit": "g",
+    "variants": [
+     15
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol (85° Gay-Lussac)",
+    "qty": 11.7,
+    "unit": "litres",
+    "variants": [
+     10.5
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 11.3,
+    "unit": "litres",
+    "variants": [
+     10
+    ]
+   }
+  ],
+  "steps_en": [
+   "Exhaust the botanicals by maceration.",
+   "Press and filter to obtain 20 litres of extract (formulation I) or 18 litres (formulation II).",
+   "To prepare the liqueur at 42% alcohol strength (10 litres): dilute 600–650 g of extract with 4.7 litres of alcohol."
+  ],
+  "notes_en": "Two formulations provided (columns I and II). The extract is subsequently diluted to produce the final liqueur at approximately 42° alcohol.",
+  "confidence": 0.9
+ }
+]

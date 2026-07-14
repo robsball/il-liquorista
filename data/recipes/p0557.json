@@ -1,0 +1,204 @@
+[
+ {
+  "id": "pineapple-liqueur",
+  "page": 557,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Ananas",
+  "title_en": "Pineapple Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "succo di ananas",
+    "name_en": "pineapple juice",
+    "qty": 1.75,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "from 1.5–2 kg fresh pineapple"
+   },
+   {
+    "name_it": "vino bianco",
+    "name_en": "white wine",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false,
+    "note": "for macerating pulp"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "alcohol at 90° GL",
+    "qty": 7.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "sugar syrup",
+    "qty": 10,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "water",
+    "qty": 14,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "vanilla tincture",
+    "qty": 5,
+    "unit": "gram",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Press the juice from 1.5–2 kg fresh pineapple.",
+   "Macerate the residual pulp in 1 litre of white wine for 3 days.",
+   "Strain the liquid and combine with the pressed juice.",
+   "Mix in the alcohol (90° GL), sugar syrup, and water.",
+   "Finally add the vanilla tincture.",
+   "Filter through paper, colour golden yellow with drops of saffron tincture if needed."
+  ],
+  "notes_en": "The vanilla tincture is added last to adjust flavour intensity.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "orange-liqueur",
+  "page": 557,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Arance",
+  "title_en": "Orange Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Succo di arance fresche",
+    "name_en": "fresh orange juice",
+    "qty": 1.15,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "water",
+    "qty": 3.4,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "alcohol at 90° GL",
+    "qty": 4.6,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "sugar",
+    "qty": 4.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di scorze di arance amare",
+    "name_en": "bitter orange peel tincture",
+    "qty": 150,
+    "unit": "gram",
+    "unit_implicit": false,
+    "note": "prepared per Curateci method"
+   }
+  ],
+  "steps_en": [
+   "Peel oranges immediately before pressing, removing all white pith carefully.",
+   "Press to extract juice.",
+   "Mix the juice with all the alcohol.",
+   "Let rest for 8 days; a deposit of vegetable albumen will form.",
+   "Decant the clear liquid, filter if necessary.",
+   "Add to the main solution.",
+   "Finally add the bitter orange peel tincture, checking that the bitter flavour is not too intense.",
+   "Colour yellow if needed."
+  ],
+  "notes_en": "See Chapter on Aromatized Wines (at end of volume) for preparation of Bischoff Wine (Bishop's Wine). The bitter orange peel tincture intensity must be carefully monitored.",
+  "ocr_flags": [
+   "Curateci (possibly a proper name or method name; OCR unclear)"
+  ],
+  "confidence": 0.89
+ },
+ {
+  "id": "bergamot-liqueur",
+  "page": 557,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Bergamotto",
+  "title_en": "Bergamot Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Bergamotte mature",
+    "name_en": "ripe bergamot oranges",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "alcohol at 90° GL",
+    "qty": 4.6,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza artificiale di mele",
+    "name_en": "artificial apple essence",
+    "qty": 20,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "water",
+    "qty": 2.3,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "sugar",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "No explicit method steps provided in source; presumed to be a simple cold mixing recipe.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

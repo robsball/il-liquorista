@@ -1,0 +1,271 @@
+[
+ {
+  "id": "vermouth-ii",
+  "page": 667,
+  "section_en": "Vermouth",
+  "title_it": "Assenzio maggiore",
+  "title_en": "Greater Wormwood Vermouth",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Assenzio maggiore",
+    "name_en": "Greater wormwood",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radico)",
+    "name_en": "Angelica root",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Enula campana",
+    "name_en": "Elecampane",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Centaurea minore",
+    "name_en": "Lesser centaury",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camedrio",
+    "name_en": "Wall germander",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella Cina",
+    "name_en": "Cassia cinnamon",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance fresche a pezzi",
+    "name_en": "Fresh oranges, cut in pieces",
+    "qty": 6,
+    "unit": "whole",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vino bianco dolce",
+    "name_en": "Sweet white wine",
+    "qty": 95,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 5 days.",
+   "Decant and clarify with isinglass (fish glue).",
+   "After a further 8 days of rest, decant again.",
+   "Bottle."
+  ],
+  "notes_en": "If the product is too bitter, correct it with: 50 L bitter vermouth, 42 L common white wine, 4 L grape sugar, 1 L tincture of bitter almond peel, 4 L 85° alcohol, and golden yellow (caramel) for color. Clarify twice.",
+  "confidence": 0.92
+ },
+ {
+  "id": "vermouth-iii",
+  "page": 667,
+  "section_en": "Vermouth",
+  "title_it": "Vermouth (III)",
+  "title_en": "Vermouth III",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "19 L Asti wine + 1 L alcohol"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vino d'Asti",
+    "name_en": "Asti wine",
+    "qty": 19,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "60° alcohol",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "China Calisaya",
+    "name_en": "Calisaya bark",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Sambuco (fiori)",
+    "name_en": "Elderflower",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Quassio (legno)",
+    "name_en": "Quassia wood",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio (foglie)",
+    "name_en": "Wormwood leaves",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tanaceto",
+    "name_en": "Tansy",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 24,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice comune",
+    "name_en": "Anise",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix 19 L Asti wine with 1 L 60° alcohol.",
+   "Add all botanical ingredients.",
+   "Macerate for 1 month."
+  ],
+  "notes_en": null,
+  "confidence": 0.94
+ }
+]

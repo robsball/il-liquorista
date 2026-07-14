@@ -1,0 +1,189 @@
+[
+ {
+  "id": "digestive-bitters-with-ivy",
+  "page": 552,
+  "section_en": "Digestive Bitters & Spirits",
+  "title_it": "Amaro digestivo",
+  "title_en": "Digestive Bitters",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Iva",
+    "name_en": "Ivy (ground-pine)",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cascarilla",
+    "name_en": "Cascarilla bark",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Allspice",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Pepe di Spagna",
+    "name_en": "Spanish pepper",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 400,
+    "unit": "mL",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 100,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 5 days.",
+   "Press or filter the macerate.",
+   "To the filtered tincture, dissolve the following essential oils and ingredients."
+  ],
+  "notes_en": "Second macerate (post-filtration additions listed separately below) includes rosemary, hops, juniper, bitter almond, and lemon essential oils with acetic ether and sweet niter spirit, finished with caramel for color.",
+  "ocr_flags": [
+   "lidia",
+   "Pope"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "digestive-bitters-finishing-blend",
+  "page": 552,
+  "section_en": "Digestive Bitters & Spirits",
+  "title_it": "Liquore finito",
+  "title_en": "Final Digestive Liqueur",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 7.5,
+   "unit": "L",
+   "note": "approximate total from combined ingredients"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Previous extract (post-filtration tincture)",
+    "qty": 150,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 2800,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.2,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine the filtered extract from the first maceration with 90° alcohol.",
+   "Dissolve sugar in the mixture.",
+   "Add water to reach desired volume and dilution.",
+   "The final liqueur should display a yellowish-greenish hue."
+  ],
+  "notes_en": "Color: yellowish-greenish (giallo-verdognolo). The post-filtration additions (essential oils of rosemary, hops, juniper, bitter almond, lemon, plus acetic ether, niter spirit, and caramel) are incorporated into the extract before final blending.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

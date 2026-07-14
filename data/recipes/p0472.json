@@ -1,0 +1,260 @@
+[
+ {
+  "id": "absinthe-rosolio",
+  "page": 472,
+  "section_en": "Absinthe (Rosolio)",
+  "title_it": "Assenzio (Rosolio)",
+  "title_en": "Absinthe (Rosolio)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza d'assenzio",
+    "name_en": "Absinthe essence",
+    "qty": 20,
+    "unit": "grams",
+    "note": "see p. 244"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 400,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Make a syrup with the sugar and half its weight in water; allow to cool.",
+   "Dissolve the essence in the alcohol and mix.",
+   "Bring the liquid to 10 liters total volume.",
+   "Color green and filter."
+  ],
+  "notes_en": "Green color.",
+  "ocr_flags": [
+   "Essenza quantity: '*0' likely '20' grams"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "absinthe-swiss",
+  "page": 472,
+  "section_en": "Absinthe (Swiss)",
+  "title_it": "Assenzio svizzero",
+  "title_en": "Swiss Absinthe",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale d'anice",
+    "name_en": "Anise essential oil",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di finocchio",
+    "name_en": "Fennel essential oil",
+    "qty": 1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di mandorli",
+    "name_en": "Almond essential oil",
+    "qty": 1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale d'assenzio",
+    "name_en": "Absinthe essential oil",
+    "qty": 12,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4.0,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.5,
+    "unit": "liters"
+   }
+  ],
+  "notes_en": "Green color.",
+  "ocr_flags": [
+   "Mandorli: '(A lia n d oli' likely 'di mandorli'"
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "bergamot",
+  "page": 472,
+  "section_en": "Bergamot",
+  "title_it": "Bergamotto",
+  "title_en": "Bergamot",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Bergamot essential oil",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Rose essential oil",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di fiori d'arancio",
+    "name_en": "Orange blossom essential oil",
+    "qty": 1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Orange liqueur (q.v.)"
+  ],
+  "notes_en": "Yellow color.",
+  "confidence": 0.88
+ },
+ {
+  "id": "benedictine-i",
+  "page": 472,
+  "section_en": "Benedictine",
+  "title_it": "Benedettino I",
+  "title_en": "Benedictine (Formula I)",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": 15,
+    "unit": "grams",
+    "note": "see p. 244"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 2.8,
+    "unit": "kilograms"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kilograms"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.2,
+    "unit": "kilograms"
+   }
+  ],
+  "notes_en": "Yellowish-green color.",
+  "confidence": 0.92
+ },
+ {
+  "id": "benedictine-ii",
+  "page": 472,
+  "section_en": "Benedictine",
+  "title_it": "Benedettino II",
+  "title_en": "Benedictine (Formula II)",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale d'angelica",
+    "name_en": "Angelica essential oil",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di cannella Ceylon",
+    "name_en": "Ceylon cinnamon essential oil",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di macis",
+    "name_en": "Mace essential oil",
+    "qty": 3,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di sedano",
+    "name_en": "Celery essential oil",
+    "qty": 3,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di arancio dolce",
+    "name_en": "Sweet orange essential oil",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Rose essential oil",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di mandorlo amaro",
+    "name_en": "Bitter almond essential oil",
+    "qty": 3,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di fiori d'arancio",
+    "name_en": "Orange blossom essential oil",
+    "qty": 1,
+    "unit": "grams"
+   }
+  ],
+  "ocr_flags": [
+   "Rose oil quantity: '•>' likely '2' grams",
+   "Orange blossom quantity final: 'ì' likely '1' gram"
+  ],
+  "confidence": 0.78
+ }
+]

@@ -1,0 +1,315 @@
+[
+ {
+  "id": "angelica-and-juniper-liqueur",
+  "page": 445,
+  "section_en": "",
+  "title_it": "[Angelica and Juniper Liqueur]",
+  "title_en": "Angelica and Juniper Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscato",
+    "name_en": "Nutmeg",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Giuggiole",
+    "name_en": "Jujubes",
+    "qty": 30,
+    "unit": "count",
+    "unit_implicit": false,
+    "note": "N.30 indicates 30 pieces"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol, 70° proof",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol, 95° proof",
+    "qty": 7,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "note": "a few drops added at the end"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in 5 liters of 70° alcohol for 24 hours.",
+   "Digest the mixture, then strain the obtained liquid.",
+   "Mix the strained liquid with 7 L of 95° alcohol, 14 L syrup, 7 L water, and 10 g vanilla tincture.",
+   "Add a few drops of bergamot essential oil.",
+   "Color: red."
+  ],
+  "notes_en": "The final liquid is mixed with a hydroalcoholic and sugar base.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "milk-elixir",
+  "page": 445,
+  "section_en": "",
+  "title_it": "Latte (Elisir di)",
+  "title_en": "Milk Elixir",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Latte",
+    "name_en": "Milk",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Limoni a pezzi",
+    "name_en": "Lemons, cut into pieces",
+    "qty": 3,
+    "unit": "count",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together.",
+   "Macerate for 8 days, shaking the container well twice daily.",
+   "Filter the mixture.",
+   "The result is a clear, pleasant-tasting liqueur of the type known as Old Milk (Latte di vecchia)."
+  ],
+  "notes_en": "This liqueur yields a clear liquid with a very pleasant flavor, similar to the commercial product called 'Latte di vecchia'.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "lavender-rosolio",
+  "page": 445,
+  "section_en": "",
+  "title_it": "Lavanda (Rosolio di)",
+  "title_en": "Lavender Rosolio",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Fiori di lavanda",
+    "name_en": "Lavender flowers",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori d'arancio",
+    "name_en": "Orange blossoms",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori di rose",
+    "name_en": "Rose flowers",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90° proof",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 8,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for the Thyme Elixir (page 443)."
+  ],
+  "notes_en": "Refer to page 443 for the complete method.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "lemon-liqueur",
+  "page": 445,
+  "section_en": "",
+  "title_it": "Limoni",
+  "title_en": "Lemon Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di limoni freschi",
+    "name_en": "Fresh lemon zest",
+    "qty": 12,
+    "unit": "count",
+    "unit_implicit": false,
+    "note": "from 12 fresh lemons"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90° proof",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.25,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Digest the zest of 12 fresh lemons in 1 liter of 90° alcohol.",
+   "Prepare a syrup with 2.250 kg sugar and 4.250 L water.",
+   "Filter and press the alcohol mixture, then combine with the syrup.",
+   "Color the liqueur yellow."
+  ],
+  "notes_en": "The resulting liqueur is colored yellow.",
+  "ocr_flags": [
+   "zucohero (OCR error for zucchero, corrected)"
+  ],
+  "confidence": 0.94
+ }
+]

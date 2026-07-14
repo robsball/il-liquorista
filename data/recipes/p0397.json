@@ -1,0 +1,339 @@
+[
+ {
+  "id": "orange-and-lemon-liqueur",
+  "page": 397,
+  "section_en": "Orange and Lemon Liqueur",
+  "title_it": "Scorze d'arance e di limoni",
+  "title_en": "Orange and Lemon Peel Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "distilled product, approximately 72°"
+  },
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "alcool di 65°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag root",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 24,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 65°",
+    "name_en": "Alcohol at 65°",
+    "qty": 22,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Distil 20 litres at 72°",
+   "Mix the distillate with syrup and water",
+   "Colour red or yellow as desired"
+  ],
+  "notes_en": "The distillation yields approximately 20 litres at 72°, which is then diluted with syrup and water to reach the final alcohol strength of 65°.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "anise-and-spice-liqueur",
+  "page": 397,
+  "section_en": "Anise and Spice Liqueur",
+  "title_it": "Liquore II",
+  "title_en": "Anise and Spice Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 7.2,
+   "unit": "L",
+   "note": "rectified distillate after maceration"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio (semi)",
+    "name_en": "Fennel seed",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel cherry",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Dauco eretico",
+    "name_en": "Erratic carrot",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 7.8,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 0.4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Water",
+    "qty": 4.8,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 10,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in alcohol",
+   "Distil and rectify to obtain 7.2 litres",
+   "Mix the rectified distillate with orange flower water, water, and dissolved sugar"
+  ],
+  "notes_en": "The maceration and distillation process reduces 7.8 L of 85° alcohol to 7.2 L of rectified spirit, which is then combined with orange flower water, water, and sugar.",
+  "ocr_flags": [
+   "Cornino"
+  ],
+  "confidence": 0.89
+ },
+ {
+  "id": "elixir-vegetale",
+  "page": 397,
+  "section_en": "Elixir Végétal",
+  "title_it": "Elixir vegetale",
+  "title_en": "Vegetable Elixir",
+  "method": "distillation",
+  "yield": {
+   "amount": 3,
+   "unit": "L",
+   "note": "distillate, combined with additional spirits and syrup"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo (sommità fiorite)",
+    "name_en": "Hyssop flowering tops",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genepì delle Alpi",
+    "name_en": "Alpine wormwood",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR likely error; possibly a zero or very small quantity"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Clove",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag root",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fava Tonka",
+    "name_en": "Tonka bean",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.2,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90° (finishing)",
+    "name_en": "Alcohol at 90° (finishing)",
+    "qty": 6.3,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "Cognac",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 7.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua (finishing)",
+    "name_en": "Water (finishing)",
+    "qty": 2.2,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanicals in the initial alcohol and water mixture",
+   "Distil and collect 3 litres of distillate",
+   "Add finishing alcohol, Cognac, syrup, and water to the distillate"
+  ],
+  "notes_en": "After maceration and distillation of the botanicals in 2.5 L alcohol and 2.2 L water to yield 3 L distillate, finish the elixir by blending with 6.3 L of 90° alcohol, 1 L Cognac, 7.5 L syrup, and 2.2 L water.",
+  "ocr_flags": [
+   "Cardamomo (qty 0 - likely OCR error)"
+  ],
+  "confidence": 0.85
+ }
+]

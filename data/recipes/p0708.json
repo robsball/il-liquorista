@@ -1,0 +1,270 @@
+[
+ {
+  "id": "coriander-and-fennel-liqueur",
+  "page": 708,
+  "section_en": "Liqueurs",
+  "title_it": "Semi di coriandoli",
+  "title_en": "Coriander and Fennel Liqueur",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di finocchio",
+    "name_en": "Fennel seeds",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Perform the usual distillation and add syrup.",
+   "A few drops of lemon essence may be added after syrup addition."
+  ],
+  "notes_en": "Lemon essence is optional.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "elixir-stomachico-ayrton",
+  "page": 708,
+  "section_en": "Stomachic Elixirs",
+  "title_it": "Elixir stomachico di Ayrton",
+  "title_en": "Ayrton's Stomachic Elixir",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "distilled product at 72°"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "Alcool a 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Basilico",
+    "name_en": "Basil",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iride fiorentina (radice)",
+    "name_en": "Iris root",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool a 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 25,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 24 hours.",
+   "Distil to obtain 20 liters at 72°.",
+   "Add 4 liters of water and 10 liters of syrup.",
+   "Add caramel color to taste."
+  ],
+  "notes_en": "Page reference: 389",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "elixir-stomachico-montefeltro",
+  "page": 708,
+  "section_en": "Stomachic Elixirs",
+  "title_it": "Elixir stomachico di Montefeltro",
+  "title_en": "Montefeltro's Stomachic Elixir",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel",
+    "qty": 55,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Page reference: 389. Recipe continues on next page.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ }
+]

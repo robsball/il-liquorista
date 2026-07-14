@@ -1,0 +1,277 @@
+[
+ {
+  "id": "olandese-i",
+  "page": 587,
+  "section_en": "Liqueurs",
+  "title_it": "A. OLANDESE (I)",
+  "title_en": "Dutch Liqueur (Variation I)",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 20,
+   "unit": "days"
+  },
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_it": "Legno Fernambuco",
+    "name_en": "Fernambuco wood",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     40
+    ]
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     24
+    ],
+    "note": "not stated in column I"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     8
+    ],
+    "note": "not stated in column I"
+   },
+   {
+    "name_it": "Scorza di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     30
+    ]
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     30
+    ],
+    "note": "not stated in column I"
+   },
+   {
+    "name_it": "Anico",
+    "name_en": "Anise",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     4
+    ],
+    "note": "not stated in column I"
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus root",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": "column II omits this"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1.2,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     1.2
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.8,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     0.8
+    ]
+   }
+  ],
+  "steps_en": [
+   "Cut the orange peels into small pieces.",
+   "Grind the calamus root and Fernambuco wood.",
+   "Macerate all ingredients in half a litre of alcohol (including aloe) for 10 days.",
+   "Mix the remaining alcohol with water and add to the macerate, leaving to macerate for another 10 days.",
+   "Filter and adjust the colour with caramel."
+  ],
+  "notes_en": "Two proportion columns provided (I and II). The recipe concludes a larger maceration that yielded 2.5 litres tinture, to which 3.2 litres alcohol 90°, 2.5 litres syrup, and 1.8 litres water were added for a final product of 10 litres at 45% alcohol.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "felsina",
+  "page": 587,
+  "section_en": "Liqueurs",
+  "title_it": "A. FELSINA",
+  "title_en": "Felsina Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": null,
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_it": "Scorza di arancia dolce",
+    "name_en": "Sweet orange peel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorza di arancia amara",
+    "name_en": "Bitter orange peel",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Quassie (legno)",
+    "name_en": "Quassia wood",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona bark",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus root",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di tamarindo",
+    "name_en": "Tamarind extract",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe lists ingredients only; method not provided in source.",
+  "ocr_flags": [
+   "Petratto"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "stomatico-i",
+  "page": 587,
+  "section_en": "Liqueurs",
+  "title_it": "A. STOMACHICO (I)",
+  "title_en": "Stomach Liqueur (Variation I)",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "duration": null,
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_it": "China (la qualità)",
+    "name_en": "Cinchona bark (choice quality)",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Bog bean (water clover)",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe lists ingredients only; method and alcohol strength not provided in source. Marked as variation I, suggesting further variations follow on subsequent pages.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

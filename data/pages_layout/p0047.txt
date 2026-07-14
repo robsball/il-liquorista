@@ -1,0 +1,42 @@
+è minoro della percentuale reale. Queste differenze causate
+dalla temperatura sono corrette sopra tavole annesse ai
+nuovi alcoolometri.
+    La graduazione dell’alcoolometro ufficiale Traìles e di
+quello Gay Lussac va da 0° a 100°: ogni divisione da 0° a
+50° corrisponde ad un grado: i gradi successivi sono divisi
+in mezzi gradi. L’asta degli alcoolometri deve essere cilin­
+drica, levigata e senza irregolarità alla sua superficie.
+    Per il confronto di questi alcoolometri, i quali sono col­
+legati da una relazione colla densità del liquido, furono
+calcolate opportune tavole ragguagliate, quale è quella
+esposta alle pagine 38-39.
+    È necessario ripetere che la densità di uno spirito non
+varia soltanto col variare della ricchezza alcoolica, ma varia
+o notevohnento colla temperatura, mentre, corno abbiamo
+accennato, gli alcoolometri sono graduati alla temperatura
+di 15® o di 15,5° C. : poreiò tali semplici strumenti ven­
+gono costruiti con termometro annesso, sicché, immergen­
+doli nel liquido, si constata nel medesimo tempo e la gra­
+dazione o la temperatura. Per la correzione di questa,
+ quando la temperatura osservata nella determinazione è
+divorsa da quella a cui ò graduato l’alcoolometro, e elio
+può indurre a sensibili differenze nella valutazione dell’al­
+cool, si fa uso di tabelle, quali sono quelle pubblicate dal
+ Bollettino ufficiale delle gabelle 1882 per l’impiego dell’al-
+ coolometro ufficialo, sulla base della temperatura di gradi
+ contosimali -f-15,50, e che qui riportiamo a pag. 40-44.
+    Anche in mancanza delle tabelle però il valore effettivo
+ può essere corretto, adottando la formula Francoeur
+                        x = c + 0.4 X t
+ in cui x è la percentuale reale a 15° C., c la percentuale
+ lotta suH’areometro alla temperatura osservata t ; -J- 0.4
+ viene aggiunto por tale t se inferiore a 15° C. ; — 0.4 viene
+ sottratto a tale t se superiore a 15° C. : la correzione otte­
+ nuta mediante tale forinola però è solo approssimativa, e
+ perciò ò preferibile l’impiego delle tabelle speciali.
+    Ciò promesso, ecco come si procede: si introduce la mi­
+ scela di alcool o acqua o lo spirito in un cilindro di vetro
+  a piede, di profondità e diametro sufficienti perchè l'al-
+  coolometro possa immergersi interamente senza toccare il
+  fondo, e muoversi liberamente: vi si immerge l’alcoolome-
+

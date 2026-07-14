@@ -1,0 +1,297 @@
+[
+ {
+  "id": "vespertro-french",
+  "page": 499,
+  "section_en": "Liqueurs",
+  "title_it": "Vespetrò (francese)",
+  "title_en": "Vespetrò (French)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 83,
+   "raw": "alcool di 83°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     4
+    ],
+    "note": "4 grams in second proportion"
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     1
+    ],
+    "note": "1 gram in second proportion"
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ],
+    "note": "8 grams in second proportion"
+   },
+   {
+    "name_it": "Olio essenz. di carvi",
+    "name_en": "Essential oil of caraway",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     3
+    ],
+    "note": "3 grams in second proportion"
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ],
+    "note": "2 grams in second proportion"
+   },
+   {
+    "name_it": "Alcool di 83°",
+    "name_en": "Alcohol at 83°",
+    "qty": 650,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     4
+    ],
+    "note": "4 liters in second proportion"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     5.6
+    ],
+    "note": "5.6 kilograms in second proportion"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     2.61
+    ],
+    "note": "2.61 liters in second proportion; OCR unclear on exact final digit"
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils with alcohol at 83°.",
+   "Dissolve sugar in water.",
+   "Add caramel coloring to desired shade.",
+   "Combine all ingredients and blend thoroughly."
+  ],
+  "notes_en": "Yellow caramel coloring added to achieve final color.",
+  "ocr_flags": [
+   "Acqua quantity end (2.61X1 vs 2.610)"
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "vittoria",
+  "page": 499,
+  "section_en": "Liqueurs",
+  "title_it": "Vittoria",
+  "title_en": "Vittoria",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence (see p. 251)",
+    "qty": 16,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 12.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.5,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Prepare special essence according to page 251.",
+   "Mix with alcohol at 95°.",
+   "Add syrup and water.",
+   "Blend thoroughly and strain if necessary."
+  ],
+  "notes_en": "Red liqueur. Yields a clear red color.",
+  "ocr_flags": [
+   "Alcool di 0 5 ° likely 95°"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "zenzero",
+  "page": 499,
+  "section_en": "Liqueurs",
+  "title_it": "Zenzero",
+  "title_en": "Ginger",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 2.6,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di arace",
+    "name_en": "Extract of orange",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 12.25,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve ginger essential oil in alcohol at 95°.",
+   "Add orange extract.",
+   "Mix in syrup and water.",
+   "Blend until homogeneous."
+  ],
+  "notes_en": "Red liqueur. Yields approximately 41 liters at 50% ABV.",
+  "ocr_flags": [
+   "Estratto di araced likely arace (orange); Alcool di 0 5 likely 95°"
+  ],
+  "confidence": 0.8
+ },
+ {
+  "id": "zenzero-nombo",
+  "page": 499,
+  "section_en": "Liqueurs",
+  "title_it": "Zenzero nomo",
+  "title_en": "Ginger (Brown)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "at 50% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 11,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3.6,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix ginger essential oil with alcohol at 90°.",
+   "Dissolve sugar in water.",
+   "Combine alcohol mixture with sugar solution.",
+   "Blend thoroughly to obtain uniform brown color."
+  ],
+  "notes_en": "Brown liqueur. Final product: 20 liters at 50% ABV.",
+  "ocr_flags": [
+   "Zenzero nomo: 'nomo' OCR unclear; 'nombo' is possible; Alcool di 0 0 ° likely 90°"
+  ],
+  "confidence": 0.75
+ }
+]

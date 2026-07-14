@@ -1,0 +1,269 @@
+[
+ {
+  "id": "cinnamon-i",
+  "page": 233,
+  "section_en": "Cinnamon",
+  "title_it": "Cannella. I.",
+  "title_en": "Cinnamon I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 115,
+   "raw": "alcool di 115°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella di Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 1,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 115°",
+    "name_en": "Alcohol 115°",
+    "qty": 3.25,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "8 days maceration",
+  "confidence": 0.95
+ },
+ {
+  "id": "cinnamon-ii",
+  "page": 233,
+  "section_en": "Cinnamon",
+  "title_it": "Cannella. II.",
+  "title_en": "Cinnamon II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": 25,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days in alcohol at a temperature of 25–30°C.",
+   "Pass through fine cloth, pressing.",
+   "Filter."
+  ],
+  "notes_en": "Temperature range 25–30°C",
+  "confidence": 0.96
+ },
+ {
+  "id": "cinnamon-iii",
+  "page": 233,
+  "section_en": "Cinnamon",
+  "title_it": "Cannella. III.",
+  "title_en": "Cinnamon III",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella Cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 1.6,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 400,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "First extract the cinnamon with 1 kg of alcohol.",
+   "Then extract with a mixture of 600 g alcohol and 400 g water.",
+   "Combine the liquids obtained and filter."
+  ],
+  "notes_en": "Two-stage extraction",
+  "ocr_flags": [
+   "gr. 000 (likely '600' misread as '000')"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "cardamom-i",
+  "page": 233,
+  "section_en": "Cardamom",
+  "title_it": "Cardamomo. I.",
+  "title_en": "Cardamom I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": null,
+    "note": "As per Cinnamon II recipe, substituting cardamom for cinnamon"
+   }
+  ],
+  "steps_en": [
+   "Follow the procedure for Cinnamon II, substituting cardamom."
+  ],
+  "notes_en": "Reference recipe; see Cinnamon II",
+  "confidence": 0.97
+ },
+ {
+  "id": "cardamom-ii",
+  "page": 233,
+  "section_en": "Cardamom",
+  "title_it": "Cardamomo. II.",
+  "title_en": "Cardamom II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cardamomo del Calabar",
+    "name_en": "Calabar cardamom",
+    "qty": 0.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "8 days maceration",
+  "confidence": 0.96
+ },
+ {
+  "id": "carduus-benedictus",
+  "page": 233,
+  "section_en": "Carduus Benedictus",
+  "title_it": "Cardosanto",
+  "title_en": "Holy Thistle (Carduus Benedictus)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 12,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Foglie di cardo santo",
+    "name_en": "Holy thistle leaves",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol 70°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "12 days maceration",
+  "confidence": 0.97
+ },
+ {
+  "id": "carob",
+  "page": 233,
+  "section_en": "Carob",
+  "title_it": "Carrube",
+  "title_en": "Carob",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Carrube",
+    "name_en": "Carob pods",
+    "qty": 1,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "8 days maceration",
+  "confidence": 0.96
+ }
+]

@@ -1,0 +1,265 @@
+[
+ {
+  "id": "acqua-di-paradiso",
+  "page": 379,
+  "title_it": "Acqua di Paradiso",
+  "title_en": "Paradise Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 17,
+   "unit": "liters",
+   "note": "after distillation"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Angolica (radice)",
+    "name_en": "Angelica root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze fresche di limoni",
+    "name_en": "Fresh lemon peel",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze fresche di arancia",
+    "name_en": "Fresh orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 45,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60°",
+    "qty": 25,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Acqua d'oro (Golden Water).",
+   "To the clear liquid, add one leaf of beaten silver leaf, finely minced."
+  ],
+  "notes_en": "The recipe mentions adding 17 liters of syrup or 3 of water, and coloring pale yellow.",
+  "confidence": 0.92
+ },
+ {
+  "id": "acqua-della-principessa",
+  "page": 379,
+  "title_it": "Acqua della Principessa",
+  "title_en": "Princess Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 17,
+   "unit": "liters",
+   "note": "distilled at 65°"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fichi",
+    "name_en": "Figs",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni fresche",
+    "name_en": "Fresh lemon peel",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 24 hours in 22 liters of spirit at 60°.",
+   "Distill 17 liters at 65°.",
+   "Add 25 g of amber tincture or 16 liters of syrup.",
+   "Rose variant: proceed as for Acqua della Principessa."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "acqua-della-regina",
+  "page": 379,
+  "title_it": "Acqua della Regina",
+  "title_en": "Queen's Water",
+  "method": "distillation",
+  "ingredients": [
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 450,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Acqua della Principessa."
+  ],
+  "notes_en": "This is a reference to the method of Acqua della Principessa (macerate 24 hours in 22 liters of spirit at 60°, distill 17 liters at 65°, add amber tincture or syrup).",
+  "confidence": 0.91
+ }
+]

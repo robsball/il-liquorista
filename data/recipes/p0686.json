@@ -1,0 +1,288 @@
+[
+ {
+  "id": "asperula-essence-v",
+  "page": 686,
+  "section_en": "Manufacturing essences—Receipt collection",
+  "title_it": "Asperula (Ricetta V)",
+  "title_en": "Asperula (Recipe V)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool di 45°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Asperula fresca",
+    "name_en": "Fresh woodruff",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fava toneà",
+    "name_en": "Tonka bean",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 45°",
+    "name_en": "Alcohol at 45°",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 5–6 days."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Fava toneà—possibly variant spelling of tonka bean; OCR uncertain"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "asperula-extraction-vi",
+  "page": 686,
+  "section_en": "Manufacturing essences—Receipt collection",
+  "title_it": "Asperula (Ricetta VI)",
+  "title_en": "Asperula (Recipe VI)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Asperula recente",
+    "name_en": "Fresh woodruff",
+    "qty": null,
+    "unit": "recipients",
+    "unit_implicit": true,
+    "note": "Five recipients of roughly equal capacity, filled with fresh woodruff"
+   },
+   {
+    "name_it": "Spirito e glicerina in parti eguali",
+    "name_en": "Spirit and glycerin in equal parts",
+    "qty": null,
+    "unit": null,
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": null,
+    "unit": null,
+    "unit_implicit": true,
+    "note": "for tinting"
+   }
+  ],
+  "steps_en": [
+   "Fill five recipients of approximately equal capacity with fresh woodruff.",
+   "Mix spirit and glycerin in equal parts and pour over the woodruff to cover.",
+   "After 8 minutes, transfer the liquid to the second recipient and continue this process until all contents of the five recipients have been extracted with the same liquid.",
+   "Finally, squeeze with the hands, tint with caramel, and filter."
+  ],
+  "notes_en": "This is a successive extraction method using five recipients.",
+  "ocr_flags": [
+   "«dopo » minuti»—OCR rendered as '»' (chevron); likely '8 minuti' based on typical process timing"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "tonka-bean-imitation-vii",
+  "page": 686,
+  "section_en": "Manufacturing essences—Receipt collection",
+  "title_it": "Fava toneà—Imitazione (Ricetta VII)",
+  "title_en": "Tonka Bean—Imitation (Recipe VII)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Fave toneà",
+    "name_en": "Tonka beans",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Thè nero",
+    "name_en": "Black tea",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino comune",
+    "name_en": "Common wine",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 5–6 days."
+  ],
+  "notes_en": "Instead of wine, alcohol at 45° may be used.",
+  "ocr_flags": [
+   "«5 a 0 giorni»—OCR renders as '5 a 0'; likely '5–6 giorni' (5–6 days)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "wine-bischoff-bishop",
+  "page": 686,
+  "section_en": "Aromatized wines",
+  "title_it": "Vino Bischoff (Vescovo)",
+  "title_en": "Wine Bischoff (Bishop's Wine)",
+  "method": "infusion",
+  "yield": {
+   "amount": 4,
+   "unit": "L",
+   "note": "approximately; base wine 1 L plus 3–4 L additional wine"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vino bianco vecchio",
+    "name_en": "Old white wine",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia pestata in mortaio",
+    "name_en": "Vanilla pod, pounded in mortar",
+    "qty": 1,
+    "unit": "siliqua (pod)",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorza di limone",
+    "name_en": "Lemon zest",
+    "qty": 2,
+    "unit": "lemons",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": null,
+    "unit": null,
+    "unit_implicit": true,
+    "note": "a few fragments"
+   },
+   {
+    "name_it": "Limoni tagliati a fette",
+    "name_en": "Lemons, sliced",
+    "qty": 4,
+    "unit": "lemons",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorza di arance amare",
+    "name_en": "Bitter orange zest",
+    "qty": 2,
+    "unit": "oranges",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino bianco vecchio (aggiunto)",
+    "name_en": "Old white wine (additional)",
+    "qty": 3,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "3–4 L added after straining"
+   }
+  ],
+  "steps_en": [
+   "In 1 liter of old white wine, digest the following: one vanilla pod pounded in a mortar, the zest of two lemons, 10 g of cinnamon, a few fragments of nutmeg, 4 lemons sliced, and the zest of two bitter oranges.",
+   "Keep the vessel well covered.",
+   "After 24 hours, strain through a sieve.",
+   "Add the obtained liquid to a further 3–4 liters of the same white wine."
+  ],
+  "notes_en": "This is an aromatized wine made with spices and citrus, not boiled. The term 'Bischoff' or 'Vescovo' (bishop) refers to the traditional episcopal spiced wine.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "rosolio-vescovo-l",
+  "page": 686,
+  "section_en": "Rosoli (Sweet spiced cordials)",
+  "title_it": "Rosolio Vescovo (Ricetta L)",
+  "title_en": "Bishop's Rosolio (Recipe L)",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "L",
+   "note": "base alcohol; final yield depends on method"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange zest",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol at 70°",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete on this page; method and further steps not shown.",
+  "ocr_flags": [
+   "«Alcool di 70l>»—OCR corrupted; should be 'alcool di 70°'"
+  ],
+  "confidence": 0.85
+ }
+]

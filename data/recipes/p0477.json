@@ -1,0 +1,285 @@
+[
+ {
+  "id": "curacao-di-marsiglia",
+  "page": 477,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao di Marsiglia",
+  "title_en": "Curaçao of Marseille",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arancia dolce",
+    "name_en": "Essential oil of sweet orange",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils with alcohol at 90°.",
+   "Add sugar and water.",
+   "The product can be colored with camppeche tincture or special coloring (see p. 288), but is preferably left colorless."
+  ],
+  "notes_en": "In commerce, Curaçao is colored with camppeche tincture or special coloring (see p. 288). However, it is preferable to leave it colorless.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "curacao-bianco",
+  "page": 477,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao bianco",
+  "title_en": "White Curaçao",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "L"
+  },
+  "alcohol_strength": {
+   "degrees": 38,
+   "raw": "alcool 38%"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di arancia dolce",
+    "name_en": "Essential oil of sweet orange",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di scorze d'arance dolci",
+    "name_en": "Essential oil of sweet orange peel",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cedro",
+    "name_en": "Essential oil of citron",
+    "qty": 45,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di mace",
+    "name_en": "Essential oil of mace",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arack",
+    "name_en": "Arak",
+    "qty": 0.7,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 8.4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di lamponi",
+    "name_en": "Raspberry water",
+    "qty": 0.2,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange blossom water",
+    "qty": 0.2,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils with alcohol at 90°.",
+   "Add arak and syrup.",
+   "Add raspberry water and orange blossom water.",
+   "Top up with water.",
+   "Yield: 20 liters (alcohol content 38%, sugar content 42%)."
+  ],
+  "notes_en": "Final product: 20 liters at 38% alcohol and 42% sugar content.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "elixir-stomachico",
+  "page": 477,
+  "section_en": "Liqueurs",
+  "title_it": "Elixir stomachico",
+  "title_en": "Stomach Elixir",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 38,
+   "raw": "alcool 38%"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 1.2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of clove",
+    "qty": 0.6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arance dolci",
+    "name_en": "Essential oil of sweet orange",
+    "qty": 0.6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 1.2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di calamo aromatico",
+    "name_en": "Essential oil of sweet flag",
+    "qty": 1.2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di menta peperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 0.4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 0.4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 0.2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 8.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 7.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils with alcohol at 85°.",
+   "Add syrup and water.",
+   "Mix thoroughly to combine all ingredients."
+  ],
+  "notes_en": "Light yellow color. Alcohol content 38%.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ }
+]

@@ -1,0 +1,145 @@
+[
+ {
+  "id": "orange-blossom-water",
+  "page": 216,
+  "section_en": "Distilled Floral Waters",
+  "title_it": "Fiori di Arancio",
+  "title_en": "Orange Blossom Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 8,
+   "unit": "liters",
+   "note": "primary collection; additional 2-3 liters may be collected and reserved for subsequent distillation"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Fiori di arancio recenti, colti e mondati",
+    "name_en": "Fresh orange blossoms, picked and cleaned",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Common water",
+    "qty": 18,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Cooking salt",
+    "qty": 200,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Heat the salted water in the still's cucurbit nearly to boiling.",
+   "Rapidly introduce the orange blossoms.",
+   "Attach the head to the coil and seal with lute.",
+   "Begin distillation, collecting 8 liters using the Florentine receiver.",
+   "To prepare double or triple strength water, collect one-third or half the stated quantity, or redistill the obtained liquid over a fresh quantity of blossoms proportional to the desired strength."
+  ],
+  "notes_en": "The method allows for adjustment of concentration by varying the proportion of blossoms to water or by redistillation.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "absinth-water",
+  "page": 216,
+  "section_en": "Distilled Floral Waters",
+  "title_it": "Assenzio",
+  "title_en": "Absinthe Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Foglie, sommità fiorite e steli freschi di assenzio",
+    "name_en": "Fresh leaves, flowering tops, and stems of absinthe",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 15,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Cooking salt",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the chopped or broken plant material for 24 hours.",
+   "Distill rapidly, collecting 10 liters.",
+   "The water will initially appear milky (lactescent); upon resting, the essential oil separates."
+  ],
+  "notes_en": "The same method is used to prepare waters of marjoram, rue, oregano, and citronella.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "lavender-water",
+  "page": 216,
+  "section_en": "Distilled Floral Waters",
+  "title_it": "Lavanda",
+  "title_en": "Lavender Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Sommità fiorite recenti di lavanda",
+    "name_en": "Fresh flowering tops of lavender",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 30,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Cooking salt",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the plant material.",
+   "Distill, collecting 10 liters."
+  ],
+  "notes_en": "The same procedure is used to prepare waters of hyssop, melilot, peppermint, curly mint, rosemary, sage, and thyme.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ }
+]

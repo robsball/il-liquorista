@@ -1,0 +1,328 @@
+[
+ {
+  "id": "amaro-inglese-liquor-i",
+  "page": 625,
+  "section_en": "English Bitter Liquor",
+  "title_it": "Liquore: Amaro Inglese",
+  "title_en": "English Bitter Liquor (I)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 50,
+   "unit": "litres",
+   "note": "alcohol 28%"
+  },
+  "alcohol_strength": {
+   "degrees": 28,
+   "raw": "alcool 28%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Preceding extract",
+    "qty": 3,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Essenza di Amaro Inglese",
+    "name_en": "English Bitter Essence",
+    "qty": 7.5,
+    "unit": "grams",
+    "note": "see page 241"
+   },
+   {
+    "name_it": "Essenza di Erbo",
+    "name_en": "Herb Essence",
+    "qty": 3.5,
+    "unit": "grams",
+    "note": "see page 240"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 13.5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kilogrammes"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 32.6,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Mix the preceding extract with the essences.",
+   "Add alcohol and sugar.",
+   "Combine with water.",
+   "Blend thoroughly to yield 50 litres at 28% alcohol."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "amaro-inglese-liquor-ii",
+  "page": 625,
+  "section_en": "English Bitter Liquor",
+  "title_it": "Liquore: Amaro Inglese (II)",
+  "title_en": "English Bitter Liquor (II)",
+  "method": "infusion",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "alcohol 28%"
+  },
+  "alcohol_strength": {
+   "degrees": 28,
+   "raw": "alcool 28%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 40,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 40,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 40,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Grani paradiso",
+    "name_en": "Grains of paradise",
+    "qty": 40,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorzo di arancio",
+    "name_en": "Orange peel",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Arance immature",
+    "name_en": "Unripe oranges",
+    "qty": null,
+    "unit": "grams",
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus root",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Ireos fiorentina",
+    "name_en": "Florentine iris root",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona bark",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "litres",
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [
+   "Combine all herbs and botanicals (centaury, holy thistle, wormwood, grains of paradise, orange peel, unripe oranges, cloves, calamus, florentine iris, gentian, cinchona, and ginger).",
+   "Macerate in 90° alcohol and water.",
+   "Strain the infusion to create the extract for the liqueur."
+  ],
+  "notes_en": "This extract is then used in the liqueur preparation below.",
+  "confidence": 0.92,
+  "ocr_flags": [
+   "Arance immature - quantity line appears blank in source"
+  ]
+ },
+ {
+  "id": "english-bitter-liquor-ii-final",
+  "page": 625,
+  "section_en": "English Bitter Liquor",
+  "title_it": "Liquore (da estratto II)",
+  "title_en": "English Bitter Liquor from Extract II (Final)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "alcohol 28%"
+  },
+  "alcohol_strength": {
+   "degrees": 28,
+   "raw": "alcool 28%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Preceding extract",
+    "qty": 0.6,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 2.7,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 0.5,
+    "unit": "kilogrammes"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6.5,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Combine the prepared extract with 90° alcohol.",
+   "Dissolve sugar in water.",
+   "Mix all ingredients together.",
+   "Blend thoroughly to yield 10 litres at 28% alcohol."
+  ],
+  "confidence": 0.96
+ },
+ {
+  "id": "amaro-inglese-liquor-iii",
+  "page": 625,
+  "section_en": "English Bitter Liquor",
+  "title_it": "Liquore: Amaro Inglese (III)",
+  "title_en": "English Bitter Liquor (III)",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 50,
+   "raw": "alcool di 50°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Grani Paradiso",
+    "name_en": "Grains of paradise",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona bark",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus root",
+    "qty": 110,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Ireos (rad.)",
+    "name_en": "Iris root",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 50°",
+    "name_en": "Alcohol 50°",
+    "qty": 1000,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Combine all herbs and botanicals (wormwood, holy thistle, centaury, grains of paradise, gentian, cinchona, galangal, aromatic calamus, iris root, orange peel, and cloves).",
+   "Macerate in 50° alcohol.",
+   "Proceed as for Angostura Bitter (II) [meaning: strain, filter, and prepare as extract for final liqueur formulation]."
+  ],
+  "notes_en": "Preparation method follows the Angostura Bitter method (II); yield and final alcohol strength depend on the finishing steps.",
+  "confidence": 0.88,
+  "ocr_flags": [
+   "Calamo arom. - abbreviation for 'aromatico'; Ireos (rad.) - abbreviation for 'radice' (root)"
+  ]
+ }
+]

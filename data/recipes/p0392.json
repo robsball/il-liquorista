@@ -1,0 +1,319 @@
+[
+ {
+  "id": "chartreuse-imitation-i",
+  "page": 392,
+  "section_en": "Chartreuse (Imitation)",
+  "title_it": "Chartreuse (Imitazione) I",
+  "title_en": "Chartreuse (Imitation) I",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "final volume after dilution and rectification"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     25,
+     50
+    ]
+   },
+   {
+    "name_it": "Issopo (somm. fiorito)",
+    "name_en": "Hyssop (flowering tops)",
+    "qty": 12.5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     12.5,
+     25
+    ]
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Cannella di Cina",
+    "name_en": "Chinese cinnamon",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     12.5,
+     1.5
+    ]
+   },
+   {
+    "name_it": "Genepi delle Alpi",
+    "name_en": "Alpine wormwood",
+    "qty": 12.5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     12.5,
+     25
+    ]
+   },
+   {
+    "name_it": "Arnica (fiori)",
+    "name_en": "Arnica (flowers)",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     2
+    ]
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica (seeds)",
+    "qty": 12.5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     12.5,
+     12.5
+    ]
+   },
+   {
+    "name_it": "Macie",
+    "name_en": "Mace",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     3,
+     1.5
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     3,
+     null
+    ]
+   },
+   {
+    "name_it": "Menta pip.",
+    "name_en": "Peppermint",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     25
+    ],
+    "note": "yellow and white varieties omitted; green variety includes 25 g"
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica (root)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     3,
+     0
+    ]
+   },
+   {
+    "name_it": "Tanaceto",
+    "name_en": "Tansy",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     12.5
+    ]
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     3,
+     3
+    ]
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     3
+    ]
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     3,
+     null
+    ]
+   },
+   {
+    "name_it": "Fava Tonka",
+    "name_en": "Tonka bean",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     1.5,
+     null
+    ]
+   },
+   {
+    "name_it": "Aloe Socotr.",
+    "name_en": "Socotrine aloe",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     1.5,
+     null
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4.25,
+    "unit": "litres",
+    "variants": [
+     5.25,
+     6.2
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "variants": [
+     3.75,
+     2.5
+    ]
+   }
+  ],
+  "steps_en": [
+   "Macerate the herbs in the alcohol for 24 hours (the herbs must be bruised and pounded).",
+   "Add water (approximately half or two-thirds the volume of the alcohol) and distil to recover almost all the alcohol.",
+   "Add the same volume of water as added the first time and rectify to obtain the maximum possible quantity of spirit.",
+   "Add cold a syrup prepared hot with half or one-third its weight of water.",
+   "Make up the volume to 10 litres.",
+   "Colour yellow with saffron or green with chlorophyll.",
+   "Allow to rest, decant, and filter."
+  ],
+  "notes_en": "The three columns show proportions for yellow, white, and green varieties respectively.",
+  "ocr_flags": [
+   "Gèndpl (likely Genepi)",
+   "Coriandoli (possibly coriander, though may mean coriander seeds specifically)"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "chartreuse-imitation-ii",
+  "page": 392,
+  "section_en": "Chartreuse (Imitation)",
+  "title_it": "Chartreuse (Imitazione) II",
+  "title_en": "Chartreuse (Imitation) II",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Genepi delle Alpi",
+    "name_en": "Alpine wormwood",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Angelica (radice) fresca",
+    "name_en": "Angelica (fresh root)",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice comune",
+    "name_en": "Common anise",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 5,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe II is incomplete on this page; method and final yield are not stated.",
+  "ocr_flags": [
+   "Genepi (likely Genepi delle Alpi)"
+  ],
+  "confidence": 0.88
+ }
+]

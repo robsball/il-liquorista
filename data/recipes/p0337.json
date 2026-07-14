@@ -1,0 +1,357 @@
+[
+ {
+  "id": "rum-extract-i",
+  "page": 337,
+  "section_en": "Rum Extracts (by composition in grams)",
+  "title_it": "Estratto di Rhum I",
+  "title_en": "Rum Extract I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Rum ether",
+    "name_it": "Etere di rhum",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     500,
+     1000,
+     175
+    ]
+   },
+   {
+    "name_en": "Acetic ether",
+    "name_it": "Etere acetico",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     25,
+     25,
+     85
+    ]
+   },
+   {
+    "name_en": "Formic ether",
+    "name_it": "Etere formico",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_en": "Butyric ether",
+    "name_it": "Etere butirrico",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     150,
+     null,
+     15
+    ]
+   },
+   {
+    "name_en": "Asperula extract",
+    "name_it": "Estratto di asperula",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_en": "Vanilla extract",
+    "name_it": "Estratto di vaniglia",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     20,
+     3,
+     50
+    ]
+   },
+   {
+    "name_en": "Violet flower extract",
+    "name_it": "Estratto di viole fiori",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     20,
+     null,
+     null
+    ]
+   },
+   {
+    "name_en": "Catechu tincture",
+    "name_it": "Tintura di Catecii",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     50
+    ]
+   },
+   {
+    "name_en": "Cinnamon tincture",
+    "name_it": "Tintura di cannella",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     20
+    ]
+   },
+   {
+    "name_en": "Cinchona tincture",
+    "name_it": "Tintura di china",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_en": "Benzoin tincture",
+    "name_it": "Tintura di benzoino",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_en": "Orange blossom water",
+    "name_it": "Acqua di fior d'arancio",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_en": "Rum aroma",
+    "name_it": "Aroma di rhum",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     3,
+     5
+    ]
+   },
+   {
+    "name_en": "Genuine Jamaica rum",
+    "name_it": "Rhum Giamaica genuino",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     70
+    ]
+   },
+   {
+    "name_en": "Alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     900,
+     null,
+     750
+    ],
+    "note": "Base alcohol; four proportion columns given"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients according to the proportions given in the four columns."
+  ],
+  "notes_en": "Color with caramel or date tincture. Four different strength variations are provided.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "rum-extract-vi",
+  "page": 337,
+  "section_en": "Rum Extracts",
+  "title_it": "Estratto di Rhum VI",
+  "title_en": "Rum Extract VI",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Rum ether",
+    "name_it": "Etere di rhum",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Asperula extract",
+    "name_it": "Estratto di asperula",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Rum aroma",
+    "name_it": "Aroma di rhum",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Rectified acetic ether",
+    "name_it": "Etere acetico rettificato",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Finest Jamaica rum",
+    "name_it": "Rhum Giamaica finissimo",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "rum-extract-vii",
+  "page": 337,
+  "section_en": "Rum Extracts",
+  "title_it": "Estratto di Rhum VII",
+  "title_en": "Rum Extract VII",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Vanilla bruised",
+    "name_it": "Vaniglia contusa",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Rum essence",
+    "name_it": "Essenza di rhum",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Tormentil root",
+    "name_it": "Radico tormentili",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Cassia flowers",
+    "name_it": "Fiori di cassia",
+    "qty": 2.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Shiny soot",
+    "name_it": "Fuliggine lucida",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Culinary lard",
+    "name_it": "Salo da cucina",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Formic ether",
+    "name_it": "Etere formico",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Sweet niter spirit",
+    "name_it": "Spirito di nitro dolce",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Alcohol 95°",
+    "name_it": "Alcool di 95°",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Caramel tincture",
+    "name_it": "Tintura di caramello",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Radico tormentili (possibly Radix tormentillae, tormentil root)",
+   "Fuliggine lucida (shiny soot/lamp black pigment)"
+  ],
+  "confidence": 0.78
+ }
+]

@@ -1,0 +1,280 @@
+[
+ {
+  "id": "currant-essence",
+  "page": 699,
+  "section_en": "Essences and Spirit Blends",
+  "title_it": "Ribes",
+  "title_en": "Currant",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di ribes",
+    "name_en": "Currant essence",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "Cognac",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vino rosso",
+    "name_en": "Red wine",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "grape-essence",
+  "page": 699,
+  "section_en": "Essences and Spirit Blends",
+  "title_it": "Uva",
+  "title_en": "Grape",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di uva",
+    "name_en": "Grape essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "Cognac",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vino",
+    "name_en": "Wine",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "quillaja-foam-preparation",
+  "page": 699,
+  "section_en": "Carbonation Aids",
+  "title_it": "Preparazione di schiuma con corteccia di Quillaja",
+  "title_en": "Quillaja Bark Foam Preparation (Method I)",
+  "method": "maceration",
+  "yield": {
+   "amount": 800,
+   "unit": "g",
+   "note": "reduced liquid, before adding glycerin"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": null,
+   "unit": "hours",
+   "note": "several hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorza di Quillaja",
+    "name_en": "Quillaja bark",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Glicerina",
+    "name_en": "Glycerin",
+    "qty": 200,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Macerate 500 g of Quillaja bark in 1500 g of water for several hours.",
+   "Heat the mixture for several hours.",
+   "Press and filter.",
+   "Evaporate the liquid until 800 g remains.",
+   "Add 200 g of glycerin."
+  ],
+  "notes_en": "For use in carbonated beverage siphons to increase foam production.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "saponin-foam-preparation",
+  "page": 699,
+  "section_en": "Carbonation Aids",
+  "title_it": "Preparazione di schiuma con saponina",
+  "title_en": "Saponin Foam Preparation (Method II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Saponina",
+    "name_en": "Saponin",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 50,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Dissolve 10 g of saponin in 150 g of water.",
+   "Add 50 g of alcohol at 90°.",
+   "Filter."
+  ],
+  "notes_en": "For use in carbonated beverage siphons to increase foam production.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "instant-peppermint-rosolio",
+  "page": 699,
+  "section_en": "Instant Liqueur Preparation",
+  "title_it": "Rosolio di menta",
+  "title_en": "Instant Peppermint Rosolio",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1,
+   "unit": "litre"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di menta peperita",
+    "name_en": "Peppermint essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenziale di menta crispa",
+    "name_en": "Spearmint essential oil",
+    "qty": 5,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Rose essential oil",
+    "qty": 3,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di assenzio francese",
+    "name_en": "French wormwood essential oil",
+    "qty": 2,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Bitter almond essential oil",
+    "qty": 2,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Spirito di nitrodolo",
+    "name_en": "Nitranilin spirit",
+    "qty": 4,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Tintura di clorofilla",
+    "name_en": "Chlorophyll tincture",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zucchero polverizzato",
+    "name_en": "Powdered sugar",
+    "qty": 400,
+    "unit": "g",
+    "note": "as base for tablets"
+   },
+   {
+    "name_it": "Alcool q.b.",
+    "name_en": "Alcohol",
+    "qty": null,
+    "unit": "g",
+    "note": "as needed to dissolve"
+   },
+   {
+    "name_it": "Alcool di 60° e acqua in parti uguali",
+    "name_en": "Alcohol 60° and water, equal parts",
+    "qty": 1,
+    "unit": "litre",
+    "note": "for final dilution"
+   }
+  ],
+  "steps_en": [
+   "Spray a solution of the essential oils, nitranilin spirit, and chlorophyll tincture (dissolved in alcohol as needed) onto 400 g of powdered sugar.",
+   "Mix thoroughly until homogeneous.",
+   "Form the aromatic sugar mixture into tablets.",
+   "Dissolve 40 g of these tablets in 1 litre of a mixture of equal parts alcohol at 60° and water.",
+   "The result is a decent peppermint rosolio, which may be sweetened further if desired by adding a little sugar."
+  ],
+  "notes_en": "A simple but somewhat primitive method for rapid preparation of certain liqueur types. Tablets can be stored and dissolved on demand.",
+  "ocr_flags": [
+   "nitrodolo (spirito di —) – possibly nitranilin or similar compound"
+  ],
+  "confidence": 0.88
+ }
+]

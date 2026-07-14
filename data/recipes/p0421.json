@@ -1,0 +1,317 @@
+[
+ {
+  "id": "rosolio-ii",
+  "page": 421,
+  "title_it": "Rosolio II",
+  "title_en": "Rosolio II",
+  "section_en": "Liqueurs",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Sedano (semi)",
+    "name_en": "Celery seeds",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 6.5,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.5,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Follow the standard procedure.",
+   "Color should be green."
+  ],
+  "notes_en": "Green color.",
+  "confidence": 0.95
+ },
+ {
+  "id": "crema-iii",
+  "page": 421,
+  "title_it": "Crema III",
+  "title_en": "Crema III",
+  "section_en": "Liqueurs",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "l",
+   "note": "final volume after sweetening and dilution"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di sedano",
+    "name_en": "Celery seeds",
+    "qty": 260,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di dauco eretico",
+    "name_en": "Daucus seeds",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 3,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "for maceration"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "for dilution before distillation"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the crushed seeds in 3 liters of 85° alcohol.",
+   "Dilute with 2 liters of water and distill 3.8 liters.",
+   "Sweeten when cold with 3.5 kg of sugar.",
+   "Make up volume to 10 liters."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "trappistino",
+  "page": 421,
+  "title_it": "Trappistino",
+  "title_en": "Trappistino",
+  "section_en": "Liqueurs",
+  "method": "distillation",
+  "yield": {
+   "amount": 25,
+   "unit": "l",
+   "note": "final volume after rectification and syrup mixing"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Grande assenzio",
+    "name_en": "Grand wormwood",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 10,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 8,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "l",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the herbs in the alcohol for 48 hours.",
+   "Add 10 liters of water and distill.",
+   "Rectify with 5 liters of water.",
+   "Mix with cold syrup and add water to reach 25 liters.",
+   "Color green or yellow as desired."
+  ],
+  "confidence": 0.94
+ },
+ {
+  "id": "triple-sec",
+  "page": 421,
+  "title_it": "Triple-sec",
+  "title_en": "Triple-Sec",
+  "section_en": "Liqueurs",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool (90%)"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90%",
+    "name_en": "Alcohol 90°",
+    "qty": 6.5,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di mandarini freschi",
+    "name_en": "Fresh mandarin peels",
+    "qty": 100,
+    "unit": "fruits",
+    "unit_implicit": false,
+    "note": "mandarin oranges, fresh peels"
+   }
+  ],
+  "steps_en": [
+   "Pour a mixture of 6.5 liters of 90° alcohol and 5 liters of water over the fresh peels of 100 mandarins.",
+   "Let the mass macerate (text cuts off)."
+  ],
+  "notes_en": "Recipe incomplete in source text.",
+  "ocr_flags": [
+   "dauco eretico (possibly Daucus carota subsp. carota or similar wild carrot species)"
+  ],
+  "confidence": 0.85
+ }
+]

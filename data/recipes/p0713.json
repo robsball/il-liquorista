@@ -1,0 +1,255 @@
+[
+ {
+  "id": "tropical-rosolio",
+  "page": 713,
+  "section_en": "Rosoli (Cordials)",
+  "title_it": "Rosolio tropicale",
+  "title_en": "Tropical Rosolio",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool a 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella (Ceylon)",
+    "name_en": "Cinnamon (Ceylon)",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di bergamotto",
+    "name_en": "Bergamot essence",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di limone",
+    "name_en": "Lemon essence",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di fiori d'arancio",
+    "name_en": "Orange flower essence",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di garofani",
+    "name_en": "Clove essence",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "litres",
+    "unit_implicit": true,
+    "note": "adjusted to desired strength and volume"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": null,
+    "unit": "litres",
+    "unit_implicit": true,
+    "note": "adjusted to desired strength and volume"
+   }
+  ],
+  "steps_en": [
+   "Macerate cinnamon in 10 litres of 85° alcohol and decant.",
+   "In 1 litre of absolute alcohol, dissolve the essences: 15 drops each of bergamot, lemon, and orange flower; 5 drops of clove.",
+   "Mix the two liquids together and shake well.",
+   "Add 10 grams of vanilla tincture.",
+   "Sweeten with 14 grams of syrup.",
+   "Add water and alcohol as usual to achieve desired volume and strength."
+  ],
+  "notes_en": "Color: red-brown. See page 435 for cross-reference.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "fra-diavolo-liqueur",
+  "page": 713,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore «Fra Diavolo»",
+  "title_en": "Liqueur 'Fra Diavolo'",
+  "method": "maceration",
+  "yield": {
+   "amount": 2,
+   "unit": "litres",
+   "note": "approximately, after filtering"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool a 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Semi di albicocche",
+    "name_en": "Apricot kernels",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di ambretta",
+    "name_en": "Ambrette seeds",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sassafrasso",
+    "name_en": "Sassafras",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool a 90°",
+    "name_en": "90° alcohol",
+    "qty": 700,
+    "unit": "millilitres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "millilitres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Crush the vegetals (kernels, almonds, herbs, seeds) thoroughly.",
+   "Macerate them in the 90° alcohol for 10 days.",
+   "Dissolve the sugar in water.",
+   "Add the sugar solution to the macerate and mix well.",
+   "Filter after a further 10 days of maceration.",
+   "This yields approximately 2 litres."
+  ],
+  "notes_en": "See page 435 for cross-reference.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "rosolio-della-pace",
+  "page": 713,
+  "section_en": "Rosoli (Cordials)",
+  "title_it": "Rosolio della Pace",
+  "title_en": "Rosolio of Peace",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tanaceto",
+    "name_en": "Tansy",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 12,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe continues on page 441. Ingredients listed; method not shown on this page.",
+  "ocr_flags": [
+   "Issopo (likely hyssop; OCR may have corrupted isopo/issopo)"
+  ],
+  "confidence": 0.92
+ }
+]

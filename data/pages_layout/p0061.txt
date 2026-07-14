@@ -1,0 +1,41 @@
+pag. '58 si deve cercare la quantità di acqua necessaria per
+diluire litri 100 dell’alcool della gradazione nota o consta­
+tata o moltiplicarla per la quantità disponibile dell’al­
+cool da diluirsi e si divide il prodotto per 100: il risultato
+indica la quantità d’acqua da impiegarsi.
+   Seguendo tali tabelle, il prodotto finale non riuscirà
+quasi mai ad un volume o ad un peso intero. Invece adot­
+tando le tabelle a pag. 53 e 54 il prodotto finale sarà sem­
+pre una quantità intera decimale (kg.), poiché i posi del­
+l’acqua e dell’alcool costituiscono gli elementi che, som­
+mati, danno 1 kg.
+   Nella pratica corrente del fabbricante di liquori potranno
+riuscire anche assai utili le altre tabelle inserite nelle pa­
+gine 51 e 52, nelle quali viene considerata la diluizione
+dell’alcool per i limiti di gradi adottati generalmente per la
+preparazione dei liquori.
+   Un metodo assai semplice, ma di una esattezza relativa
+per calcolare la quantità di acqua che occorre aggiungere
+ad un alcool di nota concentrazione per diluirlo ^ad mi
+grado desiderato, consiste nell’applicare la formula
+                               A .G
+                          x = -
+                                9
+
+nella quale x esprimo la quantità di acqua da impiegarsi,
+A quella dell’alcool da diluirsi, G il grado di questo e ;/
+quello da ottenersi. In poche parole, si moltiplica il numero
+(lei litri (od altra misura di volume) dell’alcool da diluirsi,
+per il suo grado alcoolico e si divide il prodotto per la cifra
+che rappresenta il grado di diluizione desiderato. Il quo­
+ziente indicherà il numero di litri (o altra misura di vo­
+lume) che si devono aggiungere. Esempio: per diluire litri
+ 15 di alcool di 95° ad alcool di 80° si deve aggiungere
+                           15X95
+
+                             80
+-- litri 17,81 di acqua.
+  Si possono pure facilmente calcolare lo proporzioni vo­
+lumetriche di alcool e di acqua per ottenere una miscela
+a percentuale determinata. Varrà un esempio : Si abbiano
+

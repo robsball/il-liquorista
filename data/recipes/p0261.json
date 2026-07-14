@@ -1,0 +1,335 @@
+[
+ {
+  "id": "rostopschin-i",
+  "page": 261,
+  "section_en": "Rostopschin",
+  "title_it": "Rostopschin",
+  "title_en": "Rostopschin",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice russo",
+    "name_en": "Russian anise",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella - Cassia",
+    "name_en": "Cinnamon - Cassia",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di cognac",
+    "name_en": "Cognac essence",
+    "qty": 3,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Formula I",
+  "confidence": 0.85
+ },
+ {
+  "id": "rostopschin-ii",
+  "page": 261,
+  "section_en": "Rostopschin",
+  "title_it": "Rostopschin",
+  "title_en": "Rostopschin",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio doppio rettificato",
+    "name_en": "Double rectified fennel",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice russo rettificato",
+    "name_en": "Rectified Russian anise",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true,
+    "ocr_flags": [
+     "Arance amaT©"
+    ]
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Iride (alcoolato)",
+    "name_en": "Iris root (alcohol extract)",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Formula II",
+  "confidence": 0.88
+ },
+ {
+  "id": "steinager",
+  "page": 261,
+  "section_en": "Steinager",
+  "title_it": "Steinager",
+  "title_en": "Steinager",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "confidence": 0.92
+ },
+ {
+  "id": "stomatico-bianco-amaro-i",
+  "page": 261,
+  "section_en": "Stomatico bianco (Amaro)",
+  "title_it": "Stomatico bianco (Amaro)",
+  "title_en": "White Stomachic (Amaro)",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cornino doppio rettificato",
+    "name_en": "Double rectified cornflower",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice russo",
+    "name_en": "Russian anise",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio doppio rettificato",
+    "name_en": "Double rectified fennel",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Formula I",
+  "confidence": 0.9
+ },
+ {
+  "id": "stomatico-bianco-amaro-ii",
+  "page": 261,
+  "section_en": "Stomatico bianco (Amaro)",
+  "title_it": "Stomatico bianco (Amaro)",
+  "title_en": "White Stomachic (Amaro)",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance dolci",
+    "name_en": "Sweet oranges",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Formula II",
+  "confidence": 0.92
+ }
+]

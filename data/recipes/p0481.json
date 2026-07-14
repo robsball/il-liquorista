@@ -1,0 +1,352 @@
+[
+ {
+  "id": "clove-compound",
+  "page": 481,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Garofani Composto",
+  "title_en": "Compound Clove Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     5
+    ],
+    "note": "Column III uses grams (gr. 5); Column IV uses grams (5)"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     24
+    ],
+    "note": "Column III in drops (10); Column IV in grams (24)"
+   },
+   {
+    "name_it": "Olio essenz. di macia",
+    "name_en": "Essential oil of mace",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     12
+    ],
+    "note": "Column III in drops (5); Column IV in grams (12)"
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of roses",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ],
+    "note": "Column III omitted; Column IV 2 grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90° proof",
+    "qty": 650,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     4
+    ],
+    "note": "Column III: 650 gr.; Column IV: 4 liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     1.8
+    ],
+    "note": "Column III: 800 gr.; Column IV: 1.800 kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     5
+    ],
+    "note": "Column III: 650 liters; Column IV: 5 liters"
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils of cloves, cinnamon, mace, and roses (if used) according to chosen column proportions.",
+   "Add spirit at 90° proof.",
+   "Dissolve sugar in water and combine with spirit mixture.",
+   "Blend thoroughly and allow to marry."
+  ],
+  "notes_en": "Brown (Bruno). Three formulation columns provided (III, IV) with varying proportions for different batch sizes.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "compound-clove-liqueur",
+  "page": 481,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Garofani Composto",
+  "title_en": "Compound Clove Liqueur (Special)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence (p. 246)",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di maraschino",
+    "name_en": "Maraschino essence (p. 248)",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90° proof",
+    "qty": 4.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "liters",
+    "unit_implicit": true,
+    "note": "Quantity not specified; to be determined by desired dilution"
+   }
+  ],
+  "steps_en": [
+   "Combine special essence and maraschino essence.",
+   "Add spirit at 90° proof.",
+   "Dissolve sugar in appropriate quantity of water.",
+   "Combine essence and spirit mixture with sugar syrup.",
+   "Blend thoroughly and allow to mature."
+  ],
+  "notes_en": "Brown (Bruno). A variant using proprietary essences referenced on pages 246 and 248.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "juniper-liqueur",
+  "page": 481,
+  "section_en": "Simple Liqueurs",
+  "title_it": "Ginepro",
+  "title_en": "Juniper Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Acquavite di ginepro di 1ª qualità",
+    "name_en": "First-quality juniper brandy",
+    "qty": 1.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine first-quality juniper brandy with sugar.",
+   "Filter through paper."
+  ],
+  "notes_en": "Simple formula using pre-made juniper brandy.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "juniper-liqueur-compound",
+  "page": 481,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Ginepro (formule II, III, IV)",
+  "title_en": "Juniper Liqueur (Compound Versions)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     50,
+     25
+    ],
+    "note": "Column II: 10 gr.; Column III (Doppio/Double): 50 gr.; Column IV (Olandese/Dutch): 25 gr."
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90° proof",
+    "qty": 12.75,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     42,
+     15.25
+    ],
+    "note": "Column II: 12.75 lit.; Column III: 42 lit.; Column IV: 15.25 lit."
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 12,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     1,
+     0.5
+    ],
+    "note": "Column II: 12 lit.; Column III: 1 lit.; Column IV: 0.5 lit."
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 9.25,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     57,
+     19.25
+    ],
+    "note": "Column II: 9.25 lit.; Column III: 57 lit.; Column IV: 19.25 lit."
+   }
+  ],
+  "steps_en": [
+   "Combine essential oil of juniper with spirit at 90° proof.",
+   "Add sugar syrup and water in proportions according to chosen column.",
+   "Blend thoroughly to achieve desired strength and sweetness."
+  ],
+  "notes_en": "Colorless (Incoloro). Three formulation columns provided: Column II (standard), Column III (Doppio/Double strength), and Column IV (Olandese/Dutch style).",
+  "ocr_flags": [
+   "Doppio Olandese"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "juniper-compound-liqueur-special",
+  "page": 481,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Ginepro Composto",
+  "title_en": "Compound Juniper Liqueur (Special)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "at 50% alcohol by volume"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "note": "Quantity illegible or omitted in source"
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossoms",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza speciale per Anisette",
+    "name_en": "Special essence for Anisette (p. 243)",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90° proof",
+    "qty": 5.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.3,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils of juniper and orange blossoms with special Anisette essence.",
+   "Add spirit at 90° proof.",
+   "Dissolve sugar in water to form a syrup.",
+   "Combine essence and spirit mixture with sugar syrup.",
+   "Blend thoroughly and age to maturity."
+  ],
+  "notes_en": "Colorless (Incoloro). Final product (brodetto) yields 10 liters at approximately 50% alcohol content.",
+  "ocr_flags": [],
+  "confidence": 0.87
+ }
+]

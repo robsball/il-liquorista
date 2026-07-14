@@ -1,0 +1,212 @@
+[
+ {
+  "id": "raspberry-essence",
+  "page": 269,
+  "section_en": "Essences",
+  "title_it": "Essenza di lampone",
+  "title_en": "Raspberry Essence",
+  "method": "distillation",
+  "yield": {
+   "amount": 700,
+   "unit": "grams",
+   "note": "distillate collected into 300g of alcohol"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "lamponi freschi",
+    "name_en": "fresh raspberries",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "tintura di radico d'iride",
+    "name_en": "iris root tincture (1:10)",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "tintura di vaniglia",
+    "name_en": "vanilla tincture (1:10)",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 300,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Safranina T extra",
+    "name_en": "Safranin T extra",
+    "qty": 0.25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "tintura di caramello",
+    "name_en": "caramel tincture",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "tintura di zafferano",
+    "name_en": "saffron tincture (1:10)",
+    "qty": 1,
+    "unit": "drop"
+   }
+  ],
+  "steps_en": [
+   "Crush 3 kg of fresh raspberries and leave them for 48 hours at fermentation in a moderately warm place.",
+   "Add 20 grams of iris root tincture (1:10) and 10 grams of vanilla tincture (1:10).",
+   "Transfer everything to a glass matrass and distill 700 grams into a container holding 300 grams of alcohol.",
+   "Color the distillate with 0.25 grams of Safranin T extra, 10 drops of caramel tincture, or 1 drop of saffron tincture (1:10)."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "currant-essence",
+  "page": 269,
+  "section_en": "Essences",
+  "title_it": "Essenza di ribes",
+  "title_en": "Currant Essence",
+  "method": "distillation",
+  "yield": {
+   "amount": 300,
+   "unit": "grams",
+   "note": "distillate"
+  },
+  "alcohol_strength": null,
+  "temperature_c": 20,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "bacche di ribes bianche o rosse",
+    "name_en": "white or red currant berries",
+    "qty": 4,
+    "unit": "kg",
+    "note": "destemmed, crushed or pressed"
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 300,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Safranina T extra",
+    "name_en": "Safranin T extra",
+    "qty": 0.1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "tintura di zafferano",
+    "name_en": "saffron tincture (1:10)",
+    "qty": 3,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [
+   "Crush or preferably press 4 kg of destemmed currant berries.",
+   "Leave the juice or pulp for 48 hours in a moderately warm place (around 20°C).",
+   "Distill 300 grams of alcohol.",
+   "Color the distillate with 0.1 grams of Safranin T extra and 3 drops of saffron tincture (1:10)."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "citron-essence",
+  "page": 269,
+  "section_en": "Essences",
+  "title_it": "Essenza di cedro",
+  "title_en": "Citron Essence",
+  "method": "maceration",
+  "yield": {
+   "amount": 1,
+   "unit": "kg",
+   "note": "distilled product"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "scorze di cedro fresche",
+    "name_en": "fresh citron peel",
+    "qty": 200,
+    "unit": "grams",
+    "note": "depulped"
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 1,
+    "unit": "liter"
+   },
+   {
+    "name_it": "olio essenziale di cedro",
+    "name_en": "citron essential oil",
+    "qty": 3,
+    "unit": "drops",
+    "note": "terpene-free"
+   },
+   {
+    "name_it": "olio essenziale di arancia amara",
+    "name_en": "bitter orange essential oil",
+    "qty": 1,
+    "unit": "drop",
+    "note": "terpene-free"
+   },
+   {
+    "name_it": "tintura di vaniglia",
+    "name_en": "vanilla tincture (1:10)",
+    "qty": 3,
+    "unit": "grams"
+   },
+   {
+    "name_it": "tintura di curcuma",
+    "name_en": "turmeric tincture (1:10)",
+    "qty": 16,
+    "unit": "drops"
+   },
+   {
+    "name_it": "tintura di caramello",
+    "name_en": "caramel tincture",
+    "qty": 20,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [
+   "Mince 200 grams of fresh, depulped citron peel.",
+   "Macerate for one day with 500 grams of alcohol and 1 liter of water.",
+   "Mix with 3 drops of terpene-free citron essential oil and 1 drop of terpene-free bitter orange essential oil.",
+   "Transfer everything to a glass matrass and distill 1 kg.",
+   "Treat the distillate with a mixture of 3 grams of vanilla tincture (1:10), 16 drops of turmeric tincture (1:10), and 20 drops of caramel tincture.",
+   "Eliminate any cloudiness by resting for 10 days or filtering through silica."
+  ],
+  "notes_en": "Caramel tincture is prepared with 100 grams of burnt sugar, 400 grams of alcohol, and 500 grams of distilled water.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ }
+]

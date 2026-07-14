@@ -1,0 +1,278 @@
+[
+ {
+  "id": "alcool-90",
+  "page": 476,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Alcool di 90°",
+  "title_en": "Spirit of 90°",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "final alcohol strength 39%"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Spirit of 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 8.2,
+    "unit": "liters"
+   },
+   {
+    "name_en": "Arrack",
+    "name_it": "Arac",
+    "qty": 0.5,
+    "unit": "liters"
+   },
+   {
+    "name_en": "Syrup",
+    "name_it": "Stroppo",
+    "qty": 7.5,
+    "unit": "liters"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 3.7,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "cardinale",
+  "page": 476,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Cardinale",
+  "title_en": "Cardinal",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Essential oil of mace",
+    "name_it": "Olio essenz. di macia",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Essential oil of cinnamon",
+    "name_it": "Olio essenz. di cannella",
+    "qty": 16,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Essential oil of cloves",
+    "name_it": "Olio essenz. di garofani",
+    "qty": 1.6,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Essential oil of lemon",
+    "name_it": "Olio essenz. di limone",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Amber tincture",
+    "name_it": "Tintura di ambra",
+    "qty": 6,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Spirit of 95°",
+    "name_it": "Alcool di 95°",
+    "qty": 4,
+    "unit": "kilograms"
+   },
+   {
+    "name_en": "Sugar",
+    "name_it": "Zucchero",
+    "qty": 4,
+    "unit": "kilograms"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 8,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "costume",
+  "page": 476,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Costume",
+  "title_en": "Costume",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Essential oil of anise",
+    "name_it": "Olio essenz. di anice",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Essential oil of cinnamon",
+    "name_it": "Olio essenz. di cannella",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Essential oil of orange",
+    "name_it": "Olio essenz. di arancio",
+    "qty": 4,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Essential oil of peppermint",
+    "name_it": "Olio essenz. di menta piperita",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Essential oil of rose",
+    "name_it": "Olio essenz. di rose",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Extract of wormwood (page 460)",
+    "name_it": "Astratto di assenzio (p. 460)",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Spirit of 85°",
+    "name_it": "Alcool di 85°",
+    "qty": 7,
+    "unit": "liters"
+   },
+   {
+    "name_en": "Sugar",
+    "name_it": "Zucchero",
+    "qty": 4,
+    "unit": "kilograms"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 8,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together.",
+   "Filter the liqueur.",
+   "The final liqueur should be yellowish-greenish in color."
+  ],
+  "notes_en": "Yellowish-greenish color.",
+  "confidence": 0.93
+ },
+ {
+  "id": "curacao",
+  "page": 476,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Curaçao",
+  "title_en": "Curaçao",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Essential oil of bitter orange",
+    "name_it": "Olio essenz. d'arance amare",
+    "qty": 20,
+    "unit": "grams",
+    "variants": [
+     10,
+     25
+    ]
+   },
+   {
+    "name_en": "Essential oil of sweet orange",
+    "name_it": "Olio essenz. d'arance dolci",
+    "qty": 5,
+    "unit": "grams",
+    "variants": [
+     null,
+     null
+    ],
+    "note": "only in formula I"
+   },
+   {
+    "name_en": "Essential oil of cloves",
+    "name_it": "Olio essenz. di garofani",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null
+    ],
+    "note": "only in formula I"
+   },
+   {
+    "name_en": "Spirit of 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 12.75,
+    "unit": "liters",
+    "variants": [
+     5.5,
+     12.75
+    ]
+   },
+   {
+    "name_en": "Syrup",
+    "name_it": "Siroppо",
+    "qty": 14,
+    "unit": "liters",
+    "variants": [
+     8,
+     17
+    ]
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 7.25,
+    "unit": "liters",
+    "variants": [
+     6,
+     4.25
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": "All liqueurs prepared with the peel of orange or with essential oil of orange peel are called Curaçao, from the name of the finest oranges suitable for this use which come from Curaçao. Variants shown are formula I (standard), formula II (reduced), and Doppio (double).",
+  "ocr_flags": [
+   "Siroppо"
+  ],
+  "confidence": 0.9
+ }
+]

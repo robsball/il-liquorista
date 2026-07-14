@@ -1,0 +1,260 @@
+[
+ {
+  "id": "elixir-of-love",
+  "page": 440,
+  "section_en": "Elixirs",
+  "title_it": "Elisir d'amore",
+  "title_en": "Elixir of Love",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cortecce sottilissime di arance",
+    "name_en": "Very thin orange peel",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cortecce sottilissime di limoni",
+    "name_en": "Very thin lemon peel",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di ciliege",
+    "name_en": "Cherry seeds",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mandorle amaro",
+    "name_en": "Bitter almonds",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo minore",
+    "name_en": "Lesser cardamom",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino moscato dolce",
+    "name_en": "Sweet muscat wine",
+    "qty": 2,
+    "unit": "bottles",
+    "unit_implicit": false,
+    "note": "added after filtering and mixing"
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "note": "for coloring"
+   }
+  ],
+  "steps_en": [
+   "Macerate the herbs and spices in pure spirit for 8 days.",
+   "Dissolve the sugar in water.",
+   "Filter the tincture through a sieve and combine with the sugar solution.",
+   "Add 2 bottles of sweet muscat wine.",
+   "Color pink with a few drops of caramel and filter."
+  ],
+  "notes_en": "The first paragraph (preceding the recipe title) appears to describe a general maceration process for 10 days followed by 8 days with sugar solution, but the numbered recipe specifies different timing.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "elixir-of-certosa-di-pavia",
+  "page": 440,
+  "section_en": "Elixirs",
+  "title_it": "Elisir della Certosa di Pavia",
+  "title_en": "Elixir of Certosa di Pavia",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 4,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Menta piperita secca",
+    "name_en": "Dried peppermint",
+    "qty": 23,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cedronella",
+    "name_en": "Lemon balm",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Bacche di ginepro",
+    "name_en": "Juniper berries",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo fiorito secco",
+    "name_en": "Dried flowering hyssop",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori d'amica",
+    "name_en": "Arnica flowers",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR uncertain"
+   },
+   {
+    "name_it": "Semi d'angelica",
+    "name_en": "Angelica seeds",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol at 80°",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "quantity unclear from OCR"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "quantity appears to be missing or corrupted"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 8,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Pound and chop the herbs and spices.",
+   "Macerate in spirit for 4 days.",
+   "Dissolve the sugar in water.",
+   "When the sugar solution has cooled, add the tincture that has been filtered through a sieve.",
+   "Color green or yellow as desired and filter."
+  ],
+  "notes_en": "This is a famous liqueur from the Carthusian monastery at Pavia. The OCR shows some corruption in the alcohol and water quantities.",
+  "ocr_flags": [
+   "Fiori d'amica – possibly 'Fiori d'arnica' (arnica flowers)",
+   "Alcool quantity line appears corrupted",
+   "Acqua quantity line appears corrupted"
+  ],
+  "confidence": 0.85
+ }
+]

@@ -1,0 +1,310 @@
+[
+ {
+  "id": "orange-blossom-syrup",
+  "page": 280,
+  "section_en": "Preparations with which liqueurs are composed",
+  "title_it": "Di fiori d'arancio",
+  "title_en": "Orange Blossom Syrup",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "zucchero raffinato",
+    "name_en": "refined sugar",
+    "qty": 10,
+    "unit": "kg"
+   },
+   {
+    "name_it": "acqua pura",
+    "name_en": "pure water",
+    "qty": 2.6,
+    "unit": "liters"
+   },
+   {
+    "name_it": "acqua albuminosa",
+    "name_en": "albuminous water (clarified egg-white water)",
+    "qty": 1.2,
+    "unit": "liters"
+   },
+   {
+    "name_it": "acqua distillata tripla di fiori d'arancio",
+    "name_en": "triple-distilled orange flower water, filtered",
+    "qty": 1,
+    "unit": "liter"
+   }
+  ],
+  "steps_en": [
+   "Melt 10 kg of refined sugar in 2.6 liters of pure water and 1.2 liters of albuminous water.",
+   "Heat and clarify as described previously.",
+   "After straining the syrup through wool, add 1 liter of previously filtered triple-distilled orange flower water.",
+   "Mix thoroughly and let stand."
+  ],
+  "notes_en": "An alternative, more delicate method (2°): cold-dissolve 1900 parts white sugar in 100 parts distilled orange flower water and filter through paper. The finished syrup should read 36° (Baumé) when cold.",
+  "ocr_flags": [
+   "acqua albuminosa",
+   "segnare 36°"
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "rose-syrup",
+  "page": 280,
+  "section_en": "Preparations with which liqueurs are composed",
+  "title_it": "Di rose",
+  "title_en": "Rose Syrup",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "zucchero raffinato",
+    "name_en": "refined sugar",
+    "qty": 10,
+    "unit": "kg",
+    "note": "same proportions as orange blossom syrup"
+   },
+   {
+    "name_it": "acqua pura",
+    "name_en": "pure water",
+    "qty": 2.6,
+    "unit": "liters"
+   },
+   {
+    "name_it": "acqua albuminosa",
+    "name_en": "albuminous water",
+    "qty": 1.2,
+    "unit": "liters"
+   },
+   {
+    "name_it": "acqua di rose",
+    "name_en": "rose water",
+    "qty": 1,
+    "unit": "liter",
+    "note": "substituted for orange flower water"
+   }
+  ],
+  "steps_en": [
+   "Prepared in exactly the same manner as the preceding orange blossom syrup, substituting rose water for orange flower water."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.7
+ },
+ {
+  "id": "maidenhair-fern-syrup",
+  "page": 280,
+  "section_en": "Preparations with which liqueurs are composed",
+  "title_it": "Di capilvenere",
+  "title_en": "Maidenhair Fern (Capillaire) Syrup",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "capilvenere del Canadà",
+    "name_en": "Canada maidenhair fern",
+    "qty": 350,
+    "unit": "g",
+    "note": "first infusion"
+   },
+   {
+    "name_it": "acqua bollente",
+    "name_en": "boiling water",
+    "qty": 3.6,
+    "unit": "liters"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 10,
+    "unit": "kg"
+   },
+   {
+    "name_it": "acqua albuminosa",
+    "name_en": "albuminous water",
+    "qty": null,
+    "unit": "q.b.",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "capilvenere",
+    "name_en": "maidenhair fern",
+    "qty": 150,
+    "unit": "g",
+    "note": "second infusion"
+   },
+   {
+    "name_it": "Thè Pecco",
+    "name_en": "Pecco tea",
+    "qty": 25,
+    "unit": "g",
+    "variants": [
+     50
+    ],
+    "note": "optional, to enhance aroma"
+   }
+  ],
+  "steps_en": [
+   "Infuse 350 g of Canada maidenhair fern in 3.6 liters of boiling water for 2 hours.",
+   "Strain through cheesecloth and clarify with albuminous water.",
+   "When the syrup reads 31° hot, pour it boiling over 150 g of fresh maidenhair fern placed in a vessel and let infuse again for 2 hours.",
+   "Strain through wool, using paper pulp as filter aid.",
+   "Optionally add 25-50 g of Pecco tea to make the syrup more aromatic."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "capilvenere",
+   "stamigna",
+   "Pecco"
+  ],
+  "confidence": 0.78
+ },
+ {
+  "id": "lemon-or-citron-syrup",
+  "page": 280,
+  "section_en": "Preparations with which liqueurs are composed",
+  "title_it": "Di limoni o cedri",
+  "title_en": "Lemon or Citron Syrup",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "zucchero raffinato",
+    "name_en": "refined sugar",
+    "qty": 10,
+    "unit": "kg"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "acqua albuminosa (1 albume d'uovo)",
+    "name_en": "albuminous water (1 egg white)",
+    "qty": null,
+    "unit": "q.b.",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcoolato di cedro o limoni concentrato",
+    "name_en": "concentrated lemon or citron alcoholate",
+    "qty": 10,
+    "unit": "cl"
+   },
+   {
+    "name_it": "acido citrico",
+    "name_en": "citric acid",
+    "qty": 80,
+    "unit": "g"
+   },
+   {
+    "name_it": "acqua (per soluzione acido)",
+    "name_en": "water (for acid solution)",
+    "qty": 200,
+    "unit": "cc"
+   }
+  ],
+  "steps_en": [
+   "Dissolve and heat to boiling the sugar and water, clarifying with albuminous water (1 egg white).",
+   "Reduce the syrup to 32° (Baumé), straining it hot through wool.",
+   "Add 10 cl of concentrated lemon or citron alcoholate and a solution of 80 g citric acid in 200 cc water.",
+   "Mix everything thoroughly and pour, still warm, into the bottles in which it will be stored.",
+   "Cork the bottles only after complete cooling."
+  ],
+  "notes_en": "Citric acid may be replaced with tartaric acid, using double the dose.",
+  "ocr_flags": [
+   "centilitri",
+   "32°"
+  ],
+  "confidence": 0.83
+ },
+ {
+  "id": "orange-or-bitter-orange-peel-syrup",
+  "page": 280,
+  "section_en": "Preparations with which liqueurs are composed",
+  "title_it": "D'arance, di scorze d'arance amare",
+  "title_en": "Orange, or Bitter Orange Peel Syrup",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "alcoolato di arancio concentrato",
+    "name_en": "concentrated orange alcoholate",
+    "qty": 10,
+    "unit": "cl",
+    "note": "replaces lemon alcoholate"
+   },
+   {
+    "name_it": "tintura di scorze fresche o alcoolaturo",
+    "name_en": "tincture of fresh orange peel or alcoholature",
+    "qty": null,
+    "unit": "q.b.",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Prepared following the same procedure and using the same doses as for lemon syrup, substituting the concentrated lemon alcoholate with the corresponding orange alcoholates, and using a tincture of fresh peel or an alcoholature of bitter orange peel."
+  ],
+  "notes_en": "Refers back to the lemon/citron syrup recipe for proportions and method.",
+  "ocr_flags": [],
+  "confidence": 0.75
+ },
+ {
+  "id": "raspberry-syrup-weinkold",
+  "page": 280,
+  "section_en": "Preparations with which liqueurs are composed",
+  "title_it": "Di lamponi (Weinkold)",
+  "title_en": "Raspberry Syrup (Weinkold Method)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "lamponi",
+    "name_en": "raspberries",
+    "qty": 1,
+    "unit": "kg"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 20,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "For every kilogram of raspberries, add 20 g of sugar.",
+   "Let ferment for one day.",
+   "Then press and allow the juice to undergo further fermentation in a cool place, until sediment forms."
+  ],
+  "notes_en": "Recipe text is cut off at the bottom of the page and continues onto the next page.",
+  "ocr_flags": [
+   "Weinkold",
+   "sedi-"
+  ],
+  "confidence": 0.6
+ }
+]

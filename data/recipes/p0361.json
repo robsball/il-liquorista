@@ -1,0 +1,241 @@
+[
+ {
+  "id": "calamo-aromatico",
+  "page": 361,
+  "title_it": "Calamo aromatico",
+  "title_en": "Aromatic Calamus",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Aromatic calamus",
+    "qty": 1.25,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Angelica."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "carminative",
+  "page": 361,
+  "title_it": "Carminativo",
+  "title_en": "Carminative",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Spearmint",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Aromatic calamus",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Caraway seed",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Anise."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "juniper",
+  "page": 361,
+  "title_it": "Ginepro",
+  "title_en": "Juniper",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Bacche di ginepro",
+    "name_en": "Juniper berries",
+    "qty": 2.375,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 67,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Anise."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Bacche (OCR: 'Macche')"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "mint",
+  "page": 361,
+  "title_it": "Menta",
+  "title_en": "Mint",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Menta crispa fresca",
+    "name_en": "Fresh spearmint",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 67,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Anise."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "kummel",
+  "page": 361,
+  "title_it": "Kümmel",
+  "title_en": "Kümmel",
+  "method": "distillation",
+  "yield": {
+   "amount": 100,
+   "unit": "L",
+   "note": "final volume at 40° ABV after dilution and sweetening"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di cornino mondati e contusi",
+    "name_en": "Caraway seeds, hulled and crushed",
+    "qty": 3.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 67,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Distill to yield 53 litres at 65% ABV. Add water and/or alcohol as needed to reach 100 litres at 40° ABV. Sweeten with 6–7 kg sugar.",
+   "Alternatively: distill only 55 litres at 60% ABV. Reduce to 100 litres at 36° ABV by adding water and alcohol. Sweeten with only 5 kg sugar."
+  ],
+  "notes_en": "Two methods are provided, yielding the same final volume but differing in intermediate strength and sweetening level.",
+  "ocr_flags": [
+   "Kümmel (section heading: OCR unclear but standard spelling)"
+  ],
+  "confidence": 0.92
+ }
+]

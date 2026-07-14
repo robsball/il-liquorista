@@ -1,0 +1,293 @@
+[
+ {
+  "id": "lemon-and-bergamot-liqueur",
+  "page": 426,
+  "section_en": "Liqueurs",
+  "title_it": "[Untitled lemon-bergamot liqueur]",
+  "title_en": "Lemon and Bergamot Liqueur",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "base alcohol; final yield with syrup ~37 L"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 7,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 17,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Macerate and digest in 20 liters of 60° alcohol.",
+   "Decant the liquid.",
+   "Add essential oils of lemon and bergamot.",
+   "Add 17 liters of syrup."
+  ],
+  "notes_en": "Color: light brown.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "sultana-water-zaïde",
+  "page": 426,
+  "section_en": "Liqueurs",
+  "title_it": "Acqua della sultana Zaïde",
+  "title_en": "Water of the Sultana Zaïde",
+  "method": "maceration",
+  "yield": {
+   "amount": 22,
+   "unit": "liters",
+   "note": "base alcohol before dilution and syrup addition"
+  },
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Foglie fresche di limoni",
+    "name_en": "Fresh lemon leaves",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Fichi",
+    "name_en": "Figs",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Gelsomini",
+    "name_en": "Jasmine flowers",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cacao tostato e macinato",
+    "name_en": "Roasted and ground cacao",
+    "qty": 265,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Datterini",
+    "name_en": "Small dates",
+    "qty": 125,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 75,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol of 75°",
+    "qty": 22,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 17,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Macerate the fresh lemon leaves, figs, jasmine, cacao, dates, caramel, and oranges for 48 hours in 22 liters of 75° alcohol.",
+   "Decant.",
+   "Dilute to 66°.",
+   "Add 17 liters of syrup."
+  ],
+  "notes_en": "Color: deep red.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "saint-andré-water",
+  "page": 426,
+  "section_en": "Liqueurs",
+  "title_it": "Acqua di Saint-André",
+  "title_en": "Water of Saint-André",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Fiori di lavanda",
+    "name_en": "Lavender flowers",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Semi di pepo",
+    "name_en": "Pumpkin seeds",
+    "qty": 600,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze fresche e sottili di 5 arance",
+    "name_en": "Fresh, thin peel of 5 oranges",
+    "qty": null,
+    "unit": "pieces",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Petali di rosa",
+    "name_en": "Rose petals",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol of 60°",
+    "qty": 5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "liters",
+    "note": "quantity not specified in OCR"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kilograms"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Acqua regale (Royal Water)."
+  ],
+  "notes_en": "French liqueur.",
+  "ocr_flags": [
+   "pepo (possibly pesche = peaches, but pepo fits seed-based spirits better)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "aukerheim",
+  "page": 426,
+  "section_en": "Liqueurs",
+  "title_it": "Aukerheim",
+  "title_en": "Aukerheim",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 80,
+    "unit": "grams",
+    "variants": [
+     125
+    ]
+   },
+   {
+    "name_it": "Ambretta",
+    "name_en": "Ambrette (musk mallow)",
+    "qty": 30,
+    "unit": "grams",
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "grams",
+    "variants": [
+     40
+    ]
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 15,
+    "unit": "grams",
+    "variants": [
+     20
+    ]
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 20,
+    "unit": "grams",
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     50
+    ],
+    "note": "absent from column I"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two proportion columns shown (I and II). Method not provided.",
+  "ocr_flags": [
+   "Aukerheim (possibly Aukerheym or similar variant; heading OCR unclear)"
+  ],
+  "confidence": 0.75
+ }
+]

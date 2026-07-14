@@ -1,0 +1,345 @@
+[
+ {
+  "id": "alkermès-of-florence",
+  "page": 466,
+  "title_it": "Alkermès di Firenze",
+  "title_en": "Alkermès of Florence",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     3
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     7
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di noci moscate",
+    "name_en": "Essential oil of nutmeg",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of roses",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Estratto di gelsomino",
+    "name_en": "Jasmine extract",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Tintura d'ambra",
+    "name_en": "Amber tincture",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     100
+    ],
+    "note": "absent in formula I"
+   },
+   {
+    "name_it": "Tintura di ireos",
+    "name_en": "Iris tincture",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "absent in formula II"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     3
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     2.5
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 12.5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     5.0
+    ]
+   },
+   {
+    "name_it": "Rosso cocciniglia",
+    "name_en": "Cochineal red (colouring)",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two proportions given (columns I and II). Cochineal red used for colouring.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "allash-rosso",
+  "page": 466,
+  "title_it": "Allash rosso",
+  "title_en": "Red Allash",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di cornino russo",
+    "name_en": "Essential oil of Russian caraway",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 18,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 8.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Marked as 'Inodoro' (odourless) in the source.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "pineapple-i",
+  "page": 466,
+  "title_it": "Ananas (I)",
+  "title_en": "Pineapple (I)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza d'ananas",
+    "name_en": "Pineapple essence",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di rose",
+    "name_en": "Rose essence",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 850,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Colour lightly with caramel."
+  ],
+  "notes_en": "Light yellow colour.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "pineapple-ii",
+  "page": 466,
+  "title_it": "Ananas (II)",
+  "title_en": "Pineapple (II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza d'ananas",
+    "name_en": "Pineapple essence",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.25,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 15,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8.75,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Light yellow colour.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "angelica",
+  "page": 466,
+  "title_it": "Angelica",
+  "title_en": "Angelica",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'angelica (semi)",
+    "name_en": "Essential oil of angelica (seed)",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Olio essenz. d'angelica (radice)",
+    "name_en": "Essential oil of angelica (root)",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ],
+    "note": "absent in formula I"
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "absent in formula II"
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "absent in formula II"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete on this page; two proportions shown.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ }
+]

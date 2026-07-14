@@ -1,0 +1,122 @@
+[
+ {
+  "id": "vanilla-rosolio-i",
+  "page": 516,
+  "section_en": "Rosolios and Essences",
+  "title_it": "Vaniglia (Rosolio)",
+  "title_en": "Vanilla (Rosolio) – Formula I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     20
+    ]
+   },
+   {
+    "name_it": "Tintura di balsamo peruviano",
+    "name_en": "Peruvian balsam tincture",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     20
+    ],
+    "note": "omitted in formula I, present in formula II"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Rose color (roseo scuro). Two proportions shown: Formula I (left column) and Formula II (right column, labeled Sopraffino).",
+  "ocr_flags": [],
+  "confidence": 0.75
+ },
+ {
+  "id": "vanilla-rosolio-ii",
+  "page": 516,
+  "section_en": "Rosolios and Essences",
+  "title_it": "Vaniglia (Rosolio)",
+  "title_en": "Vanilla (Rosolio) – Formula II (Sopraffino)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di benzoino",
+    "name_en": "Benzoin tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity illegible or omitted in source"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Dark rose color (rosso scuro). Premium formula (Sopraffino).",
+  "ocr_flags": [
+   "acqua di rose quantity unclear"
+  ],
+  "confidence": 0.7
+ },
+ {
+  "id": "ginger-indian",
+  "page": 516,
+  "section_en": "Rosolios and Essences",
+  "title_it": "Zenzero Indiano",
+  "title_en": "Indian Ginger",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura d'ambra",
+    "name_en": "Amber tincture",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di muschio",
+    "name_en": "Musk tincture",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Brown color (bruno).",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

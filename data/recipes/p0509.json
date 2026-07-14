@@ -1,0 +1,320 @@
+[
+ {
+  "id": "liqueur-comballe",
+  "page": 509,
+  "section_en": "Liqueurs",
+  "title_it": "Liqueur Comballe",
+  "title_en": "Liqueur Comballe",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of clove",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di noce moscato",
+    "name_en": "Essential oil of nutmeg",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macia",
+    "name_en": "Essential oil of mace",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcolato d'ireos",
+    "name_en": "Alcoholate of iris",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Azure (blue) colored.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "fennel-house",
+  "page": 509,
+  "section_en": "Liqueurs",
+  "title_it": "Finocchio domo",
+  "title_en": "House Fennel",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Yellow colored.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "orange-blossom-i",
+  "page": 509,
+  "section_en": "Liqueurs",
+  "title_it": "Fiori d'arancio (I)",
+  "title_en": "Orange Blossom (I)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": 4.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Inodorous (fragrance-neutral base).",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "orange-blossom-ii",
+  "page": 509,
+  "section_en": "Liqueurs",
+  "title_it": "Fiori d'arancio (II)",
+  "title_en": "Orange Blossom (II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Inodorous (fragrance-neutral base).",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "orange-blossom-iii",
+  "page": 509,
+  "section_en": "Liqueurs",
+  "title_it": "Fiori d'arancio (III)",
+  "title_en": "Orange Blossom (III)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere di zenzero",
+    "name_en": "Ether of ginger",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere di pere",
+    "name_en": "Ether of pear",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Yellow colored.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "montpellier-flowers",
+  "page": 509,
+  "section_en": "Liqueurs",
+  "title_it": "Fiori di Montpellier",
+  "title_en": "Montpellier Flowers",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura d'angelica",
+    "name_en": "Tincture of angelica",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Tincture of cinnamon",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Tincture of vanilla",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of clove",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 0.2,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Yellow colored.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ }
+]

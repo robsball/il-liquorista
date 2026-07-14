@@ -1,0 +1,298 @@
+[
+ {
+  "id": "caccia",
+  "page": 473,
+  "section_en": "",
+  "title_it": "Caccia",
+  "title_en": "Caccia",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "see p. 244"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 14.25,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 9.75,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients."
+  ],
+  "notes_en": "Dark brown color.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "calamo-rosolio",
+  "page": 473,
+  "section_en": "",
+  "title_it": "Calamo (Rosolio di)",
+  "title_en": "Calamus (Rosolio)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     16,
+     50
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 14.25,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     12.75,
+     42
+    ]
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     14,
+     5
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.25,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     7.25,
+     6.25
+    ]
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients."
+  ],
+  "notes_en": "Brown color. Three proportion columns: I (standard), II (variant), and Doppio (double).",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "calamo-composto",
+  "page": 473,
+  "section_en": "",
+  "title_it": "Calamo composto",
+  "title_en": "Compound Calamus",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "standard procedure"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     12
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di radice di angelica",
+    "name_en": "Angelica root essential oil",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     30
+    ],
+    "note": "not in formula I"
+   },
+   {
+    "name_it": "Olio essenziale di cumino",
+    "name_en": "Cumin essential oil",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     30
+    ],
+    "note": "not in formula I"
+   },
+   {
+    "name_it": "Olio essenziale di anice stellato",
+    "name_en": "Star anise essential oil",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 8,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ]
+   }
+  ],
+  "steps_en": [
+   "Follow the standard procedure."
+  ],
+  "notes_en": "Two proportion columns (I and II). Final yield: 20 liters.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "calamo-di-breslavia",
+  "page": 473,
+  "section_en": "",
+  "title_it": "Calamo di Breslavia",
+  "title_en": "Breslau Calamus",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 19,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Anise essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Angelica essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice stellato",
+    "name_en": "Star anise essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ }
+]

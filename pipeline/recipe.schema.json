@@ -1,0 +1,67 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "IlLiquoristaRecipe",
+  "type": "object",
+  "required": ["id", "page", "title_en", "ingredients"],
+  "properties": {
+    "id": { "type": "string", "description": "kebab-case slug of the English title" },
+    "page": { "type": "integer" },
+    "section_en": { "type": "string", "description": "Group heading, e.g. 'Compound Essences'" },
+    "title_it": { "type": "string" },
+    "title_en": { "type": "string" },
+    "method": {
+      "type": "string",
+      "enum": ["distillation", "infusion", "maceration", "essence", "cold_mix", "other", "unknown"]
+    },
+    "yield": {
+      "type": ["object", "null"],
+      "properties": {
+        "amount": { "type": "number" },
+        "unit": { "type": "string" },
+        "note": { "type": "string", "description": "e.g. 'sum of 5 successive extractions'" }
+      }
+    },
+    "alcohol_strength": {
+      "type": ["object", "null"],
+      "description": "spirit strength when the recipe specifies one, e.g. 'alcool di 96°'",
+      "properties": {
+        "degrees": { "type": "number", "description": "Gay-Lussac degrees == % ABV" },
+        "raw": { "type": "string" }
+      }
+    },
+    "temperature_c": { "type": ["number", "null"], "description": "process temperature if stated" },
+    "duration": {
+      "type": ["object", "null"],
+      "description": "maceration/infusion time if stated",
+      "properties": { "amount": { "type": "number" }, "unit": { "type": "string", "enum": ["hours", "days", "weeks", "months"] } }
+    },
+    "ingredients": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name_en"],
+        "properties": {
+          "name_it": { "type": "string" },
+          "name_en": { "type": "string" },
+          "qty": { "type": ["number", "null"], "description": "null if not numeric (e.g. 'q.b.')" },
+          "unit": { "type": "string", "description": "resolved unit; may be inherited from section convention" },
+          "unit_implicit": { "type": "boolean", "description": "true if unit inferred from context, not printed" },
+          "variants": {
+            "type": ["array", "null"],
+            "description": "ONLY when the source prints >1 proportion column. qty holds column 1; variants holds columns 2..n in order. null/omit for single-column recipes.",
+            "items": { "type": ["number", "null"] }
+          },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "steps_en": { "type": "array", "items": { "type": "string" } },
+    "notes_en": { "type": "string" },
+    "ocr_flags": {
+      "type": "array",
+      "description": "words the model was unsure about (for QA triage)",
+      "items": { "type": "string" }
+    },
+    "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+  }
+}

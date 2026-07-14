@@ -1,0 +1,307 @@
+[
+ {
+  "id": "vanilla-liqueur",
+  "page": 455,
+  "section_en": "Liqueurs",
+  "title_it": "Vaniglia",
+  "title_en": "Vanilla",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol of 90°",
+    "qty": 700,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di rose",
+    "name_en": "Rose essence",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Follow the usual procedure."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "violet-elixir",
+  "page": 455,
+  "section_en": "Liqueurs",
+  "title_it": "Viole (Elixir di)",
+  "title_en": "Violet Elixir",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ireos di Firenze",
+    "name_en": "Iris root of Florence",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Violette",
+    "name_en": "Violets",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno di sassafrasso",
+    "name_en": "Sassafras wood",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi ambretti",
+    "name_en": "Ambrette seeds",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cascarilla",
+    "name_en": "Cascarilla bark",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol of 90°",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 9,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Reduce the iris root of Florence to powder.",
+   "Weigh the other substances.",
+   "Leave them to macerate in alcohol for 8 days.",
+   "Filter everything."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "vespetro",
+  "page": 455,
+  "section_en": "Liqueurs",
+  "title_it": "Vespetro",
+  "title_en": "Vespetro",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi d'angelica",
+    "name_en": "Angelica seeds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     60,
+     60
+    ]
+   },
+   {
+    "name_it": "Semi di carvi",
+    "name_en": "Caraway seeds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Semi di coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     32,
+     60
+    ]
+   },
+   {
+    "name_it": "Semi di finocchio",
+    "name_en": "Fennel seeds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     8,
+     10
+    ]
+   },
+   {
+    "name_it": "Semi di anice verde",
+    "name_en": "Green anise seeds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     8,
+     6
+    ]
+   },
+   {
+    "name_it": "Semi di anice stellato",
+    "name_en": "Star anise seeds",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "not in column I",
+    "variants": [
+     4,
+     2
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol of 85°",
+    "qty": 1400,
+    "unit": "ml",
+    "unit_implicit": true,
+    "variants": [
+     1400,
+     2000
+    ]
+   },
+   {
+    "name_it": "Scorza gialla di un limone",
+    "name_en": "Yellow peel of one lemon",
+    "qty": null,
+    "unit": null,
+    "unit_implicit": false,
+    "note": "added after filtering"
+   },
+   {
+    "name_it": "Scorza gialla di un'arancia",
+    "name_en": "Yellow peel of one orange",
+    "qty": null,
+    "unit": null,
+    "unit_implicit": false,
+    "note": "added after filtering"
+   }
+  ],
+  "steps_en": [
+   "Filter the tincture through paper.",
+   "Finally mix in the yellow peel of one lemon and one orange."
+  ],
+  "notes_en": "Three proportions provided (columns I, II, III).",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "ginger-rosolio",
+  "page": 455,
+  "section_en": "Liqueurs",
+  "title_it": "Zenzero (Rosolio)",
+  "title_en": "Ginger Rosolio",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Radice di zenzero",
+    "name_en": "Ginger root",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "minced"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol of 70°",
+    "qty": 3,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Place minced ginger root in a glass vessel with 3 litres of alcohol of 70°.",
+   "Cover with parchment paper.",
+   "Leave to rest for 48 hours.",
+   "Decant the liquid."
+  ],
+  "notes_en": "Recipe continues on the next page.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ }
+]

@@ -1,0 +1,304 @@
+[
+ {
+  "id": "angelica-root",
+  "page": 701,
+  "section_en": "Bitters & Cordials",
+  "title_it": "Angelica (radice)",
+  "title_en": "Angelica Root",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; method and full instructions not provided.",
+  "confidence": 0.45
+ },
+ {
+  "id": "curaçao",
+  "page": 701,
+  "section_en": "Bitters & Cordials",
+  "title_it": "Curaçao",
+  "title_en": "Curaçao",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di arancia dolce",
+    "name_en": "Sweet orange peel",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di arancia amara",
+    "name_en": "Bitter orange peel",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Fava tonka",
+    "name_en": "Tonka bean",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di fiore d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": 2,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; method and full instructions not provided.",
+  "confidence": 0.6
+ },
+ {
+  "id": "elixir-svedese",
+  "page": 701,
+  "section_en": "Bitters & Cordials",
+  "title_it": "Elixir svedese",
+  "title_en": "Swedish Elixir",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zodoaria",
+    "name_en": "Zedoary",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Agarico",
+    "name_en": "Agaric",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Liquirizia",
+    "name_en": "Licorice",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 4,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; method and full instructions not provided.",
+  "confidence": 0.6
+ },
+ {
+  "id": "gocce-amare",
+  "page": 701,
+  "section_en": "Bitters & Cordials",
+  "title_it": "Gocce amare",
+  "title_en": "Bitter Drops",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Radice di zenzero",
+    "name_en": "Ginger root",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "Corteccia d'angostura",
+    "name_en": "Angostura bark",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Corteccia di china",
+    "name_en": "Cinchona bark",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 100,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; method and full instructions not provided.",
+  "confidence": 0.65
+ },
+ {
+  "id": "vermouth",
+  "page": 701,
+  "section_en": "Bitters & Cordials",
+  "title_it": "Vermouth",
+  "title_en": "Vermouth",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Iva",
+    "name_en": "Germander speedwell",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Liquirizia",
+    "name_en": "Licorice",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 7,
+    "unit": "g"
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Noce moscata e Macis",
+    "name_en": "Nutmeg and mace",
+    "qty": 1,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; method and full instructions not provided. Note indicates that for these preparations, the vegetable substance mixtures indicated elsewhere could also be used.",
+  "confidence": 0.7
+ }
+]

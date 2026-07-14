@@ -1,0 +1,345 @@
+[
+ {
+  "id": "ginger-juniper-angelica-etc-maceration",
+  "page": 693,
+  "section_en": "Macerated Liqueurs",
+  "title_it": "Zenzero, di Ginepro, di Angelica, ecc., di Lamponi, di Cedri, di Arance, ecc.",
+  "title_en": "Ginger, Juniper, Angelica, Raspberries, Citrons, Oranges, etc.",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zenzero, Ginepro, Angelica, Lamponi, Cedri, Arance",
+    "name_en": "Ginger, juniper, angelica, raspberries, citrons, oranges (respective substances)",
+    "qty": 10,
+    "unit": "g/L",
+    "unit_implicit": false,
+    "note": "10–25 g/L for dry botanicals; 100–150 g/L for fruits"
+   },
+   {
+    "name_it": "Vino",
+    "name_en": "Wine",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 100,
+    "unit": "g/L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the respective botanical and fruit substances in wine at 10–25 g/L for dry goods or 100–150 g/L for fruits.",
+   "Add sugar at 100 g/L.",
+   "Bottle when ready."
+  ],
+  "notes_en": "General proportional formula for macerated fruit and herbal liqueurs.",
+  "confidence": 0.9
+ },
+ {
+  "id": "spiced-wine-liqueur-i",
+  "page": 693,
+  "section_en": "Macerated Liqueurs",
+  "title_it": "Liquore speziato I",
+  "title_en": "Spiced Wine Liqueur I",
+  "method": "maceration",
+  "yield": {
+   "amount": 2,
+   "unit": "bottles",
+   "note": "from 2 bottles of wine base"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vino generoso bianco o rosso",
+    "name_en": "Generous white or red wine",
+    "qty": 2,
+    "unit": "bottles",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Chiodi di garofano",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "count",
+    "unit_implicit": false,
+    "note": "approximately a score"
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 0.5,
+    "unit": "count",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "a pinch"
+   },
+   {
+    "name_it": "Mele e arance",
+    "name_en": "Apples and oranges",
+    "qty": null,
+    "unit": "count",
+    "unit_implicit": false,
+    "note": "several slices"
+   },
+   {
+    "name_it": "Mandorle dolci",
+    "name_en": "Sweet almonds",
+    "qty": 12,
+    "unit": "count",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix in a bowl the contents of two bottles of generous white or red wine with 750 g sugar in pieces, 20 g cinnamon, about twenty cloves, half a nutmeg, a pinch of ginger, and several slices of apples and oranges.",
+   "Leave the mixture to stand until the sugar dissolves.",
+   "Add a dozen sweet almonds.",
+   "Strain repeatedly through flannel.",
+   "Bottle."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "spiced-wine-liqueur-ii",
+  "page": 693,
+  "section_en": "Macerated Liqueurs",
+  "title_it": "Liquore speziato II",
+  "title_en": "Spiced Wine Liqueur II",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "L",
+   "note": "from 10 L wine base"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vino bianco o rosso generoso (Chablis o Bordeaux)",
+    "name_en": "Generous white or red wine (Chablis or Bordeaux)",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Cina polverizzata",
+    "name_en": "Powdered Chinese cinnamon",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arancio (opzionale)",
+    "name_en": "Essential oil of orange (optional)",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": false,
+    "note": "a few drops"
+   },
+   {
+    "name_it": "Scorze di arance o di limoni (opzionale)",
+    "name_en": "Orange or lemon zest (optional)",
+    "qty": null,
+    "unit": "count",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia (opzionale)",
+    "name_en": "Vanilla (optional)",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "dissolved in a little water"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Colla di pesce",
+    "name_en": "Isinglass (fish glue)",
+    "qty": null,
+    "unit": "count",
+    "unit_implicit": false,
+    "note": "for clarification"
+   }
+  ],
+  "steps_en": [
+   "In 10 L of generous white or red wine (Chablis or Bordeaux), macerate for 8–10 days: 6 g powdered Chinese cinnamon, 2 g nutmegs, 1 g mace, and 1.5 g cloves.",
+   "Optionally add a few drops of essential orange oil, orange or lemon zest, and 7–8 g vanilla.",
+   "Strain.",
+   "Add 1.8 kg sugar dissolved in a little water and 1 L of alcohol at 85°.",
+   "Clarify with isinglass.",
+   "After settling, filter and bottle."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "tea-and-spice-cordial",
+  "page": 693,
+  "section_en": "Macerated Liqueurs",
+  "title_it": "Liquore al Thè III",
+  "title_en": "Tea and Spice Cordial III",
+  "method": "maceration",
+  "yield": {
+   "amount": 4.2,
+   "unit": "L",
+   "note": "from 200 mL spirits + 4 L wine base"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Thè Hyson",
+    "name_en": "Hyson tea",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Catechu",
+    "name_en": "Catechu (cutch)",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seeds",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cacao (semi)",
+    "name_en": "Cacao seeds",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arancio amare",
+    "name_en": "Bitter orange zest",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acquavite o cognac",
+    "name_en": "Brandy or cognac",
+    "qty": 200,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 0.54,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate Hyson tea (5 g), catechu (2 g), cinnamon (2 g), angelica seeds (5 g), cacao seeds (8 g), mace (1 g), and bitter orange zest (2 g) in 200 mL of brandy or cognac.",
+   "After 24 hours, add 4 L of white wine.",
+   "Strain, pressing the solids.",
+   "Add 0.54 kg sugar and filter."
+  ],
+  "ocr_flags": [
+   "Catechu (uncertain if original spelling; modern: catechu or cutch)",
+   "Hyswon (likely Hyson, a type of green tea)"
+  ],
+  "confidence": 0.88
+ }
+]

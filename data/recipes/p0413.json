@@ -1,0 +1,253 @@
+[
+ {
+  "id": "moscato",
+  "page": 413,
+  "section_en": "Liqueurs",
+  "title_it": "Moscato",
+  "title_en": "Muscatel",
+  "method": "distillation",
+  "yield": {
+   "amount": 15,
+   "unit": "litres",
+   "note": "distilled spirit at 72°"
+  },
+  "alcohol_strength": {
+   "degrees": 72,
+   "raw": "72°"
+  },
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Orris root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit of 60°",
+    "qty": 20,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 48 hours.",
+   "Distil to obtain 15 litres of spirit at 72°.",
+   "Add 3 litres of water.",
+   "Add 12 litres of syrup.",
+   "Colour to a light brown."
+  ],
+  "notes_en": "The final product is light brown in colour.",
+  "confidence": 0.92
+ },
+ {
+  "id": "nectar",
+  "page": 413,
+  "section_en": "Liqueurs",
+  "title_it": "Nectar",
+  "title_en": "Nectar",
+  "method": "distillation",
+  "yield": {
+   "amount": 3,
+   "unit": "litres",
+   "note": "distilled spirit"
+  },
+  "duration": {
+   "amount": null,
+   "unit": "hours",
+   "note": "maceration time not specified"
+  },
+  "ingredients": [
+   {
+    "name_it": "Melissa (foglie)",
+    "name_en": "Balm (leaves)",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda (fiori)",
+    "name_en": "Lavender (flowers)",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag (calamus)",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit of 90°",
+    "qty": 2.5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.2,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the ingredients.",
+   "Distil to obtain 3 litres of spirit.",
+   "The recipe continues on the next page (instructions incomplete)."
+  ],
+  "notes_en": "Recipe is incomplete; final steps and finishing details appear to continue on a following page.",
+  "ocr_flags": [
+   "Coriandoli (possibly should be Coriandolo, singular)"
+  ],
+  "confidence": 0.88
+ }
+]

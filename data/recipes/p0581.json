@@ -1,0 +1,147 @@
+[
+ {
+  "id": "aromatic-liqueur",
+  "page": 581,
+  "section_en": "Aromatic Liqueurs",
+  "title_it": "A. Aromatico",
+  "title_en": "Aromatic Liqueur",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "final product after mixing"
+  },
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "45°"
+  },
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 3.2,
+    "unit": "litres",
+    "alcohol_strength": {
+     "degrees": 90,
+     "raw": "90°"
+    }
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.8,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate the ingredients (coriander seeds, cloves, cardamom, nutmeg, fennel) in alcohol and water for 15 days.",
+   "Strain and press the residue to obtain a total of 4.8 litres of liquid.",
+   "Mix the resulting tincture with 6.6 litres of alcohol 90°, 1 litre of Port wine, 1 litre of simple syrup, and 6.6 litres of water.",
+   "Heat in a still as for artificial aging of liqueurs.",
+   "After cooling, mix 1.6 litres of this tincture with fresh orange tincture (0.72 litres), quince tincture (0.2 litres), and gentian tincture (0.08 litres).",
+   "Add orseille colouring (0.08 litres).",
+   "Adjust the volume to 10 litres with water and alcohol to reach an alcohol content of 45°."
+  ],
+  "notes_en": "This is a two-stage liqueur preparation. The initial maceration produces a base tincture which is then fortified and blended with additional aromatic tinctures (orange, quince, gentian) and coloured with orseille.",
+  "confidence": 0.92
+ },
+ {
+  "id": "herbal-liqueur",
+  "page": 581,
+  "section_en": "Aromatic Liqueurs",
+  "title_it": "A. Di Erbe",
+  "title_en": "Herbal Liqueur",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Luppolo (fiori)",
+    "name_en": "Hops (flowers)",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona bark",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete—only ingredients listed on this page. Method and further instructions appear to continue on following page.",
+  "confidence": 0.85,
+  "ocr_flags": [
+   "Issopo (unclear if Issopo or Issopo—Italian for hyssop)"
+  ]
+ }
+]

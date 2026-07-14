@@ -1,0 +1,324 @@
+[
+ {
+  "id": "aromatic-liquor-with-ginger-and-gentian",
+  "page": 584,
+  "section_en": "Aromatic Liqueurs",
+  "title_it": "Liquore aromatizzato",
+  "title_en": "Aromatic Liquor",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "final yield after dilution and sweetening to desired strength and taste"
+  },
+  "alcohol_strength": {
+   "degrees": 36,
+   "raw": "36°"
+  },
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 65,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 35,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 35,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 65,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag (calamus)",
+    "qty": 65,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol, 75° proof",
+    "qty": 10,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "litres",
+    "note": "to dilute to desired strength"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 0.5,
+    "unit": "kg per litre",
+    "note": "final liquor should contain 500 g sugar per litre"
+   }
+  ],
+  "steps_en": [
+   "Macerate the herbs and peels with 10 litres of 75° alcohol for 48 hours.",
+   "Extract by distillation to obtain an aromatized alcohol.",
+   "Mix the aromatized alcohol with water, alcohol, and sugar until the desired density and flavour are achieved.",
+   "The final liquor must measure 36° and contain 500 g sugar per litre.",
+   "Colour with caramel (burnt sugar) as desired."
+  ],
+  "notes_en": "This is a digestive-style liqueur. The final fortification and sweetening are adjusted to taste.",
+  "ocr_flags": [
+   "oro (likely 'ore' = hours)",
+   "ricava (verb: to extract/obtain)",
+   "zucclioro (likely 'zucchero' = sugar)"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "bitter-liqueur-common",
+  "page": 584,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "Bitter — A. Comune",
+  "title_en": "Bitter — Common Style",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "60°"
+  },
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Quassio (legno)",
+    "name_en": "Quassia wood",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 60,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": null,
+    "unit": "count",
+    "note": "from 5 lemons"
+   },
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": null,
+    "unit": "count",
+    "note": "from 10 bitter oranges"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol, 60° proof",
+    "qty": 10,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Legno Fernambuco",
+    "name_en": "Brazilwood (Fernambuco)",
+    "qty": 100,
+    "unit": "grams",
+    "note": "for decoction to colour"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "litre",
+    "note": "for brazilwood decoction"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg",
+    "note": "for syrup"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "litre",
+    "note": "to dissolve sugar for syrup"
+   }
+  ],
+  "steps_en": [
+   "Macerate all herbs, spices, and citrus peels in 10 litres of 60° alcohol for 10 days.",
+   "Strain the macerate.",
+   "Prepare a decoction of 100 g brazilwood in 1 litre of water.",
+   "Colour the strained liquor with this brazilwood decoction.",
+   "Prepare a syrup by dissolving 2 kg sugar in 0.5 litres of water.",
+   "Add the syrup to the coloured liquor and blend well."
+  ],
+  "notes_en": "A classic Italian bitter liqueur with warm spice notes and citrus brightness.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "bitter-liqueur-bavarian",
+  "page": 584,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "Bitter — A. Bavarese",
+  "title_en": "Bitter — Bavarian Style",
+  "method": "maceration",
+  "yield": {
+   "amount": 2.6,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorza di arance",
+    "name_en": "Orange peel",
+    "qty": 60,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Luppolo (fiori)",
+    "name_en": "Hops (flowers)",
+    "qty": 40,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Arance intere",
+    "name_en": "Whole oranges",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Corteccia di china",
+    "name_en": "Cinchona bark",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag (calamus)",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 8,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 8,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 4,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90° proof",
+    "qty": 1.75,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.85,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Combine all herbs, spices, and citrus materials.",
+   "Macerate with 1.75 litres of 90° alcohol and 0.85 litres of water.",
+   "After maceration (duration not specified), strain and bottle."
+  ],
+  "notes_en": "An elaborate herbal bitter with strong botanical character typical of Central European styles. The precise maceration time is not provided in the source.",
+  "ocr_flags": [
+   "Arance intere (interpretation: whole dried oranges or orange slices at 30 g weight)"
+  ],
+  "confidence": 0.88
+ }
+]

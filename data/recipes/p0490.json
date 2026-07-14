@@ -1,0 +1,272 @@
+[
+ {
+  "id": "maraschino-i",
+  "page": 490,
+  "section_en": "Maraschino",
+  "title_it": "Maraschino I",
+  "title_en": "Maraschino I",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "40% alcohol"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di mandorlo amaro",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di lamponi",
+    "name_en": "Raspberry juice",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "12% alcohol"
+   },
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "12% alcohol"
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kilograms",
+    "unit_implicit": false,
+    "note": "hot solution"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.5,
+    "unit": "kilograms",
+    "unit_implicit": false,
+    "note": "hot solution"
+   }
+  ],
+  "steps_en": [
+   "Combine the essential oils with 5 liters of 90° alcohol.",
+   "Add the raspberry juice, cherry juice, and orange flower water.",
+   "Prepare a hot solution of 2.5 kg sugar in 2.5 kg water.",
+   "Add the hot sugar solution to the mixture.",
+   "Final product: 10 liters at 40% alcohol."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "maraschino-ii",
+  "page": 490,
+  "section_en": "Maraschino",
+  "title_it": "Maraschino II",
+  "title_en": "Maraschino II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 0,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "OCR unclear; possibly trace amount"
+   },
+   {
+    "name_it": "Olio essenziale di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di fiori d'arancio",
+    "name_en": "Essential oil of orange flowers",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di mandorlo amaro",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 0.05,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di lamponi",
+    "name_en": "Raspberry water",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di ciliege",
+    "name_en": "Cherry water",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di rosa",
+    "name_en": "Rose extract",
+    "qty": 0.06,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 15,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils with raspberry and cherry waters.",
+   "Add rose extract.",
+   "Mix with 12.5 liters of 90° alcohol and 4.5 liters of water.",
+   "Add 15 liters of syrup.",
+   "Result is colorless (incoloro)."
+  ],
+  "notes_en": "Incoloro (colorless).",
+  "ocr_flags": [
+   "cannella qty (0 grams) — possibly OCR error for a small amount"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "maraschino-di-dalmazia-sopraffino",
+  "page": 490,
+  "section_en": "Maraschino",
+  "title_it": "Maraschino di Dalmazia (sopraffino)",
+  "title_en": "Maraschino of Dalmatia (superfine)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di fiori d'arancio",
+    "name_en": "Essential oil of orange flowers",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di gelsomino",
+    "name_en": "Jasmine extract",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 650,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils of bitter almond and orange flowers with jasmine extract and vanilla tincture.",
+   "Mix with 650 grams of 90° alcohol.",
+   "Dissolve 800 grams sugar in 650 grams water.",
+   "Combine all ingredients."
+  ],
+  "confidence": 0.93
+ }
+]

@@ -1,0 +1,316 @@
+[
+ {
+  "id": "fennel",
+  "page": 480,
+  "section_en": "",
+  "title_it": "Finocchio",
+  "title_en": "Fennel",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "36% alcohol"
+  },
+  "alcohol_strength": {
+   "degrees": 36,
+   "raw": "alcool 36%"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Fennel essential oil",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Anise essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 4,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "90° Gay-Lussac"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.7,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": "Light yellow colour.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "flowers-of-love",
+  "page": 480,
+  "section_en": "",
+  "title_it": "Fiori d'amore",
+  "title_en": "Flowers of Love",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di macìe",
+    "name_en": "Mace essential oil",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di garofano",
+    "name_en": "Clove essential oil",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Bitter almond essential oil",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di rose (turca)",
+    "name_en": "Rose essential oil (Turkish)",
+    "qty": 0.05,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Cardamom essential oil",
+    "qty": 0.05,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 150,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 12.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "95° Gay-Lussac"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 17,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.5,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": "Red colour.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "orange-flowers",
+  "page": 480,
+  "section_en": "",
+  "title_it": "Fiori d'arancio",
+  "title_en": "Orange Flowers",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Orange flower essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": null,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "dash (—) in column I",
+    "variants": [
+     0.2
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "85° Gay-Lussac",
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix ingredients.",
+   "Do not colour.",
+   "Filter."
+  ],
+  "notes_en": "Two columns: I (standard) and II (Soprafino/Fine). Non si colorisce: do not color it.",
+  "ocr_flags": [
+   "Sopraftìno (OCR: Soprafìno, likely fine/superior grade)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "cloves",
+  "page": 480,
+  "section_en": "",
+  "title_it": "Garofani",
+  "title_en": "Cloves",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     80
+    ]
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "60° alcohol",
+    "qty": 12.75,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "60° Gay-Lussac",
+    "variants": [
+     42
+    ]
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     5.7
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.25,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     53
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": "Brown colour. Two columns: I (standard) and II (Doppio/Double).",
+  "ocr_flags": [],
+  "confidence": 0.93
+ }
+]

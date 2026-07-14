@@ -1,0 +1,240 @@
+[
+ {
+  "id": "amaro-angostura",
+  "page": 580,
+  "section_en": "By Maceration and Digestion",
+  "title_it": "Amaro Angostura",
+  "title_en": "Amaro Angostura",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "final product at 48% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 48,
+   "raw": "alcool 48%"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Angostura corteccia",
+    "name_en": "Angostura bark",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno sandalo",
+    "name_en": "Sandalwood",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fave Tonka",
+    "name_en": "Tonka beans",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (rad.)",
+    "name_en": "Gentian root",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga (rad.)",
+    "name_en": "Galangal root",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero (rad.)",
+    "name_en": "Ginger root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90° GL",
+    "qty": 3200,
+    "unit": "ml",
+    "unit_implicit": false,
+    "note": "90 degrees Gay-Lussac"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1600,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 8 days.",
+   "Filter.",
+   "To the composed tincture, add spirit at 90° GL, rum, Malaga wine, Port wine, syrup, and water in the proportions listed.",
+   "Produce a dark brown liqueur."
+  ],
+  "notes_en": "The liqueur composition shows the addition phase: 4.8 L of composed tincture is mixed with 6.2 L of 90° spirit, 1 L rum, 1 L Malaga wine, 1 L Port wine, 1 L syrup, and 5 L water to yield 20 L at 48% ABV.",
+  "confidence": 0.92
+ },
+ {
+  "id": "aperitivo-a",
+  "page": 580,
+  "section_en": "By Maceration and Digestion",
+  "title_it": "Aperitivo A",
+  "title_en": "Aperitivo A",
+  "method": "unknown",
+  "yield": null,
+  "ingredients": [
+   {
+    "name_it": "Arance",
+    "name_en": "Orange",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity illegible in OCR"
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus",
+    "qty": 90,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (rad.)",
+    "name_en": "Gentian root",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (rad.)",
+    "name_en": "Iris root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta pip.",
+    "name_en": "Peppermint",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "ocr_flags": [
+   "Arance quantity illegible (OCR shows only 'gr' with no number)"
+  ],
+  "confidence": 0.75
+ }
+]

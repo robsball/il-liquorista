@@ -1,0 +1,261 @@
+[
+ {
+  "id": "ratafía",
+  "page": 567,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Ratafià",
+  "title_en": "Ratafía",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ciliege",
+    "name_en": "Cherries",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Lamponi",
+    "name_en": "Raspberries",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Marasche",
+    "name_en": "Sour cherries",
+    "qty": 1.5,
+    "unit": "kg",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cassia",
+    "name_en": "Cassia",
+    "qty": 1.5,
+    "unit": "kg",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 3.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Tintura di lauro ceraso",
+    "name_en": "Cherry laurel tincture",
+    "qty": 50,
+    "unit": "ml"
+   },
+   {
+    "name_it": "Tintura di galanga",
+    "name_en": "Galangal tincture",
+    "qty": 50,
+    "unit": "ml"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua di noccioli",
+    "name_en": "Kernel water",
+    "qty": 0.8,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "litres",
+    "note": "as needed to reach 10 litres"
+   }
+  ],
+  "steps_en": [
+   "Crush the mixed fruits without breaking the pits.",
+   "Macerate the fruit mass for one month in 3.5 litres of alcohol mixed with 50 ml cherry laurel tincture and 50 ml galangal tincture.",
+   "Strain the liquid, pressing the residue.",
+   "Dissolve 5 kg sugar in hot water and mix with the strained liquid.",
+   "Add 0.8 litres of kernel water and enough water to complete 10 litres total."
+  ],
+  "notes_en": "A cherry and raspberry liqueur.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "krambambuli-di-danzica",
+  "page": 567,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Krambambuli di Danzica",
+  "title_en": "Krambambuli of Danzig",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "at 40% alcohol"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Succo di ciliege (non zuccherato)",
+    "name_en": "Cherry juice (unsweetened)",
+    "qty": 0.6,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Succo di lamponi",
+    "name_en": "Raspberry juice",
+    "qty": 0.8,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaica rum",
+    "qty": 0.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 8.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arance (Bigarade)",
+    "name_en": "Essential oil of bitter orange peel",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di calamo arom.",
+    "name_en": "Essential oil of aromatic calamus",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenz. di cedro",
+    "name_en": "Essential oil of citron",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 7.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.4,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Combine cherry juice, raspberry juice, Jamaica rum, and 90° alcohol.",
+   "Add the essential oils of bitter orange peel, cloves, cinnamon, aromatic calamus, and citron.",
+   "Mix in sugar syrup and water.",
+   "Stir well and allow to blend. Colour should be brownish-red."
+  ],
+  "notes_en": "Final product: 20 litres at 40% alcohol. Brownish-red colour.",
+  "ocr_flags": [
+   "Bigarade (bitter orange peel, common in period liqueurs)"
+  ],
+  "confidence": 0.94
+ },
+ {
+  "id": "nalewska",
+  "page": 567,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Nalewska",
+  "title_en": "Nalewska",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Succo di ciliege (non zuccherato)",
+    "name_en": "Cherry juice (unsweetened)",
+    "qty": 1.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Succo di lamponi",
+    "name_en": "Raspberry juice",
+    "qty": 1,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 3.75,
+    "unit": "litres",
+    "note": "alcohol degree not fully legible in source"
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 3.25,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 20,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 5,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [
+   "Dilute the essential oils of bitter almonds (20 drops), cinnamon (10 drops), and cloves (5 drops) in the alcohol.",
+   "Mix with cherry juice, raspberry juice, and simple syrup."
+  ],
+  "notes_en": "A Polish-style fruit liqueur with almond and spice notes.",
+  "ocr_flags": [
+   "Alcool degree missing or corrupted in OCR (line reads 'Alcool di ........................................................')"
+  ],
+  "confidence": 0.88
+ }
+]

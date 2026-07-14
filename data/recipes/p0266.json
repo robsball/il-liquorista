@@ -1,0 +1,339 @@
+[
+ {
+  "id": "ether-butyric-and-nitric",
+  "page": 266,
+  "section_en": "Ethers — Enanthic",
+  "title_it": "Etere enantrico",
+  "title_en": "Enanthic Ether",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 100,
+   "raw": "alcool assoluto 100"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere nitrico",
+    "name_en": "Nitric ether",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio di vinaccioli",
+    "name_en": "Grape seed oil",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Dissolved in absolute alcohol 100°.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "ether-of-plums-english",
+  "page": 266,
+  "section_en": "Ethers — English Style",
+  "title_it": "Etere di prugne (in glese)",
+  "title_en": "Ether of Plums (English Style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere formico",
+    "name_en": "Formic ether",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Aldeide",
+    "name_en": "Aldehyde",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "ether-of-apple-orange-english",
+  "page": 266,
+  "section_en": "Ethers — English Style",
+  "title_it": "Etere di mela e arance (in glese)",
+  "title_en": "Ether of Apple and Orange (English Style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di ananas",
+    "name_en": "Pineapple ether",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di arance dolci",
+    "name_en": "Essential oil of sweet orange",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [
+   "Etero (likely Etere — OCR corruption)"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "ether-of-cherry-english",
+  "page": 266,
+  "section_en": "Ethers — English Style",
+  "title_it": "Etere di ciliege (in glese)",
+  "title_en": "Ether of Cherry (English Style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Acetato di amile",
+    "name_en": "Amyl acetate",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Butirrato di amile",
+    "name_en": "Amyl butyrate",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di arance dolci",
+    "name_en": "Essential oil of sweet orange",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 960,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "ether-of-regina-claudia-plum",
+  "page": 266,
+  "section_en": "Ethers",
+  "title_it": "Etere di prugne regina claudia",
+  "title_en": "Ether of Regina Claudia Plum",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di prugne",
+    "name_en": "Plum essence",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua di mandorle amare",
+    "name_en": "Bitter almond water",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di bergamotto",
+    "name_en": "Bergamot essence",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "ether-of-strawberry-english",
+  "page": 266,
+  "section_en": "Ethers — English Style",
+  "title_it": "Etere di fragole (in glese)",
+  "title_en": "Ether of Strawberry (English Style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acetato di amile",
+    "name_en": "Amyl acetate",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Formiato di amile",
+    "name_en": "Amyl formate",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Valerianato di amile",
+    "name_en": "Amyl valerate",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Butirrato di amile",
+    "name_en": "Amyl butyrate",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di fragole",
+    "name_en": "Strawberry essence",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [
+   "Essenza di ireos (OCR corruption; likely Essenza di fragole or another strawberry-related term)"
+  ],
+  "confidence": 0.88
+ }
+]

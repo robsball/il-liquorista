@@ -1,0 +1,202 @@
+[
+  {
+    "id": "storace",
+    "page": 240,
+    "title_it": "Storace",
+    "title_en": "Styrax (Storace)",
+    "method": "maceration",
+    "yield": null,
+    "ingredients": [
+      {
+        "name_it": "Storace",
+        "name_en": "Styrax",
+        "qty": 1,
+        "unit": "kg",
+        "unit_implicit": false
+      },
+      {
+        "name_it": "Alcool di 96°",
+        "name_en": "Alcohol 96°",
+        "qty": 3,
+        "unit": "kg",
+        "unit_implicit": false
+      },
+      {
+        "name_it": "Acqua distillata",
+        "name_en": "Distilled water",
+        "qty": 0.5,
+        "unit": "kg",
+        "unit_implicit": false
+      }
+    ],
+    "steps_en": [
+      "Macerate for 15 days."
+    ],
+    "notes_en": null,
+    "ocr_flags": [],
+    "confidence": 0.95
+  },
+  {
+    "id": "the",
+    "page": 240,
+    "title_it": "The",
+    "title_en": "Tea",
+    "method": "infusion",
+    "yield": null,
+    "ingredients": [
+      {
+        "name_it": "The ottimo nero",
+        "name_en": "Premium black tea",
+        "qty": 200,
+        "unit": "gr",
+        "unit_implicit": false
+      },
+      {
+        "name_it": "Alcool di 90°",
+        "name_en": "Alcohol 90°",
+        "qty": 750,
+        "unit": "gr",
+        "unit_implicit": false
+      },
+      {
+        "name_it": "Arrac o Cognac",
+        "name_en": "Arrack or Cognac",
+        "qty": 250,
+        "unit": "gr",
+        "unit_implicit": false
+      }
+    ],
+    "steps_en": [
+      "Infuse for 20 days."
+    ],
+    "notes_en": null,
+    "ocr_flags": ["Arrac"],
+    "confidence": 0.90
+  },
+  {
+    "id": "timo",
+    "page": 240,
+    "title_it": "Timo",
+    "title_en": "Thyme",
+    "method": "maceration",
+    "yield": null,
+    "ingredients": [
+      {
+        "name_it": "Timo",
+        "name_en": "Thyme",
+        "qty": 250,
+        "unit": "gr",
+        "unit_implicit": false
+      },
+      {
+        "name_it": "Alcool di 85°",
+        "name_en": "Alcohol 85°",
+        "qty": 1,
+        "unit": "kg",
+        "unit_implicit": false
+      }
+    ],
+    "steps_en": [
+      "Macerate for 8 days."
+    ],
+    "notes_en": null,
+    "ocr_flags": [],
+    "confidence": 0.98
+  },
+  {
+    "id": "valeriana",
+    "page": 240,
+    "title_it": "Valeriana",
+    "title_en": "Valerian",
+    "method": "maceration",
+    "yield": null,
+    "ingredients": [
+      {
+        "name_it": "Radice di valeriana",
+        "name_en": "Valerian root",
+        "qty": 250,
+        "unit": "gr",
+        "unit_implicit": false
+      },
+      {
+        "name_it": "Alcool di 85°",
+        "name_en": "Alcohol 85°",
+        "qty": 1,
+        "unit": "kg",
+        "unit_implicit": false
+      }
+    ],
+    "steps_en": [
+      "Macerate for 15 days."
+    ],
+    "notes_en": null,
+    "ocr_flags": [],
+    "confidence": 0.98
+  },
+  {
+    "id": "vaniglia-method-i",
+    "page": 240,
+    "section_en": "Vanilla (Method I)",
+    "title_it": "Vaniglia",
+    "title_en": "Vanilla",
+    "method": "maceration",
+    "yield": null,
+    "ingredients": [
+      {
+        "name_it": "Vaniglia di 1° scelta",
+        "name_en": "First-grade vanilla",
+        "qty": 100,
+        "unit": "gr",
+        "unit_implicit": false
+      },
+      {
+        "name_it": "Alcool di 80°",
+        "name_en": "Alcohol 80°",
+        "qty": 1,
+        "unit": "kg",
+        "unit_implicit": false
+      }
+    ],
+    "steps_en": [
+      "Exhaust the vanilla in 5 successive extractions, using 200 gr of alcohol each time.",
+      "Combine the liquids obtained and then filter.",
+      "After extraction, treat the vanilla again with a fresh portion of alcohol, allowing it to remain in contact for a long time before using it in the preparation of another tincture with a new quantity of drug."
+    ],
+    "notes_en": "Multiple extractions from spent vanilla material.",
+    "ocr_flags": [],
+    "confidence": 0.92
+  },
+  {
+    "id": "vaniglia-method-ii",
+    "page": 240,
+    "section_en": "Vanilla (Method II)",
+    "title_it": "Vaniglia del Messico",
+    "title_en": "Mexican Vanilla",
+    "method": "cold_mix",
+    "yield": null,
+    "ingredients": [
+      {
+        "name_it": "Vaniglia del Messico",
+        "name_en": "Mexican vanilla",
+        "qty": 15,
+        "unit": "gr",
+        "unit_implicit": false
+      },
+      {
+        "name_it": "Zucchero",
+        "name_en": "Sugar",
+        "qty": 50,
+        "unit": "gr",
+        "unit_implicit": false
+      }
+    ],
+    "steps_en": [
+      "Grind the vanilla, cut into small pieces, together with the sugar.",
+      "Heat in a water bath (at 60°C) with one liter of alcohol 85°.",
+      "Filter when cold."
+    ],
+    "notes_en": "Vanilla is prepared with sugar and heated gently in alcohol.",
+    "ocr_flags": [],
+    "confidence": 0.90
+  }
+]

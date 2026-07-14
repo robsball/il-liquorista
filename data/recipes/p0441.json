@@ -1,0 +1,290 @@
+[
+ {
+  "id": "elixir-english",
+  "page": 441,
+  "section_en": "Elixirs",
+  "title_it": "Elisir inglese",
+  "title_en": "English Elixir",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Foglie di menta",
+    "name_en": "Mint leaves",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Foglie di melissa",
+    "name_en": "Lemon balm leaves",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorza gialla di limoni (fresca)",
+    "name_en": "Fresh lemon zest",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "80° alcohol",
+    "qty": 700,
+    "unit": "ml"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "ml"
+   }
+  ],
+  "steps_en": [
+   "Follow the standard procedure (macerate ingredients in alcohol, then add sugar solution)."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "golden-stomachic-elixir",
+  "page": 441,
+  "section_en": "Elixirs",
+  "title_it": "Elisir stomachico dorato",
+  "title_en": "Golden Stomachic Elixir",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "weeks"
+  },
+  "ingredients": [
+   {
+    "name_it": "China rossa contusa",
+    "name_en": "Bruised red cinchona bark",
+    "qty": 36,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di arance (curagao)",
+    "name_en": "Orange peel (curaçao)",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 18,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity unclear or very small in OCR"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 7200,
+    "unit": "ml"
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 7500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Common water",
+    "qty": 7600,
+    "unit": "ml"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in alcohol for one week.",
+   "Strain the tincture by pressing and add the sugar solution prepared by dissolving sugar in water.",
+   "Clarify with gelatin or filter the liqueur.",
+   "Bottle and preserve, placing a small piece of gold leaf in each bottle."
+  ],
+  "notes_en": "The gold leaf is a finishing touch for presentation and luxury.",
+  "ocr_flags": [
+   "saffron quantity"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "alpine-herbs-elixir",
+  "page": 441,
+  "section_en": "Elixirs",
+  "title_it": "Erbe alpine (Elisir di)",
+  "title_en": "Alpine Herbs Elixir",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Iva",
+    "name_en": "Iva (Teucrium chamaedrys)",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Genziana (radice)",
+    "name_en": "Gentian root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tormentilla",
+    "name_en": "Tormentil",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Centaurea minore",
+    "name_en": "Centaury (lesser)",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice comune",
+    "name_en": "Common anise",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 9,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 3200,
+    "unit": "ml"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1600,
+    "unit": "ml"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "A digestive elixir of alpine herbs.",
+  "ocr_flags": [
+   "Tormentilla (OCR: Tonnontilla)",
+   "cinnamon quantity (OCR: 0 likely should be 9)"
+  ],
+  "confidence": 0.88
+ }
+]

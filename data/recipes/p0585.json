@@ -1,0 +1,224 @@
+[
+ {
+  "id": "english-bitters",
+  "page": 585,
+  "section_en": "Bitters & Digestifs",
+  "title_it": "A. INGLESE",
+  "title_en": "English Bitters",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "from tincture base"
+  },
+  "alcohol_strength": {
+   "degrees": 42,
+   "raw": "42% alcool"
+  },
+  "duration": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Enula campana",
+    "name_en": "Elecampane",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Calamus root",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Cina",
+    "name_en": "Chinese cinnamon",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscata",
+    "name_en": "Nutmeg",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorza gialla di N. 5 limoni freschi",
+    "name_en": "Yellow zest of 5 fresh lemons",
+    "qty": null,
+    "unit": "whole fruits",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorza gialla di N. 1 arancia fresca",
+    "name_en": "Yellow zest of 1 fresh orange",
+    "qty": null,
+    "unit": "whole fruit",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 20,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in 85° alcohol for one month, stirring the mass frequently.",
+   "Strain through a sieve and filter the tincture.",
+   "To 2.5 litres of this tincture add: 1.250 litres of 90° alcohol, 1.250 litres simple syrup (equivalent to 1.250 kg sugar), and 3 litres water.",
+   "Final product: 10 litres at 42% alcohol."
+  ],
+  "notes_en": "This is the tincture base recipe. Final liqueur preparation is included in the instructions.",
+  "confidence": 0.95
+ },
+ {
+  "id": "aromatic-cordial",
+  "page": 585,
+  "section_en": "Bitters & Digestifs",
+  "title_it": "II.",
+  "title_en": "Aromatic Cordial",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "final liqueur"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "40% alcool"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorzo di arance",
+    "name_en": "Orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": null,
+    "unit": "litres",
+    "unit_implicit": false,
+    "note": "amount not specified in OCR; see maceration step"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 800,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanical ingredients with 90° alcohol and 800 ml water (amounts for tincture not fully legible in OCR).",
+   "Prepare the liqueur by mixing: 2.400 litres of the aromatic tincture, 2.750 litres 90° alcohol, 0.250 litres unsweetened cherry juice, 0.400 litres red wine, 3.750 litres syrup, and 0.500 litres water.",
+   "The final product is a clear brown liqueur at 10 litres, 40% alcohol."
+  ],
+  "notes_en": "Colour: clear brown (Bruno chiaro). The tincture is combined with additional spirits, fruit juice, wine, syrup and water to achieve the final strength and volume.",
+  "ocr_flags": [
+   "alcool amount for maceration step not clearly legible"
+  ],
+  "confidence": 0.92
+ }
+]

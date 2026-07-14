@@ -1,0 +1,318 @@
+[
+ {
+  "id": "danzig-water",
+  "page": 521,
+  "section_en": "Waters & Infusions",
+  "title_it": "Acqua d'aroma di Danzica",
+  "title_en": "Danzig Water",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 85,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscata",
+    "name_en": "Nutmeg",
+    "qty": 325,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 325,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica root",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mandorle amaro",
+    "name_en": "Bitter almonds",
+    "qty": 2500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Asperula odorosа",
+    "name_en": "Sweet woodruff",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 23,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Strain and press the residue.",
+   "Add the liquid obtained from pressing to the main liquid.",
+   "Finally filter."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "michels-water",
+  "page": 521,
+  "section_en": "Waters & Infusions",
+  "title_it": "Acqua di Michel",
+  "title_en": "Michel's Water",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75%"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorzo d'arance",
+    "name_en": "Orange peel",
+    "qty": 535,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di limoni",
+    "name_en": "Lemon peel",
+    "qty": 305,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimento",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "danzig-bread-water",
+  "page": 521,
+  "section_en": "Waters & Infusions",
+  "title_it": "Acqua di pane di Danzica",
+  "title_en": "Danzig Bread Water",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Crosta di pane nero di segale",
+    "name_en": "Rye bread crust",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di limone fresco",
+    "name_en": "Fresh lemon peel",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimento",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "water-of-virtue",
+  "page": 521,
+  "section_en": "Waters & Infusions",
+  "title_it": "Acqua di virtù",
+  "title_en": "Water of Virtue",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 1600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino (foglie)",
+    "name_en": "Rosemary leaves",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Limoni (scorze)",
+    "name_en": "Lemon peel",
+    "qty": 1070,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Orange peel",
+    "qty": 1070,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero bianco",
+    "name_en": "White ginger",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 12,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ }
+]

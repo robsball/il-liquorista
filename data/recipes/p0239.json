@@ -1,0 +1,331 @@
+[
+ {
+  "id": "black-pepper-and-pimento",
+  "page": 239,
+  "title_it": "Pepe nero (o Pimento)",
+  "title_en": "Black Pepper and Pimento",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Pepe nero (o Pimento)",
+    "name_en": "Black pepper (or pimento)",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Alcohol at 96°",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "confidence": 0.95
+ },
+ {
+  "id": "spanish-pepper",
+  "page": 239,
+  "title_it": "Pepe di Spagna",
+  "title_en": "Spanish Pepper",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Frutti di capsico (pepe di Cayenna)",
+    "name_en": "Capsicum fruits (Cayenne pepper)",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Alcohol at 96°",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 3 days.",
+  "ocr_flags": [
+   "Cayenna (OCR: Oaiennu)"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "prunes",
+  "page": 239,
+  "title_it": "Prugne",
+  "title_en": "Prunes",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95%"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Prugne turche",
+    "name_en": "Turkish prunes",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95%",
+    "name_en": "Alcohol at 95°",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Chop well-matured prunes and remove the pits.",
+   "Crush the pits and add them to the pulp.",
+   "Pour water over the pulp to dissolve it.",
+   "Add the alcohol and digest for several hours.",
+   "Decant, press, and filter."
+  ],
+  "notes_en": "Use mature prunes.",
+  "confidence": 0.96
+ },
+ {
+  "id": "quassia",
+  "page": 239,
+  "title_it": "Quassio",
+  "title_en": "Quassia",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Legno quassio",
+    "name_en": "Quassia wood",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "confidence": 0.94
+ },
+ {
+  "id": "rhubarb",
+  "page": 239,
+  "title_it": "Rabarbaro",
+  "title_en": "Rhubarb",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "confidence": 0.96
+ },
+ {
+  "id": "rose",
+  "page": 239,
+  "title_it": "Rose",
+  "title_en": "Rose",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Rose rosso (petali)",
+    "name_en": "Red rose petals",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "ocr_flags": [
+   "Uose (OCR error, likely 'Rose')"
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "rosemary",
+  "page": 239,
+  "title_it": "Rosmarino",
+  "title_en": "Rosemary",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Rosmarino foglie e fiori",
+    "name_en": "Rosemary leaves and flowers",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "ocr_flags": [
+   "Mori (OCR likely 'fiori' = flowers)"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "sage",
+  "page": 239,
+  "title_it": "Salvia",
+  "title_en": "Sage",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Salvia foglio",
+    "name_en": "Sage leaves",
+    "qty": 350,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "confidence": 0.96
+ }
+]

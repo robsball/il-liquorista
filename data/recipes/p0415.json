@@ -1,0 +1,287 @@
+[
+ {
+  "id": "creole-oil",
+  "page": 415,
+  "title_it": "Olio dei Creoli",
+  "title_en": "Creole Oil",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "final yield stated in instructions"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ambretta",
+    "name_en": "Ambrette seed",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 24,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 24,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit at 85°",
+    "qty": 8,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 11,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Follow the method indicated for Rosolio di Angelica.",
+   "Doses are for 10 liters of liqueur."
+  ],
+  "notes_en": "Proportions are calculated for a final yield of 10 liters.",
+  "confidence": 0.92
+ },
+ {
+  "id": "perfect-love-i",
+  "page": 415,
+  "title_it": "Perfetto Amore (I)",
+  "title_en": "Perfect Love (I)",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "at 72° ABV before final additions"
+  },
+  "alcohol_strength": {
+   "degrees": 0,
+   "raw": "alcool di 00°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze fresche di limoni",
+    "name_en": "Fresh lemon peel",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR damaged; likely 100g based on proportions, but '000' notation unclear"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 175,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 00°",
+    "name_en": "Spirit at 00°",
+    "qty": 25,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "OCR corruption; likely 90° or similar high-strength spirit"
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange blossom water",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "dissolved in alcohol"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 15,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Distill 20 liters to 72° proof.",
+   "Add 1 liter of orange blossom water dissolved in alcohol.",
+   "Add 2 liters of water or 15 liters of syrup."
+  ],
+  "notes_en": "Color: pink-red.",
+  "ocr_flags": [
+   "Scorze fresche di limoni gr. 000 (OCR corruption; likely 100 or 200)",
+   "Alcool di 00° (OCR corruption; likely 90°)"
+  ],
+  "confidence": 0.78
+ },
+ {
+  "id": "perfect-love-ii",
+  "page": 415,
+  "title_it": "Perfetto Amore (II)",
+  "title_en": "Perfect Love (II)",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "final product"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di cedri",
+    "name_en": "Citron peel",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60°",
+    "qty": 6,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "steps_en": [
+   "Allow the peels to macerate for two days; they should be in rasped form.",
+   "Distill in a bain-marie without rectification.",
+   "Yield: 10 liters."
+  ],
+  "notes_en": "The peels must be rasped (not whole). Distillation is performed in a water bath without rectification.",
+  "confidence": 0.94
+ },
+ {
+  "id": "peach-rosolio",
+  "page": 415,
+  "title_it": "Persico (Rosolio di)",
+  "title_en": "Peach (Rosolio)",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "at 72° ABV before final water/syrup addition"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di pesche",
+    "name_en": "Peach stones/kernels",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60°",
+    "qty": 25,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 16,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Distill slowly to yield 20 liters at 72° proof.",
+   "Add 4 liters of water.",
+   "Add 16 liters of syrup."
+  ],
+  "notes_en": "Colorless (incoloro). Slow distillation is specified.",
+  "confidence": 0.95
+ }
+]

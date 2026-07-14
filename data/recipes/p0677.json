@@ -1,0 +1,169 @@
+[
+ {
+  "id": "vermouth-american-style",
+  "page": 677,
+  "section_en": "Vermouth",
+  "title_it": "Vermouth all'Amaro o Americano",
+  "title_en": "Vermouth American Style (with Bitters)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 100,
+   "unit": "litres"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Amaro (Bitter)",
+    "name_en": "Bitters (Amaro)",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false,
+    "note": "5–10 litres of preferred bitters variety"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "dissolved in Vermouth"
+   },
+   {
+    "name_it": "Vermouth",
+    "name_en": "Vermouth",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto",
+    "name_en": "Extract",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosso di cocciniglia",
+    "name_en": "Cochineal red",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": false,
+    "note": "for colouring"
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": false,
+    "note": "for colouring"
+   }
+  ],
+  "steps_en": [
+   "Take 5–10 litres of your preferred Bitters (Amaro).",
+   "Dissolve 5 kg sugar in the Vermouth.",
+   "Add to one hectolitre (100 litres) total volume.",
+   "Colour with cochineal red and caramel."
+  ],
+  "notes_en": "Called 'American' because in the United States it is customary to drink Vermouth mixed with bitters and gin (Whiskey), forming a drink called 'Cocktail'. Many different preparations are possible depending on the type of Bitters employed, as there are countless varieties with different flavours, though all based on a bitter foundation.",
+  "confidence": 0.88
+ },
+ {
+  "id": "vermouth-with-garus",
+  "page": 677,
+  "section_en": "Vermouth",
+  "title_it": "Vermouth con Garus",
+  "title_en": "Vermouth with Garus",
+  "method": "maceration",
+  "yield": {
+   "amount": 100,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fave Tonka",
+    "name_en": "Tonka beans",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zafferano fili",
+    "name_en": "Saffron threads",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 50,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 44,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura alcolica precedente",
+    "name_en": "Previous alcoholic tincture",
+    "qty": 25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vermouth comune",
+    "name_en": "Common Vermouth",
+    "qty": 90,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate mace, Ceylon cinnamon, Tonka beans, and saffron threads in cold 95° alcohol.",
+   "After 15 days, decant the liquid.",
+   "Dissolve white sugar in water.",
+   "Add the dissolved sugar and water to the alcoholic tincture.",
+   "Mix with 90 litres of common Vermouth.",
+   "Filter to obtain 100 litres total of finished Vermouth with Garus."
+  ],
+  "notes_en": "Garus is an elixir that produces a Vermouth with a very delicate, aromatic flavour.",
+  "confidence": 0.91
+ }
+]

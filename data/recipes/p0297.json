@@ -1,0 +1,261 @@
+[
+ {
+  "id": "alkermes-berries-v",
+  "page": 297,
+  "section_en": "Red Colorants and Dyes",
+  "title_it": "V",
+  "title_en": "Alkermes Berries (V)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Bacche di alkermes",
+    "name_en": "Alkermes berries",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Spirit at 96°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 3 days.",
+   "Filter, pressing the material through cloth."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "powdered-alkanna-vi",
+  "page": 297,
+  "section_en": "Red Colorants and Dyes",
+  "title_it": "VI",
+  "title_en": "Powdered Alkanna (VI)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool (70%)"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Rad. Orcanetta polv.",
+    "name_en": "Powdered alkanna root",
+    "qty": 200,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool (70%)",
+    "name_en": "Spirit at 70°",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as above."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "bilberry-berries-vii",
+  "page": 297,
+  "section_en": "Red Colorants and Dyes",
+  "title_it": "VII",
+  "title_en": "Bilberry Berries (VII)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Bacche di Mirtillo secche",
+    "name_en": "Dried bilberry berries",
+    "qty": 350,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 750,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Spirit",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "unit appears corrupted; likely liters or hectograms"
+   }
+  ],
+  "steps_en": [
+   "Crush the bilberry berries and macerate in water.",
+   "Pass through cloth, pressing.",
+   "Filter and add spirit to preserve."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "unit for alcohol (printed as »3)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "bilberry-berries-with-hot-water-viii",
+  "page": 297,
+  "section_en": "Red Colorants and Dyes",
+  "title_it": "VIII",
+  "title_en": "Bilberry Berries with Hot Water (VIII)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Bacche di mirtillo secche e contuse",
+    "name_en": "Dried and crushed bilberry berries",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua bollente",
+    "name_en": "Hot water",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 3.5,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Treat the crushed dried berries with hot water.",
+   "Allow the mixture to cool, then add spirit.",
+   "Cover the vessel and let stand for several days.",
+   "Press through the torcular and filter through a wool cap."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "shellac-red-dye-ix",
+  "page": 297,
+  "section_en": "Red Colorants and Dyes",
+  "title_it": "IX",
+  "title_en": "Shellac Red Dye (IX)",
+  "method": "infusion",
+  "yield": {
+   "amount": 1,
+   "unit": "liter",
+   "note": "concentrated to 1 liter after extraction"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Gomma lacca in pani",
+    "name_en": "Shellac in cakes",
+    "qty": 300,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua bollente",
+    "name_en": "Boiling water",
+    "qty": null,
+    "unit": "liters",
+    "unit_implicit": true,
+    "note": "amount to extract all coloring matter"
+   }
+  ],
+  "steps_en": [
+   "Powder the shellac cakes.",
+   "Pour boiling water over until all coloring matter is extracted.",
+   "Concentrate the obtained liquid to 1 liter.",
+   "Allow to cool and filter."
+  ],
+  "notes_en": "Yields a deep red color but of unstable nature.",
+  "ocr_flags": [
+   "Uno a che siasi—likely 'fino a che siasi' (until such time as)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "saffron-i",
+  "page": 297,
+  "section_en": "Yellows (Giallo)",
+  "title_it": "I",
+  "title_en": "Saffron (I)",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua bollente",
+    "name_en": "Boiling water",
+    "qty": 300,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Treat saffron with boiling water.",
+   "When cooled, press the saffron mass."
+  ],
+  "notes_en": "Recipe appears incomplete; page cuts off.",
+  "ocr_flags": [
+   "sprem e la m assa dello zaffe—likely 'spremere la massa dello zafferano' (press the saffron mass)"
+  ],
+  "confidence": 0.87
+ }
+]

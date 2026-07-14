@@ -1,0 +1,194 @@
+[
+ {
+  "id": "bishop-liqueur-i",
+  "page": 687,
+  "section_en": "Bishop Liqueur",
+  "title_it": "Liquore Bishop I",
+  "title_en": "Bishop Liqueur I",
+  "method": "maceration",
+  "yield": {
+   "amount": 14,
+   "unit": "litres",
+   "note": "after addition of alcohol and digestion, before final blend"
+  },
+  "alcohol_strength": {
+   "degrees": 87.5,
+   "raw": "87-88°"
+  },
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_en": "Red wine",
+    "name_it": "Vino rosso",
+    "qty": 6,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Syrup",
+    "name_it": "Siroppo",
+    "qty": 14,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 48 hours.",
+   "Add alcohol to obtain 14 litres at 87–88° strength.",
+   "Digest the whole mixture.",
+   "Decant.",
+   "Add red wine and syrup as specified."
+  ],
+  "notes_en": "Produces a vivid red liqueur. The final product composition is achieved through digestion and blending.",
+  "confidence": 0.85
+ },
+ {
+  "id": "bishop-liqueur-ii",
+  "page": 687,
+  "section_en": "Bishop Liqueur",
+  "title_it": "Liquore Bishop II",
+  "title_en": "Bishop Liqueur II",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "Final product at 38% alcohol, 30% sugar content"
+  },
+  "alcohol_strength": {
+   "degrees": 38,
+   "raw": "38% final strength"
+  },
+  "ingredients": [
+   {
+    "name_en": "Bitter orange peel",
+    "name_it": "Scorze di arance amaro",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "note": "quantity not specified in source"
+   },
+   {
+    "name_en": "Sweet orange peel",
+    "name_it": "Scorze di arance dolci",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Lemon peel",
+    "name_it": "Scorze di limoni",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Oranges",
+    "name_it": "Arance",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Alcohol at 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 1.5,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 0.8,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Mandarin essence",
+    "name_it": "Essenza di mandarino",
+    "qty": 3,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Alcohol at 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 6.5,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Arrack",
+    "name_it": "Arac",
+    "qty": 0.4,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Red wine",
+    "name_it": "Vino rosso",
+    "qty": 2,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Syrup",
+    "name_it": "Siroppo",
+    "qty": 6,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Orange flower water",
+    "name_it": "Acqua di fior d'arancio",
+    "qty": 0.2,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 2.6,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate the citrus peels and oranges in the 90° alcohol and water mixture.",
+   "After maceration, filter.",
+   "Combine the filtered liquid with mandarin essence, additional 90° alcohol, arrack, red wine, syrup, orange flower water, and water."
+  ],
+  "notes_en": "Final product: 20 litres at 38% alcohol and 30% sugar. See also Bishop's Ratafia and Cardinal preparations.",
+  "ocr_flags": [
+   "Arac (possibly 'Arrack' or variant spelling)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "extracts-for-bishop-wine",
+  "page": 687,
+  "section_en": "Extracts for Bishop Wine",
+  "title_it": "Estratti per vino Bischoff",
+  "title_en": "Extracts for Bishop Wine",
+  "method": "maceration",
+  "yield": null,
+  "ingredients": [
+   {
+    "name_en": "Orange peel (green part only)",
+    "name_it": "Scorze d'arance (parte verde)",
+    "qty": 1,
+    "unit": "kilogram"
+   },
+   {
+    "name_en": "Alcohol at 60°",
+    "name_it": "Alcool a 60°",
+    "qty": 2,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Fresh water",
+    "name_it": "Acqua fresca",
+    "qty": null,
+    "unit": "unknown",
+    "note": "Initial soaking; amount not specified"
+   }
+  ],
+  "steps_en": [
+   "Soak orange peels in fresh water for two days.",
+   "Remove the white pith; cut the green part into small pieces.",
+   "Macerate the green pieces with 60° alcohol (use 2 litres per kilogram of peel).",
+   "After one day, decant and filter.",
+   "Add the following solution (recipe continues on next page)."
+  ],
+  "notes_en": "This extract method is provided because fresh mature oranges are not always available. When reducing alcohol from 95° to 60°, use fresh orange flower water instead of plain water.",
+  "confidence": 0.82
+ }
+]

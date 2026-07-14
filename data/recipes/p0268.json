@@ -1,0 +1,291 @@
+[
+ {
+  "id": "english-raspberry-ether",
+  "page": 268,
+  "section_en": "Ethers of Fruits (English)",
+  "title_it": "Etere di lamponi in glese",
+  "title_en": "English Raspberry Ether",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di lamponi in glese",
+    "name_en": "English raspberry ether",
+    "qty": 90,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "A ready-made composition of concentrated English fruit ethers.",
+  "confidence": 0.95
+ },
+ {
+  "id": "english-honey-ether",
+  "page": 268,
+  "section_en": "Ethers of Fruits (English)",
+  "title_it": "Etere di mele in glese",
+  "title_en": "English Honey Ether",
+  "method": "essence",
+  "yield": {
+   "amount": 100,
+   "unit": "g",
+   "note": "approximate final volume"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Aldeide acetica",
+    "name_en": "Acetic aldehyde",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Valerianato di amilo",
+    "name_en": "Amyl valerate",
+    "qty": 12.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 8.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere nitrico",
+    "name_en": "Nitric ether",
+    "qty": 8.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "From concentrated English fruit ethers: simple ethers are prepared by diluting 2 parts with 3 parts 95% alcohol; double ethers by diluting 4 parts with 1 part 95% alcohol.",
+  "confidence": 0.94
+ },
+ {
+  "id": "pineapple-essence",
+  "page": 268,
+  "section_en": "Natural Essences from Fruit for Artificial Fruit Syrups",
+  "title_it": "Essenza d'ananas",
+  "title_en": "Pineapple Essence",
+  "method": "distillation",
+  "yield": {
+   "amount": 1,
+   "unit": "kg",
+   "note": "of distillate"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ananas tagliati a pezzetti",
+    "name_en": "Pineapple cut into small pieces",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 0.875,
+    "unit": "L",
+    "note": "3/4 to 1 liter"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 1,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Cut pineapple into small pieces and treat with white wine until a pulp forms.",
+   "Pass the pulp with 3/4–1 liter of distilled water into a wide glass matrass where it is left for 2–3 hours.",
+   "Add 1 liter of alcohol and distill 1 kg of liquid."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "apricot-essence",
+  "page": 268,
+  "section_en": "Natural Essences from Fruit for Artificial Fruit Syrups",
+  "title_it": "Essenza d'albicocche",
+  "title_en": "Apricot Essence",
+  "method": "distillation",
+  "yield": {
+   "amount": 1,
+   "unit": "kg",
+   "note": "of distillate"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di albicocche fresche e spollpate",
+    "name_en": "Fresh apricot skins (depulped)",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 2,
+    "unit": "L"
+   },
+   {
+    "name_it": "Olio essenziale di cedro (privo di terpene)",
+    "name_en": "Essential oil of citron (terpene-free)",
+    "qty": 2,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Tintura di vaniglia (1:10)",
+    "name_en": "Vanilla tincture (1:10)",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di zafferano (1:10)",
+    "name_en": "Saffron tincture (1:10)",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di caramello",
+    "name_en": "Caramel tincture",
+    "qty": null,
+    "unit": "g",
+    "note": "to color, quantity to taste"
+   }
+  ],
+  "steps_en": [
+   "Mince fresh apricot skins (depulped) and macerate for one day with 500 g of alcohol and 2 liters of distilled water.",
+   "Treat with 2 drops of essential oil of citron (terpene-free) and transfer everything to a glass matrass.",
+   "Distill 1 kg; treat the distillate with a mixture of 5 g of vanilla tincture (1:10) and 1 g of saffron tincture (1:10).",
+   "Color with caramel tincture.",
+   "If cloudiness occurs, eliminate it by allowing to rest for 10 days and filtering through silica sand."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "strawberry-essence",
+  "page": 268,
+  "section_en": "Natural Essences from Fruit for Artificial Fruit Syrups",
+  "title_it": "Essenza di fragole",
+  "title_en": "Strawberry Essence",
+  "method": "distillation",
+  "yield": {
+   "amount": 1,
+   "unit": "kg",
+   "note": "of distillate"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Fragole di bosco",
+    "name_en": "Wild strawberries",
+    "qty": 1,
+    "unit": "kg",
+    "note": "only wild strawberries should be used"
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 300,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 300,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 0.75,
+    "unit": "L"
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Safranina T extra",
+    "name_en": "Safranine T extra",
+    "qty": 0.5,
+    "unit": "g",
+    "note": "for coloring the distillate"
+   }
+  ],
+  "steps_en": [
+   "Knead 1 kg of wild strawberries (only these should be used) with a mixture of 300 g of white wine and 100 g of alcohol.",
+   "Temper the pulp with 300 g of alcohol and 3/4 liter of distilled water inside a glass matrass.",
+   "Add 2 g of vanilla and after 48 hours distill 1 kg.",
+   "Color the distillate with 0.5 g of Safranine T extra."
+  ],
+  "confidence": 0.91,
+  "ocr_flags": [
+   "frasole (likely fragole)"
+  ]
+ }
+]

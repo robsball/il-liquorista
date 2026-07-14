@@ -1,0 +1,275 @@
+[
+ {
+  "id": "agaric-tincture",
+  "page": 229,
+  "section_en": "Simple Tinctures",
+  "title_it": "Agarico",
+  "title_en": "Agaric",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Agarico",
+    "name_en": "Agaric",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "aloe-tincture",
+  "page": 229,
+  "section_en": "Simple Tinctures",
+  "title_it": "Aloe",
+  "title_en": "Aloe",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Aloe del Capo",
+    "name_en": "Cape Aloe",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "amber-tincture-i",
+  "page": 229,
+  "section_en": "Simple Tinctures",
+  "title_it": "Ambra (I)",
+  "title_en": "Amber (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": 27.5,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ambra grigia",
+    "name_en": "Gray amber",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Macerate at mild heat (25–30°C), stirring from time to time."
+  ],
+  "notes_en": "Temperature range 25–30°C.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "amber-tincture-ii",
+  "page": 229,
+  "section_en": "Simple Tinctures",
+  "title_it": "Ambra (II)",
+  "title_en": "Amber (II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ambra grigia",
+    "name_en": "Gray amber",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 900,
+    "unit": "ml"
+   }
+  ],
+  "steps_en": [
+   "Add the alcohol gradually, little by little."
+  ],
+  "notes_en": "Add alcohol gradually.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "pineapple-tincture",
+  "page": 229,
+  "section_en": "Simple Tinctures",
+  "title_it": "Ananas",
+  "title_en": "Pineapple",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ananas (frutto)",
+    "name_en": "Pineapple (fruit)",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 5 days.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "angelica-tincture-i",
+  "page": 229,
+  "section_en": "Simple Tinctures",
+  "title_it": "Angelica (I)",
+  "title_en": "Angelica (I)",
+  "method": "maceration",
+  "yield": {
+   "amount": 8,
+   "unit": "days",
+   "note": "total maceration time, two successive extractions combined"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": 25,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Radice d'angelica",
+    "name_en": "Angelica root",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 0.5,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Macerate at approximately 25°C.",
+   "Decant all the product.",
+   "Repeat maceration with another 0.5 kg of alcohol.",
+   "Press and pass the material.",
+   "Combine the two products.",
+   "Filter."
+  ],
+  "notes_en": "Two successive extractions combined. Total 8 days.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "angelica-tincture-ii",
+  "page": 229,
+  "section_en": "Simple Tinctures",
+  "title_it": "Angelica (II)",
+  "title_en": "Angelica (II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Radici d'angelica",
+    "name_en": "Angelica roots",
+    "qty": 1,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 3,
+    "unit": "l"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "l"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ }
+]

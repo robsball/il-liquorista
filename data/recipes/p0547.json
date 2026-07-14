@@ -1,0 +1,253 @@
+[
+ {
+  "id": "kummel-of-breslavia",
+  "page": 547,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Breslavia",
+  "title_en": "Kummel of Breslavia",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cornino",
+    "name_en": "Caraway seed",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice semi russo",
+    "name_en": "Russian aniseed",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 2.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See Kummel of Breslavia.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "double-kummel",
+  "page": 547,
+  "section_en": "Kummels",
+  "title_it": "Kummel doppio",
+  "title_en": "Double Kummel",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. cornino doppiamente rettificato",
+    "name_en": "Twice-rectified caraway essential oil",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     75
+    ],
+    "note": "proportional variant: 50–75 g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.98
+ },
+ {
+  "id": "lamponi",
+  "page": 547,
+  "section_en": "Liqueurs",
+  "title_it": "Lamponi",
+  "title_en": "Raspberries",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura d'ireos",
+    "name_en": "Iris tincture",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza artificiale di lamponi",
+    "name_en": "Artificial raspberry essence",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di rose",
+    "name_en": "Rose essence",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto aromatico",
+    "name_en": "Aromatic extract",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Prepare one mixture from iris tincture and artificial raspberry essence.",
+   "Prepare separately a second mixture from rose essence, aromatic extract, and absolute alcohol.",
+   "Add the second mixture to the first and shake vigorously."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "Essenza artificiale di lamponi: OCR rendered as 'l^00', corrected to '100'"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "lemon",
+  "page": 547,
+  "section_en": "Liqueurs",
+  "title_it": "Limone",
+  "title_en": "Lemon",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 9.5°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di limone",
+    "name_en": "Lemon essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 9.5°",
+    "name_en": "Alcohol 95°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Color yellow with saffron tincture."
+  ],
+  "notes_en": "Liqueur version: Extract of lemon 2 g, Alcohol 80° 650 g, Sugar 800 g, Water 650 g. Color clear yellow with saffron tincture.",
+  "ocr_flags": [
+   "Alcool di 9.5°: likely meant 95°, rendered in source as variant spacing"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "lemon-aromatized",
+  "page": 547,
+  "section_en": "Liqueurs",
+  "title_it": "Limone aromatizzato",
+  "title_en": "Aromatized Lemon",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di limone",
+    "name_en": "Lemon essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza artif. di ananás",
+    "name_en": "Artificial pineapple essence",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto aromatico",
+    "name_en": "Aromatic extract",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [
+   "Essenza di limone (laquaie.): OCR corruption 'laquaie.' appears to be a parenthetical note; likely 'la quale' (which) or annotation marker '(*)' — treated as notational artifact"
+  ],
+  "confidence": 0.88
+ }
+]

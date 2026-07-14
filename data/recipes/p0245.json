@@ -1,0 +1,370 @@
+[
+ {
+  "id": "compound-tincture-bitter-elixir",
+  "page": 245,
+  "section_en": "Compound Tinctures",
+  "title_it": "Una tintura composta",
+  "title_en": "Compound Tincture (Bitter Elixir)",
+  "method": "maceration",
+  "yield": {
+   "amount": 15,
+   "unit": "liters",
+   "note": "from 65° alcohol"
+  },
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "alcool di 65°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb root",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di limone",
+    "name_en": "Lemon peel",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Foglie d'arancio",
+    "name_en": "Orange leaves",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica root",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Sambuco",
+    "name_en": "Elderberry",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona bark",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ruta",
+    "name_en": "Rue",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Prezzemolo (foglie)",
+    "name_en": "Parsley leaves",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Agarico",
+    "name_en": "Agaric fungus",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimento",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel berry",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Canfora",
+    "name_en": "Camphor",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura d'ambra",
+    "name_en": "Amber tincture",
+    "qty": 1,
+    "unit": "part",
+    "note": "added after maceration"
+   },
+   {
+    "name_it": "Tintura di muschio",
+    "name_en": "Musk tincture",
+    "qty": 1,
+    "unit": "part",
+    "note": "added after maceration"
+   },
+   {
+    "name_it": "Tintura di castoreo",
+    "name_en": "Castor tincture",
+    "qty": 1,
+    "unit": "part",
+    "note": "added after maceration"
+   }
+  ],
+  "steps_en": [
+   "Combine all botanical ingredients with 65° alcohol.",
+   "Macerate for an extended period, or preferably use displacement method.",
+   "Filter the resulting liquid.",
+   "Add amber tincture, musk tincture, and castor tincture to the filtered liquid."
+  ],
+  "notes_en": "This compound tincture serves as a veritable storehouse of botanicals and can be used directly as a bitter elixir administered in drops.",
+  "confidence": 0.92
+ },
+ {
+  "id": "swedish-elixir-of-long-life",
+  "page": 245,
+  "section_en": "Elixirs",
+  "title_it": "Elisir svedese di lunga vita",
+  "title_en": "Swedish Elixir of Long Life",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 60,
+    "unit": "grams",
+    "variants": [
+     50
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     10
+    ],
+    "unit_implicit": true,
+    "note": "first column appears blank or unclear"
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb root",
+    "qty": 10,
+    "unit": "grams",
+    "variants": [
+     10
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 10,
+    "unit": "grams",
+    "variants": [
+     10
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 10,
+    "unit": "grams",
+    "variants": [
+     10
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     10
+    ],
+    "unit_implicit": true,
+    "note": "first column blank"
+   },
+   {
+    "name_it": "Agarico",
+    "name_en": "Agaric fungus",
+    "qty": 10,
+    "unit": "grams",
+    "variants": [
+     10
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     10
+    ],
+    "unit_implicit": true,
+    "note": "first column blank"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in 90° alcohol according to the proportions given in either column."
+  ],
+  "notes_en": "This elixir presents two proportion columns, possibly for two different formulations or strengths.",
+  "ocr_flags": [
+   "Alcohol strength uncertain: text shows 't>0°' which likely means '90°' (OCR corruption of 'alcool di 90°')"
+  ],
+  "confidence": 0.75
+ }
+]

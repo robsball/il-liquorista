@@ -1,0 +1,150 @@
+[
+ {
+  "id": "rhubarb-compound",
+  "page": 246,
+  "section_en": "Medicinal Preparations",
+  "title_it": "Rabarbaro composta",
+  "title_en": "Rhubarb Compound",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Rabarbaro con tuso",
+    "name_en": "Rhubarb with stem",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo Malabar",
+    "name_en": "Malabar cardamom",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di arancio amaro",
+    "name_en": "Bitter orange peel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vino Xeres o Malaga",
+    "name_en": "Sherry or Malaga wine",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "After filtration, dissolve 100 g sugar."
+  ],
+  "notes_en": "N.B. — After filtration, add 100 g of sugar.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "stomachic-tonic",
+  "page": 246,
+  "section_en": "Medicinal Preparations",
+  "title_it": "Stomatica",
+  "title_en": "Stomachic Tonic",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag (aromatic calamus)",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "China peruviana",
+    "name_en": "Peruvian bark (cinchona)",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 900,
+    "unit": "mL",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 100,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [
+   "Centaurea"
+  ],
+  "confidence": 0.92
+ }
+]

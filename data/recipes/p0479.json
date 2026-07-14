@@ -1,0 +1,294 @@
+[
+ {
+  "id": "elixir-of-the-elector",
+  "page": 479,
+  "title_it": "Elixir dell'elettore",
+  "title_en": "Elixir of the Elector",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "p. 251"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit at 85°",
+    "qty": 12.75,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.25,
+    "unit": "liters",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Combine special essence, spirit at 85°, syrup, and water."
+  ],
+  "notes_en": "Variant II (brown) uses essential oils instead of special essence.",
+  "confidence": 0.85
+ },
+ {
+  "id": "elixir-of-the-elector-variant-ii",
+  "page": 479,
+  "title_it": "Elixir dell'elettore (variante II)",
+  "title_en": "Elixir of the Elector (Variant II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di persico",
+    "name_en": "Essential oil of peach",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arance dolci",
+    "name_en": "Essential oil of sweet orange",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cumino",
+    "name_en": "Essential oil of cumin",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of clove",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 12.75,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 12,
+    "unit": "liters",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 9.25,
+    "unit": "liters",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils with spirit at 90°, then add syrup and water."
+  ],
+  "notes_en": "Brown colour.",
+  "confidence": 0.88
+ },
+ {
+  "id": "elixir-of-alpine-herbs-of-switzerland",
+  "page": 479,
+  "title_it": "Elixir d'erbe alpine della Svizzera",
+  "title_en": "Elixir of Alpine Herbs of Switzerland",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza d'erbe alpine",
+    "name_en": "Alpine herb essence",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "p. 240"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit at 85°",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 13,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine alpine herb essence, spirit at 85°, syrup, and water."
+  ],
+  "notes_en": "Dark green colour.",
+  "confidence": 0.9
+ },
+ {
+  "id": "elixir-of-the-monk",
+  "page": 479,
+  "title_it": "Elixir del Monaco",
+  "title_en": "Elixir of the Monk",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di menta peperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 0,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "possibly OCR error for missing value"
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of clove",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arance",
+    "name_en": "Essential oil of orange",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit at 85°",
+    "qty": 12,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange blossom water",
+    "qty": 4,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 3,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 10,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine anise, peppermint, cinnamon, clove, orange, and rose essential oils with vanilla tincture and spirit at 85°.",
+   "To the solution, mix in orange blossom water, rose water, and simple syrup."
+  ],
+  "confidence": 0.87,
+  "ocr_flags": [
+   "cinnamon quantity appears as '0' — likely OCR error or formatting issue"
+  ]
+ }
+]

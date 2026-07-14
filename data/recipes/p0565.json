@@ -1,0 +1,275 @@
+[
+ {
+  "id": "visciolle",
+  "page": 565,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Visciolle",
+  "title_en": "Visciolle",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [],
+  "steps_en": [
+   "Prepare as for the cherry ratafià recipe (see preceding page)."
+  ],
+  "notes_en": "This recipe refers to an earlier preparation method. No ingredients are listed on this page.",
+  "confidence": 0.6
+ },
+ {
+  "id": "cassis-and-blackcurrant",
+  "page": 565,
+  "section_en": "Mixed Fruit Liqueurs",
+  "title_it": "Cassis in Pigione",
+  "title_en": "Cassis and Blackcurrant",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Succo di cassia",
+    "name_en": "Blackcurrant juice",
+    "qty": 0.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": 0.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di amarasche",
+    "name_en": "Sour cherry juice",
+    "qty": 0.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di lamponi",
+    "name_en": "Raspberry juice",
+    "qty": 0.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino di Borgogna",
+    "name_en": "Burgundy wine",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.6,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all juices, Burgundy wine, sugar, and water."
+  ],
+  "notes_en": "A mixed-fruit liqueur combining four fruit juices with wine and sugar.",
+  "confidence": 0.95
+ },
+ {
+  "id": "cherry-brandy",
+  "page": 565,
+  "section_en": "Mixed Fruit Liqueurs",
+  "title_it": "Cherry Brandy",
+  "title_en": "Cherry Brandy",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": 5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "15% alcohol"
+   },
+   {
+    "name_it": "Vino di Porto",
+    "name_en": "Port wine",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "20% alcohol"
+   },
+   {
+    "name_it": "Arack di Goa",
+    "name_en": "Goa arrack",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "55% alcohol"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Balsamo dello Indie",
+    "name_en": "Balsam of the Indies",
+    "qty": 9,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "dissolved in alcohol beforehand"
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "dissolved in alcohol beforehand"
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "dissolved in alcohol beforehand"
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of clove",
+    "qty": 0.8,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "dissolved in alcohol beforehand"
+   },
+   {
+    "name_it": "Olio essenziale di neroli",
+    "name_en": "Essential oil of neroli",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false,
+    "note": "dissolved in alcohol beforehand"
+   },
+   {
+    "name_it": "Sciroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "added at the end"
+   }
+  ],
+  "steps_en": [
+   "Dissolve the balsam and essential oils in the 90° alcohol.",
+   "Mix the cherry juice, Port wine, and Goa arrack together.",
+   "Add the alcohol mixture with dissolved aromatics.",
+   "Finally, add the simple syrup and mix well."
+  ],
+  "notes_en": "A complex cherry liqueur combining juices, wines, and spirits with spice and botanical aromatics.",
+  "ocr_flags": [
+   "Arack (OCR: 'Arac', confirmed as correct Italian spelling)"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "cherry-cordial",
+  "page": 565,
+  "section_en": "Mixed Fruit Liqueurs",
+  "title_it": "Cherry Cordial",
+  "title_en": "Cherry Cordial",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Succo di ciliege non zuccherato",
+    "name_en": "Unsweetened cherry juice",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino di Porto",
+    "name_en": "Port wine",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino rosso",
+    "name_en": "Red wine",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 0.25,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di calamo aromatico",
+    "name_en": "Essential oil of sweet flag",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "dissolved in alcohol beforehand"
+   },
+   {
+    "name_it": "Olio essenziale di menta pepe",
+    "name_en": "Essential oil of peppermint",
+    "qty": 1.2,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "dissolved in alcohol beforehand"
+   },
+   {
+    "name_it": "Olio essenziale di arance amare",
+    "name_en": "Essential oil of bitter orange",
+    "qty": 1.2,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "dissolved in alcohol beforehand"
+   }
+  ],
+  "steps_en": [
+   "Dissolve the essential oils in the 90° alcohol.",
+   "Mix the unsweetened cherry juice with Port wine and red wine.",
+   "Add the alcohol mixture with dissolved aromatics.",
+   "Blend thoroughly."
+  ],
+  "notes_en": "A cherry cordial made with unsweetened juice, wine, and aromatic essences for a balanced, herbaceous finish.",
+  "ocr_flags": [
+   "menta pip (OCR corruption; corrected to 'menta pepe' = peppermint)"
+  ],
+  "confidence": 0.88
+ }
+]

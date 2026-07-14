@@ -1,0 +1,44 @@
+                          T abella IY .
+Volume di alcool di 90° da aggiungersi a 100 volumi d'alcool a 30-50°
+   per portarlo a 50°, e volume risultante della miscela ottenutaldi 50°.
+
+ Grado dell’àloool     Voi. dell’alcool di       Volume ottenuto
+    primitivo          90° da aggiungere
+
+
+         30                   47,7                      145,0
+         31                   45,4                      143,7
+         32                   43,1                      141,5
+         33                   40,7                      139,3
+         34                   38,4                      137,0
+         35                   36,0                      134,8
+         36                   33,6                      132,5
+         37                   31,3                      130,3
+         38                   28,9                      128,0
+         39                   26,5                      125,6
+         40                   24,1                      123,3
+         41                   21,8                      121,1
+         42                    19,3                     118,7
+         43                    16,9                     116,1
+          44                   14,5                     114,1
+          45                   12,1                     111,8
+          46                    9,7                     109,4
+          47                    7,3                     107,1
+          48                    4.9                     104,7
+          49                    2,4                      102,3
+          50                    0,0                      100,0
+
+ 4200 per 95. Il calcolo dà 44,21 od in cifra tonda 44 litri.
+ La rimanenza di 56 litri mancante a ÌOO litri rappresenta
+ la quantità di acqua.
+     La regola sarebbe: Moltiplicare il numero dei litri del-
+ t'alcool da mescolarsi pel numero della percentuale che
+ l’alcool contiene. Il risultato indica il numero di litri del­
+ l’alcool necessario al miscuglio. Quanto manca a comple­
+ tare il numero dei litri dell’alcool da mescolare, corrisponde
+ alla quantità di acqua da impiegarsi.
+     Questo calcolo, non è però del tutto esatto, perchè non
+ considera la contrazione che avviene nel mescolare alcool
+  con acqua: 44 litri d’alcool e 56 d’acqua non danno 100
+  litri, ma solo approssimativamente litri 97%.
+

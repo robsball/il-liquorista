@@ -1,0 +1,297 @@
+[
+ {
+  "id": "kuambuli-i",
+  "page": 545,
+  "section_en": "Kuambuli",
+  "title_it": "Kuambuli I",
+  "title_en": "Kuambuli I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Limono",
+    "name_en": "Lemon",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Maggiorano",
+    "name_en": "Marjoram",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Colour red with cherry juice."
+  ],
+  "notes_en": "Coloured with cherry juice.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "kuambuli-ii",
+  "page": 545,
+  "section_en": "Kuambuli",
+  "title_it": "Kuambuli II",
+  "title_en": "Kuambuli II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorzo d'arance",
+    "name_en": "Orange peel",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Limone",
+    "name_en": "Lemon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rose",
+    "name_en": "Rose",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR uncertain"
+   },
+   {
+    "name_it": "Astratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [
+   "Uose"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "kummel-allasch-i",
+  "page": 545,
+  "section_en": "Kummel (Allasch)",
+  "title_it": "Kummel (Allasch) I",
+  "title_en": "Kummel (Allasch) I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di comino-Allasch (russa)",
+    "name_en": "Caraway essence - Allasch (Russian)",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.98
+ },
+ {
+  "id": "kummel-allasch-ii",
+  "page": 545,
+  "section_en": "Kummel (Allasch)",
+  "title_it": "Kummel (Allasch) II",
+  "title_en": "Kummel (Allasch) II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Comino",
+    "name_en": "Caraway",
+    "qty": 240,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice semi russo",
+    "name_en": "Russian anise seed",
+    "qty": 40,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "See Kummel of Breslavia for reference."
+  ],
+  "notes_en": "See Kummel di Breslavia.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ }
+]

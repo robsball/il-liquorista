@@ -1,0 +1,44 @@
+Gradi areometriei Baumé dei liquidi più pesanti dell'acqua, corrispon­
+   denti alle rispettive densità a 15°.
+
+    Gradi           Densità            Gradi            Densità
+    Baumé        corrispondenti        Baumé         corrispondenti
+
+
+        0             1.0000              31             1.2730
+        1             1.0069              32             1.2849
+        2             1.0140              33             1.2965
+        3             1.0212              34             1.3082
+        4             1.0285              35             1.3202
+        5             1.0358              36             1.3324
+        6             1.0434              37             1.3447
+        7             1.0509              38             1.3574
+        8             1.0587              39             1.3703
+        9             1.0665              40             1.3834
+       IO             1.0744              41             1.3968
+       11             1.0825              42             1.4105
+       12             1.0907              43             1.4244
+       13             1.0990              44             1.4386
+       14             1.1074              45             1.4531
+       15             1.1160              46             1.4678
+       1G             1.1247              47             1.4828
+       17             1.1335              48             1.4984
+       18             1.1425              49             1.5141
+       19             1.1516              50             1.5301
+       20             1.1608              51             1.5460
+       21             1.1702              52             1.5633
+       22             1.1798              53             1.5804
+       23             1.1896              54             1.5978
+       24             1.1994              55             1.G158
+       25             1.2095              56             1.6342
+       26             1.2198              57             1.6529
+       27             1.2301              58             1.6720
+       28             1.2407              59             1.6910
+       29             1.2515              60             1.7110
+       30             1.2624
+
+
+  L a concentrazione generalm ente a d o tta ta p e r i siroppi
+deve segnare 30° B , q u a n d o essi sono b o lle n ti, e 35° quando
+sono freddi, il che corrisponde risp e ttiv a m e n te alla den-
+

@@ -1,0 +1,278 @@
+[
+ {
+  "id": "aquavit-of-danzig",
+  "page": 366,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "Acquavite di Danzica",
+  "title_en": "Aquavit of Danzig",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di cannella Coylan",
+    "name_en": "Cinnamon tincture (Ceylon)",
+    "qty": 0.5,
+    "unit": "litres",
+    "variants": [
+     0.7
+    ]
+   },
+   {
+    "name_it": "Alcoolato di cannella Cina",
+    "name_en": "Cinnamon tincture (China)",
+    "qty": 1.0,
+    "unit": "litres",
+    "variants": [
+     1.2
+    ]
+   },
+   {
+    "name_it": "Alcoolato di coriandoli",
+    "name_en": "Coriander tincture",
+    "qty": 1.0,
+    "unit": "litres",
+    "variants": [
+     1.2
+    ]
+   },
+   {
+    "name_it": "Alcoolato di ambretta",
+    "name_en": "Ambrette seed tincture",
+    "qty": 0.1,
+    "unit": "litres",
+    "variants": [
+     0.1
+    ]
+   },
+   {
+    "name_it": "Alcoolato di cardamomo",
+    "name_en": "Cardamom tincture",
+    "qty": 0.2,
+    "unit": "litres",
+    "variants": [
+     0.3
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit (85° alcohol)",
+    "qty": 3.6,
+    "unit": "litres",
+    "variants": [
+     3.6
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 8.75,
+    "unit": "kg",
+    "variants": [
+     11.2
+    ]
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Water",
+    "qty": 7.8,
+    "unit": "litres",
+    "variants": [
+     5.0
+    ]
+   }
+  ],
+  "notes_en": "Colour: reddish. Two proportion columns given.",
+  "confidence": 0.92
+ },
+ {
+  "id": "green-water-of-marseille",
+  "page": 366,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "Acqua verde di Marsiglia",
+  "title_en": "Green Water of Marseille",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di limoni",
+    "name_en": "Lemon tincture",
+    "qty": 1.0,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di arance",
+    "name_en": "Orange tincture",
+    "qty": 0.8,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 0.6,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di carvi",
+    "name_en": "Caraway tincture",
+    "qty": 0.4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di coriandoli",
+    "name_en": "Coriander tincture",
+    "qty": 0.4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di menta",
+    "name_en": "Mint tincture",
+    "qty": 0.4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 5.6,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Water",
+    "qty": 2.6,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Colour using saffron tincture and indigo to achieve meadow-green colour."
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "aqua-divina",
+  "page": 366,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "Acqua divina",
+  "title_en": "Aqua Divina",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di limoni",
+    "name_en": "Lemon tincture",
+    "qty": 0.8,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di arance",
+    "name_en": "Orange tincture",
+    "qty": 0.0,
+    "unit": "litres",
+    "note": "possibly a transcription error or no orange tincture intended"
+   },
+   {
+    "name_it": "Alcoolato di noci moscato",
+    "name_en": "Nutmeg tincture",
+    "qty": 0.3,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di coriandoli",
+    "name_en": "Coriander tincture",
+    "qty": 0.3,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 0.1,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit (85° alcohol)",
+    "qty": 1.8,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero raffinato bianco",
+    "name_en": "Refined white sugar",
+    "qty": 5.0,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "litres",
+    "note": "quantity needed to complete to 10 litres total"
+   }
+  ],
+  "ocr_flags": [
+   "arance (OCR: 'aranate')"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "allash-russo",
+  "page": 366,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "Allasch russo",
+  "title_en": "Russian Allasch",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "40% alcohol, 37.5% sugar"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di Allasch",
+    "name_en": "Allasch tincture",
+    "qty": 3.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit (90° alcohol)",
+    "qty": 7.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 7.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.8,
+    "unit": "litres"
+   }
+  ],
+  "confidence": 0.91
+ }
+]

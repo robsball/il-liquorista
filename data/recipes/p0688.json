@@ -1,0 +1,297 @@
+[
+ {
+  "id": "orange-liqueur-i",
+  "page": 688,
+  "section_en": "Orange Liqueurs",
+  "title_it": "Liquore d'Arance I",
+  "title_en": "Orange Liqueur I",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 1.0,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 0.25,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Essence-based preparation.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "orange-liqueur-ii",
+  "page": 688,
+  "section_en": "Orange Liqueurs",
+  "title_it": "Liquore d'Arance II",
+  "title_en": "Orange Liqueur II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance (verdi)",
+    "name_en": "Green orange peel",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance verdi",
+    "name_en": "Green oranges",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cognac genuino",
+    "name_en": "Genuine cognac",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemons",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange flowers",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 0.25,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for one day.",
+   "Decant, strain pressing the solids, and filter the entire mixture.",
+   "Then add the essential oils and 95° alcohol."
+  ],
+  "notes_en": "After one day maceration, decant, strain pressing the mass, and filter everything. Then add essential oils and alcohol.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "orange-liqueur-iii",
+  "page": 688,
+  "section_en": "Orange Liqueurs",
+  "title_it": "Liquore d'Arance III",
+  "title_en": "Orange Liqueur III",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance immature",
+    "name_en": "Immature oranges",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di mele",
+    "name_en": "Apple essence",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemons",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Filter, pressing, and add the essences and oils to the liquid."
+  ],
+  "notes_en": "After 8 days maceration, filter pressing, then add essences and oils to the tincture.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "orange-liqueur-iv",
+  "page": 688,
+  "section_en": "Orange Liqueurs",
+  "title_it": "Liquore d'Arance IV",
+  "title_en": "Orange Liqueur IV",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Arance immature",
+    "name_en": "Immature oranges",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 900,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance",
+    "name_en": "Essential oil of oranges",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemons",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "amount partially illegible in source"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Decant, pressing, filter, and add the essential oils to the tincture."
+  ],
+  "notes_en": "After digestion for 8 days, decant pressing, filter, and add the essential oils to the tincture.",
+  "ocr_flags": [
+   "final quantity of lemon oil appears cut off in source"
+  ],
+  "confidence": 0.9
+ }
+]

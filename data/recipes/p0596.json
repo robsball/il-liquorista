@@ -1,0 +1,291 @@
+[
+ {
+  "id": "tonic-fava",
+  "page": 596,
+  "section_en": "Bitters and Tonics",
+  "title_it": "Fava Tonica",
+  "title_en": "Fava Tonic",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "alcohol strength 45°"
+  },
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool 45°"
+  },
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Fava Tonica",
+    "name_en": "Fava bean",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iva",
+    "name_en": "Iva (fleabane)",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (rad.)",
+    "name_en": "Iris root",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardosanto",
+    "name_en": "Blessed thistle",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Limone",
+    "name_en": "Lemon peel",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1.7,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.8,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients.",
+   "Filter, pressing to extract all liquid (yield 2.5 litres).",
+   "To the tincture obtained, add 2.2 litres of 90° alcohol, 0.8 litres of syrup, and 2.5 litres of water."
+  ],
+  "notes_en": "Final product: 10 litres at 45° alcohol.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "interlaken-bitter-imitation",
+  "page": 596,
+  "section_en": "Bitters and Tonics",
+  "title_it": "Imitazione del Bitter d'Interlaken",
+  "title_en": "Imitation Interlaken Bitter",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "alcool di 40°"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Liquirizia (radice)",
+    "name_en": "Licorice root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di aloe",
+    "name_en": "Aloe extract",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga (rad.)",
+    "name_en": "Galangal root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di liquirizia",
+    "name_en": "Licorice juice",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 40°",
+    "name_en": "Alcohol 40°",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Filter the liquid.",
+   "Dissolve 2 kg refined sugar in the filtered liquid."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "elisir-chioggiotto",
+  "page": 596,
+  "section_en": "Bitters and Tonics",
+  "title_it": "Elisir Chioggiotto",
+  "title_en": "Chioggia Elixir",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 32,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 22,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 22,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb root",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 48,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete on page.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ }
+]

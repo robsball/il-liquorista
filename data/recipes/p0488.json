@@ -1,0 +1,314 @@
+[
+ {
+  "id": "light-green-liqueur",
+  "page": 488,
+  "section_en": "",
+  "title_it": "Verde chiaro",
+  "title_en": "Light Green Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 14.25,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 12,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.75,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Light green colour.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "liqueur-of-mezenc",
+  "page": 488,
+  "section_en": "",
+  "title_it": "Liquore del Mézenc",
+  "title_en": "Liqueur of Mézenc",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 0.2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di camomilla romana",
+    "name_en": "Essential oil of Roman chamomile",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di dauco",
+    "name_en": "Essential oil of wild carrot",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 0.3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di noci moscate",
+    "name_en": "Essential oil of nutmeg",
+    "qty": 0.2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mirobolan",
+    "name_en": "Myrobalan",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ambretta (semi)",
+    "name_en": "Ambrette (seeds)",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5.6,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.6,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "After the essences are dissolved, macerate the other substances in alcohol for 15 days.",
+   "Colour with Fernambuco wood.",
+   "Add a few drops of tartaric acid solution to give the liqueur a golden yellow colour."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "liqueur-of-teichmayor-formula-i",
+  "page": 488,
+  "section_en": "Liqueur of Teichmayor",
+  "title_it": "Liquore di Teichmayor - I",
+  "title_en": "Liqueur of Teichmayor – Formula I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza 'liquore Teichmayor'",
+    "name_en": "Essence 'Teichmayor liqueur'",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "see page 251"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.75,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 12,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "liqueur-of-teichmayor-formula-ii",
+  "page": 488,
+  "section_en": "Liqueur of Teichmayor",
+  "title_it": "Liquore di Teichmayor - II",
+  "title_en": "Liqueur of Teichmayer – Formula II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di lamponi",
+    "name_en": "Raspberry ether",
+    "qty": 24,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [
+   "2% (likely 2.5 L for alcohol)",
+   "3% (likely 3.5 kg for sugar)"
+  ],
+  "confidence": 0.88
+ }
+]

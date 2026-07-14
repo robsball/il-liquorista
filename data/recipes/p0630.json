@@ -1,0 +1,354 @@
+[
+ {
+  "id": "bitter-tonic-liqueur-ii",
+  "page": 630,
+  "section_en": "Bitter and Tonic Liqueurs",
+  "title_it": "Liquore amaro-tonico II",
+  "title_en": "Bitter-Tonic Liqueur II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice veneto",
+    "name_en": "Venetian anise",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Pepe cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus root",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorzo di arance",
+    "name_en": "Orange peel",
+    "qty": 525,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorzo di limoni",
+    "name_en": "Lemon peel",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 525,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornelian cherry",
+    "qty": 110,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arnica (radice)",
+    "name_en": "Arnica root",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta puleggio",
+    "name_en": "Pennyroyal mint",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "70° alcohol",
+    "qty": 20,
+    "unit": "l"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Infuse herbs in alcohol.",
+  "ocr_flags": [
+   "Menta puleggio - possibly 'Menta puleggia' or 'Mentha pulegium'"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "digestive-bitters-iii",
+  "page": 630,
+  "section_en": "Bitter and Tonic Liqueurs",
+  "title_it": "Amaro digestivo III",
+  "title_en": "Digestive Bitters III",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 340,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "70° alcohol",
+    "qty": 20,
+    "unit": "l"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Infuse herbs in alcohol.",
+  "ocr_flags": [
+   "Trifoglio acquatico - possibly water trefoil or similar aquatic plant"
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "heegoland-bitter",
+  "page": 630,
+  "section_en": "Bitter and Tonic Liqueurs",
+  "title_it": "Amaro A. Heegoland",
+  "title_en": "A. Heegoland Bitter",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 425,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Named after A. Heegoland. Alcohol strength not specified on this page.",
+  "ocr_flags": [
+   "Heegoland - proper name, possibly variant spelling",
+   "Coriandoli - may refer to coriander seeds rather than confetti"
+  ],
+  "confidence": 0.8
+ }
+]

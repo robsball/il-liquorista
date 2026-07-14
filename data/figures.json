@@ -1,0 +1,132 @@
+[
+ {
+  "page": 157,
+  "crop": "build/figures/p0157.png",
+  "rotation_cw": 0,
+  "height_frac": 0.285,
+  "width_frac": 0.502,
+  "ink_frac": 0.119,
+  "caption_en": "Distillation apparatus showing a brick-set kettle/still with vapor pipe leading to a tall tower containing a coiled condensing tube",
+  "fig_label": null
+ },
+ {
+  "page": 158,
+  "crop": "build/figures/p0158.png",
+  "rotation_cw": 90,
+  "height_frac": 0.65,
+  "width_frac": 0.809,
+  "ink_frac": 0.284,
+  "caption_en": "Copper alembic still with condenser coil in a water-cooled receiving vessel, used for distillation in liqueur making",
+  "fig_label": null
+ },
+ {
+  "page": 159,
+  "crop": "build/figures/p0159.png",
+  "rotation_cw": 90,
+  "height_frac": 0.661,
+  "width_frac": 0.826,
+  "ink_frac": 0.207,
+  "caption_en": "Distillation apparatus with boiler, condenser coil, and receiving vessel on stand, with numbered parts",
+  "fig_label": null
+ },
+ {
+  "page": 161,
+  "crop": "build/figures/p0161.png",
+  "rotation_cw": 0,
+  "height_frac": 0.584,
+  "width_frac": 0.906,
+  "ink_frac": 0.311,
+  "caption_en": "Alembic distillation apparatus with copper boiler, condenser dome, coiled cooling tube, and collection vessel with spigot, mounted on a stand with a furnace base",
+  "fig_label": "Fig. 5"
+ },
+ {
+  "page": 162,
+  "crop": "build/figures/p0162.png",
+  "rotation_cw": 90,
+  "height_frac": 0.77,
+  "width_frac": 0.751,
+  "ink_frac": 0.232,
+  "caption_en": "Illustration of a distillation apparatus with furnace, boiler, condenser coil, and receiving vessel, operated by a man",
+  "fig_label": null
+ },
+ {
+  "page": 163,
+  "crop": "build/figures/p0163.png",
+  "rotation_cw": 90,
+  "height_frac": 0.629,
+  "width_frac": 0.74,
+  "ink_frac": 0.222,
+  "caption_en": "Copper alembic still (Deroy) with condenser coil, showing boiler with botanicals basket, connecting arm to condenser tank, and cooling water fittings and taps",
+  "fig_label": null
+ },
+ {
+  "page": 164,
+  "crop": "build/figures/p0164.png",
+  "rotation_cw": 0,
+  "height_frac": 0.411,
+  "width_frac": 0.801,
+  "ink_frac": 0.19,
+  "caption_en": "Copper alembic still with furnace base, dome cap, vapor arm, and coiled condenser (worm) in a water-cooled tank with spigot for collecting distillate",
+  "fig_label": null
+ },
+ {
+  "page": 165,
+  "crop": "build/figures/p0165.png",
+  "rotation_cw": 0,
+  "height_frac": 0.456,
+  "width_frac": 0.747,
+  "ink_frac": 0.187,
+  "caption_en": "Copper alembic still with boiler, condenser coil, and cooling water tank, used for distillation in liqueur-making",
+  "fig_label": null
+ },
+ {
+  "page": 176,
+  "crop": "build/figures/p0176.png",
+  "rotation_cw": 0,
+  "height_frac": 0.562,
+  "width_frac": 0.482,
+  "ink_frac": 0.097,
+  "caption_en": "Apparatus for liqueur preparation showing a heating vessel connected via tube R to an upper reservoir with tap, feeding into a cylindrical container E with valves h and h', and tube R' returning to the heating vessel",
+  "fig_label": null
+ },
+ {
+  "page": 177,
+  "crop": "build/figures/p0177.png",
+  "rotation_cw": 0,
+  "height_frac": 0.404,
+  "width_frac": 0.533,
+  "ink_frac": 0.167,
+  "caption_en": "Two cross-sectional diagrams of a distillation apparatus (still), showing an outer flask with a cylindrical body and outlet tube; the right diagram reveals internal details including a perforated basket/diaphragm and support grid inside the neck.",
+  "fig_label": null
+ },
+ {
+  "page": 187,
+  "crop": "build/figures/p0187.png",
+  "rotation_cw": 0,
+  "height_frac": 0.249,
+  "width_frac": 0.502,
+  "ink_frac": 0.117,
+  "caption_en": "Filtering stand with cloth suspended over a legged frame, dripping liquid into a basket-shaped filter below",
+  "fig_label": null
+ },
+ {
+  "page": 188,
+  "crop": "build/figures/p0188.png",
+  "rotation_cw": 0,
+  "height_frac": 0.391,
+  "width_frac": 0.761,
+  "ink_frac": 0.073,
+  "caption_en": "Wooden frame (Fig. 14) used to hold a cloth filter bag for straining liqueurs",
+  "fig_label": "Fig. 14"
+ },
+ {
+  "page": 191,
+  "crop": "build/figures/p0191.png",
+  "rotation_cw": 0,
+  "height_frac": 0.552,
+  "width_frac": 0.609,
+  "ink_frac": 0.152,
+  "caption_en": "Filtration stand with two conical filter funnels and outlet taps, fed by a cylindrical reservoir on top",
+  "fig_label": null
+ }
+]

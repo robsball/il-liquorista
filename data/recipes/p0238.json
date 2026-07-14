@@ -1,0 +1,346 @@
+[
+ {
+  "id": "melissa-i",
+  "page": 238,
+  "section_en": "Melissa (Lemon Balm)",
+  "title_it": "Melissa I",
+  "title_en": "Lemon Balm I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Melissa (foglie)",
+    "name_en": "Lemon balm (leaves)",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 10,
+    "unit": "kg",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Note: intended for digestive use."
+  ],
+  "notes_en": "N.B. per digestione (for digestive purposes).",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "melissa-ii",
+  "page": 238,
+  "section_en": "Melissa (Lemon Balm)",
+  "title_it": "Melissa II",
+  "title_en": "Lemon Balm II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Melissa (foglie)",
+    "name_en": "Lemon balm (leaves)",
+    "qty": 250,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 15 days."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "menta-crispa",
+  "page": 238,
+  "section_en": "Mint",
+  "title_it": "Menta Crispa",
+  "title_en": "Curly Mint",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Menta crispa (foglie)",
+    "name_en": "Curly mint (leaves)",
+    "qty": 100,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "menta-piperita",
+  "page": 238,
+  "section_en": "Mint",
+  "title_it": "Menta Piperita",
+  "title_en": "Peppermint",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Menta piperita (foglie)",
+    "name_en": "Peppermint (leaves)",
+    "qty": 100,
+    "unit": "gr",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Prepare as for Curly Mint."
+  ],
+  "notes_en": "Come la Menta crispa (same procedure and proportions as Curly Mint).",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "muschio",
+  "page": 238,
+  "section_en": "Musk",
+  "title_it": "Muschio",
+  "title_en": "Musk",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Muschio del Tonchino",
+    "name_en": "Tonkin musk",
+    "qty": 10,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 10 days."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "noci-moscate",
+  "page": 238,
+  "section_en": "Nutmegs",
+  "title_it": "Noci Moscate",
+  "title_en": "Nutmegs",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "noci-verdi",
+  "page": 238,
+  "section_en": "Green Walnuts",
+  "title_it": "Noci Verdi",
+  "title_en": "Green Walnuts",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 4,
+   "unit": "weeks"
+  },
+  "ingredients": [
+   {
+    "name_it": "Piccole noci verdi",
+    "name_en": "Small green walnuts",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate for 4 weeks."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "noci-mallo-di",
+  "page": 238,
+  "section_en": "Walnut Husk",
+  "title_it": "Noci (Mallo di)",
+  "title_en": "Walnut Husk",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci immature",
+    "name_en": "Unripe walnuts",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Peel the husk, crush it, and let it blacken in the air for 24 hours.",
+   "Macerate for one month.",
+   "Press and filter."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.88
+ }
+]

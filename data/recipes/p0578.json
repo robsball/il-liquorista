@@ -1,0 +1,232 @@
+[
+ {
+  "id": "liqueur-of-orange-peels",
+  "page": 578,
+  "section_en": "Liqueurs",
+  "title_it": "Scorze d'arance",
+  "title_en": "Liqueur of Orange Peels",
+  "method": "distillation",
+  "yield": {
+   "amount": 17,
+   "unit": "litres",
+   "note": "distillate at 72°; final yield after mixing approximately 26.5 litres"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Sweet flag (calamus)",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Valanga",
+    "name_en": "Valerian root",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green aniseed",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 22,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all solid ingredients in 60° alcohol for 48 hours.",
+   "Distil to obtain 17 litres at 72°.",
+   "Mix the distillate with water (7.5 litres), 90° alcohol (1 litre), and syrup (8.5 litres)."
+  ],
+  "notes_en": "Dark brown colour. Final product approximately 26.5 litres at approximately 50° ABV.",
+  "confidence": 0.92
+ },
+ {
+  "id": "danzig-liqueur",
+  "page": 578,
+  "section_en": "Liqueurs",
+  "title_it": "Liqueur à la Dantzica",
+  "title_en": "Danzig Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 17,
+   "unit": "litres",
+   "note": "distillate at 72°; final yield after mixing approximately 26.5 litres"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover (marsh trefoil)",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green aniseed",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Sweet flag (calamus)",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 190,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 22,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all solid ingredients in 60° alcohol for 48 hours.",
+   "Distil to obtain 17 litres at 72°.",
+   "Mix the distillate with water (7.5 litres), 90° alcohol (1.5 litres), and syrup (8.5 litres)."
+  ],
+  "notes_en": "Dark brown colour. Final product approximately 26.5 litres. More 90° alcohol than the preceding recipe.",
+  "confidence": 0.93
+ }
+]

@@ -1,0 +1,292 @@
+[
+ {
+  "id": "chartreuse-green-three-variants",
+  "page": 435,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse (verde)",
+  "title_en": "Chartreuse (Green) — Three Variants",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     30,
+     30
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     30
+    ]
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "—",
+    "variants": [
+     16
+    ]
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "—",
+    "variants": [
+     30
+    ]
+   },
+   {
+    "name_it": "Fave Tonca",
+    "name_en": "Tonka beans",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "—",
+    "variants": [
+     15
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 60,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     42,
+     60
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 30,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     40,
+     48
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 25,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     25,
+     35
+    ]
+   }
+  ],
+  "steps_en": [
+   "Macerate the herbs in half of the spirit for 8 days.",
+   "Dissolve the sugar in cold water.",
+   "Add the remaining spirit and the maceration liquid, then filter.",
+   "The aloe (which enters the yellow variety) must be dissolved in hot water."
+  ],
+  "notes_en": "Three proportion columns provided for different batch sizes. Aloe dissolves separately in hot water before incorporation.",
+  "confidence": 0.92
+ },
+ {
+  "id": "chartreuse-economic-version",
+  "page": 435,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse economica",
+  "title_en": "Economic Chartreuse",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 60,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica semi",
+    "name_en": "Angelica seeds",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the aromatics in the spirit for 60 days.",
+   "Strain through a fine cloth.",
+   "Prepare a simple syrup with 2 litres of water and 1 kg of sugar.",
+   "Add this syrup to the maceration liquid.",
+   "Filter again and bottle, sealing with a capping machine."
+  ],
+  "notes_en": "This economical version produces a sufficiently good Chartreuse.",
+  "confidence": 0.94
+ },
+ {
+  "id": "chartreuse-yellow",
+  "page": 435,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse gialla",
+  "title_en": "Chartreuse Yellow",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tanaceto",
+    "name_en": "Tansy",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita (foglie)",
+    "name_en": "Peppermint (leaves)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa (foglie)",
+    "name_en": "Lemon balm (leaves)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice comune",
+    "name_en": "Common anise",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4500,
+    "unit": "mL",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "The distinctive yellow colour comes from saffron and tansy.",
+  "confidence": 0.91
+ }
+]

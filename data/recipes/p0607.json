@@ -1,0 +1,234 @@
+[
+ {
+  "id": "amaro-di-amburgo-i",
+  "page": 607,
+  "section_en": "Bitters by Essential Oils and Essences",
+  "title_it": "Amaro di Amburgo I",
+  "title_en": "Amaro di Amburgo (Hamburg Bitters) - Version I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of sweet flag",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance amare",
+    "name_en": "Essential oil of bitter orange",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "Appears to be an error in OCR or source; unusually high proportion"
+   },
+   {
+    "name_it": "Tintura d'arance",
+    "name_en": "Tincture of orange",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85° GL",
+    "qty": 14,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils and tincture of orange together.",
+   "Add alcohol, syrup, and water.",
+   "Stir well to combine.",
+   "Result should be brown in colour."
+  ],
+  "notes_en": "Colour: brown (bruno)",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "amaro-di-amburgo-ii",
+  "page": 607,
+  "section_en": "Bitters by Essential Oils and Essences",
+  "title_it": "Amaro di Amburgo II",
+  "title_en": "Amaro di Amburgo (Hamburg Bitters) - Version II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of sweet flag",
+    "qty": 24,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 24,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 24,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90° GL",
+    "qty": 4.7,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.3,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Measure out all essential oils in drops.",
+   "Combine oils with alcohol.",
+   "Dissolve sugar in water and add to the mixture.",
+   "Blend thoroughly."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "amaro-aromatico",
+  "page": 607,
+  "section_en": "Bitters by Essential Oils and Essences",
+  "title_it": "Amaro Aromatico",
+  "title_en": "Aromatic Bitters",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance dolci",
+    "name_en": "Essential oil of sweet orange",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete in source; only ingredient list provided",
+  "ocr_flags": [],
+  "confidence": 0.7
+ }
+]

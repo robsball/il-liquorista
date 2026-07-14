@@ -1,0 +1,334 @@
+[
+ {
+  "id": "kummel",
+  "page": 226,
+  "section_en": "Preparations for Compounding Liqueurs",
+  "title_it": "Kümmel",
+  "title_en": "Kümmel",
+  "method": "distillation",
+  "yield": {
+   "amount": 8,
+   "unit": "liters",
+   "note": "distilled alcoholate obtained from the mixture"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di comino Olanda",
+    "name_en": "Holland caraway seeds",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     1800,
+     2000,
+     1500
+    ]
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     100,
+     null,
+     75
+    ],
+    "note": "absent in Glaciale and Berlino variants"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     100,
+     null,
+     50
+    ],
+    "note": "absent in Glaciale and Berlino variants"
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     50,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     20,
+     null,
+     125
+    ]
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     20,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Radice ireos",
+    "name_en": "Orris root",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     25,
+     50,
+     null
+    ]
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     30,
+     null,
+     125
+    ]
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     12,
+     75
+    ]
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Camomilla romana",
+    "name_en": "Roman chamomile",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     25,
+     null
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° proof alcohol",
+    "qty": 6.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "used for maceration/distillation mixture, common to all variants"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "used for maceration/distillation mixture, common to all variants"
+   }
+  ],
+  "steps_en": [
+   "Pour the crushed spices into the still.",
+   "Add a mixture of 6.5 liters of 90° alcohol and 5.5 liters of water.",
+   "Let macerate (digest) for a period, then distill to obtain 8 liters of alcoholate."
+  ],
+  "notes_en": "Table gives four regional variants (Glaciale, Riga, Berlino, Eckau) with different proportions of the same botanicals; dashes indicate the ingredient is omitted in that variant.",
+  "ocr_flags": [
+   "Glaciale",
+   "Eckau",
+   "ireos"
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "cinnamon-liqueur-cannella",
+  "page": 226,
+  "section_en": "Preparations for Compounding Liqueurs",
+  "title_it": "Cannella",
+  "title_en": "Cinnamon",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella China",
+    "name_en": "China cinnamon",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° proof alcohol",
+    "qty": 20,
+    "unit": "liters",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate the spices in the alcohol.",
+   "Distill without rectification to obtain 20 liters."
+  ],
+  "notes_en": "Simple maceration-distillation recipe; quantities of spices in grams, alcohol in liters, yielding 20 liters of product.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "ginger-liqueur-zenzero",
+  "page": 226,
+  "section_en": "Preparations for Compounding Liqueurs",
+  "title_it": "Zenzero",
+  "title_en": "Ginger",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella Cina",
+    "name_en": "China cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° proof alcohol",
+    "qty": 10.5,
+    "unit": "liters",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Proceed as for the Cinnamon recipe above (macerate then distill without rectification) to obtain 10 liters."
+  ],
+  "notes_en": "Follows same procedure as the preceding Cannella recipe.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "compound-melissa-water",
+  "page": 226,
+  "section_en": "Preparations for Compounding Liqueurs",
+  "title_it": "Melissa Composta (Acqua dei Carmelitani Scalzi)",
+  "title_en": "Compound Melissa (Carmelite Water)",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [],
+  "steps_en": [],
+  "notes_en": "Introductory text only on this page; the author notes this preparation is more a medicinal remedy than a liqueur, and states the recipe (one of many known versions) continues on the following page. No ingredient list appears on page 226.",
+  "ocr_flags": [
+   "Carmelitani"
+  ],
+  "confidence": 0.6
+ }
+]

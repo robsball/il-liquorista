@@ -1,0 +1,358 @@
+[
+ {
+  "id": "cinnamon-compound",
+  "page": 244,
+  "section_en": "Compound Preparations for Liqueurs",
+  "title_it": "Cannella composta",
+  "title_en": "Compound Cinnamon",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Allspice",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "60° alcohol",
+    "qty": 10.4,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Strain, pressing the solids.",
+   "Filter."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "compound-cinchona",
+  "page": 244,
+  "section_en": "Compound Preparations for Liqueurs",
+  "title_it": "China composta",
+  "title_en": "Compound Cinchona",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Corteccia di china sop.",
+    "name_en": "Superior cinchona bark",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     1.2,
+     0.1
+    ]
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": null,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "qty varies by column",
+    "variants": [
+     null,
+     0.04
+    ]
+   },
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 0.2,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     0.6,
+     0.04
+    ]
+   },
+   {
+    "name_it": "Serpentar ia",
+    "name_en": "Serpentaria",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     0.2,
+     null
+    ]
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     0.02
+    ]
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "60° alcohol",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     12,
+     1
+    ]
+   }
+  ],
+  "steps_en": null,
+  "notes_en": "Three proportion columns shown.",
+  "ocr_flags": [
+   "Serpentar ia"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "melissa",
+  "page": 244,
+  "section_en": "Compound Preparations for Liqueurs",
+  "title_it": "Melissa",
+  "title_en": "Melissa",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Melissa foglie secche",
+    "name_en": "Dried melissa leaves",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Carvi e cornino semi (di ciascuno)",
+    "name_en": "Caraway and coriander seeds (of each)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta pip.",
+    "name_en": "Peppermint",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Thè",
+    "name_en": "Tea",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Catecù",
+    "name_en": "Catechu",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze secche di arance amare",
+    "name_en": "Dried bitter orange peel",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "60° alcohol",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Filter."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "stomachic-compound",
+  "page": 244,
+  "section_en": "Compound Preparations for Liqueurs",
+  "title_it": "Stomatica composta",
+  "title_en": "Compound Stomachic",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sandalo citrino",
+    "name_en": "Yellow sandalwood",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sandalo rosso polv.",
+    "name_en": "Red sandalwood powder",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica semi",
+    "name_en": "Angelica seeds",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquirizia non decorticata",
+    "name_en": "Unpeeled licorice root",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cocciniglia",
+    "name_en": "Cochineal",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro bacche",
+    "name_en": "Juniper berries",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "80° alcohol",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Pound or crush the herbs.",
+   "Mix thoroughly.",
+   "Macerate for 15 days.",
+   "Filter."
+  ],
+  "notes_en": "Labeled as section I.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ }
+]

@@ -1,0 +1,173 @@
+[
+ {
+  "id": "curacao-doppio",
+  "page": 458,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao Doppio",
+  "title_en": "Double Curaçao",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "scorzo di arance amare",
+    "name_en": "bitter orange peel",
+    "qty": 1230,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "cleaned of white pith"
+   },
+   {
+    "name_it": "cognac genuino",
+    "name_en": "genuine cognac",
+    "qty": 2,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool assoluto",
+    "name_en": "absolute alcohol",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "olio essenziale di fiori d'arancio",
+    "name_en": "essential oil of orange blossoms",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "rhum di Giamaica genuino",
+    "name_en": "genuine Jamaica rum",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "alcohol at 95°",
+    "qty": 11,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "water",
+    "qty": 7.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "syrup",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Blanch bitter orange peels in hot water, then clean away the white pith.",
+   "Place peels in a glass vessel with 2 liters of genuine cognac and leave to macerate.",
+   "Dissolve 3 drops of orange blossom essential oil in ½ liter of absolute alcohol.",
+   "Add ½ liter of genuine Jamaica rum and mix.",
+   "Combine this mixture with the 2 liters of cognac macerate.",
+   "Add 11 liters of 95° alcohol, 7.5 liters of water, and 14 liters of syrup.",
+   "Mix thoroughly."
+  ],
+  "notes_en": "Color: green or brown. Variant: for a more delicate flavor, substitute 1000 g bitter orange peel + 250 g sweet orange peel instead of 1250 g bitter orange peel.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "kummel-doppio-di-danzica",
+  "page": 458,
+  "section_en": "Liqueurs",
+  "title_it": "Kummel doppio di Danzica",
+  "title_en": "Double Kummel of Danzig",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": null,
+   "unit": "days",
+   "note": "several days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cornino",
+    "name_en": "caraway seed",
+    "qty": 3000,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "green anise",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos radice",
+    "name_en": "orris root",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "lemon peel",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool di 70°",
+    "name_en": "alcohol at 70°",
+    "qty": null,
+    "unit": "unknown",
+    "unit_implicit": true,
+    "note": "maceration medium"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": null,
+    "unit": "kilograms",
+    "unit_implicit": false,
+    "note": "5–7 kg"
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanicals in 70° alcohol for several days.",
+   "Perform digestion (heating/percolation).",
+   "Collect the clear liquid and press/filter the solids.",
+   "Reduce the combined liquid to 40° alcohol by adding water and alcohol as needed.",
+   "Sweeten with 5–7 kg of sugar."
+  ],
+  "notes_en": "Final strength approximately 40° alcohol.",
+  "ocr_flags": [
+   "Cornino (possibly coriander seed or caraway; context suggests caraway)",
+   "Ireos radice (orris root, Iris germanica)"
+  ],
+  "confidence": 0.92
+ }
+]

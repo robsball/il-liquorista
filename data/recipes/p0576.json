@@ -1,0 +1,113 @@
+[
+ {
+  "id": "amaro-di-alba",
+  "page": 576,
+  "section_en": "By Distillation",
+  "title_it": "Amaro di Alba",
+  "title_en": "Amaro di Alba",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio (sommità)",
+    "name_en": "Wormwood (tops)",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel cherry",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "This is a distilled bitter (amaro) recipe. The text preceding the recipe explains that distillation extracts mainly aromatic and essential principles but only minimal bitter compounds from plant materials, resulting in aromatic but weak-tasting products. This method is therefore not well-suited to bitter preparation.",
+  "ocr_flags": [
+   "Cornino (possibly corn poppy or dogwood; uncertain botanical identification)"
+  ],
+  "confidence": 0.87
+ }
+]

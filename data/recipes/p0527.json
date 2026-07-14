@@ -1,0 +1,328 @@
+[
+ {
+  "id": "chartreuse-i",
+  "page": 527,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse I",
+  "title_en": "Chartreuse I",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Fiori di tanaceto",
+    "name_en": "Tansy flowers",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze fresche",
+    "name_en": "Fresh citrus peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Canella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cascarilla",
+    "name_en": "Cascarilla bark",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Spearmint",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice comune",
+    "name_en": "Common anise",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimento",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cartamo",
+    "name_en": "Safflower",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1200,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Aromatic (II)."
+  ],
+  "notes_en": "See Aromatic preparation method (II).",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "chartreuse-ii",
+  "page": 527,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse II",
+  "title_en": "Chartreuse II",
+  "method": "infusion",
+  "yield": {
+   "amount": 2,
+   "unit": "L"
+  },
+  "alcohol_strength": {
+   "degrees": 50,
+   "raw": "alcool di 50°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Melissa",
+    "name_en": "Balm mint (lemon balm)",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arnica fiori",
+    "name_en": "Arnica flowers",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 50°",
+    "name_en": "Alcohol 50°",
+    "qty": 2,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "chartreuse-iii",
+  "page": 527,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse III",
+  "title_en": "Chartreuse III",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Melissa",
+    "name_en": "Balm mint (lemon balm)",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Iva",
+    "name_en": "Iva (germander)",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica semi",
+    "name_en": "Angelica seeds",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Fave tonka",
+    "name_en": "Tonka beans",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Incomplete recipe; method and alcohol strength not specified.",
+  "ocr_flags": [
+   "Iva",
+   "Fave tonka"
+  ],
+  "confidence": 0.88
+ }
+]

@@ -1,0 +1,368 @@
+[
+ {
+  "id": "raspberry-ether",
+  "page": 267,
+  "section_en": "Compound Essences (Ethers)",
+  "title_it": "Etere di lamponi",
+  "title_en": "Raspberry Ether",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "Alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "acetic ether",
+    "name_it": "Etere acetico",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "chloroform",
+    "name_it": "Cloroformio",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "pore ether",
+    "name_it": "Etere di poro",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "violet essence",
+    "name_it": "Essenza di viole",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of rose",
+    "name_it": "Olio essenziale di rose",
+    "qty": 0,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of lemon",
+    "name_it": "Olio essenziale di limoni",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of sweet orange",
+    "name_it": "Olio essenziale di arance dolci",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "concentrated raspberry spirit",
+    "name_it": "Spirito di lamponi cono.",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "alcohol of 96°",
+    "name_it": "Alcool di 96°",
+    "qty": 220,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "raspberry-ether-english",
+  "page": 267,
+  "section_en": "Compound Essences (Ethers)",
+  "title_it": "Etere di lamponi (inglese)",
+  "title_en": "Raspberry Ether (English Style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "nitric ether",
+    "name_it": "Etere nitrico",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "aldehyde",
+    "name_it": "Aldeide",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "amyl acetate",
+    "name_it": "Acetato di amile",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "ethyl acetate",
+    "name_it": "Acetato di etile",
+    "qty": 5,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "ethyl formate",
+    "name_it": "Formiato di etile",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "ethyl benzoate",
+    "name_it": "Benzoato di etile",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "ethyl salicylate",
+    "name_it": "Salicilato di etile",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "amyl butyrate",
+    "name_it": "Butirrato di amile",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "sebacic ether",
+    "name_it": "Etere sebacilico",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "oenanthic ether",
+    "name_it": "Etere oenantico",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "raspberry spirit",
+    "name_it": "Spirito di lamponi",
+    "qty": 25,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "alcohol",
+    "name_it": "Alcool",
+    "qty": 60,
+    "unit": "parts",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Etere sebacilico – possibly 'sebacico' (sebacic)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "peach-ether-english",
+  "page": 267,
+  "section_en": "Compound Essences (Ethers)",
+  "title_it": "Etere di pesche (inglese)",
+  "title_en": "Peach Ether (English Style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "amyl valerate",
+    "name_it": "Valerianato di amile",
+    "qty": 10,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "amyl butyrate",
+    "name_it": "Butirrato di amile",
+    "qty": 10,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "acetic ether",
+    "name_it": "Etere acetico",
+    "qty": 2,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "essential oil of bitter almond",
+    "name_it": "Olio essenziale di mandorle amare",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "alcohol of 95°",
+    "name_it": "Alcool di 95°",
+    "qty": 80,
+    "unit": "parts",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "pear-ether-english",
+  "page": 267,
+  "section_en": "Compound Essences (Ethers)",
+  "title_it": "Etere di pera (inglese)",
+  "title_en": "Pear Ether (English Style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "nitric ether",
+    "name_it": "Etere nitrico",
+    "qty": 20,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "amyl acetate",
+    "name_it": "Acetato di amile",
+    "qty": 30,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "acetic ether",
+    "name_it": "Etere acetico",
+    "qty": 20,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "alcohol of 95°",
+    "name_it": "Alcool di 95°",
+    "qty": 50,
+    "unit": "parts",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "plum-ether-english",
+  "page": 267,
+  "section_en": "Compound Essences (Ethers)",
+  "title_it": "Etere di prugne (inglese)",
+  "title_en": "Plum Ether (English Style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "acetic ether",
+    "name_it": "Etere acetico",
+    "qty": 10,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "aldehyde",
+    "name_it": "Aldeide",
+    "qty": 10,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "essential oil of bitter almond",
+    "name_it": "Olio essenziale di mandorle amare",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "butyric ether",
+    "name_it": "Etere butirrico",
+    "qty": 4,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "formic ether",
+    "name_it": "Etere formico",
+    "qty": 2,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "alcohol of 95°",
+    "name_it": "Alcool di 95°",
+    "qty": 100,
+    "unit": "parts",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ }
+]

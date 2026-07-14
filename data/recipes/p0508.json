@@ -1,0 +1,277 @@
+[
+ {
+  "id": "carmelitani-romani",
+  "page": 508,
+  "section_en": "Liqueurs",
+  "title_it": "Carmelitani romani",
+  "title_en": "Roman Carmelites",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di cubebe",
+    "name_en": "Essential oil of cubeb",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di radice di zedoaria",
+    "name_en": "Essential oil of zedoary root",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di macie",
+    "name_en": "Essential oil of mace",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of melissa",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Color: yellowish-green.",
+  "confidence": 0.95
+ },
+ {
+  "id": "cardinale",
+  "page": 508,
+  "section_en": "Liqueurs",
+  "title_it": "Cardinale",
+  "title_en": "Cardinal",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura d'ambra",
+    "name_en": "Tincture of amber",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 4,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di macie",
+    "name_en": "Essential oil of mace",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 0.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of melissa",
+    "qty": 0.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 1.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Tincture of vanilla",
+    "qty": 25,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Color: reddish-brown.",
+  "confidence": 0.96
+ },
+ {
+  "id": "elixir-aromatico",
+  "page": 508,
+  "section_en": "Liqueurs",
+  "title_it": "Elixir aromatico",
+  "title_en": "Aromatic Elixir",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'anice",
+    "name_en": "Essential oil of anise",
+    "qty": 0.2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di macie",
+    "name_en": "Essential oil of mace",
+    "qty": 0.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 0.2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di noce moscata",
+    "name_en": "Essential oil of nutmeg",
+    "qty": 0.4,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": 0.4,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 0.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 0.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 0.5,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Color: brown.",
+  "confidence": 0.94
+ },
+ {
+  "id": "elixir-della-badessa",
+  "page": 508,
+  "section_en": "Liqueurs",
+  "title_it": "Elixir della Badessa",
+  "title_en": "Elixir of the Abbess",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di cedro",
+    "name_en": "Essential oil of citron",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di menta",
+    "name_en": "Essential oil of mint",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di salvia",
+    "name_en": "Essential oil of sage",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of melissa",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 5,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Color: dark red.",
+  "confidence": 0.95
+ }
+]

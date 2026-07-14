@@ -1,0 +1,297 @@
+[
+ {
+  "id": "krambambuli-i",
+  "page": 403,
+  "section_en": "Liqueurs",
+  "title_it": "Krambambulit",
+  "title_en": "Krambambulit I",
+  "method": "distillation",
+  "yield": {
+   "amount": 18,
+   "unit": "litres",
+   "note": "at 70° Gay-Lussac"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "70°"
+  },
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 110,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze d'arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 110,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 110,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimento",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Semi di pesche",
+    "name_en": "Peach kernels",
+    "qty": 55,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 55,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "Column I not specified"
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 55,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Grana paradisi",
+    "name_en": "Grains of paradise",
+    "qty": 55,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 55,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 55,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 26,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 26,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "Column I not specified"
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 25,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanicals in 60° alcohol for 48 hours.",
+   "Distil to obtain 18 litres at 70° Gay-Lussac."
+  ],
+  "notes_en": "After distillation, add water (4 L) and syrup (13 L). Finish with caramelized sugar for colour.",
+  "variants": [
+   {
+    "name_it": "Krambambulit II",
+    "amounts": {
+     "Scorze d'arance": 150,
+     "Scorze d'arance amare": null,
+     "Scorze di limoni": 150,
+     "Camomilla": 75,
+     "Pimento": 35,
+     "Semi di pesche": 35,
+     "Galanga": 75,
+     "Zedoaria": 75,
+     "Ireos (radice)": null,
+     "Grana paradisi": 35,
+     "Assenzio": 75,
+     "Ginepro (bacche)": null,
+     "Rosmarino": null,
+     "Cannella": 75,
+     "Anice stellato": null,
+     "Angelica (radice)": null,
+     "Cardamomo": null,
+     "Cubebe": 85,
+     "Lavanda": null,
+     "Garofani": 75,
+     "Noci moscate": 15,
+     "Alcool di 60°": 25,
+     "Acqua": 3.5,
+     "Siroppo": 12
+    }
+   }
+  ],
+  "confidence": 0.92,
+  "ocr_flags": [
+   "Krambambulit (unusual spelling, possibly Krambambulli or regional variant)"
+  ]
+ },
+ {
+  "id": "kummel",
+  "page": 403,
+  "section_en": "Liqueurs",
+  "title_it": "Kummel",
+  "title_en": "Kummel",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "at 72° Gay-Lussac"
+  },
+  "alcohol_strength": {
+   "degrees": 72,
+   "raw": "72°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Semi di coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 1250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 25,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Distil coriander seeds in 60° alcohol to obtain 20 litres at 72° Gay-Lussac."
+  ],
+  "notes_en": "Add water (22 L) and syrup (17 L). The liqueur should be colourless (incoloro).",
+  "confidence": 0.95,
+  "ocr_flags": []
+ },
+ {
+  "id": "kummel-di-berlino",
+  "page": 403,
+  "section_en": "Liqueurs",
+  "title_it": "Kummel di Berlino",
+  "title_en": "Berlin Kummel",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Alcoolato composto",
+    "name_en": "Compound alcoholate",
+    "qty": 3.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 25,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 25,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [
+   "Mix the compound alcoholate with the essential oils of lemon, coriander, and anise."
+  ],
+  "notes_en": "This version (Berliner Getreide Kummel) uses pre-made alcoholate and essential oils for a refined result.",
+  "confidence": 0.96,
+  "ocr_flags": []
+ }
+]

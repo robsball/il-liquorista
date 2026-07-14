@@ -1,0 +1,186 @@
+[
+ {
+  "id": "gin-essence",
+  "page": 350,
+  "section_en": "Gin",
+  "title_it": "Essenza per Gin",
+  "title_en": "Essence for Gin",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1,
+   "unit": "gram",
+   "note": "per liter of spirit at 45–50%"
+  },
+  "alcohol_strength": {
+   "degrees": 92.5,
+   "raw": "alcool di 90°–95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°–95°",
+    "name_en": "Alcohol at 90–95°",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio di flemma depurato",
+    "name_en": "Rectified phlegm oil",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito (alcoolato) di ginepro",
+    "name_en": "Juniper spirit (alcoholate)",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di galanga",
+    "name_en": "Essential oil of galangal",
+    "qty": 4,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di senape",
+    "name_en": "Essential oil of mustard",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all oils and spirits into the alcohol at 90–95°.",
+   "Use approximately 1 gram of this essence per liter of spirit at 45–50% alcohol."
+  ],
+  "notes_en": "A concentrated essence formula for gin production.",
+  "confidence": 0.92
+ },
+ {
+  "id": "gin-imitation",
+  "page": 350,
+  "section_en": "Gin",
+  "title_it": "Imitazione",
+  "title_en": "Gin Imitation",
+  "method": "distillation",
+  "yield": {
+   "amount": 40,
+   "unit": "liters",
+   "note": "of juniper aquavit"
+  },
+  "alcohol_strength": {
+   "degrees": 40.5,
+   "raw": "40–42% (final product diluted)"
+  },
+  "ingredients": [
+   {
+    "name_it": "Malto d'orzo",
+    "name_en": "Barley malt",
+    "qty": 2,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Malto di segale",
+    "name_en": "Rye malt",
+    "qty": 4,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua bollente",
+    "name_en": "Boiling water",
+    "qty": 6,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lievito",
+    "name_en": "Yeast",
+    "qty": null,
+    "unit": "to taste",
+    "note": "a small amount"
+   },
+   {
+    "name_it": "Alcool di 90° finissimo",
+    "name_en": "Finest alcohol at 90°",
+    "qty": 35,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 25,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Bacche di ginepro pestate",
+    "name_en": "Crushed juniper berries",
+    "qty": 1800,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica radice",
+    "name_en": "Angelica root",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua (per diluizione finale)",
+    "name_en": "Water (for final dilution)",
+    "qty": null,
+    "unit": "as needed",
+    "note": "to reduce to 40–42% ABV"
+   },
+   {
+    "name_it": "Sciroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "containing 500–750 grams of sugar"
+   }
+  ],
+  "steps_en": [
+   "Pour 6 liters of boiling water over a mixture of 2 kg barley malt and 4 kg rye malt, coarsely mixed.",
+   "Add a small amount of yeast and let the mass ferment for three days.",
+   "After fermentation, transfer to the still and add 35 liters of finest 90° alcohol, 25 liters of water, 1800 grams of crushed juniper berries, 25 grams of angelica root, and 25 grams of coriander seeds.",
+   "Distill to obtain 40 liters of juniper aquavit.",
+   "Reduce the product to 40–42% ABV by adding water.",
+   "Optionally add up to 0.5 liters of sugar syrup (containing 500–750 grams sugar) to make the liquor more agreeable."
+  ],
+  "notes_en": "This is one of the documented procedures for preparing gin imitation. Commercial gin is typically bottled at 40–42% ABV.",
+  "ocr_flags": [
+   "Coriandoli (may be coriander seeds or confetti-shaped particles; context suggests coriander seeds)"
+  ],
+  "confidence": 0.89
+ }
+]

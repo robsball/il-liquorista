@@ -1,0 +1,345 @@
+[
+ {
+  "id": "amaro-fino-di-berlino",
+  "page": 251,
+  "title_it": "Amaro fino di Berlino",
+  "title_en": "Fine Berlin Bitter",
+  "section_en": "Bitters",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Limoni (1ª qualità)",
+    "name_en": "Lemons (1st quality)",
+    "qty": 265,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 335,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Iride (alcoolato)",
+    "name_en": "Iris root (alcoholate)",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Proportions given in grams.",
+  "confidence": 0.95
+ },
+ {
+  "id": "amaro-sopraffinо-di-berlino",
+  "page": 251,
+  "title_it": "Amaro sopraffinο di Berlino",
+  "title_en": "Superfine Berlin Bitter",
+  "section_en": "Bitters",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 165,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Fior di arancio",
+    "name_en": "Orange blossom",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limoni (1ª qualità)",
+    "name_en": "Lemons (1st quality)",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Iride (alcoolato)",
+    "name_en": "Iris root (alcoholate)",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Proportions given in grams.",
+  "confidence": 0.95
+ },
+ {
+  "id": "amaro-d-amburgo",
+  "page": 251,
+  "title_it": "Amaro d'Amburgo",
+  "title_en": "Hamburg Bitter",
+  "section_en": "Bitters",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Amaro spagnuolo",
+    "name_en": "Spanish bitter",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Curaçao francese",
+    "name_en": "French Curaçao",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Proportions given in grams.",
+  "confidence": 0.92,
+  "ocr_flags": [
+   "Curogao → Curaçao"
+  ]
+ },
+ {
+  "id": "amaro-di-eibenstocker",
+  "page": 251,
+  "title_it": "Amaro di Eibenstocker",
+  "title_en": "Eibenstocker Bitter",
+  "section_en": "Bitters",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio francese",
+    "name_en": "French wormwood",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Sassafrasso",
+    "name_en": "Sassafras",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Proportions given in grams.",
+  "confidence": 0.94
+ },
+ {
+  "id": "amaro-d-erbe-stomatiche",
+  "page": 251,
+  "title_it": "Amaro d'erbe stomatiche",
+  "title_en": "Aromatic Herbal Bitter (Very aromatic and fortifying)",
+  "section_en": "Bitters",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": null,
+    "unit": "g",
+    "note": "quantity shown as '00' in source"
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": null,
+    "unit": "g",
+    "note": "quantity shown as '00' in source"
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica root",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe marked as variant 'I'. Bitter oranges and lemons show '00' in source; this appears to be OCR corruption, possibly indicating they should be omitted or an unspecified quantity. Proportions otherwise in grams.",
+  "confidence": 0.88,
+  "ocr_flags": [
+   "'00' values for oranges/lemons unclear"
+  ]
+ }
+]

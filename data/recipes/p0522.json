@@ -1,0 +1,330 @@
+[
+ {
+  "id": "acqua-d-olio-di-danzica",
+  "page": 522,
+  "title_it": "Acqua d'olio di Danzica",
+  "title_en": "Danzig Oil Water",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di limoni fresche",
+    "name_en": "Fresh lemon peel",
+    "qty": 3000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance fresche",
+    "name_en": "Fresh orange peel",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iride (polvere)",
+    "name_en": "Iris (powder)",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol at 75°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "acqua-forte-di-danzica",
+  "page": 522,
+  "title_it": "Acqua forte di Danzica",
+  "title_en": "Strong Danzig Water",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Camomilla romana",
+    "name_en": "Roman chamomile",
+    "qty": 535,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper (berries)",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 260,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol at 75°",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "angelica",
+  "page": 522,
+  "title_it": "Angelica",
+  "title_en": "Angelica",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica (root)",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornelian cherry",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol at 70°",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "anisette-i",
+  "page": 522,
+  "title_it": "Anisette (I)",
+  "title_en": "Anisette (I)",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol at 75°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "anisette-ii",
+  "page": 522,
+  "title_it": "Anisette (II)",
+  "title_en": "Anisette (II)",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 3500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Alcohol quantity not provided in source text.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ }
+]

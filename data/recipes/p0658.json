@@ -1,0 +1,296 @@
+[
+ {
+  "id": "cinnamon-liqueur-continued",
+  "page": 658,
+  "section_en": "Fabrication of Liqueurs - Recipe Book",
+  "title_it": "(seguito, senza titolo)",
+  "title_en": "Cinnamon Liqueur (continued from previous page)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "olii essenziali",
+    "name_en": "essential oils",
+    "qty": null,
+    "unit": "q.b.",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "tintura di cannella",
+    "name_en": "cinnamon tincture",
+    "qty": null,
+    "unit": "q.b.",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acido citrico",
+    "name_en": "citric acid",
+    "qty": null,
+    "unit": "q.b.",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 3,
+    "unit": "liters"
+   },
+   {
+    "name_it": "zucchero caramellato",
+    "name_en": "caramelized sugar",
+    "qty": 300,
+    "unit": "grams",
+    "note": "per liter of water, for coloring"
+   },
+   {
+    "name_it": "cocciniglia",
+    "name_en": "cochineal",
+    "qty": null,
+    "unit": "q.b.",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Dissolve the essential oils together with the cinnamon tincture and citric acid in the 3 liters of alcohol.",
+   "Add the remaining liquid, mixing carefully.",
+   "After three days of rest, color with caramelized sugar and a little cochineal.",
+   "300 g (of caramel/coloring mixture) suffice for every liter of water."
+  ],
+  "notes_en": "This appears to be the tail end of a recipe begun on the previous page; the title and full ingredient list are not visible on this page.",
+  "ocr_flags": [
+   "cocciniglia",
+   "caramellato"
+  ],
+  "confidence": 0.55
+ },
+ {
+  "id": "peach-liqueur",
+  "page": 658,
+  "section_en": "Fabrication of Liqueurs - Recipe Book",
+  "title_it": "Alla Pesca",
+  "title_en": "Peach Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arac di Goa",
+    "name_en": "Arrack from Goa",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaica rum",
+    "qty": 4.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Succo di pesche (non zuccherato)",
+    "name_en": "Peach juice (unsweetened)",
+    "qty": 2,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Spirito di rose",
+    "name_en": "Rose spirit",
+    "qty": 1,
+    "unit": "cc"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 8,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 25,
+    "unit": "grams",
+    "note": "hot solution of 25 g citric acid dissolved in 100 (units, likely cc or grams) of water"
+   }
+  ],
+  "steps_en": [
+   "Combine the Goa arrack, Jamaica rum, unsweetened peach juice, 90° alcohol, rose spirit and syrup.",
+   "Prepare a hot solution of 25 g of citric acid in 100 (parts) of water and add it to the mixture."
+  ],
+  "notes_en": "Proportions given for a large batch (totaling roughly 20 liters of base liquids plus syrup).",
+  "ocr_flags": [
+   "cc",
+   "100"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "rum-punch",
+  "page": 658,
+  "section_en": "Fabrication of Liqueurs - Recipe Book",
+  "title_it": "Al Rhum",
+  "title_en": "Rum Punch",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": 100,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "thè",
+    "name_en": "tea",
+    "qty": 25,
+    "unit": "grams",
+    "note": "20 to 30 g per liter of boiling water",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua bollente",
+    "name_en": "boiling water",
+    "qty": 1,
+    "unit": "liter"
+   },
+   {
+    "name_it": "limone",
+    "name_en": "lemon",
+    "qty": 1,
+    "unit": "piece",
+    "note": "cut into small pieces"
+   },
+   {
+    "name_it": "zucchero in pezzi",
+    "name_en": "sugar (in pieces/cubes)",
+    "qty": 450,
+    "unit": "grams",
+    "note": "400 to 500 g"
+   },
+   {
+    "name_it": "rhum",
+    "name_en": "rum",
+    "qty": 1,
+    "unit": "liter"
+   }
+  ],
+  "steps_en": [
+   "Prepare a good infusion of tea using 20 to 30 g of tea per liter of boiling water.",
+   "Meanwhile, cut a lemon into small pieces and place it in a suitable vessel, adding 400 to 500 g of sugar in pieces.",
+   "Carefully add a liter of rum so that it does not mix with the tea infusion.",
+   "When the rum has warmed somewhat, set it alight and let it burn without stirring until it is close to extinguishing itself spontaneously.",
+   "Then stir everything together to obtain an excellent punch."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "kirsch-punch",
+  "page": 658,
+  "section_en": "Fabrication of Liqueurs - Recipe Book",
+  "title_it": "Al Kirsch",
+  "title_en": "Kirsch Punch",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [],
+  "steps_en": [
+   "Prepare in the same way as the Rum Punch."
+  ],
+  "notes_en": "Recipe refers back to the Rum Punch method; no separate ingredient list given.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "cognac-punch",
+  "page": 658,
+  "section_en": "Fabrication of Liqueurs - Recipe Book",
+  "title_it": "Al Cognac",
+  "title_en": "Cognac Punch",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [],
+  "steps_en": [
+   "See Rum Punch."
+  ],
+  "notes_en": "Recipe simply refers the reader to the Rum Punch recipe above.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "raspberry-spirit-footnote",
+  "page": 658,
+  "section_en": "Footnote (continuation from previous page)",
+  "title_it": "(nota a piè di pagina, senza titolo)",
+  "title_en": "Raspberry Spirit - Distillation Note",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "from 30 liters of pure raspberry juice; alternative method yields 15 liters"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool d'85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "succo di lamponi puro",
+    "name_en": "pure raspberry juice",
+    "qty": 30,
+    "unit": "liters"
+   },
+   {
+    "name_it": "graspi di lamponi",
+    "name_en": "pressed raspberry pomace (marc)",
+    "qty": 2,
+    "unit": "kg",
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "magnesia",
+    "name_en": "magnesia",
+    "qty": 500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "alcool d'85°",
+    "name_en": "85° alcohol",
+    "qty": 5,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Distill carefully and cautiously in the still 30 liters of pure raspberry juice, to collect 20 liters of product.",
+   "Alternatively, mix in the still's boiler 2 kg of freshly pressed raspberry pomace with 500 g of magnesia and 5 liters of 85° alcohol, and distill slowly to collect 15 liters of product."
+  ],
+  "notes_en": "This is a footnote continuing from a recipe on the previous page (likely a raspberry liqueur/spirit); the main recipe text is not shown on this page.",
+  "ocr_flags": [
+   "graspi",
+   "magnesia"
+  ],
+  "confidence": 0.7
+ }
+]

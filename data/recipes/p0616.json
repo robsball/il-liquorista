@@ -1,0 +1,276 @@
+[
+ {
+  "id": "amaro-angostura-i",
+  "page": 616,
+  "section_en": "Bitters by maceration and digestion of mixed plant materials",
+  "title_it": "Amaro Angostura",
+  "title_en": "Angostura Bitters I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Corteccia di angostura",
+    "name_en": "Angostura bark",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (rad.)",
+    "name_en": "Gentian root",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimiento (allspice)",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° spirit",
+    "qty": 0,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "OCR possibly corrupted; context suggests this should be a positive quantity"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "l",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 5 days.",
+   "Decant the liquid."
+  ],
+  "notes_en": "After 5 days of maceration, decant the liquid.",
+  "ocr_flags": [
+   "Alcool di 90° qty shown as 0—likely OCR error; should be positive liters"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "amaro-angostura-ii",
+  "page": 616,
+  "section_en": "Bitters by maceration and digestion of mixed plant materials",
+  "title_it": "Amaro Angostura",
+  "title_en": "Angostura Bitters II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Corteccia di angostura",
+    "name_en": "Angostura bark",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Corteccia di china",
+    "name_en": "Cinchona bark",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (rad.)",
+    "name_en": "Gentian root",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno sandalo",
+    "name_en": "Sandalwood",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimiento (allspice)",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° spirit",
+    "qty": 1000,
+    "unit": "l",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 5 days and decant the liquid.",
+   "Pour 1000 L water over the residue and macerate for 8 days.",
+   "Decant, press, combine this liquid with the first extract.",
+   "Filter."
+  ],
+  "notes_en": "After 5 days of maceration, decant the liquid and pour 1000 L of water over the residue; macerate for 8 days, decant, press, combine the liquids, and filter.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "amaro-angostura-iii",
+  "page": 616,
+  "section_en": "Bitters by maceration and digestion of mixed plant materials",
+  "title_it": "Amaro Angostura",
+  "title_en": "Angostura Bitters III",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Corteccia di angostura",
+    "name_en": "Angostura bark",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella (fiori)",
+    "name_en": "Cinnamon flowers",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 275,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "80° spirit",
+    "qty": 0,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "OCR possibly corrupted; context suggests this should be a positive quantity"
+   }
+  ],
+  "steps_en": [
+   "Maceration, then digestion."
+  ],
+  "notes_en": "Maceration, followed by digestion.",
+  "ocr_flags": [
+   "Alcool di 80° qty shown as 0—likely OCR error; should be positive liters"
+  ],
+  "confidence": 0.7
+ }
+]

@@ -1,0 +1,287 @@
+[
+ {
+  "id": "anise-fennel-liqueur-ii",
+  "page": 525,
+  "section_en": "Aniseed Liqueurs",
+  "title_it": "II",
+  "title_en": "Anise and Fennel Liqueur (Recipe II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 1250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 1250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta campana",
+    "name_en": "Spearmint",
+    "qty": 225,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 225,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 225,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 15,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in the alcohol for 8 days.",
+   "Colour as indicated in the preceding recipe."
+  ],
+  "notes_en": "Coloration method referenced from previous recipe on the page.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "benedictine-liqueur-iii",
+  "page": 525,
+  "section_en": "Benedictine",
+  "title_it": "III - Benedettino",
+  "title_en": "Benedictine Liqueur (Recipe III)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornelian cherry",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Prepare a maceration of these botanicals in the alcohol.",
+   "Colour as in the preceding recipe.",
+   "For the liqueur: dissolve 300 g of the extract in 21 L of alcohol at 85°, add 1 L of syrup and 12 L of water."
+  ],
+  "notes_en": "The final liqueur formula combines the herbal extract with alcohol, syrup, and water to reach the final product.",
+  "ocr_flags": [
+   "Cornino (possibly cornmint or cornelian cherry—context suggests the latter)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "benedictine-liqueur-ingredients",
+  "page": 525,
+  "section_en": "Benedictine",
+  "title_it": "Benedettino - Ingredienti",
+  "title_en": "Benedictine Liqueur - Ingredients",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iva",
+    "name_en": "Iva (fleabane)",
+    "qty": 85,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 85,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Imperatoria (radice)",
+    "name_en": "Imperatoria root",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di arance (il solo giallo)",
+    "name_en": "Orange peel (zest only)",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance immature",
+    "name_en": "Unripe oranges",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 18,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "This is the detailed botanical composition for the Benedictine liqueur, likely for maceration with alcohol.",
+  "ocr_flags": [
+   "Contaurea (likely Centaurea, centaury plant)",
+   "Imperatoria (genus of plants used in traditional medicine)"
+  ],
+  "confidence": 0.85
+ }
+]

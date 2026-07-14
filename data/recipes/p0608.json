@@ -1,0 +1,323 @@
+[
+ {
+  "id": "brown-liqueur",
+  "page": 608,
+  "section_en": "Liqueurs",
+  "title_it": "Bruno",
+  "title_en": "Brown Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di macie",
+    "name_en": "Essential oil of mace",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 0.3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice russo",
+    "name_en": "Essential oil of Russian anise",
+    "qty": 0.6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 14.25,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 5.16,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 14,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils with alcohol.",
+   "Add syrup and water.",
+   "Blend until homogeneous."
+  ],
+  "notes_en": "Produces a brown liqueur.",
+  "confidence": 0.92
+ },
+ {
+  "id": "swiss-absinthe-i",
+  "page": 608,
+  "section_en": "Absinthe",
+  "title_it": "Assenzio Svizzero I",
+  "title_en": "Swiss Absinthe I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di anice russo",
+    "name_en": "Essential oil of Russian anise",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "Possibly OCR error; value reads 0"
+   },
+   {
+    "name_it": "Olio essenz. di finocchi",
+    "name_en": "Essential oil of fennel",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di rhum",
+    "name_en": "Rum extract",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 21,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 0.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 12,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils with rum extract.",
+   "Add alcohol, syrup, and water.",
+   "Mix thoroughly and color green with indigo tincture and burned sugar."
+  ],
+  "notes_en": "Produces a green liqueur (colored with indigo tincture and burned sugar).",
+  "ocr_flags": [
+   "wormwood oil quantity reads 0 - may be OCR corruption"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "swiss-absinthe-ii",
+  "page": 608,
+  "section_en": "Absinthe",
+  "title_it": "Assenzio Svizzero II",
+  "title_en": "Swiss Absinthe II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di assenzio",
+    "name_en": "Wormwood tincture",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 21,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 0.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 12.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils with wormwood tincture.",
+   "Add alcohol, syrup, and water.",
+   "Mix thoroughly."
+  ],
+  "notes_en": "Produces a green liqueur (colored as per the previous formula).",
+  "confidence": 0.93
+ },
+ {
+  "id": "berlin-liqueur",
+  "page": 608,
+  "section_en": "Liqueurs",
+  "title_it": "A. di Berlino",
+  "title_en": "Berlin Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore semplice (pag. 448)",
+    "name_en": "Simple liqueur (p. 448)",
+    "qty": 11.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils.",
+   "Mix into simple liqueur base.",
+   "Blend until homogeneous."
+  ],
+  "notes_en": "Produces a brown liqueur. See page 448 for simple liqueur base recipe.",
+  "confidence": 0.94
+ }
+]

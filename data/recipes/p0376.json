@@ -1,0 +1,239 @@
+[
+ {
+  "id": "orange-flower-liqueur",
+  "page": 376,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore alle arance e fiori",
+  "title_en": "Orange Flower Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 18,
+   "unit": "liters",
+   "note": "after distillation"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "70°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcoolato di gelsomino",
+    "name_en": "Jasmine alcoholate",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di ambra",
+    "name_en": "Amber tincture",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Sugar syrup",
+    "qty": 1,
+    "unit": "liter"
+   }
+  ],
+  "steps_en": [
+   "Macerate ingredients for 24 hours.",
+   "Distill 18 liters of 70° spirit.",
+   "Add orange flower water, jasmine alcoholate, amber tincture, vanilla tincture, and sugar syrup to the distilled spirit."
+  ],
+  "notes_en": "Red coloring.",
+  "confidence": 0.95
+ },
+ {
+  "id": "agua-d-amore",
+  "page": 376,
+  "section_en": "Liqueurs",
+  "title_it": "Acqua d'Amore",
+  "title_en": "Water of Love",
+  "method": "distillation",
+  "yield": {
+   "amount": 12,
+   "unit": "liters",
+   "note": "distilled spirit before final dilution"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance fresche",
+    "name_en": "Fresh orange peel",
+    "qty": 60,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di limoni fresche",
+    "name_en": "Fresh lemon peel",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Menta",
+    "name_en": "Mint",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella frantumata",
+    "name_en": "Broken cinnamon",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Gomma mirra",
+    "name_en": "Myrrh gum",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani (chiodi)",
+    "name_en": "Cloves",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Noci moscate peste",
+    "name_en": "Ground nutmeg",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Storace liquido",
+    "name_en": "Liquid storax",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1,
+    "unit": "liter"
+   }
+  ],
+  "steps_en": [
+   "Distill until obtaining 12 liters of spirit.",
+   "Add 50 g each of rose water, orange flower water, mint water, lemon balm water, and vanilla tincture.",
+   "Add 1 liter of sugar syrup.",
+   "Liqueur is ready, or tint pale green if desired."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "agua-della-liguria",
+  "page": 376,
+  "section_en": "Liqueurs",
+  "title_it": "Acqua della Liguria",
+  "title_en": "Water of Liguria",
+  "method": "distillation",
+  "yield": {
+   "amount": 18,
+   "unit": "liters",
+   "note": "after distillation to 72° and sweetening"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 520,
+    "unit": "g"
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Aromatic calamus",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 126,
+    "unit": "g"
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 60,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 125,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "60° alcohol",
+    "qty": 25,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Distill 18 liters of 72° spirit.",
+   "Sweeten with 18 liters of sugar syrup."
+  ],
+  "notes_en": "Odorless (when properly prepared).",
+  "confidence": 0.93
+ }
+]

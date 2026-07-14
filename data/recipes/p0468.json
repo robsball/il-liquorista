@@ -1,0 +1,436 @@
+[
+ {
+  "id": "anisette-iv",
+  "page": 468,
+  "section_en": "Anisette",
+  "title_it": "Anisette IV",
+  "title_en": "Anisette IV",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di anice comune",
+    "name_en": "Essential oil of common anise",
+    "qty": 4,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 1.5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 8,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Soluzione calda di zucchero",
+    "name_en": "Hot sugar solution",
+    "qty": 400,
+    "unit": "grams",
+    "note": "dissolved in 11 litres water"
+   }
+  ],
+  "steps_en": [
+   "Mix the essential oils and pour into the alcohol, rinsing the vessel with part of the alcohol.",
+   "Separately dissolve the sugar in water.",
+   "Mix the sugar solution with the alcohol, stirring with a white wooden spatula.",
+   "Filter through paper."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "anisette-i",
+  "page": 468,
+  "section_en": "Anisette",
+  "title_it": "Anisette I",
+  "title_en": "Anisette I",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 1,
+    "unit": "grams",
+    "variants": [
+     1.5
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di anice verde",
+    "name_en": "Essential oil of green anise",
+    "qty": 2,
+    "unit": "grams",
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di sassafrasso",
+    "name_en": "Essential oil of sassafras",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_it": "Alcoolato di ireos",
+    "name_en": "Alcoholic extract of iris",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1,
+    "unit": "kilogram",
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "grams",
+    "variants": [
+     1500
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 750,
+    "unit": "millilitres",
+    "unit_implicit": true,
+    "variants": [
+     5000
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix the essential oils and pour into the alcohol, rinsing the vessel with part of the alcohol.",
+   "Separately dissolve the sugar in water.",
+   "Mix the sugar solution with the alcohol, stirring with a white wooden spatula.",
+   "Filter through paper."
+  ],
+  "notes_en": "Yield: 10 litres",
+  "confidence": 0.92
+ },
+ {
+  "id": "anisette-iii",
+  "page": 468,
+  "section_en": "Anisette",
+  "title_it": "Anisette III",
+  "title_en": "Anisette III",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'anice russo rett.",
+    "name_en": "Essential oil of rectified Russian anise",
+    "qty": 12,
+    "unit": "grams",
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Olio essenz. d'anice russo steli.",
+    "name_en": "Essential oil of Russian anise stem",
+    "qty": 8,
+    "unit": "grams",
+    "variants": [
+     0
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     3
+    ],
+    "note": "first variant: not specified"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 12.75,
+    "unit": "grams",
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 17,
+    "unit": "grams",
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.25,
+    "unit": "grams",
+    "variants": [
+     null
+    ]
+   }
+  ],
+  "notes_en": "Colourless (Incoloro)",
+  "confidence": 0.88,
+  "ocr_flags": [
+   "steli (possibly 'steli' or 'stelo' - unclear OCR)"
+  ]
+ },
+ {
+  "id": "anisette-v-bordeaux",
+  "page": 468,
+  "section_en": "Anisette",
+  "title_it": "Anisette V (Bordeaux)",
+  "title_en": "Anisette V (Bordeaux)",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di anice verde",
+    "name_en": "Essential oil of green anise",
+    "qty": 5,
+    "unit": "grams",
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Olio essenz. d'anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 1,
+    "unit": "grams",
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     0.1
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     0.2
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     0.2
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     0.4
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     0.8
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 3.0,
+    "unit": "kilogram",
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3.5,
+    "unit": "kilogram",
+    "variants": [
+     5.6
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.5,
+    "unit": "kilogram",
+    "variants": [
+     2.0
+    ]
+   }
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "anisette-vi-holland",
+  "page": 468,
+  "section_en": "Anisette",
+  "title_it": "Anisette VI (Holland)",
+  "title_en": "Anisette VI (Holland)",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di anice verde",
+    "name_en": "Essential oil of green anise",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. d'anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 0.1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 0.2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 0.2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 0.4,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 0.8,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 4,
+    "unit": "kilogram"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5.6,
+    "unit": "kilogram"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.0,
+    "unit": "kilogram"
+   }
+  ],
+  "confidence": 0.9
+ }
+]

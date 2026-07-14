@@ -1,0 +1,217 @@
+[
+ {
+  "id": "mele-apple-liqueur",
+  "page": 562,
+  "section_en": "Mele (Apple)",
+  "title_it": "Mele",
+  "title_en": "Apple Liqueur",
+  "method": "maceration",
+  "yield": {
+   "amount": 12.5,
+   "unit": "liters",
+   "note": "calculated from ingredient sum"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_it": "Mele",
+    "name_en": "Apples",
+    "qty": 4,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Essenza artificiale di melo",
+    "name_en": "Artificial apple essence",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4.0,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.5,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Select fragrant apple varieties with aromatic skin, such as golden Reinettes.",
+   "Crush the apples with their skins in a marble mortar to a pulpy consistency.",
+   "Mix with 1.1 liters of alcohol and let stand for 8 days in a cool cellar in a covered vessel.",
+   "Press out the liquid, filter, and dissolve the sugar in the remaining water by heating.",
+   "Combine the filtered apple extract with the remaining ingredients."
+  ],
+  "notes_en": "Color: pale yellow and light green.",
+  "ocr_flags": [
+   "Reinette (golden apple variety)"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "mele-cotogne-quince-liqueur-i",
+  "page": 562,
+  "section_en": "Mele cotogne (Quince) – Method I",
+  "title_it": "Mele cotogne I",
+  "title_en": "Quince Liqueur (Method I)",
+  "method": "maceration",
+  "yield": {
+   "amount": 7.6,
+   "unit": "liters",
+   "note": "calculated from ingredient sum"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_it": "Cotogne senza buccia",
+    "name_en": "Quinces, peeled",
+    "qty": 5.7,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 4.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.1,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Tintura d'iride",
+    "name_en": "Iris tincture",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di bergamotto",
+    "name_en": "Bergamot tincture",
+    "qty": 10,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Grate the peeled fruit and press out the juice.",
+   "Combine the juice with the alcohol.",
+   "After 8 days, filter and mix with the remaining ingredients."
+  ],
+  "notes_en": "Color: light yellow.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "mele-cotogne-quince-liqueur-ii",
+  "page": 562,
+  "section_en": "Mele cotogne (Quince) – Method II",
+  "title_it": "Mele cotogne II",
+  "title_en": "Quince Liqueur (Method II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1,
+    "unit": "kg",
+    "note": "as base for maceration of spices"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 4,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 0,
+    "unit": "g",
+    "note": "quantity appears incomplete or corrupted in OCR"
+   },
+   {
+    "name_it": "Cotogne",
+    "name_en": "Quinces",
+    "qty": 2,
+    "unit": "kg",
+    "note": "well-ripened, with fuzz removed"
+   }
+  ],
+  "steps_en": [
+   "Macerate the ground spices (cloves, mace, coriander, cinnamon, bitter almonds) in 1 kg of 90° alcohol for 5 days.",
+   "Take 2 kg of well-ripened quinces and remove the fuzz using a rough cloth..."
+  ],
+  "notes_en": "Recipe continues on next page. Final yield and assembly steps incomplete in OCR.",
+  "ocr_flags": [
+   "Mandorle amare quantity missing or corrupted",
+   "recipe truncated mid-instruction"
+  ],
+  "confidence": 0.85
+ }
+]

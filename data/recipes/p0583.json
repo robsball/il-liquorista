@@ -1,0 +1,293 @@
+[
+ {
+  "id": "amaro-doppio",
+  "page": 583,
+  "section_en": "Amari (Bitters)",
+  "title_it": "Amaro doppio",
+  "title_en": "Double Bitter",
+  "method": "maceration",
+  "yield": {
+   "amount": 100,
+   "unit": "litres",
+   "note": "final strength 40° after water and alcohol adjustment"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     300
+    ]
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     200
+    ]
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     100
+    ],
+    "note": "variant I omits this; variant II uses 100 g"
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     100
+    ],
+    "note": "variant I omits this; variant II uses 100 g"
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     100
+    ]
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     100
+    ],
+    "note": "variant I omits this; variant II uses 100 g"
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     100
+    ]
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     50
+    ]
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     50
+    ],
+    "note": "variant I omits this; variant II uses 50 g"
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     50
+    ],
+    "note": "variant I omits this; variant II uses 50 g"
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Allspice",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     50
+    ],
+    "note": "variant I omits this; variant II uses 50 g"
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ],
+    "note": "variant I only"
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     50
+    ],
+    "note": "variant I omits this; variant II uses 50 g"
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     50
+    ],
+    "note": "variant I omits this; variant II uses 50 g"
+   },
+   {
+    "name_it": "Ireos (rad.)",
+    "name_en": "Iris root",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     50
+    ],
+    "note": "variant I omits this; variant II uses 50 g"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Spirit at 70° proof",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": true,
+    "variants": [
+     10
+    ],
+    "note": "for maceration; final dilution to 40° with water"
+   }
+  ],
+  "steps_en": [
+   "Prepare an aromatic spirit by maceration and successive digestion of the listed ingredients.",
+   "Mix the clear liquid with the liquid obtained by pressing the residues and filter.",
+   "Add water and spirit until reaching 100 litres at 40° proof.",
+   "The water should contain 4–5 kg of dissolved sugar."
+  ],
+  "notes_en": "Dark brown colour. Two proportion variants shown (columns I and II). Final product is 100 litres at 40° ABV.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "amaro-pino",
+  "page": 583,
+  "section_en": "Amari (Bitters)",
+  "title_it": "Amaro Pino",
+  "title_en": "Pine Bitter",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Quassio (legno)",
+    "name_en": "Quassia wood",
+    "qty": 190,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Agarico bianco",
+    "name_en": "White agaric",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Enula campana",
+    "name_en": "Elecampane",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete on this page; method and full instructions not provided.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

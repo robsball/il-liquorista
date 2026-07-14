@@ -1,0 +1,346 @@
+[
+ {
+  "id": "stomachic-magenbitter-i",
+  "page": 649,
+  "section_en": "Stomachic (Magenbitter)",
+  "title_it": "A. Stomatico (Magenbitter) - I",
+  "title_en": "Stomachic (Magenbitter) - Formula I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto d'Amaro inglese",
+    "name_en": "English bitters extract",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Juniper essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance amare",
+    "name_en": "Bitter orange essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils and extracts with the 95° alcohol."
+  ],
+  "notes_en": null,
+  "confidence": 0.95
+ },
+ {
+  "id": "stomachic-magenbitter-ii",
+  "page": 649,
+  "section_en": "Stomachic (Magenbitter)",
+  "title_it": "A. Stomatico (Magenbitter) - II",
+  "title_en": "Stomachic (Magenbitter) - Formula II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di Amaro inglese",
+    "name_en": "English bitters essence",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "see page 241"
+   },
+   {
+    "name_it": "Olio essenz. di cornino",
+    "name_en": "Cornel essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Angelica essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Lemon essential oil",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Juniper essential oil",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance amare",
+    "name_en": "Bitter orange essential oil",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity not specified in source"
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils and essences with 90° alcohol."
+  ],
+  "notes_en": null,
+  "confidence": 0.92
+ },
+ {
+  "id": "stomachic-magenbitter-iii",
+  "page": 649,
+  "section_en": "Stomachic (Magenbitter)",
+  "title_it": "A. Stomatico (Magenbitter) - III",
+  "title_en": "Stomachic (Magenbitter) - Formula III",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di scorze di arance",
+    "name_en": "Orange peel essential oil",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Juniper essential oil",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cornino",
+    "name_en": "Cornel essential oil",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di menta pip.",
+    "name_en": "Peppermint essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Wormwood essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito di nitro dolce",
+    "name_en": "Sweet nitre spirit",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di rhum",
+    "name_en": "Rum essence",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity not specified in source"
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils, ethers, and essences with 90° alcohol."
+  ],
+  "notes_en": null,
+  "confidence": 0.9
+ },
+ {
+  "id": "stomachic-magenbitter-iv",
+  "page": 649,
+  "section_en": "Stomachic (Magenbitter)",
+  "title_it": "A. Stomatico (Magenbitter) - IV",
+  "title_en": "Stomachic (Magenbitter) - Formula IV",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Lemon essential oil",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance amare",
+    "name_en": "Bitter orange essential oil",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance dolci",
+    "name_en": "Sweet orange essential oil",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di camomilla",
+    "name_en": "Chamomile essential oil",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils with 95° alcohol."
+  ],
+  "notes_en": null,
+  "confidence": 0.96
+ },
+ {
+  "id": "stomachic-magenbitter-v",
+  "page": 649,
+  "section_en": "Stomachic (Magenbitter)",
+  "title_it": "A. Stomatico (Magenbitter) - V",
+  "title_en": "Stomachic (Magenbitter) - Formula V",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza d'«Amaro d'erbe stomatiche»",
+    "name_en": "Stomachic herb bitters essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the stomachic herb bitters essence with 95° alcohol."
+  ],
+  "notes_en": null,
+  "confidence": 0.97
+ }
+]

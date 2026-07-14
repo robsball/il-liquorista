@@ -1,0 +1,254 @@
+[
+ {
+  "id": "kummel-di-breslavia",
+  "page": 546,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Breslavia",
+  "title_en": "Kummel of Breslau",
+  "method": "infusion",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "final liqueur at 40% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cornino",
+    "name_en": "Caraway seed",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Camomilla romana",
+    "name_en": "Roman chamomile",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 0.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 500,
+    "unit": "ml"
+   }
+  ],
+  "steps_en": [
+   "Prepare an infusion or macerate the botanical ingredients in 95° alcohol.",
+   "For 10 litres of 40% ABV liqueur, dilute 12–15 ml of the extract with 4,170 ml of 96° alcohol.",
+   "Add 5,840 ml of syrup prepared from 1,300–1,400 kg refined sugar."
+  ],
+  "notes_en": "This is the base recipe; the liqueur is finished by blending with syrup.",
+  "confidence": 0.92
+ },
+ {
+  "id": "kummel-di-berlino-formula-i",
+  "page": 546,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Berlino — I",
+  "title_en": "Kummel of Berlin — Formula I",
+  "method": "essence",
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza di cornino doppio rettificata",
+    "name_en": "Double-rectified caraway essence",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 0,
+    "unit": "g"
+   },
+   {
+    "name_it": "Essenza d'anice russo rettificata",
+    "name_en": "Rectified Russian anise essence",
+    "qty": 1.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Essenza di coriandoli",
+    "name_en": "Coriander essence",
+    "qty": 0.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "ml"
+   }
+  ],
+  "confidence": 0.88,
+  "ocr_flags": [
+   "Etere acetico quantity possibly 0 or OCR artifact"
+  ]
+ },
+ {
+  "id": "kummel-di-berlino-formula-ii",
+  "page": 546,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Berlino — II",
+  "title_en": "Kummel of Berlin — Formula II",
+  "method": "essence",
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza di cognac",
+    "name_en": "Cognac essence",
+    "qty": 12,
+    "unit": "g"
+   },
+   {
+    "name_it": "Essenza di coriandoli",
+    "name_en": "Coriander essence",
+    "qty": 12,
+    "unit": "g"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Essenza di anice",
+    "name_en": "Anise essence",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Essenza di cornino",
+    "name_en": "Caraway essence",
+    "qty": 92,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "ml"
+   }
+  ],
+  "confidence": 0.9,
+  "ocr_flags": [
+   "Cognac essence and coriander essence quantities both read as 12; verify against source"
+  ]
+ },
+ {
+  "id": "kummel-di-berlino-formula-iii",
+  "page": 546,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Berlino — III",
+  "title_en": "Kummel of Berlin — Formula III",
+  "method": "infusion",
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cornino",
+    "name_en": "Caraway seed",
+    "qty": 1000,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice semi russo",
+    "name_en": "Russian semi-anise",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "ml"
+   }
+  ],
+  "notes_en": "See also: Kummel of Breslau (for finishing instructions).",
+  "confidence": 0.93
+ },
+ {
+  "id": "kummel-di-danzica-formula-i",
+  "page": 546,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Danzica — I",
+  "title_en": "Kummel of Danzig — Formula I",
+  "method": "essence",
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza di cornino dopp. rettificata",
+    "name_en": "Double-rectified caraway essence",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Essenza d'Acqua d'oro",
+    "name_en": "Golden water essence",
+    "qty": 0.8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "ml"
+   }
+  ],
+  "confidence": 0.85,
+  "ocr_flags": [
+   "Acqua d'oro — uncertain whether this is a standard ingredient or OCR error; could be 'Acqua di oro' or similar"
+  ]
+ }
+]

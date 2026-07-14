@@ -1,0 +1,99 @@
+[
+ {
+  "id": "kirsch-iv",
+  "page": 354,
+  "section_en": "Kirsch",
+  "title_it": "Kirsch (IV)",
+  "title_en": "Kirsch (IV)",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Polpa di ciliege",
+    "name_en": "Cherry pulp",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noccioli di ciliege infranti",
+    "name_en": "Crushed cherry pits",
+    "qty": null,
+    "unit": "kg",
+    "unit_implicit": true,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 10,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "liters",
+    "unit_implicit": true,
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [
+   "Distill before the fruits have undergone fermentation due to the presence of alcohol; in this way the special aroma will be utilized."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "kirsch-from-dried-cherries",
+  "page": 354,
+  "section_en": "Kirsch",
+  "title_it": "Kirsch da ciliege secche (V)",
+  "title_en": "Kirsch from Dried Cherries (V)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": 40,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Ciliege secche",
+    "name_en": "Dried cherries",
+    "qty": null,
+    "unit": null,
+    "unit_implicit": false,
+    "note": "quantity to taste"
+   },
+   {
+    "name_it": "Acqua calda",
+    "name_en": "Hot water",
+    "qty": 40,
+    "unit": "°C",
+    "unit_implicit": false,
+    "note": "temperature specified"
+   }
+  ],
+  "steps_en": [
+   "Place dried cherries in a vat and pour hot water at 40°C over them; they will ferment, although slowly.",
+   "Crack open the pits and mix them with the crushed cherries.",
+   "To improve the method and avoid the risk of burning the material, use a vat with a double bottom.",
+   "Pour water at 60°C over the lees.",
+   "Draw off the liquid using a tap, and subject the residue to the press.",
+   "This method will yield Kirsch with the same aroma and pleasant bitterness."
+  ],
+  "notes_en": "The pits impart the pleasant bitterness characteristic of this liqueur, as well as the aroma, which is partly due to a very small amount of hydrocyanic acid (prussic acid). Whether using a naked-flame still or a steam still (the latter being preferable), ensure the apparatus is made of or lined with tin or well-tinned copper. For aging and storage: keep Kirsch in glass vessels, covering the opening with a porous material that permits slight evaporation during the first year—this allows acrid principles to volatilize, leaving a very pleasant liquid. Then seal tightly. If sufficient glass vessels are not available, store in ash wood barrels, which have the advantage of not coloring the liquid. In the region, it is customary to store Kirsch during the first year in cellars where the mild temperature favors proper aging.",
+  "ocr_flags": [
+   "acido cianidrico (hydrocyanic acid—common term of the period)",
+   "frassino (ash wood—botanical term)"
+  ],
+  "confidence": 0.92
+ }
+]

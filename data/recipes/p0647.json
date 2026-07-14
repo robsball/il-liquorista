@@ -1,0 +1,269 @@
+[
+ {
+  "id": "hamburg-bitter-solution",
+  "page": 647,
+  "section_en": "Compound Solutions",
+  "title_it": "Soluzione per Amaro d'Amburgo",
+  "title_en": "Solution for Hamburg Bitter",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di Amaro d'Amburgo",
+    "name_en": "Essence of Hamburg Bitter",
+    "qty": 4,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 0.5,
+    "unit": "litre"
+   }
+  ],
+  "steps_en": [
+   "Mix the essential oil of cinnamon and Hamburg Bitter essence with the alcohol."
+  ],
+  "notes_en": "Attributed to A. Grünewald.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "grünewald-amaro",
+  "page": 647,
+  "section_en": "Amari (Bitters)",
+  "title_it": "Amaro Grünewald",
+  "title_en": "Grünewald Bitter",
+  "method": "maceration",
+  "yield": {
+   "amount": 23,
+   "unit": "litre",
+   "note": "approximate yield from maceration"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 1000,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Scorzo di arance",
+    "name_en": "Orange peel",
+    "qty": 1000,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 125,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 250,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 250,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 500,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 50,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Legno quassia",
+    "name_en": "Quassia wood",
+    "qty": 85,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 23,
+    "unit": "litre"
+   }
+  ],
+  "steps_en": [
+   "Macerate the oranges, orange peel, wormwood, holy thistle, galangal, water clover, gentian, and quassia wood in 60° alcohol.",
+   "Prepare separately a solution of cinnamon essential oil (2 g), clove essential oil (4 g), sulfuric ether (35 g), and 95° alcohol (1 litre).",
+   "Mix the two products together."
+  ],
+  "notes_en": "The auxiliary solution uses sulfuric ether to extract and enhance aromatic components before combining with the main macerate.",
+  "ocr_flags": [
+   "Trifoglio acquatico (possibly water clover; exact identification uncertain)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "grünewald-bitter-liqueur",
+  "page": 647,
+  "section_en": "Finished Liqueurs",
+  "title_it": "Liquore - Amaro Grünewald",
+  "title_en": "Grünewald Bitter Liqueur",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 30.01,
+   "unit": "litre",
+   "note": "sum of components"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Preceding extract",
+    "qty": 26,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 14.26,
+    "unit": "litre"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 8,
+    "unit": "litre"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.75,
+    "unit": "litre"
+   }
+  ],
+  "steps_en": [
+   "Blend the preceding extract with 90° alcohol, syrup, and water to obtain a clear, green liqueur."
+  ],
+  "notes_en": "Colour: green. Final liqueur formulation.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "mogador-bitter",
+  "page": 647,
+  "section_en": "Amari (Bitters)",
+  "title_it": "Amaro Mogador",
+  "title_en": "Mogador Bitter",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1,
+   "unit": "litre"
+  },
+  "alcohol_strength": {
+   "degrees": 100,
+   "raw": "alcool assoluto"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di assenzio francese",
+    "name_en": "Essential oil of French wormwood",
+    "qty": 12,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Olio essenz. di menta pip. inglese",
+    "name_en": "Essential oil of English peppermint",
+    "qty": 10,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Olio essenz. di arance amare",
+    "name_en": "Essential oil of bitter orange",
+    "qty": 16,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Olio essenz. di cannella Cassia",
+    "name_en": "Essential oil of Cassia cinnamon",
+    "qty": 8,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 8,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 4,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 10,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Tintura di genziana",
+    "name_en": "Gentian tincture",
+    "qty": 30,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Tintura amara stomachica",
+    "name_en": "Bitter stomachic tincture",
+    "qty": 20,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 1,
+    "unit": "litre"
+   }
+  ],
+  "steps_en": [
+   "Dissolve all essential oils and tinctures in absolute alcohol. Mix thoroughly."
+  ],
+  "notes_en": "Attributed to A. Mogador. A complex aromatic bitter based on multiple essential oils and tinctures in pure alcohol.",
+  "ocr_flags": [
+   "menta pip. (abbreviation; likely 'menta piperita')"
+  ],
+  "confidence": 0.91
+ }
+]

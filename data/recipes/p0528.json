@@ -1,0 +1,255 @@
+[
+ {
+  "id": "orange-peel-liqueur-xiv",
+  "page": 528,
+  "section_en": "Liqueurs",
+  "title_it": "Arancio scorze",
+  "title_en": "Orange Peel Liqueur",
+  "method": "maceration",
+  "yield": {
+   "amount": 3.5,
+   "unit": "liters",
+   "note": "approximate yield from 3–4 L digestion"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Arancio scorze",
+    "name_en": "Orange peel",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the ingredients in 3–4 liters of 80° alcohol."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "hyssop-digestive-liqueur-xv",
+  "page": 528,
+  "section_en": "Liqueurs",
+  "title_it": "Issopo sommità fiorite",
+  "title_en": "Hyssop Digestive Liqueur",
+  "method": "maceration",
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Issopo sommità fiorite",
+    "name_en": "Hyssop flowering tops",
+    "qty": 625,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica radice",
+    "name_en": "Angelica root",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Imperatoria radice",
+    "name_en": "Masterwort root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice semi",
+    "name_en": "Anise seed",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Cina",
+    "name_en": "Cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cornino semi",
+    "name_en": "Cornel seed",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 3500,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cognac fino",
+    "name_en": "Fine cognac",
+    "qty": 300,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2500,
+    "unit": "mL",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients.",
+   "After digestion, press, strain, and filter.",
+   "For green liqueur: Mix 1500 mL extract, 9.7 L of 90° alcohol, and 10.3 L syrup (containing 7.2 kg refined sugar). Color with a small amount of saffron tincture, indigo, or preferably chlorophyll.",
+   "For yellow liqueur: Proceed as above, but prepare the extract by mixing 1 part of the above extract with 3 parts of Elixir of Spa extract (see p. 532)."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "christofel-liqueur",
+  "page": 528,
+  "section_en": "Liqueurs",
+  "title_it": "Christofel",
+  "title_en": "Christofel Liqueur",
+  "method": "maceration",
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Datteri",
+    "name_en": "Dates",
+    "qty": 550,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fichi",
+    "name_en": "Figs",
+    "qty": 550,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorza di arancio verdi",
+    "name_en": "Green orange peel",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorza di limoni freschi",
+    "name_en": "Fresh lemon peel",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo rad.",
+    "name_en": "Sweet flag root",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Allspice",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos",
+    "name_en": "Iris root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Grana paradisi",
+    "name_en": "Grains of paradise",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol 70°",
+    "qty": 30,
+    "unit": "unknown",
+    "unit_implicit": true,
+    "note": "OCR unclear; likely L (liters) based on context"
+   }
+  ],
+  "ocr_flags": [
+   "Christofel (proper name, possibly Christoffel or variant spelling)",
+   "final alcohol quantity unit ambiguous in OCR"
+  ],
+  "confidence": 0.88
+ }
+]

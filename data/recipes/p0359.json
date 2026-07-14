@@ -1,0 +1,298 @@
+[
+ {
+  "id": "bitter-almond-anise-liqueur",
+  "page": 359,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "[Liquore alle mandorle amare e anice]",
+  "title_en": "Bitter Almond and Anise Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "Spirito (di nitrodolce)"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Sweet nitrified spirit",
+    "name_it": "Spirito di nitrodolce",
+    "qty": 20,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Acetic ether",
+    "name_it": "Etero acetico",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Bitter almond essential oil",
+    "name_it": "Olio essenziale di mandorle amare",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Anise essential oil",
+    "name_it": "Olio essenziale di anice",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Prepare a tincture of botanicals by digestion and straining.",
+   "Add the ethers and essential oils to the tincture.",
+   "Macerate the mixture for one month."
+  ],
+  "notes_en": "The recipe refers to a prior tincture of botanicals ('tintura delle droghe') obtained by digestion and filtration.",
+  "confidence": 0.85
+ },
+ {
+  "id": "rheum-extract-liqueur-i",
+  "page": 359,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "[Liquore di estratto di rabarbaro - I]",
+  "title_en": "Rhubarb Extract Liqueur (Formula I)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1000,
+   "unit": "ml"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Rhubarb extract",
+    "name_it": "Estratto di rabarbaro",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Acetic ether",
+    "name_it": "Etero acetico",
+    "qty": 80,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Iris tincture",
+    "name_it": "Tintura d'iride",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Bitter almond essential oil",
+    "name_it": "Olio essenziale di mandorle amare",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Grape seed essence",
+    "name_it": "Essenza di vinaccioli",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "90° alcohol",
+    "name_it": "Alcool di 90°",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients in the specified proportions.",
+   "Mix thoroughly."
+  ],
+  "confidence": 0.82,
+  "ocr_flags": [
+   "Estratto di r l i u m (likely 'rabarbaro')"
+  ]
+ },
+ {
+  "id": "rhubarb-extract-liqueur-ii",
+  "page": 359,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "[Liquore di estratto di rabarbaro - II]",
+  "title_en": "Rhubarb Extract Liqueur (Formula II)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1000,
+   "unit": "ml"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Nitric ether",
+    "name_it": "Etere nitrico",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Acetic ether",
+    "name_it": "Etero acetico",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Grape seed essence",
+    "name_it": "Essenza di vinaccioli",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Bitter almond essential oil",
+    "name_it": "Olio essenziale di mandorle amare",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "90° alcohol",
+    "name_it": "Alcool di 90°",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients in the specified proportions.",
+   "Mix thoroughly."
+  ],
+  "confidence": 0.81,
+  "ocr_flags": [
+   "dimandorle (spacing issue, likely 'di mandorle')"
+  ]
+ },
+ {
+  "id": "plum-brandy",
+  "page": 359,
+  "section_en": "Aquavits",
+  "title_it": "Acquavite di Prugne (Zwetechenbraatwein)",
+  "title_en": "Plum Brandy (Zwetechenbraatwein)",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Plums",
+    "name_it": "Prugne",
+    "qty": null,
+    "unit": "",
+    "note": "Not specified; to be distilled"
+   }
+  ],
+  "steps_en": [
+   "Distill from plums."
+  ],
+  "notes_en": "A distillate from plums, but with a less refined flavor than Slivovitz. Germany and the central Rhine region are the main production and consumption areas.",
+  "confidence": 0.88
+ },
+ {
+  "id": "anise-brandy",
+  "page": 359,
+  "section_en": "Aquavits",
+  "title_it": "Acquavite di Anice",
+  "title_en": "Anise Brandy",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Anise",
+    "name_it": "Anice",
+    "qty": null,
+    "unit": "",
+    "note": "Preparation method as for Juniper Brandy"
+   }
+  ],
+  "notes_en": "Prepare according to the method described for Juniper Brandy (Acquavite di Ginepro).",
+  "confidence": 0.9
+ },
+ {
+  "id": "gentian-brandy",
+  "page": 359,
+  "section_en": "Aquavits",
+  "title_it": "Acquavite di Genziana",
+  "title_en": "Gentian Brandy",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_en": "Dried gentian root, scraped and bruised",
+    "name_it": "Radici di genziana secche, raspate e contuse",
+    "qty": null,
+    "unit": "",
+    "note": "Quantity not specified"
+   },
+   {
+    "name_en": "Hot water",
+    "name_it": "Acqua calda",
+    "qty": null,
+    "unit": "",
+    "note": "Sufficient quantity"
+   },
+   {
+    "name_en": "Tartaric acid",
+    "name_it": "Acido tartarico",
+    "qty": 2,
+    "unit": "g/L",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Fermenting fruit or wine yeast",
+    "name_it": "Frutta in fermentazione oppure lievito di vino",
+    "qty": 1,
+    "unit": "kg per hectoliter",
+    "note": "1–2 kg per hectoliter of liquid"
+   }
+  ],
+  "steps_en": [
+   "Digest the dried gentian root (scraped and bruised) for 24 hours with sufficient hot water and 2 g tartaric acid per liter.",
+   "Separate the liquid and bring to a boil.",
+   "Cool the liquid and induce fermentation by adding 1–2 kg of fermenting fruit or wine yeast per hectoliter of liquid.",
+   "Once fermentation is complete, distill the brandy slowly and, if necessary, rectify it."
+  ],
+  "confidence": 0.87
+ }
+]

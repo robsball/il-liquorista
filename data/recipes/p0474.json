@@ -1,0 +1,245 @@
+[
+ {
+  "id": "calamus-of-maudebuhuo",
+  "page": 474,
+  "section_en": "Essences and Liqueurs",
+  "title_it": "Calamo di Maudebuhuo",
+  "title_en": "Calamus of Maudebuhuo",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "alcohol content 36%"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Angelica essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Anise essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 4,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the essential oils with the alcohol",
+   "Dissolve sugar in water",
+   "Combine the two solutions",
+   "The final product is colourless"
+  ],
+  "notes_en": "Colourless. Yield: 10 litres at 36% alcohol.",
+  "confidence": 0.95
+ },
+ {
+  "id": "cinnamon-i",
+  "page": 474,
+  "section_en": "Essences and Liqueurs",
+  "title_it": "Cannella I",
+  "title_en": "Cinnamon I",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cannella Ceylon",
+    "name_en": "Ceylon cinnamon essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix cinnamon essential oil with alcohol",
+   "Dissolve sugar in water",
+   "Combine the solutions",
+   "Filter through paper"
+  ],
+  "notes_en": "Yellow, rather dark colour. Filter through paper.",
+  "confidence": 0.97
+ },
+ {
+  "id": "cinnamon-ii-cream",
+  "page": 474,
+  "section_en": "Essences and Liqueurs",
+  "title_it": "Cannella II (Crema)",
+  "title_en": "Cinnamon II (Cream)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "alcohol content 30%"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di macis",
+    "name_en": "Mace essential oil",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 4,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4.3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.5,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the essential oils with alcohol",
+   "Dissolve sugar in water",
+   "Combine the solutions"
+  ],
+  "notes_en": "Brown colour. Yield: 10 litres at 30% alcohol.",
+  "confidence": 0.96
+ },
+ {
+  "id": "cinnamon-iii-double",
+  "page": 474,
+  "section_en": "Essences and Liqueurs",
+  "title_it": "Cannella III (Doppio)",
+  "title_en": "Cinnamon III (Double)",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 42,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 6,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 52,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix cinnamon essential oil with alcohol",
+   "Add syrup and water",
+   "Blend thoroughly"
+  ],
+  "notes_en": "Brown colour.",
+  "confidence": 0.94
+ }
+]

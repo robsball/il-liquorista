@@ -1,0 +1,345 @@
+[
+ {
+  "id": "elixir-stomatico",
+  "page": 614,
+  "title_it": "Elixir stomatico",
+  "title_en": "Stomachic Elixir",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "alcohol content 36%"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di scorze di arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di inacis",
+    "name_en": "Essential oil of mace",
+    "qty": 12,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di valeriana",
+    "name_en": "Essential oil of valerian",
+    "qty": 12,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di galanga",
+    "name_en": "Essential oil of galangal",
+    "qty": 12,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 12,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di coriandolo",
+    "name_en": "Essential oil of coriander",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 11,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kilograms",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.75,
+    "unit": "liters",
+    "unit_implicit": true
+   }
+  ],
+  "confidence": 0.92,
+  "ocr_flags": [
+   "inacis (possibly mace/nutmeg derivative)",
+   "cornino (coriander)"
+  ]
+ },
+ {
+  "id": "elixir-diabolico",
+  "page": 614,
+  "title_it": "Elixir Diabolico",
+  "title_en": "Diabolic Elixir",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 11,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 14,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Estratto di china",
+    "name_en": "Extract of cinchona",
+    "qty": 0.75,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Estratto di arance",
+    "name_en": "Extract of orange",
+    "qty": 0.75,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Estratto di zenzero",
+    "name_en": "Extract of ginger",
+    "qty": 0.25,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Estratto di gioco di Mampe",
+    "name_en": "Extract of Mampe juice",
+    "qty": 0.1,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Cognac (imitazione)",
+    "name_en": "Cognac (imitation)",
+    "qty": 6,
+    "unit": "liters"
+   }
+  ],
+  "confidence": 0.85,
+  "ocr_flags": [
+   "Mampe (brand name)"
+  ]
+ },
+ {
+  "id": "elixir-della-salute",
+  "page": 614,
+  "title_it": "Elixir della Salute",
+  "title_en": "Elixir of Health",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza di Amaro Berlino",
+    "name_en": "Essence of Berlin Bitter",
+    "qty": null,
+    "unit": "grams",
+    "note": "reference to page 240"
+   },
+   {
+    "name_it": "Essenza di Amaro spagnuolo",
+    "name_en": "Essence of Spanish Bitter",
+    "qty": 2,
+    "unit": "grams",
+    "note": "reference to page 244"
+   },
+   {
+    "name_it": "Essenza di Amaro di erbe",
+    "name_en": "Essence of Herbal Bitter",
+    "qty": 3,
+    "unit": "grams",
+    "note": "reference to page 240"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kilograms"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 11.7,
+    "unit": "kilograms"
+   }
+  ],
+  "confidence": 0.88,
+  "ocr_flags": [
+   "Amaro spagnuolo (OCR: 'pagniolo')"
+  ]
+ },
+ {
+  "id": "diversi-bitters-table",
+  "page": 614,
+  "title_en": "Various Bitters (Formulation Table)",
+  "section_en": "Miscellaneous",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_en": "Swiss Wormwood",
+    "name_it": "Assenzio svizzero",
+    "qty": 25,
+    "unit": "grams",
+    "variants": [
+     21.5,
+     0.5,
+     12
+    ],
+    "note": "reference to page 244"
+   },
+   {
+    "name_en": "Hamburg Bitter",
+    "name_it": "Amaro di Amburgo",
+    "qty": 10,
+    "unit": "grams",
+    "variants": [
+     42,
+     6,
+     53
+    ],
+    "note": "reference to page 240"
+   },
+   {
+    "name_en": "Old Herbal Bitter",
+    "name_it": "Amaro di erbe staro",
+    "qty": 20,
+    "unit": "grams",
+    "variants": [
+     14.25,
+     null,
+     10.75
+    ],
+    "note": "reference to page 240"
+   },
+   {
+    "name_en": "Berlin Bitter",
+    "name_it": "Amaro di Berlino",
+    "qty": 17,
+    "unit": "grams",
+    "variants": [
+     14.25,
+     10,
+     0.75
+    ],
+    "note": "reference to page 240"
+   },
+   {
+    "name_en": "Greek Bitter",
+    "name_it": "Amaro greco",
+    "qty": 25,
+    "unit": "grams",
+    "variants": [
+     14.25,
+     3,
+     16.75
+    ],
+    "note": "reference to page 241"
+   },
+   {
+    "name_en": "Dutch Bitter",
+    "name_it": "Amaro olandese",
+    "qty": 30,
+    "unit": "grams",
+    "variants": [
+     14.25,
+     3,
+     16.25
+    ],
+    "note": "reference to page 242"
+   },
+   {
+    "name_en": "Polish Bitter",
+    "name_it": "Amaro polacco",
+    "qty": 30,
+    "unit": "grams",
+    "variants": [
+     14.25,
+     1,
+     18.7
+    ],
+    "note": "reference to page 242"
+   },
+   {
+    "name_en": "Stettin Bitter",
+    "name_it": "Amaro di Stettino",
+    "qty": 25,
+    "unit": "grams",
+    "variants": [
+     12.75,
+     8,
+     13.25
+    ],
+    "note": "reference to page 243"
+   },
+   {
+    "name_en": "Spanish Bitter",
+    "name_it": "Amaro spagnuolo",
+    "qty": 32,
+    "unit": "grams",
+    "variants": [
+     12.75,
+     12,
+     0.25
+    ],
+    "note": "reference to page 242"
+   }
+  ],
+  "notes_en": "Table shows three formulation columns: (1) Essential ingredient in grams; (2) Alcohol 95° in liters; (3) Syrup in liters; (4) Water in liters. Each row represents an alternative bitter recipe.",
+  "confidence": 0.89,
+  "ocr_flags": [
+   "staro (possibly 'staro' or 'vecchio'—archaic herbal)"
+  ]
+ }
+]

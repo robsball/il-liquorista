@@ -1,0 +1,196 @@
+[
+ {
+  "id": "vermouth-alla-vaniglia-i",
+  "page": 679,
+  "section_en": "Vermouth",
+  "title_it": "Vermouth alla Vaniglia",
+  "title_en": "Vanilla Vermouth (Method I)",
+  "method": "maceration",
+  "yield": {
+   "amount": 100,
+   "unit": "litri",
+   "note": "after clarification and filtration"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "vaniglia di Bourbon",
+    "name_en": "Bourbon vanilla",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "in packets, cut into small pieces"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 10,
+    "unit": "litri",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 8,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "dissolved in water"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 8,
+    "unit": "litri",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "spirito di vaniglia",
+    "name_en": "vanilla spirit",
+    "qty": 1.5,
+    "unit": "litri",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1.5,
+    "unit": "litri",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "estratto di vermouth",
+    "name_en": "vermouth extract",
+    "qty": 0.5,
+    "unit": "litri",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vermouth",
+    "name_en": "Vermouth",
+    "qty": 84,
+    "unit": "litri",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "terra Lebrija",
+    "name_en": "Lebrija earth",
+    "qty": 0.15,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "150–200 grams for clarification"
+   }
+  ],
+  "steps_en": [
+   "Macerate 1 kg of Bourbon vanilla, cut into small pieces, in 10 litres of 95° alcohol for 15 days.",
+   "Dissolve 8 kg white sugar in 8 litres of water.",
+   "Add 1.5 litres of vanilla spirit, 1.5 litres of 95° alcohol, and 0.5 litres of vermouth extract.",
+   "Add 84 litres of Vermouth.",
+   "Clarify with 150–200 grams of Lebrija earth.",
+   "After several days, filter to obtain 100 litres of finished product."
+  ],
+  "notes_en": "This produces an excellent vanilla vermouth with delicate flavour and aroma, particularly suited to ladies' consumption.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "vermouth-alla-vaniglia-ii",
+  "page": 679,
+  "section_en": "Vermouth",
+  "title_it": "Vermouth alla Vaniglia",
+  "title_en": "Vanilla Vermouth (Method II)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 100,
+   "unit": "litri"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vermouth",
+    "name_en": "Vermouth",
+    "qty": 96,
+    "unit": "litri",
+    "unit_implicit": false,
+    "note": "preferably wine-based"
+   },
+   {
+    "name_it": "zucchero puro",
+    "name_en": "pure sugar",
+    "qty": 6.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 1.5,
+    "unit": "litri",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "spirito di vaniglia",
+    "name_en": "vanilla spirit",
+    "qty": 1.5,
+    "unit": "litri",
+    "unit_implicit": false,
+    "note": "prepared from 1 litre absolute alcohol and 100 grams fine vanilla, minced"
+   }
+  ],
+  "steps_en": [
+   "Start with 96 litres of good quality Vermouth, preferably wine-based.",
+   "Add 6.5 kg of pure sugar.",
+   "Add 1.5 litres of alcohol.",
+   "Add 1.5 litres of vanilla spirit (prepared by dissolving 100 grams fine vanilla, minced, in 1 litre of absolute alcohol)."
+  ],
+  "notes_en": "Simpler method for producing vanilla Vermouth.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "vermouth-spumanti",
+  "page": 679,
+  "section_en": "Vermouth",
+  "title_it": "Vermouth Spumanti",
+  "title_en": "Sparkling Vermouth",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vermouth",
+    "name_en": "Vermouth",
+    "qty": null,
+    "unit": "litri",
+    "unit_implicit": true,
+    "note": "any good quality Vermouth"
+   },
+   {
+    "name_it": "anidride carbonica",
+    "name_en": "carbon dioxide",
+    "qty": null,
+    "unit": "litri",
+    "unit_implicit": false,
+    "note": "to saturation"
+   }
+  ],
+  "steps_en": [
+   "Take any good quality Vermouth and bottle it in sturdy bottles.",
+   "Saturate simply with carbon dioxide, using the same method as for carbonated waters."
+  ],
+  "notes_en": "This creates a sparkling vermouth by the same carbonation technique used for aerated waters.",
+  "ocr_flags": [],
+  "confidence": 0.97
+ }
+]

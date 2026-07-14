@@ -1,0 +1,259 @@
+[
+ {
+  "id": "gelsomino-liqueur",
+  "page": 427,
+  "section_en": "Liqueurs",
+  "title_it": "[Liquore di Gelsomino]",
+  "title_en": "Jasmine Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_en": "Alcohol, 60° proof",
+    "name_it": "Alcool di 60°",
+    "qty": 8,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_en": "Rose water",
+    "name_it": "Acqua di rose",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_en": "Jasmine extract",
+    "name_it": "Estratto di gelsomino",
+    "qty": 50,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Essential oil of cardamom",
+    "name_it": "Olio essenziale di cardamomo",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_en": "Sugar",
+    "name_it": "Zucchero",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_en": "Cochineal",
+    "name_it": "Cocciniglia",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "for coloring"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 10 days, then filter.",
+   "Prepare a syrup with the sugar and water.",
+   "Mix the syrup with the filtered liquid.",
+   "Color with cochineal (50 grams); alternatively, it is advisable to add the color to the maceration mixture of the botanicals."
+  ],
+  "notes_en": "The recipe includes two columns for certain ingredients (sugar and water), indicating variations in proportions.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "ambrosia",
+  "page": 427,
+  "section_en": "Liqueurs",
+  "title_it": "Ambrosia",
+  "title_en": "Ambrosia",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_en": "Coriander seeds",
+    "name_it": "Coriandoli",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Green anise",
+    "name_it": "Anice verde",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Cloves",
+    "name_it": "Garofani",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Musk tincture",
+    "name_it": "Tintura di muschio",
+    "qty": 4,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Alcohol, 60° proof",
+    "name_it": "Alcool di 60°",
+    "qty": 600,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Old white wine",
+    "name_it": "Vino bianco vecchio",
+    "qty": 700,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Sugar",
+    "name_it": "Zucchero",
+    "qty": 800,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Crush together the coriander seeds, anise, and cloves.",
+   "Macerate in alcohol for 8 days.",
+   "Add the wine, stir, and macerate for another 8 days.",
+   "Add the sugar in small pieces, count out the 4 drops of musk tincture, stir, and filter after 4 days.",
+   "Color with rose (pink)."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "angelica-rosolio",
+  "page": 427,
+  "section_en": "Liqueurs",
+  "title_it": "Angelica (Rosolio di)",
+  "title_en": "Angelica (Rosolio)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_en": "Fresh angelica stems",
+    "name_it": "Steli freschi di angelica",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     100
+    ]
+   },
+   {
+    "name_en": "Vanilla",
+    "name_it": "Vaniglia",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_en": "Bitter almonds",
+    "name_it": "Mandorle amare",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     25
+    ],
+    "note": "25 grams in second variant only"
+   },
+   {
+    "name_en": "Alcohol, 80° proof",
+    "name_it": "Alcool di 80°",
+    "qty": 700,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     700
+    ]
+   },
+   {
+    "name_en": "Sugar",
+    "name_it": "Zucchero",
+    "qty": 800,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     800
+    ]
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 600,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     650
+    ]
+   }
+  ],
+  "steps_en": [
+   "Finely chop the angelica and crush it with 100 grams of the prescribed sugar.",
+   "Separately, do the same with the vanilla using 10–20 grams of sugar, or with the bitter almonds using 50 grams of sugar.",
+   "Add the sugar solution prepared cold.",
+   "After 48 hours of rest, decant and filter through paper."
+  ],
+  "notes_en": "The recipe presents two proportion columns, the second being a variant with bitter almonds in place of vanilla.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ }
+]

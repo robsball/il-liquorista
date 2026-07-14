@@ -1,0 +1,216 @@
+[
+ {
+  "id": "strawberry-punch-i",
+  "page": 657,
+  "section_en": "Fruit Punches and Liqueurs",
+  "title_it": "Alla Fragola. I.",
+  "title_en": "Strawberry Punch I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "fragole di bosco",
+    "name_en": "wild strawberries",
+    "qty": 2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "rhum genuino di Giamaica",
+    "name_en": "genuine Jamaican rum",
+    "qty": 1.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "succo di limoni",
+    "name_en": "lemon juice",
+    "qty": 2,
+    "unit": "fruits",
+    "note": "from two good lemons without seeds"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 625,
+    "unit": "grams",
+    "note": "500–750 g range; 625 g is midpoint",
+    "variants": [
+     500,
+     750
+    ]
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 3,
+    "unit": "bottles"
+   }
+  ],
+  "steps_en": [
+   "Crush 2 kg of wild strawberries. Place the pulp in a glass vessel and cover with 1.5 liters of genuine Jamaican rum.",
+   "Close and let rest for two to three days, stirring the mass repeatedly during this time.",
+   "Filter the liquid. Press the strawberry pulp through a hair sieve.",
+   "For one bottle of strawberry punch: extract juice from two good lemons (without seeds), combine 500–750 g of sugar and three bottles of water.",
+   "Place sugar in a bowl. Squeeze lemon juice over it, then add the prepared rum, then finally the boiling water.",
+   "Store in well-sealed bottles. The punch improves with age and may be kept for several days."
+  ],
+  "notes_en": "Strawberry punch is more pleasant when aged than when freshly prepared.",
+  "confidence": 0.92
+ },
+ {
+  "id": "goa-arrack-punch",
+  "page": 657,
+  "section_en": "Fruit Punches and Liqueurs",
+  "title_it": "Arac di Goa",
+  "title_en": "Goa Arrack Punch",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arac di Goa",
+    "name_en": "Goa arrack",
+    "qty": 1200,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rhum",
+    "name_en": "Rum",
+    "qty": 1,
+    "unit": "liter"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit of 90°",
+    "qty": 0.5,
+    "unit": "liter"
+   },
+   {
+    "name_it": "Succo di fragole (alcoolizzato 15%)",
+    "name_en": "Strawberry juice (15% alcoholized)",
+    "qty": 1,
+    "unit": "liter"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 1,
+    "unit": "liter"
+   },
+   {
+    "name_it": "Acqua bollente",
+    "name_en": "Boiling water",
+    "qty": 100,
+    "unit": "grams",
+    "note": "with 12 g malic acid dissolved in it"
+   },
+   {
+    "name_it": "acido malico",
+    "name_en": "malic acid",
+    "qty": 12,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients, dissolving the malic acid in 100 g of boiling water before adding."
+  ],
+  "ocr_flags": [
+   "Arac (or Arak) – spelling/OCR uncertain",
+   "mulo citrico – likely 'acido malico' (malic acid), not 'mulo'"
+  ],
+  "confidence": 0.78
+ },
+ {
+  "id": "raspberry-punch",
+  "page": 657,
+  "section_en": "Fruit Punches and Liqueurs",
+  "title_it": "Al Lamponi",
+  "title_en": "Raspberry Punch",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vino rosso forte",
+    "name_en": "Strong red wine",
+    "qty": 15,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaican rum",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Spirit of 95°",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua distillata di lamponi",
+    "name_en": "Distilled raspberry water",
+    "qty": 9,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 10,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": null,
+    "unit": "grams",
+    "note": "quantity cut off in OCR"
+   },
+   {
+    "name_it": "Olio essenza di arance",
+    "name_en": "Orange essential oil",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenza di limoni",
+    "name_en": "Lemon essential oil",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 25,
+    "unit": "grams",
+    "note": "marked with footnote (1)"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients in the proportions specified."
+  ],
+  "notes_en": "See page 209 for the standard procedure to prepare distilled raspberry water, or alternatively see footnote (1) for additional distillation methods.",
+  "ocr_flags": [
+   "Olio cfscnz. – likely 'Olio essenza' (essential oil)",
+   "citrico quantity cut off – marked as 'gr.' with incomplete value"
+  ],
+  "confidence": 0.85
+ }
+]

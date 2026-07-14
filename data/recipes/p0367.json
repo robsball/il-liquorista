@@ -1,0 +1,299 @@
+[
+ {
+  "id": "anisette",
+  "page": 367,
+  "section_en": "Anisette",
+  "title_it": "Anisette",
+  "title_en": "Anisette",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "alcoholates (as previously indicated)",
+    "name_it": "alcoolati",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false,
+    "note": "mixture of various alcoholates"
+   },
+   {
+    "name_en": "sugar",
+    "name_it": "zucchero",
+    "qty": 1.375,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     1.5
+    ],
+    "note": "range 1.250–1.500 kg"
+   },
+   {
+    "name_en": "water",
+    "name_it": "acqua",
+    "qty": 650,
+    "unit": "ml",
+    "unit_implicit": false,
+    "variants": [
+     700
+    ],
+    "note": "range 600–700 ml"
+   }
+  ],
+  "steps_en": [
+   "Mix one litre of the alcoholates with 1.250–1.500 kg of sugar dissolved in 600–700 ml of water."
+  ],
+  "notes_en": "The source indicates that previously described alcoholates can be employed for this preparation.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "cointreau-imitation",
+  "page": 367,
+  "section_en": "Cointreau (Imitation)",
+  "title_it": "Cointreau (Imitazione)",
+  "title_en": "Cointreau (Imitation)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litre"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "spirit of Curaçao",
+    "name_it": "Spirito di Curaçao",
+    "qty": 0.25,
+    "unit": "litre",
+    "unit_implicit": false,
+    "note": "see footnote (1) for preparation"
+   },
+   {
+    "name_en": "spirit of sweet orange",
+    "name_it": "spirito di arance dolci",
+    "qty": 0.12,
+    "unit": "litre",
+    "unit_implicit": false,
+    "note": "see footnote (2) for preparation"
+   },
+   {
+    "name_en": "bitter orange syrup",
+    "name_it": "siroppo di arance amare",
+    "qty": 0.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "alcohol 90°",
+    "name_it": "alcool di 90°",
+    "qty": 2.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "white sugar",
+    "name_it": "zucchero bianco",
+    "qty": 3.8,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "distilled water",
+    "name_it": "acqua distillata",
+    "qty": 4,
+    "unit": "litre",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Prepare a hot solution of sugar dissolved in water.",
+   "Mix in the spirit of Curaçao, spirit of sweet orange, bitter orange syrup, and alcohol 90°.",
+   "Filter the mixture.",
+   "Yield: 10 litres."
+  ],
+  "notes_en": "The combined ingredients yield approximately 10 litres of finished product.",
+  "ocr_flags": [
+   "Ouro^ao (likely Curaçao)"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "curacao-blanco",
+  "page": 367,
+  "section_en": "Curaçao Blanco",
+  "title_it": "Curaçao Bianco",
+  "title_en": "Curaçao Blanco",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litre"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool rectificato di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "spirit of Curaçao",
+    "name_it": "Spirito di Curaçao",
+    "qty": 2.5,
+    "unit": "litre",
+    "unit_implicit": false,
+    "note": "see footnote (1)"
+   },
+   {
+    "name_en": "spirit of orange",
+    "name_it": "spirito di arancio",
+    "qty": 0.0,
+    "unit": "litre",
+    "unit_implicit": false,
+    "note": "OCR uncertainty: possibly 0.600"
+   },
+   {
+    "name_en": "crystalline vanillin",
+    "name_it": "vaniglina crist.",
+    "qty": 1,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "tincture of bitter orange peel",
+    "name_it": "tintura di scorze di arance amare",
+    "qty": 0.05,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "rectified alcohol 90°",
+    "name_it": "alcool rectif. di 90°",
+    "qty": 0.35,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "white sugar, broken",
+    "name_it": "zucchero bianco frantumato",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "OCR: possibly 5.5 kg"
+   },
+   {
+    "name_en": "distilled water",
+    "name_it": "acqua distillata",
+    "qty": 2,
+    "unit": "litre",
+    "unit_implicit": false,
+    "note": "OCR: possibly 2.5 litres"
+   }
+  ],
+  "steps_en": [
+   "Mix all liquid ingredients.",
+   "Dissolve the white sugar in the distilled water.",
+   "Combine all ingredients.",
+   "Yield: 10 litres."
+  ],
+  "notes_en": "This recipe produces a white (colourless) Curaçao liqueur.",
+  "ocr_flags": [
+   "0.000 (spirit of orange quantity—likely OCR error, possibly 0.600)",
+   "5 ^ (sugar quantity—possibly 5.5 kg)",
+   "2% (water quantity—possibly 2.5 litres)"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "maraschino-i",
+  "page": 367,
+  "section_en": "Maraschino",
+  "title_it": "Maraschino. I.",
+  "title_en": "Maraschino (Formula I)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "distilled maraschino water",
+    "name_it": "acqua distillata di maraschino",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false,
+    "note": "see page 207"
+   },
+   {
+    "name_en": "distilled cherry water",
+    "name_it": "acqua distillata di ciliegio",
+    "qty": 0.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "distilled strawberry water",
+    "name_it": "acqua distillata di fragole",
+    "qty": 0.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "distilled orange flower water",
+    "name_it": "acqua distillata di fiori d'arancio",
+    "qty": 0.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "distilled rose water",
+    "name_it": "acqua distillata di rose",
+    "qty": 0.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "grated sugar",
+    "name_it": "zucchero gratinato",
+    "qty": 4.4,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "OCR: possibly 4.5 kg"
+   },
+   {
+    "name_en": "alcohol 85°",
+    "name_it": "alcool di 85°",
+    "qty": 3,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of bitter almonds",
+    "name_it": "olio essenziale di mandorle amare",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all the distilled waters.",
+   "Dissolve the grated sugar in the water mixture.",
+   "Add the alcohol 85° and the essential oil of bitter almonds (5 drops).",
+   "Mix thoroughly."
+  ],
+  "notes_en": "Footnote (1): In addition to the preparation described on page 213, the spirit of Curaçao can be prepared by distilling 1 kg of bitter orange peel with 10 litres of alcohol 85°.\n\nFootnote (2): This is obtained by distilling the peel of 20 oranges with 1 litre of alcohol (85%).",
+  "ocr_flags": [
+   "4*4 (sugar quantity—likely 4.4 or 4.5 kg)"
+  ],
+  "confidence": 0.88
+ }
+]

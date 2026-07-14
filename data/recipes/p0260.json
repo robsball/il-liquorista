@@ -1,0 +1,388 @@
+[
+ {
+  "id": "perfetto-amore",
+  "page": 260,
+  "section_en": "Liqueurs",
+  "title_it": "Perfetto amore",
+  "title_en": "Perfetto amore",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     100,
+     10
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemon",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30,
+     1
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30,
+     10
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Clove",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30,
+     1
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     10
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30,
+     1
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Anice russo rettificato",
+    "name_en": "Rectified Russian anise",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30,
+     10
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Arance dolci",
+    "name_en": "Sweet orange",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     1
+    ],
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Three proportion columns provided; typical for variations or different production scales.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "persico",
+  "page": 260,
+  "section_en": "Liqueurs",
+  "title_it": "Persico",
+  "title_en": "Persico",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Mandorle amaro (prive di acido prussico)",
+    "name_en": "Bitter almonds (free of prussic acid)",
+    "qty": 470,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Prussic acid removed for safety"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Clove",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "polka",
+  "page": 260,
+  "section_en": "Liqueurs",
+  "title_it": "Polka",
+  "title_en": "Polka",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice russo rettificato",
+    "name_en": "Rectified Russian anise",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornus (dogwood)",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Finocchio doppio rettificato",
+    "name_en": "Rectified fennel",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Clove",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     10
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     30
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Iride (alcoolato)",
+    "name_en": "Iris root (alcoholate)",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     20
+    ],
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two proportion columns provided.",
+  "ocr_flags": [
+   "Cornino"
+  ],
+  "confidence": 0.8
+ },
+ {
+  "id": "rose-i",
+  "page": 260,
+  "section_en": "Liqueurs",
+  "title_it": "Rosé (I)",
+  "title_en": "Rosé (Part I)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Roso turche",
+    "name_en": "Turkish rose",
+    "qty": 45,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Arance dolci",
+    "name_en": "Sweet orange",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [
+   "Roso"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "rose-ii",
+  "page": 260,
+  "section_en": "Liqueurs",
+  "title_it": "Rosé (II)",
+  "title_en": "Rosé (Part II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Amaro fino",
+    "name_en": "Fine bitter",
+    "qty": 375,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "See page 240"
+   },
+   {
+    "name_it": "Finocchio doppio rettificato",
+    "name_en": "Rectified fennel",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Roso (turche)",
+    "name_en": "Turkish rose",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [
+   "Roso"
+  ],
+  "confidence": 0.85
+ }
+]

@@ -1,0 +1,4 @@
+{
+  "_doc": "Deterministic per-figure overrides. rotation = degrees CLOCKWISE to make upright. Applied by phase_figures.py after cropping (stable across rebuilds; vision no longer decides rotation).",
+  "rotation": { "158": 90, "159": 90, "162": 90, "163": 90 }
+}

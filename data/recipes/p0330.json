@@ -1,0 +1,265 @@
+[
+ {
+  "id": "cognac-liqueur-ii",
+  "page": 330,
+  "section_en": "Cognac Liqueur",
+  "title_it": "Liquore tipo Cognac II",
+  "title_en": "Cognac-Type Liqueur II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 115,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Vino bianco scelto",
+    "name_en": "Selected white wine",
+    "qty": 9,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Tintura di carrube",
+    "name_en": "Carob tincture",
+    "qty": 2,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Olio essenziale di vinaccioli",
+    "name_en": "Essential oil of grape seeds",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients thoroughly.",
+   "Transfer to a barrel that previously contained genuine cognac.",
+   "Let rest for 3 to 4 months before use."
+  ],
+  "notes_en": "Color with rum coloring.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "cognac-liqueur-iii",
+  "page": 330,
+  "section_en": "Cognac Liqueur",
+  "title_it": "Liquore tipo Cognac III",
+  "title_en": "Cognac-Type Liqueur III",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 4,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 115.75,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 74.25,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Vino bianco scelto",
+    "name_en": "Selected white wine",
+    "qty": 10,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Etere nitroso",
+    "name_en": "Nitrous ether",
+    "qty": 375,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Tintura di corteccia di quercia",
+    "name_en": "Oak bark tincture",
+    "qty": 375,
+    "unit": "grams",
+    "note": "prepared from 500 g oak bark and 2 liters alcohol"
+   }
+  ],
+  "steps_en": [
+   "Proceed as above.",
+   "Color with rum coloring.",
+   "Let rest for at least 4 months."
+  ],
+  "notes_en": "Oak bark tincture is prepared with 500 g of bark and 2 liters of alcohol.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "cognac-liqueur-iv",
+  "page": 330,
+  "section_en": "Cognac Liqueur",
+  "title_it": "Liquore tipo Cognac IV",
+  "title_en": "Cognac-Type Liqueur IV",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Spirito di vino rettificato",
+    "name_en": "Rectified spirit",
+    "qty": 20,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Etere enantico",
+    "name_en": "Enanthic ether",
+    "qty": 1.5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Tannino",
+    "name_en": "Tannin",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Glicerina",
+    "name_en": "Glycerin",
+    "qty": 200,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Tintura di mandorle amare",
+    "name_en": "Bitter almond tincture",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": 300,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [
+   "Etere enantico (possibly enanthic ether; OCR showed 'e n a n tic o')"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "cognac-liqueur-v",
+  "page": 330,
+  "section_en": "Cognac Liqueur",
+  "title_it": "Liquore tipo Cognac V",
+  "title_en": "Cognac-Type Liqueur V",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Spirito di vino rettificato",
+    "name_en": "Rectified spirit",
+    "qty": 12,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Spirito di vinacce",
+    "name_en": "Grape marc spirit",
+    "qty": null,
+    "unit": "liters",
+    "note": "quantity corrupted in OCR"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Spirito di nitro dolce",
+    "name_en": "Sweet nitre spirit",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": 400,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Noci di galla",
+    "name_en": "Gall nuts",
+    "qty": 40,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Noccioli di ciliege o prugne",
+    "name_en": "Cherry or plum kernels",
+    "qty": 200,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Crush the kernels and leave them immersed in the liquid mixture, enclosed in a cloth bag."
+  ],
+  "notes_en": "The crushed kernels are left immersed in the liquid mixture inside a cloth bag.",
+  "ocr_flags": [
+   "Spirito di vinacce quantity (OCR showed '*' or '&')"
+  ],
+  "confidence": 0.88
+ }
+]

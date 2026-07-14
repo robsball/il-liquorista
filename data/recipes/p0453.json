@@ -1,0 +1,274 @@
+[
+ {
+  "id": "scubac-di-lorena",
+  "page": 453,
+  "title_it": "Scubac di Lorena",
+  "title_en": "Scubac of Lorraine",
+  "section_en": "Liqueurs",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Datteri senza nocciolo",
+    "name_en": "Pitted dates",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Uva secca",
+    "name_en": "Raisins",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Giuggiole",
+    "name_en": "Jujubes",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bac.)",
+    "name_en": "Juniper berries",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seeds",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice (semi)",
+    "name_en": "Anise seeds",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macie",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit (85° ABV)",
+    "qty": 700,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 700,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 700,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Chop the first 4 ingredients into small pieces.",
+   "Pound the next three ingredients.",
+   "Combine all and macerate in spirit for 10 days.",
+   "Add the sugar solution.",
+   "After another 10 days, filter and colour yellow with caramel."
+  ],
+  "notes_en": null,
+  "confidence": 0.95
+ },
+ {
+  "id": "peach-seeds",
+  "page": 453,
+  "title_it": "Semi di pesco",
+  "title_en": "Peach Seeds",
+  "section_en": "Liqueurs",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "alcool di 65°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di pesco o di albicocco",
+    "name_en": "Peach or apricot kernels",
+    "qty": 60,
+    "unit": "count",
+    "unit_implicit": true,
+    "note": "N. (number)"
+   },
+   {
+    "name_it": "Alcool di 65°",
+    "name_en": "Spirit (65° ABV)",
+    "qty": 360,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Follow standard procedure."
+  ],
+  "notes_en": null,
+  "confidence": 0.92
+ },
+ {
+  "id": "tea-cream",
+  "page": 453,
+  "title_it": "Thè (Crema)",
+  "title_en": "Tea (Cream)",
+  "section_en": "Tea Liqueurs",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Thè (Pekoe)",
+    "name_en": "Tea (Pekoe)",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos radice",
+    "name_en": "Iris root",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Infuse all ingredients with hot water.",
+   "Cover the vessel and allow to cool.",
+   "Decant the extract and mix with the usual proportions of spirit.",
+   "Sweeten with 500 g sugar per litre.",
+   "Colourless."
+  ],
+  "notes_en": null,
+  "confidence": 0.94
+ },
+ {
+  "id": "tea-rosolio",
+  "page": 453,
+  "title_it": "Thè (Rosolio)",
+  "title_en": "Tea (Rosolio)",
+  "section_en": "Tea Liqueurs",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Thè (Pekoe)",
+    "name_en": "Tea (Pekoe)",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Spirit (70° ABV)",
+    "qty": 6000,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1300,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Filter and add further ingredients (recipe continues on next page)."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Thè (Peoco) — likely Pekoe tea, printed as 'Peoco'"
+  ],
+  "confidence": 0.93
+ }
+]

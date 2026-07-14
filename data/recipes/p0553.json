@@ -1,0 +1,275 @@
+[
+ {
+  "id": "compound-calamus",
+  "page": 553,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Calamo composto",
+  "title_en": "Compound Calamus",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Galanga (radice)",
+    "name_en": "Galangal root",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 3000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pepo bianco",
+    "name_en": "White pepper",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol, 75° proof",
+    "qty": 25,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura d'arance",
+    "name_en": "Orange tincture",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura d'assenzio",
+    "name_en": "Wormwood tincture",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di calamo",
+    "name_en": "Calamus tincture",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di zenzero",
+    "name_en": "Ginger tincture",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto d'amaro fino",
+    "name_en": "Fine bitter extract",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR reads '015' – likely '15 g' or '0.15 g'"
+   }
+  ],
+  "steps_en": [
+   "Macerate the primary ingredients (galangal, calamus, cloves, orange peel, white pepper) in 75° alcohol.",
+   "When this tincture is prepared, add the secondary tinctures (orange, wormwood, calamus, ginger) and bitter extract."
+  ],
+  "notes_en": "Two-stage preparation: primary maceration followed by addition of pre-made secondary tinctures.",
+  "ocr_flags": [
+   "Estratto d'amaro fino quantity '015' – possibly '15' or '0.15'"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "maraschino",
+  "page": 553,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Maraschino",
+  "title_en": "Maraschino",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Acqua di mandorle amare",
+    "name_en": "Bitter almond water",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di marasche",
+    "name_en": "Sour cherry water",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di ciliege",
+    "name_en": "Cherry water",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di fior d'arancio",
+    "name_en": "Essential oil of orange flower",
+    "qty": 30,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di ireos",
+    "name_en": "Essential oil of iris",
+    "qty": 0,
+    "unit": "drops",
+    "unit_implicit": false,
+    "note": "OCR unclear; possibly a print error or omitted quantity"
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito di nitro dolce",
+    "name_en": "Sweet nitre spirits (ethyl nitrite)",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arac vero",
+    "name_en": "True Arak",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix together the almond water, sour cherry water, and cherry water.",
+   "Add the vanilla tincture.",
+   "Incorporate the essential oils (cinnamon, orange flower, iris, rose).",
+   "Add the acetic ether and sweet nitre spirits.",
+   "Blend in the arak.",
+   "After several days, filter."
+  ],
+  "notes_en": "A blended liqueur combining multiple water-based essences with essential oils and spirits. Final filtering after maceration.",
+  "ocr_flags": [
+   "Olio essenz. di ireos quantity = '0' – possibly OCR corruption; likely a small non-zero amount or error in original"
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "violet-mammole",
+  "page": 553,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Violemammole",
+  "title_en": "Violet Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Fiori di viole",
+    "name_en": "Violet flowers",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90° proof",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essonz. di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "Also given as 25 drops"
+   }
+  ],
+  "steps_en": [
+   "Macerate the violet flowers and iris root in the 90° alcohol and water.",
+   "Filter, squeezing the solids to extract maximum liquid.",
+   "To the filtered liquid, add the essential oil of lemon (2 g or 25 drops)."
+  ],
+  "notes_en": "A floral liqueur made by maceration of violet and iris, with lemon oil finish. The essential oil quantity is given both gravimetrically (2 g) and by drops (25).",
+  "ocr_flags": [
+   "Title 'Violemammole' – possibly 'Viole Mammole' (violet + mammole/acorn, or variant spelling)",
+   "Olio essonz. – likely 'Olio essenz.' (essential oil)"
+  ],
+  "confidence": 0.8
+ }
+]

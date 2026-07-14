@@ -1,0 +1,129 @@
+[
+ {
+  "id": "juniper-caraway-spirit",
+  "page": 351,
+  "section_en": "Bommé liqueur",
+  "title_it": "Bommé",
+  "title_en": "Bommé Liqueur",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 42,
+   "raw": "gradazione alcoolica del 42%"
+  },
+  "temperature_c": 50,
+  "duration": {
+   "amount": 12,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Bacello di ginepro",
+    "name_en": "Juniper berries",
+    "qty": 400,
+    "unit": "ml",
+    "unit_implicit": true,
+    "note": "implied unit from Italian gl. (gocce/drops or small measure); context suggests volume"
+   },
+   {
+    "name_it": "Semi di comino",
+    "name_en": "Caraway seeds",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 15,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 19,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Heat the juniper berries and caraway seeds in the alembic and leave them to rest for 12 hours at 50°C.",
+   "Add the alcohol and water as indicated.",
+   "Proceed with distillation until the liquid passes clear and contains alcohol.",
+   "Reduce the distillate to 42% alcoholic strength.",
+   "Treat a barrel previously with peat smoke fumigations (introduce the smoke via an inverted funnel inserted into the bunghole, keeping the barrel inverted and the other bung hole open to allow circulation). These fumigations should last 10 minutes.",
+   "Close both openings and let the barrel rest for approximately 45 minutes before transferring the distilled product into it."
+  ],
+  "notes_en": "Do not interrupt distillation when the product flows turbid; instead prolong it until it passes clear while still containing alcohol. Set aside any turbid distillate to be re-introduced in the next distillation run with the fresh liquid to be distilled.",
+  "ocr_flags": [
+   "Bommé (header may have OCR noise)",
+   "gl. (unit abbreviation—likely gocce or small volume measure)",
+   "Homi di cornino (likely 'Semi di comino'—caraway seeds)",
+   "cocchiume (bunghole)",
+   "iieU'intemo (likely 'nell'interno'—in the interior)"
+  ],
+  "confidence": 0.78
+ },
+ {
+  "id": "kirschwasser-cherry-spirit",
+  "page": 351,
+  "section_en": "Fruit spirits",
+  "title_it": "Acquavite di ciliege (Kirschwasser)",
+  "title_en": "Cherry Spirit (Kirschwasser)",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Ciliege",
+    "name_en": "Cherries",
+    "qty": null,
+    "unit": "as needed",
+    "note": "fermented with crushed pits"
+   },
+   {
+    "name_it": "Noccioli contusi",
+    "name_en": "Crushed cherry pits",
+    "qty": null,
+    "unit": "as needed",
+    "note": "fermented together with cherries"
+   },
+   {
+    "name_it": "Zucchero (d'amido)",
+    "name_en": "Sugar (starch sugar)",
+    "qty": null,
+    "unit": "optional",
+    "note": "added to must before fermentation to increase alcohol yield"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "optional",
+    "note": "added with sugar"
+   },
+   {
+    "name_it": "Alcool fino",
+    "name_en": "Fine spirit alcohol",
+    "qty": null,
+    "unit": "optional",
+    "note": "alternatively, fermented mass may be treated with a certain quantity of fine alcohol"
+   }
+  ],
+  "steps_en": [
+   "Ferment cherries together with crushed pits.",
+   "To increase alcohol yield, either: (a) add sugar and water to the must before fermentation, or (b) treat the fermented mass with a certain quantity of fine spirit alcohol.",
+   "Distill the fermented product.",
+   "Such dilutions made before fermentation are always superior to cuts and dilutions made after distillation."
+  ],
+  "notes_en": "Production and consumption of fruit spirits are limited mainly to southern Germany, Switzerland, and Austria-Hungary. Switzerland and Baden produce especially excellent qualities of Kirschwasser.",
+  "ocr_flags": [
+   "cilteou (likely 'ciliege'—cherries)",
+   "Kirschivasser (variant spelling of Kirschwasser)"
+  ],
+  "confidence": 0.82
+ }
+]

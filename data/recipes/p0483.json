@@ -1,0 +1,287 @@
+[
+ {
+  "id": "krambambu-of-magdeburg",
+  "page": 483,
+  "section_en": "Liqueurs",
+  "title_it": "Krambambu di Magdeburgo",
+  "title_en": "Krambambu of Magdeburg",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "final product at 45% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 36,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di lavanda",
+    "name_en": "Essential oil of lavender",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": true,
+    "note": "quantity unclear in OCR"
+   },
+   {
+    "name_it": "Olio essenz. di salvia",
+    "name_en": "Essential oil of sage",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di timo serpillo",
+    "name_en": "Essential oil of thyme",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "notes_en": "Red colour. Final product: 10 litres at 45% ABV.",
+  "confidence": 0.92
+ },
+ {
+  "id": "kontuczowka",
+  "page": 483,
+  "section_en": "Liqueurs",
+  "title_it": "Kontuczowka",
+  "title_en": "Kontuczowka",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "final product at 45% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di cedro",
+    "name_en": "Essential oil of citron",
+    "qty": 36,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 24,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 18,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": 18,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di maggiorana",
+    "name_en": "Essential oil of marjoram",
+    "qty": 18,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di lavanda",
+    "name_en": "Essential oil of lavender",
+    "qty": 18,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 18,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 6,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.2,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "notes_en": "Colourless. Final product: 10 litres at 45% ABV.",
+  "confidence": 0.93
+ },
+ {
+  "id": "kummel-i",
+  "page": 483,
+  "section_en": "Liqueurs",
+  "title_it": "Kummel I",
+  "title_en": "Kummel I",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di cornino",
+    "name_en": "Essential oil of caraway",
+    "qty": 7,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4.5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.2,
+    "unit": "litres",
+    "unit_implicit": true,
+    "note": "unit likely kilogrammes based on context"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.25,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "notes_en": "Colourless.",
+  "confidence": 0.88,
+  "ocr_flags": [
+   "zucchero_unit_unclear"
+  ]
+ },
+ {
+  "id": "kummel-ii",
+  "page": 483,
+  "section_en": "Liqueurs",
+  "title_it": "Kummel II",
+  "title_en": "Kummel II",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di cornino",
+    "name_en": "Essential oil of caraway",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limone e di anice",
+    "name_en": "Essential oil of lemon and anise",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   }
+  ],
+  "notes_en": "Recipe continues on following page.",
+  "confidence": 0.85
+ }
+]

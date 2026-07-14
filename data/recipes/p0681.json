@@ -1,0 +1,254 @@
+[
+ {
+  "id": "china-tincture-wine-iii",
+  "page": 681,
+  "section_en": "China Wine",
+  "title_it": "Vino chinato (in luogo della corteccia di china si può usare la tintura)",
+  "title_en": "China Wine (using tinctures in place of bark)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1120,
+   "unit": "ml",
+   "note": "sum of all ingredients"
+  },
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di china sciupi, o comp.",
+    "name_en": "China tincture (simple or compound)",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di scorze di arance",
+    "name_en": "Orange peel tincture",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the tinctures with the wine.",
+   "Stir and filter.",
+   "A small amount of aromatic tincture may be added."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "red-china-wine-febrifugous",
+  "page": 681,
+  "section_en": "China Wine",
+  "title_it": "Vino chinato febrifuginoso rosso",
+  "title_en": "Red China Wine (febrifugous)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 15,
+   "raw": "almeno 15% d'alcool"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vino rosso",
+    "name_en": "Red wine",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95%",
+    "name_en": "Alcohol 95°",
+    "qty": null,
+    "unit": "ml",
+    "note": "added to bring wine to at least 15% ABV"
+   },
+   {
+    "name_it": "Gelatina",
+    "name_en": "Gelatin",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino rosso (per diluire gelatina)",
+    "name_en": "Red wine (to dilute gelatin solution)",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Corteccia di china in polvere grossa",
+    "name_en": "China bark in coarse powder",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": false,
+    "note": "approximately, for sweetening"
+   },
+   {
+    "name_it": "Citrato di ferro ammoniacale",
+    "name_en": "Ammoniacal iron citrate",
+    "qty": null,
+    "unit": "g",
+    "note": "quantity unclear in OCR (appears to be %% symbol)"
+   }
+  ],
+  "steps_en": [
+   "Remove tannic acid from red wine using gelatin.",
+   "Add alcohol of 95° to the wine so it contains at least 15% alcohol.",
+   "Filter and keep at the same temperature away from light.",
+   "Dissolve 1 g of gelatin in 10 ml of distilled water by heating.",
+   "Dilute the gelatin solution with 100 ml of red wine.",
+   "Add 50 g of coarse china bark powder and digest for 3 days, stirring frequently.",
+   "Filter.",
+   "To 1000 ml of filtered wine, add about 200 ml of syrup to sweeten.",
+   "Dissolve the iron citrate into the wine.",
+   "Set aside for 15 days.",
+   "Filter again."
+  ],
+  "ocr_flags": [
+   "citrato di ferro ammoniacale quantity (%%)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "compound-china-wine",
+  "page": 681,
+  "section_en": "China Wine",
+  "title_it": "Vino chinato composto",
+  "title_en": "Compound China Wine",
+  "method": "maceration",
+  "yield": {
+   "amount": 3,
+   "unit": "liters",
+   "note": "after maceration and filtration"
+  },
+  "alcohol_strength": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "China Calissaia",
+    "name_en": "Calissaia china bark",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Serpentaria virginiana",
+    "name_en": "Virginia serpentaria",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 3,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 0.3,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Reduce all solid materials to coarse powder.",
+   "Macerate in the wine with alcohol for 15 days.",
+   "Clarify the liquid.",
+   "After 15 days, filter."
+  ],
+  "confidence": 0.96
+ },
+ {
+  "id": "china-and-cacao-wine",
+  "page": 681,
+  "section_en": "China Wine",
+  "title_it": "Vino alla china e al cacao",
+  "title_en": "China and Cacao Wine",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Corteccia di china Calissaia",
+    "name_en": "Calissaia china bark",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Corteccia di china Loxa",
+    "name_en": "Loxa china bark",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino Malaga",
+    "name_en": "Malaga wine",
+    "qty": 2000,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Filter."
+  ],
+  "notes_en": "This recipe is incomplete in the source; no cacao is mentioned despite the title.",
+  "ocr_flags": [
+   "title mentions cacao but ingredient list does not include it"
+  ],
+  "confidence": 0.92
+ }
+]

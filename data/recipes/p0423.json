@@ -1,0 +1,173 @@
+[
+ {
+  "id": "verdolino-stomachico",
+  "page": 423,
+  "title_it": "Verdolino stomachico",
+  "title_en": "Stomachic Verdolino",
+  "section_en": "Liqueurs by Maceration and Digestion",
+  "method": "distillation",
+  "yield": {
+   "amount": 25,
+   "unit": "litres",
+   "note": "final yield after distillation and syrup addition"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 75,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seeds",
+    "qty": 75,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 40,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Dauco eretico",
+    "name_en": "Daucus (wild carrot)",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Balsamo peruviano",
+    "name_en": "Peru balsam",
+    "qty": 18,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 10,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Bergamot essential oil",
+    "qty": 5,
+    "unit": "grams",
+    "note": "added after maceration"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 27,
+    "unit": "kilograms",
+    "note": "for syrup preparation"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "litres",
+    "note": "as much as needed"
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanical ingredients in 85° alcohol for at least 15 days.",
+   "Add 5 grams of bergamot essential oil.",
+   "Distil in a water bath (bain-marie) without rectification, collecting 14 litres.",
+   "Prepare a syrup with 27 kg of sugar dissolved in as much water as needed.",
+   "Mix the distillate with the syrup to obtain a final total of 25 litres of liqueur.",
+   "Colour green using chlorophyll."
+  ],
+  "notes_en": "This is a stomachic (digestive) herbal liqueur. The distillation step without rectification preserves the aromatic compounds.",
+  "confidence": 0.92
+ },
+ {
+  "id": "ginger",
+  "page": 423,
+  "title_it": "Zenzero",
+  "title_en": "Ginger",
+  "section_en": "Liqueurs by Maceration and Digestion",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 29.5,
+   "unit": "litres",
+   "note": "approximate final yield"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato composto",
+    "name_en": "Compound alcoholate",
+    "qty": 10,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 14,
+    "unit": "kilograms"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.5,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Mix the compound alcoholate with sugar and water.",
+   "Colour with caramel."
+  ],
+  "notes_en": "This is a simple ginger liqueur made by cold mixing rather than maceration or distillation.",
+  "confidence": 0.88
+ }
+]

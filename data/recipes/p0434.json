@@ -1,0 +1,363 @@
+[
+ {
+  "id": "carmen",
+  "page": 434,
+  "section_en": "Liqueurs",
+  "title_it": "Carmen",
+  "title_en": "Carmen",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 3,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 3,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.75,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di ananas",
+    "name_en": "Pineapple extract",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR uncertain: may be non-zero"
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di curaçao",
+    "name_en": "Curaçao extract",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di erbe stomatiche",
+    "name_en": "Stomach herb extract",
+    "qty": 90,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Amaro angostura genuino",
+    "name_en": "Genuine Angostura bitters",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "for colouring, quantity to taste"
+   }
+  ],
+  "steps_en": [
+   "Cook sugar and white wine together.",
+   "Add the alcohol 95° and water.",
+   "Finally add the mixture of all extracts and Angostura bitters.",
+   "Colour with cherry juice."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "pineapple_extract_qty_unclear"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "cassis-rosolio",
+  "page": 434,
+  "section_en": "Liqueurs",
+  "title_it": "Cassis (Rosolio di)",
+  "title_en": "Cassis (Rosolio)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 35,
+   "raw": "alcool di 35°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Grani di cassie ben maturi e senza graspi",
+    "name_en": "Ripe blackcurrant berries, destemmed",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 35°",
+    "name_en": "Alcohol 35°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Crush the aromatic herbs and macerate them in the alcohol for 10 days.",
+   "Filter the infusion.",
+   "Prepare a syrup separately with sugar and water.",
+   "Add the syrup to the filtered infusion."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "chartreuse-imitation",
+  "page": 434,
+  "section_en": "Liqueurs",
+  "title_it": "Chartreuse (Imitazione)",
+  "title_en": "Chartreuse (Imitation)",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Citronella secca",
+    "name_en": "Dried citronella",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     250,
+     250
+    ],
+    "note": "proportions for Green, Yellow, and White varieties"
+   },
+   {
+    "name_it": "Issopo fiorito secco",
+    "name_en": "Dried flowering hyssop",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     125,
+     125
+    ]
+   },
+   {
+    "name_it": "Menta piperita secca",
+    "name_en": "Dried peppermint",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null
+    ],
+    "note": "Green variety only"
+   },
+   {
+    "name_it": "Assenzio alpino",
+    "name_en": "Alpine wormwood",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     125,
+     125
+    ]
+   },
+   {
+    "name_it": "Semi angelica",
+    "name_en": "Angelica seeds",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     125,
+     125
+    ]
+   },
+   {
+    "name_it": "Radice angelica",
+    "name_en": "Angelica root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     30,
+     30
+    ]
+   },
+   {
+    "name_it": "Balsamite",
+    "name_en": "Costmary (Balsamita)",
+    "qty": 124,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null
+    ],
+    "note": "Green variety only"
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null
+    ],
+    "note": "Green variety only"
+   },
+   {
+    "name_it": "Fiori d'arnica",
+    "name_en": "Arnica flowers",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     15,
+     null
+    ]
+   },
+   {
+    "name_it": "Gemme di pioppo",
+    "name_en": "Poplar buds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     15,
+     null
+    ]
+   },
+   {
+    "name_it": "Cannella di Cina",
+    "name_en": "Chinese cinnamon",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     15,
+     125
+    ]
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     15,
+     30
+    ]
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     150,
+     null
+    ],
+    "note": "Yellow variety only"
+   },
+   {
+    "name_it": "Aloe (estratto)",
+    "name_en": "Aloe extract",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     30,
+     null
+    ],
+    "note": "Yellow variety only"
+   }
+  ],
+  "steps_en": [
+   "Select ingredients according to the variety (Green, Yellow, or White).",
+   "The formula shows three columns of proportions for each colour variant."
+  ],
+  "notes_en": "Table I shows the botanical composition for three colour variants of Chartreuse imitation: Verde (Green), Gialla (Yellow), and Bianca (White). This is a formula table for the infusion base; processing method not specified.",
+  "ocr_flags": [
+   "radice_angelica_qty_ambiguous_02_or_30"
+  ],
+  "confidence": 0.88
+ }
+]

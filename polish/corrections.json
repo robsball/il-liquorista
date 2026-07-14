@@ -1,0 +1,14 @@
+{
+  "_doc": "Durable hand-fix overlay applied by pipeline/phase3_build_pdf.py at build time. Survives regeneration. See polish/README.md.",
+
+  "_text_fixes_help": "Applied to all prose. 'find'/'replace' are literal unless 'regex':true (Python re; backrefs like \\1). scope 'all' (default) or 'page:NNN'.",
+  "text_fixes": [
+    {"find": " :", "replace": ":", "scope": "all", "note": "space before colon"},
+    {"find": " ;", "replace": ";", "scope": "all"}
+  ],
+
+  "_table_overrides_help": "Key by SOURCE page 'pNNNN' (all tables on that page) or 'pNNNN:INDEX' (0-based table index on that page). Options: landscape(bool), font_pt(int).",
+  "table_overrides": {
+    "_example_p0067": {"landscape": true, "font_pt": 6}
+  }
+}

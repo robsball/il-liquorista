@@ -1,0 +1,356 @@
+[
+ {
+  "id": "sweet-orange-liqueur-iii",
+  "page": 470,
+  "section_en": "Sweet Orange Liqueur",
+  "title_it": "Olio essenziale di arance dolci",
+  "title_en": "Sweet Orange Liqueur III",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool a 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di arance dolci",
+    "name_en": "Essential oil of sweet oranges",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool a 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 12.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 17,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.6,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix essential oil of sweet oranges with alcohol at 95°.",
+   "Add syrup and water.",
+   "Stir to combine."
+  ],
+  "notes_en": "Yellow color (Giallo).",
+  "confidence": 0.95
+ },
+ {
+  "id": "sweet-and-bitter-orange-liqueur-iv-double",
+  "page": 470,
+  "section_en": "Sweet Orange Liqueur",
+  "title_it": "Olio essenziale di arance dolci e amare IV (doppio)",
+  "title_en": "Sweet and Bitter Orange Liqueur IV (Double)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool a 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di arance dolci",
+    "name_en": "Essential oil of sweet oranges",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arance amare",
+    "name_en": "Essential oil of bitter oranges",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool a 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 42,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 16,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 32,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils of sweet and bitter oranges with alcohol at 95°.",
+   "Add syrup and water.",
+   "Stir to combine."
+  ],
+  "notes_en": "Brown color (Bruno).",
+  "confidence": 0.95
+ },
+ {
+  "id": "sweet-german-absinthe-i",
+  "page": 470,
+  "section_en": "Sweet German Absinthe",
+  "title_it": "Assenzio dolce tedesco",
+  "title_en": "Sweet German Absinthe I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool a 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale d'assenzio",
+    "name_en": "Essential oil of absinthe",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool a 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 900,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve sugar in water.",
+   "Mix in alcohol at 90°.",
+   "Add drops of essential oils of absinthe, calamus, cinnamon, and cloves.",
+   "Stir thoroughly."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "sweet-german-absinthe-ii",
+  "page": 470,
+  "section_en": "Sweet German Absinthe",
+  "title_it": "Assenzio dolce tedesco II",
+  "title_en": "Sweet German Absinthe II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool a 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale d'assenzio",
+    "name_en": "Essential oil of absinthe",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandolo",
+    "name_en": "Essential oil of coriander",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool a 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 5.3,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 0.0,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.3,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix alcohol at 90° with water.",
+   "Add essential oil of absinthe (5 g).",
+   "Add drops of essential oils of cloves, cinnamon, calamus, and coriander.",
+   "Stir thoroughly."
+  ],
+  "notes_en": "Sugar quantity is 0.0 kg in the original text—likely OCR error or intentional omission.",
+  "ocr_flags": [
+   "Sugar quantity 0.0 kg appears anomalous"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "simple-sweet-absinthe-i",
+  "page": 470,
+  "section_en": "Simple Sweet Absinthe",
+  "title_it": "Assenzio dolce semplice I",
+  "title_en": "Simple Sweet Absinthe I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale d'assenzio",
+    "name_en": "Essential oil of absinthe",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     15
+    ]
+   },
+   {
+    "name_it": "Olio essenziale d'anice",
+    "name_en": "Essential oil of anise",
+    "qty": null,
+    "unit": "g",
+    "note": "not present in formula I",
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": null,
+    "unit": "g",
+    "note": "not present in formula I",
+    "variants": [
+     1
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     12.75
+    ]
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 6.2,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     12
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     9.25
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix alcohol at 90° with water.",
+   "Dissolve syrup in the alcohol-water mixture.",
+   "Add essential oil of absinthe.",
+   "For formula II, also add essential oils of anise and calamus.",
+   "Stir thoroughly."
+  ],
+  "notes_en": "Dark green color (Verde scuro). Two proportions given: column I (basic formula) and column II (larger batch).",
+  "confidence": 0.93
+ }
+]

@@ -1,0 +1,303 @@
+[
+ {
+  "id": "yellow-liqueur-iii",
+  "page": 467,
+  "section_en": "Yellow (Cream)",
+  "title_it": "Giallo (Crema) - III",
+  "title_en": "Yellow Liqueur (Cream) - Variant III",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 8,
+    "unit": "gr",
+    "variants": [
+     13
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 2,
+    "unit": "gr",
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di arancio dolce",
+    "name_en": "Essential oil of sweet orange",
+    "qty": null,
+    "unit": "gr",
+    "variants": [
+     1
+    ],
+    "note": "omitted in column III"
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 2,
+    "unit": "gr",
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 1,
+    "unit": "gr",
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 1,
+    "unit": "gr",
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": null,
+    "unit": "gr",
+    "variants": [
+     0.5
+    ],
+    "note": "omitted in column III"
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 1,
+    "unit": "gr",
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 1,
+    "unit": "gr",
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 0.05,
+    "unit": "gr",
+    "variants": null
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 12.75,
+    "unit": "lit",
+    "variants": [
+     12.75
+    ]
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 12,
+    "unit": "lit",
+    "variants": [
+     14
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 9.25,
+    "unit": "lit",
+    "variants": [
+     7.25
+    ]
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils with the specified alcohol.",
+   "Add syrup and water to the alcohol mixture.",
+   "Mix thoroughly."
+  ],
+  "notes_en": "Two proportion columns provided (III and IV). Color: yellow.",
+  "confidence": 0.92
+ },
+ {
+  "id": "green-liqueur-doppio",
+  "page": 467,
+  "section_en": "Green (Double)",
+  "title_it": "Verde (Doppio) - V",
+  "title_en": "Green Liqueur (Double) - Variant V",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 50,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 42,
+    "unit": "lit"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 7,
+    "unit": "lit"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 51,
+    "unit": "lit"
+   }
+  ],
+  "steps_en": [
+   "Mix essential oil of angelica with 90° alcohol.",
+   "Add syrup and water.",
+   "Stir to combine."
+  ],
+  "notes_en": "Double strength variant. Color: green. Colorless (incolore) in finish.",
+  "confidence": 0.94
+ },
+ {
+  "id": "anise-liqueur-i",
+  "page": 467,
+  "section_en": "Anise",
+  "title_it": "Anice - I",
+  "title_en": "Anise Liqueur - Variant I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'anice russo",
+    "name_en": "Essential oil of Russian anise",
+    "qty": 20,
+    "unit": "gr",
+    "variants": [
+     15
+    ]
+   },
+   {
+    "name_it": "Olio essenz. d'anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": null,
+    "unit": "gr",
+    "variants": [
+     5
+    ],
+    "note": "omitted in column I"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 2.75,
+    "unit": "lit",
+    "variants": [
+     12.75
+    ]
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "lit",
+    "variants": [
+     14
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.25,
+    "unit": "lit",
+    "variants": [
+     7.25
+    ]
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils with the specified alcohol.",
+   "Add syrup and water.",
+   "Mix well."
+  ],
+  "notes_en": "Two proportion columns (I and II). Colorless (incoloro).",
+  "confidence": 0.93
+ },
+ {
+  "id": "anise-liqueur-iii",
+  "page": 467,
+  "section_en": "Anise",
+  "title_it": "Anice - III",
+  "title_en": "Anise Liqueur - Variant III",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'anice russo",
+    "name_en": "Essential oil of Russian anise",
+    "qty": 10,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 4,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 2,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.75,
+    "unit": "lit"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "lit"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.25,
+    "unit": "lit"
+   }
+  ],
+  "steps_en": [
+   "Combine the three essential oils with 90° alcohol.",
+   "Add syrup and water.",
+   "Mix thoroughly."
+  ],
+  "notes_en": "Variant III with three essential oils. Colorless (incoloro).",
+  "confidence": 0.94
+ }
+]

@@ -1,0 +1,262 @@
+[
+ {
+  "id": "elixir-stomatico-rosso-di-danzica",
+  "page": 603,
+  "section_en": "Elixirs",
+  "title_it": "Elixir Stomatico rosso di Danzica",
+  "title_en": "Red Stomatic Elixir of Danzig",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "final product at 45% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool 45%"
+  },
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 80,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Luppolo (fiori)",
+    "name_en": "Hops (flowers)",
+    "qty": 45,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 90,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 45,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella (fiori)",
+    "name_en": "Cinnamon (flowers)",
+    "qty": 90,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water trefoil",
+    "qty": 45,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 45,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Spirit (75° ABV)",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit (90° ABV)",
+    "qty": 6.8,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the herbs in 5 litres of 75° spirit for 48 hours, then digest.",
+   "Filter the tincture (yielding approximately 4.8 litres).",
+   "To the filtered tincture, add 6.8 litres of 90° spirit, 2.5 kg sugar, and 0.5 litres water.",
+   "Mix thoroughly and filter to obtain the final product."
+  ],
+  "notes_en": "This recipe yields approximately 20 litres of elixir at 45% ABV. The maceration is relatively brief (48 hours) compared to the multi-stage extraction methods seen elsewhere.",
+  "confidence": 0.95
+ },
+ {
+  "id": "elixir-stomatico-dei-cavalieri-di-san-giovanni",
+  "page": 603,
+  "section_en": "Elixirs",
+  "title_it": "Elixir Stomatico dei Cavalieri di S. Giovanni",
+  "title_en": "Stomatic Elixir of the Knights of St. John",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 38,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Aromatic calamus",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 7,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta pip.",
+    "name_en": "Peppermint",
+    "qty": 7,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lauro (foglie)",
+    "name_en": "Bay leaves",
+    "qty": 7,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water trefoil",
+    "qty": 7,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Only the ingredient list is provided; the preparation method and yield are not specified in this excerpt.",
+  "ocr_flags": [
+   "Menta pip. — likely 'Menta piperita' (peppermint)"
+  ],
+  "confidence": 0.92
+ }
+]

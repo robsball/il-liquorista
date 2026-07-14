@@ -1,0 +1,340 @@
+[
+ {
+  "id": "elixir-of-sta",
+  "page": 531,
+  "section_en": "Elixirs",
+  "title_it": "Elixir di Sta.",
+  "title_en": "Elixir of Sta.",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Issopo sommità fiorite",
+    "name_en": "Hyssop flowering tops",
+    "qty": 550,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Imperatoria rad.",
+    "name_en": "Masterwort root",
+    "qty": 32,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica rad.",
+    "name_en": "Angelica root",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero rad.",
+    "name_en": "Ginger root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus root",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel (or Cornelian cherry)",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity listed as 00, possibly OCR corruption"
+   },
+   {
+    "name_it": "Cannella cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura zafferano",
+    "name_en": "Saffron tincture",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95° GL",
+    "qty": 3600,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2400,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Proceed by maceration (digestione) as for Chartreuse (see page 516)."
+  ],
+  "notes_en": "Processed via digestion method identical to Chartreuse preparation.",
+  "confidence": 0.85,
+  "ocr_flags": [
+   "Sta. (abbreviation; full expansion unclear)",
+   "Cornino (00 quantity suspect)"
+  ]
+ },
+ {
+  "id": "stomach-elixir-of-the-elector",
+  "page": 531,
+  "section_en": "Elixirs",
+  "title_it": "Elixir stomachico dell'Elettore",
+  "title_en": "Stomach Elixir of the Elector",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cubebe",
+    "name_en": "Cubeb pepper",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iva",
+    "name_en": "Iva (ground ivy)",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iride",
+    "name_en": "Iris root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica rad.",
+    "name_en": "Angelica root",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorza d'arance",
+    "name_en": "Orange peel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90° GL",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Proceed as for the Aromatic (II)."
+  ],
+  "notes_en": "Prepared using the same method as the Aromatic recipe (II). The resulting tincture is then composited with additional ingredients to make the final elixir (see final composition below).",
+  "confidence": 0.88,
+  "ocr_flags": []
+ },
+ {
+  "id": "elector-elixir-final-composition",
+  "page": 531,
+  "section_en": "Elixirs",
+  "title_it": "Composizione finale - Elixir dell'Elettore",
+  "title_en": "Elector Elixir—Final Composition",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto",
+    "name_en": "Extract (from preceding tincture)",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95° GL",
+    "qty": 4,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cognac tagliato, buono",
+    "name_en": "Good blended Cognac",
+    "qty": 1.2,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino di Porto",
+    "name_en": "Port wine",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 8.2,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine the extract with alcohol 95° GL.",
+   "Add the blended Cognac, Port wine, sugar syrup, and water.",
+   "Mix thoroughly."
+  ],
+  "notes_en": "This is the final blending formula for the Elector Elixir, using the tincture prepared above.",
+  "confidence": 0.92,
+  "ocr_flags": []
+ }
+]

@@ -1,0 +1,239 @@
+[
+ {
+  "id": "swiss-absinthe-i",
+  "page": 430,
+  "section_en": "Swiss Absinthe",
+  "title_it": "Assenzio svizzero - I",
+  "title_en": "Swiss Absinthe - I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Enula campana",
+    "name_en": "Elecampane",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio (sommità)",
+    "name_en": "Wormwood (aerial parts)",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura d'ambra",
+    "name_en": "Ambergris tincture",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Spirit at 75°",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Spirit",
+    "qty": null,
+    "unit": "L",
+    "note": "quantity for extract preparation not specified"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaica rum",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Indaco",
+    "name_en": "Indigo",
+    "qty": null,
+    "unit": "",
+    "note": "for coloring (q.b.)"
+   },
+   {
+    "name_it": "Tintura di zafferano",
+    "name_en": "Saffron tincture",
+    "qty": null,
+    "unit": "",
+    "note": "for coloring (q.b.)"
+   }
+  ],
+  "steps_en": [
+   "Prepare an aromatic spirit by maceration and successive digestion of fennel, green anise, calamus, elecampane, bitter almonds, wormwood aerial parts, curly mint, hyssop, angelica root, and ambergris tincture with 4 L of 75° spirit.",
+   "Prepare a separate extract with spirit, 400 g water, 400 g sugar, and 1 L Jamaica rum.",
+   "Add the extract to the infused tincture until a satisfactory flavor is achieved.",
+   "Mix the entire preparation carefully.",
+   "Color yellowish-green with indigo and saffron tincture."
+  ],
+  "notes_en": "After maceration for 8 days, filter and combine with the prepared extract.",
+  "ocr_flags": [
+   "Menta crispu (likely 'Menta crispa')"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "swiss-absinthe-ii",
+  "page": 430,
+  "section_en": "Swiss Absinthe",
+  "title_it": "Assenzio svizzero - II",
+  "title_en": "Swiss Absinthe - II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio (sommità)",
+    "name_en": "Wormwood (aerial parts)",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 32,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ambra",
+    "name_en": "Ambergris",
+    "qty": 16,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Spirit at 75°",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 10,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [
+   "Macerate and digest the wormwood aerial parts, green anise, star anise, fennel, lemon balm, hyssop, and ambergris in 1 L of 75° spirit.",
+   "Decant the liquid and combine with the liquid obtained by pressing the herbs.",
+   "Dissolve the essential oils of calamus and coriander in absolute alcohol, then add to the mixture."
+  ],
+  "notes_en": "The essential oils must be dissolved in absolute alcohol before addition.",
+  "ocr_flags": [
+   "coriandoli (likely 'coriandolo' or coriander; OCR may have pluralized or corrupted)"
+  ],
+  "confidence": 0.88
+ }
+]

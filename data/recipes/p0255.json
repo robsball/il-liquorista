@@ -1,0 +1,348 @@
+[
+ {
+  "id": "swiss-absinthe-i",
+  "page": 255,
+  "section_en": "Absinthe",
+  "title_it": "Assenzio svizzero I",
+  "title_en": "Swiss Absinthe I",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice russo, rettificato",
+    "name_en": "Rectified Russian anise",
+    "qty": 380,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio rettificato",
+    "name_en": "Rectified fennel",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio francese",
+    "name_en": "French absinthe",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla romana",
+    "name_en": "Roman chamomile",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcoolato d'assenzio",
+    "name_en": "Absinthe alcoholate",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcoolato d'iride",
+    "name_en": "Iris alcoholate",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Shake vigorously, then add the absinthe alcoholate and iris alcoholate."
+  ],
+  "notes_en": "The first five ingredients are shaken together before the alcoholates are added.",
+  "confidence": 0.92
+ },
+ {
+  "id": "swiss-absinthe-ii",
+  "page": 255,
+  "section_en": "Absinthe",
+  "title_it": "Assenzio svizzero II",
+  "title_en": "Swiss Absinthe II",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice russo rettificato",
+    "name_en": "Rectified Russian anise",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 270,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio doppio rettificato",
+    "name_en": "Double rectified fennel",
+    "qty": 105,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio francese",
+    "name_en": "French absinthe",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 52,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Fiori di arancio",
+    "name_en": "Orange blossoms",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "confidence": 0.94
+ },
+ {
+  "id": "benedictine",
+  "page": 255,
+  "section_en": "Liqueurs",
+  "title_it": "Benedettino",
+  "title_en": "Benedictine",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     100
+    ]
+   },
+   {
+    "name_it": "Sedano",
+    "name_en": "Celery",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "omitted in first variant",
+    "variants": [
+     16
+    ]
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "omitted in first variant",
+    "variants": [
+     16
+    ]
+   },
+   {
+    "name_it": "Cannella Ceylani",
+    "name_en": "Ceylon cinnamon",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "omitted in first variant",
+    "variants": [
+     30
+    ]
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Arance dolci",
+    "name_en": "Sweet oranges",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "omitted in first variant",
+    "variants": [
+     300
+    ]
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "omitted in first variant",
+    "variants": [
+     600
+    ]
+   },
+   {
+    "name_it": "Maraschino",
+    "name_en": "Maraschino",
+    "qty": 885,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two proportions given; variants column shows an alternative formulation.",
+  "confidence": 0.91
+ },
+ {
+  "id": "byzantium",
+  "page": 255,
+  "section_en": "Liqueurs",
+  "title_it": "Bisanzio",
+  "title_en": "Byzantium",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 935,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limoni (la qualità)",
+    "name_en": "Lemons (quality variety)",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rose turche (la qualità)",
+    "name_en": "Turkish roses (quality variety)",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [
+   "Ktere a cetico"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "hunt",
+  "page": 255,
+  "section_en": "Liqueurs",
+  "title_it": "Caccia",
+  "title_en": "Hunt",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 14,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 14,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandolo doppio rettificato",
+    "name_en": "Double rectified coriander",
+    "qty": 13,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "confidence": 0.95
+ }
+]

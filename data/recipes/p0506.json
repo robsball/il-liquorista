@@ -1,0 +1,308 @@
+[
+ {
+  "id": "coffee-tincture-i",
+  "page": 506,
+  "section_en": "Coffee",
+  "title_it": "Tintura di caffè",
+  "title_en": "Coffee Tincture",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di caffè",
+    "name_en": "Coffee tincture",
+    "qty": 1230,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     1200
+    ]
+   },
+   {
+    "name_it": "Tintura di garofani",
+    "name_en": "Clove tincture",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ],
+    "note": "variant II only"
+   },
+   {
+    "name_it": "Tintura di inacidi",
+    "name_en": "Anise tincture",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ],
+    "note": "variant II only"
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     15
+    ]
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "variant I only"
+   },
+   {
+    "name_it": "Tintura di ireos",
+    "name_en": "Iris tincture",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "variant I only"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Dark brown (Bruno-scuro) liqueur.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "cinnamon-bruno-chiaro",
+  "page": 506,
+  "section_en": "Cinnamon",
+  "title_it": "Cannella",
+  "title_en": "Cinnamon",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 2.5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Rose essential oil",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "variant I only"
+   },
+   {
+    "name_it": "Olio essenziale di macie",
+    "name_en": "Mace essential oil",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     0.5
+    ],
+    "note": "variant II only"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     1
+    ],
+    "note": "variant II only"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Light brown (Bruno-chiaro) liqueur.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "cinnamon-bruno-cannella-superfino",
+  "page": 506,
+  "section_en": "Cinnamon",
+  "title_it": "Bruno cannella (Sopraffino)",
+  "title_en": "Cinnamon Brown (Superfine)",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 0.1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di ireos",
+    "name_en": "Iris tincture",
+    "qty": 0.1,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Superfine quality (Sopraffino).",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "cardamom-i",
+  "page": 506,
+  "section_en": "Cardamom",
+  "title_it": "Cardamomo",
+  "title_en": "Cardamom",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cardamomo",
+    "name_en": "Cardamom essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anico",
+    "name_en": "Anise essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Colourless (Incoloro) liqueur.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "cardamom-ii",
+  "page": 506,
+  "section_en": "Cardamom",
+  "title_it": "Cardamomo II",
+  "title_en": "Cardamom II",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cardamomo",
+    "name_en": "Cardamom essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Yellow (Giallo) liqueur.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "carminative",
+  "page": 506,
+  "section_en": "Carminative",
+  "title_it": "Carminativo",
+  "title_en": "Carminative",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale d'anice",
+    "name_en": "Anise essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di finocchio",
+    "name_en": "Fennel essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.94
+ }
+]

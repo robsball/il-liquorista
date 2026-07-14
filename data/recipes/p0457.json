@@ -1,0 +1,247 @@
+[
+ {
+  "id": "vanilla-liqueur-continuation",
+  "page": 457,
+  "section_en": "Compound Liqueurs by Maceration",
+  "title_it": "[Liquore alla vaniglia - continuazione]",
+  "title_en": "Vanilla Liqueur (continuation)",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "40% ABV, 40% sugar"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "alcool 40%"
+  },
+  "ingredients": [
+   {
+    "name_en": "Alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 7.0,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Vanilla tincture",
+    "name_it": "Tintura di vaniglia",
+    "qty": 40,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Rose essence",
+    "name_it": "Assenza di rose",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Caraway liqueur (Kümmel)",
+    "name_it": "Klium",
+    "qty": 0.6,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Sugar syrup",
+    "name_it": "Stropp",
+    "qty": 8.0,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 2.4,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "After maceration, filter and add the listed ingredients."
+  ],
+  "notes_en": "Final product: 20 litres at 40% ABV with 40% sugar content.",
+  "confidence": 0.92
+ },
+ {
+  "id": "double-ginger-liqueur",
+  "page": 457,
+  "section_en": "Compound Liqueurs by Maceration",
+  "title_it": "Zenzero doppio",
+  "title_en": "Double Ginger Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "ingredients": [
+   {
+    "name_en": "Brown ginger",
+    "name_it": "Zenzero bruno",
+    "qty": 1.5,
+    "unit": "kilograms"
+   },
+   {
+    "name_en": "Sugar",
+    "name_it": "zucchero",
+    "qty": 7.5,
+    "unit": "kilograms"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Kümmel liqueur and sweeten with 7.5 kg of sugar."
+  ],
+  "notes_en": "Bruno variety. Follow the Kümmel method.",
+  "confidence": 0.88
+ },
+ {
+  "id": "zeven-kruid-liqueur",
+  "page": 457,
+  "section_en": "Compound Liqueurs by Maceration",
+  "title_it": "Zeven Kruid Liqueur",
+  "title_en": "Zeven Kruid Liqueur",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "40% ABV, 35% sugar"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "alcool 40%"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_en": "Oranges",
+    "name_it": "Arance",
+    "qty": 200,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Aromatic calamus",
+    "name_it": "Calamo aromatico",
+    "qty": 70,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Gentian",
+    "name_it": "Genziana",
+    "qty": 70,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Orange peel",
+    "name_it": "Scorze d'arance",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Angelica root",
+    "name_it": "Angelica radice",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Iris root",
+    "name_it": "Ireos radice",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Ceylon cinnamon",
+    "name_it": "Cannella Ceylon",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Tonka bean",
+    "name_it": "Fava Tonka",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Cloves",
+    "name_it": "Garofani",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 3.2,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 1.6,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Port wine",
+    "name_it": "Vino di Porto",
+    "qty": 1.0,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 5,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Essential oil of cinnamon",
+    "name_it": "Olio essenz. di cannella",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Essential oil of cloves",
+    "name_it": "Olio essenz. di garofani",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Essential oil of aromatic calamus",
+    "name_it": "Olio essenz. di calamo aromatico",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Essential oil of cardamom",
+    "name_it": "Olio essenz. di cardamomo",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Essential oil of mace",
+    "name_it": "Olio essenz. di macia",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Sugar syrup",
+    "name_it": "Siropo",
+    "qty": 7.0,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 1.7,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanical ingredients with alcohol and water for 8 days.",
+   "Decant by pressing.",
+   "To the obtained tincture (4.8 litres), add Port wine, alcohol 90°, essential oils, sugar syrup, and water.",
+   "Color should be light brown."
+  ],
+  "notes_en": "Final product: 20 litres at 40% ABV with 35% sugar. The introduction notes that double maceration liqueurs will follow, resembling the double spirits (eaux-de-vie) already described.",
+  "confidence": 0.9
+ }
+]

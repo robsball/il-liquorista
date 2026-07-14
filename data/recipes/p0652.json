@@ -1,0 +1,385 @@
+[
+ {
+  "id": "punch-royal-i",
+  "page": 652,
+  "section_en": "Punch",
+  "title_it": "Punch Reale I",
+  "title_en": "Punch Royal I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaica rum",
+    "qty": null,
+    "unit": "lit.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   },
+   {
+    "name_it": "Arac di Goa",
+    "name_en": "Goa arrack",
+    "qty": null,
+    "unit": "lit.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "Cognac",
+    "qty": null,
+    "unit": "lit.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 0.5,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Vino rosso",
+    "name_en": "Red wine",
+    "qty": null,
+    "unit": "lit.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": null,
+    "unit": "lit.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   },
+   {
+    "name_it": "Estratto di rhum",
+    "name_en": "Rum extract",
+    "qty": 10,
+    "unit": "gr.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": null,
+    "unit": "gr.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   },
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Essential oil of lemons",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of roses",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": null,
+    "unit": "gr.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": null,
+    "unit": "gr.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   },
+   {
+    "name_it": "Succo di limoni",
+    "name_en": "Lemon juice",
+    "qty": null,
+    "unit": "gr.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 30,
+    "unit": "gr.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kg.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Thè nero",
+    "name_en": "Black tea",
+    "qty": null,
+    "unit": "gr.",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "Column I empty"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Proportion column I only; columns II–IV contain alternative formulations (see table).",
+  "ocr_flags": [],
+  "confidence": 0.75
+ },
+ {
+  "id": "punch-royal-ii",
+  "page": 652,
+  "section_en": "Punch",
+  "title_it": "Punch Reale II",
+  "title_en": "Punch Royal II",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "lit.",
+   "note": "alcohol 35%"
+  },
+  "alcohol_strength": {
+   "degrees": 35,
+   "raw": "alcool 35%"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arac di Goa",
+    "name_en": "Goa arrack",
+    "qty": 3,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaica rum",
+    "qty": 4,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Spirito di vaniglia",
+    "name_en": "Vanilla spirit",
+    "qty": 0.1,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Spirito di arancio",
+    "name_en": "Orange spirit",
+    "qty": 0.1,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 2.5,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Vino rosso",
+    "name_en": "Red wine",
+    "qty": 0.8,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Succo di ananas",
+    "name_en": "Pineapple juice",
+    "qty": 0.4,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Succo di albicocche",
+    "name_en": "Apricot juice",
+    "qty": 0.2,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Spirito di rose",
+    "name_en": "Rose spirit",
+    "qty": 1,
+    "unit": "cc.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 8.8,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Acqua bollente",
+    "name_en": "Boiling water",
+    "qty": null,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null,
+    "note": "in which 15 gr. citric acid has been dissolved; approximately 100 lit. produced"
+   }
+  ],
+  "steps_en": [
+   "Dissolve 15 grams of citric acid in boiling water.",
+   "Mix all spirits, juices, and syrup together.",
+   "Combine with the citric acid water."
+  ],
+  "notes_en": "Final product: 20 litres at 35% alcohol.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "punch-dusseldorf",
+  "page": 652,
+  "section_en": "Punch",
+  "title_it": "Punch di Dusseldorf",
+  "title_en": "Punch Düsseldorf",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol 75°",
+    "qty": 9,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Rhum Giamaica genuino",
+    "name_en": "Genuine Jamaica rum",
+    "qty": 5,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Arac di Goa",
+    "name_en": "Goa arrack",
+    "qty": 4,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 17.5,
+    "unit": "kg.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 30,
+    "unit": "N.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 15,
+    "unit": "gr.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Thè nero",
+    "name_en": "Black tea",
+    "qty": 35,
+    "unit": "gr.",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of roses",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

@@ -1,0 +1,332 @@
+[
+ {
+  "id": "coriander-fennel-mint-spirit",
+  "page": 383,
+  "section_en": "",
+  "title_it": "",
+  "title_en": "Coriander, Fennel and Mint Spirit",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "at 40% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "alcool 40%"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 6,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "80% ABV"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in the alcohol.",
+   "Add 2 liters of water.",
+   "Distill 0 liters (note: OCR corruption; likely refers to a specific yield).",
+   "Mix with 4 liters of 95° alcohol.",
+   "Add 2 drops of rose essence.",
+   "Add 10 liters of syrup."
+  ],
+  "notes_en": "Final product: 20 liters at 40% ABV.",
+  "ocr_flags": [
+   "Monta pip erita (should be Menta piperita)",
+   "distillano litri 0 (OCR likely corrupted; original quantity unclear)"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "angelica-rosolio",
+  "page": 383,
+  "section_en": "",
+  "title_it": "Angelica (Rosolio)",
+  "title_en": "Angelica Rosolio",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seeds",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radici)",
+    "name_en": "Angelica root",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 4,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water (for syrup)",
+    "qty": 2.5,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals (angelica seeds and root, fennel, coriander) in 4 liters of 85° alcohol for 24 hours.",
+   "Add 2 liters of water.",
+   "Distill 4 liters of spirit.",
+   "Prepare a syrup by dissolving 5.5 kg sugar in 2.5 liters water.",
+   "Mix the distilled spirit with the syrup cold."
+  ],
+  "notes_en": "Final product: 10 liters.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "aniseed-triday",
+  "page": 383,
+  "section_en": "",
+  "title_it": "Anesone Triduo",
+  "title_en": "Aniseed Triduo",
+  "method": "distillation",
+  "yield": {
+   "amount": 5,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice comune (semi)",
+    "name_en": "Common aniseed",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     300,
+     400,
+     500
+    ]
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     300,
+     100,
+     null
+    ]
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     20,
+     20,
+     120
+    ]
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     20,
+     20,
+     20
+    ]
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     30,
+     20,
+     null
+    ]
+   },
+   {
+    "name_it": "Legno sassafrasso",
+    "name_en": "Sassafras wood",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "not used in formula I; used in formula III only",
+    "variants": [
+     null,
+     20,
+     null
+    ]
+   },
+   {
+    "name_it": "Fava Tonka",
+    "name_en": "Tonka bean",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "not used in formulas I–III; used in formula IV only",
+    "variants": [
+     null,
+     null,
+     20
+    ]
+   },
+   {
+    "name_it": "Alcoolato di rose",
+    "name_en": "Rose alcoholate",
+    "qty": 250,
+    "unit": "mL",
+    "unit_implicit": false,
+    "variants": [
+     200,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di cedro",
+    "name_en": "Citron essential oil",
+    "qty": null,
+    "unit": "mL",
+    "unit_implicit": false,
+    "note": "used in formula III only",
+    "variants": [
+     null,
+     5,
+     null
+    ]
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     5,
+     5,
+     5
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     1.5,
+     2,
+     1
+    ]
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 1.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     2,
+     2,
+     2
+    ]
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in the alcohol.",
+   "Add 1–2 liters of water.",
+   "Distill and rectify to obtain 5 liters of spirit.",
+   "Prepare a syrup with the specified sugar and distilled water.",
+   "Mix the distilled spirit with the rose alcoholate or essential oil and the prepared syrup."
+  ],
+  "notes_en": "Four formulas (I–IV) are given with varying botanical proportions; final yield 5 liters per formula.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "id": "fine-vienna-liqueur-i",
+  "page": 611,
+  "section_en": "Fine Vienna Liqueur",
+  "title_it": "A. Fino di Vienna",
+  "title_en": "Fine Vienna Liqueur (Formula I)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossoms",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cassia",
+    "name_en": "Essential oil of cassia",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance",
+    "name_en": "Essential oil of orange",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 0.5,
+    "unit": "kilograms",
+    "unit_implicit": false,
+    "note": "dissolving medium for essential oils"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 25,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 50,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 43,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve the essential oils in absolute alcohol.",
+   "Mix this solution with sugar, water, and alcohol 90°."
+  ],
+  "notes_en": "Formula I of the Fine Vienna Liqueur.",
+  "confidence": 0.92
+ },
+ {
+  "id": "fine-vienna-liqueur-ii",
+  "page": 611,
+  "section_en": "Fine Vienna Liqueur",
+  "title_it": "A. Fino di Vienna",
+  "title_en": "Fine Vienna Liqueur (Formula II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di Amaro Vienna",
+    "name_en": "Vienna Bitter essence",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di Liquore Caccia",
+    "name_en": "Hunt Liqueur extract",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": "Formula II, an alternative preparation of the Fine Vienna Liqueur.",
+  "confidence": 0.9
+ },
+ {
+  "id": "fine-berlin-bitter-liqueur",
+  "page": 611,
+  "section_en": "Fine Spirits",
+  "title_it": "A. Fino - Amaro di Berlino",
+  "title_en": "Fine Berlin Bitter Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di Amaro di Berlino",
+    "name_en": "Berlin Bitter essence",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "see page 240"
+   },
+   {
+    "name_it": "Olio essenz. di arance amare",
+    "name_en": "Essential oil of bitter orange",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 0.2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 14.25,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.75,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils with the Berlin Bitter essence.",
+   "Combine with alcohol 90°, syrup, and water."
+  ],
+  "notes_en": "Color: Brown. This formulation combines multiple aromatic oils with a specialized bitter essence.",
+  "confidence": 0.93
+ }
+]

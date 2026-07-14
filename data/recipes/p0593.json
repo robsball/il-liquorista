@@ -1,0 +1,235 @@
+[
+ {
+  "id": "a-ptcon",
+  "page": 593,
+  "section_en": "Liqueurs",
+  "title_it": "A. P tcon",
+  "title_en": "A. Ptcon",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 27,
+   "raw": "27°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Aromatic calamus",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona bark",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Colombo",
+    "name_en": "Colombo root",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Scorza di un limone, fresco",
+    "name_en": "Fresh lemon peel",
+    "qty": 1,
+    "unit": "piece",
+    "unit_implicit": true,
+    "note": "one fresh lemon"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di genziana",
+    "name_en": "Gentian tincture",
+    "qty": 0.1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di arancio amaro",
+    "name_en": "Bitter orange tincture",
+    "qty": 0.3,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di arance dolci",
+    "name_en": "Sweet orange tincture",
+    "qty": 0.2,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore di curao",
+    "name_en": "Curaçao liqueur",
+    "qty": 0.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcolatura di arance fresche",
+    "name_en": "Fresh orange alcoholate",
+    "qty": 0.2,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cotogne",
+    "name_en": "Quince tincture",
+    "qty": 0.2,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": 0.3,
+    "unit": "litre",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Heat the mixture (aromatic calamus, bitter orange peel, cinchona, colombo, cardamom, aloe, fresh lemon peel, 95° alcohol, and water) in a still as if for artificial aging of liqueurs.",
+   "Allow to cool.",
+   "Add gentian tincture, bitter orange tincture, sweet orange tincture, curaçao liqueur, fresh orange alcoholate, quince tincture, and caramel.",
+   "Add the necessary amount of water and alcohol to complete the volume to 10 litres.",
+   "The alcoholic strength of the liqueur must be 27°."
+  ],
+  "notes_en": "The mixture is heated in a still similar to the process used for artificial aging of liqueurs.",
+  "ocr_flags": [
+   "Ptcon (possibly Pticon or similar abbreviation)"
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "a-tedesco",
+  "page": 593,
+  "section_en": "Liqueurs",
+  "title_it": "A. TEDESCO",
+  "title_en": "A. German",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Salvia (secca)",
+    "name_en": "Sage (dried)",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio (secco)",
+    "name_en": "Wormwood (dried)",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper (berries)",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance amare (secche)",
+    "name_en": "Bitter orange peel (dried)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta (secca)",
+    "name_en": "Mint (dried)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda (fiori secchi)",
+    "name_en": "Lavender (dried flowers)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice secca)",
+    "name_en": "Angelica (dried root)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity corrupted in OCR; appears to be '&' or similar"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; only ingredients listed without preparation method or final yield.",
+  "ocr_flags": [
+   "final quantity for cloves is unclear ('&' or corrupted)"
+  ],
+  "confidence": 0.75
+ }
+]

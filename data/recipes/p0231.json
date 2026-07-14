@@ -1,0 +1,365 @@
+[
+ {
+  "id": "wormwood-leaves-ii",
+  "page": 231,
+  "section_en": "Wormwood (continued)",
+  "title_it": "Foglie d'assenzio (II)",
+  "title_en": "Wormwood Leaves (II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Foglie d'assenzio",
+    "name_en": "Wormwood leaves",
+    "qty": 1.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "wormwood-leaves-iii",
+  "page": 231,
+  "section_en": "Wormwood (continued)",
+  "title_it": "Foglie d'assenzio (III)",
+  "title_en": "Wormwood Leaves (III)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Foglie d'assenzio senza steli",
+    "name_en": "Wormwood leaves without stems",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 1560,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "peru-balsam-i",
+  "page": 231,
+  "section_en": "Peru Balsam",
+  "title_it": "Balsamo del Perù (I)",
+  "title_en": "Peru Balsam (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Balsamo del Perù",
+    "name_en": "Peru balsam",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "tolu-balsam-i",
+  "page": 231,
+  "section_en": "Tolu Balsam",
+  "title_it": "Balsamo del Tolù (I)",
+  "title_en": "Tolu Balsam (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Balsamo del Tolù",
+    "name_en": "Tolu balsam",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "tolu-balsam-ii",
+  "page": 231,
+  "section_en": "Tolu Balsam",
+  "title_it": "Balsamo del Tolù (II)",
+  "title_en": "Tolu Balsam (II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Balsamo del Tolù (polv.)",
+    "name_en": "Tolu balsam (powdered)",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "basil",
+  "page": 231,
+  "section_en": "Basil",
+  "title_it": "Basilico",
+  "title_en": "Basil",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 6,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Foglie di basilico",
+    "name_en": "Basil leaves",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "benzoin-i",
+  "page": 231,
+  "section_en": "Benzoin",
+  "title_it": "Benzoino (I)",
+  "title_en": "Benzoin (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Benzoino in lacrime polverizzato",
+    "name_en": "Powdered benzoin tears",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "benzoin-ii",
+  "page": 231,
+  "section_en": "Benzoin",
+  "title_it": "Benzoino (II)",
+  "title_en": "Benzoin (II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Benzoino (pezzettini)",
+    "name_en": "Benzoin (small pieces)",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "bergamot-i",
+  "page": 231,
+  "section_en": "Bergamot",
+  "title_it": "Bergamotto (I)",
+  "title_en": "Bergamot (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "acqua di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorzo di bergamotto",
+    "name_en": "Bergamot peel",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di 90°",
+    "name_en": "Water at 90° alcohol",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "OCR reads 'Acqua di 90°' which is unusual; may be alcohol or dilute spirit"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [
+   "Acqua di 90° — unusual phrasing; typically would be 'alcool di 90°'"
+  ],
+  "confidence": 0.85
+ }
+]

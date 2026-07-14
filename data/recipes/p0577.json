@@ -1,0 +1,340 @@
+[
+ {
+  "id": "cardoon-liqueur",
+  "page": 577,
+  "section_en": "Liqueurs",
+  "title_it": "Cardosanto",
+  "title_en": "Cardoon Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 17,
+   "unit": "liters",
+   "note": "distillation yield at 72°; final volume after mixing and syrup adjustment"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cardosanto",
+    "name_en": "Cardoon",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 80,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "note": "quantity not printed"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 80,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": null,
+    "unit": "liters",
+    "unit_implicit": true,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": true,
+    "note": "quantity not printed; Bruno carico (dark brown color)"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in 60° alcohol for 48 hours.",
+   "Distill and collect 17 liters at 72°.",
+   "Mix the distillate with 7.5 liters water and 1 liter of 90° alcohol.",
+   "Prepare syrup from 1.75 kg sugar and 4 liters water.",
+   "Add syrup cold to the mixture.",
+   "Reduce final volume to 10 liters.",
+   "Color with caramel.",
+   "Filter."
+  ],
+  "notes_en": "All aromatic substances must be used dry. Final product appears to be a dark brown (Bruno carico) liqueur.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "amaro-di-brescia",
+  "page": 577,
+  "section_en": "Liqueurs",
+  "title_it": "A. di Brescia",
+  "title_en": "Amaro di Brescia",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "final volume after distillation, syrup addition, and reduction"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol at 80°",
+    "qty": 5.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "added before distillation"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.75,
+    "unit": "kilograms",
+    "unit_implicit": false,
+    "note": "for syrup"
+   },
+   {
+    "name_it": "Acqua per siroppo",
+    "name_en": "Water for syrup",
+    "qty": 4,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": true,
+    "note": "for coloring"
+   }
+  ],
+  "steps_en": [
+   "Macerate all dry aromatic substances in 5.5 liters of 80° alcohol for 2 days.",
+   "Add 3 liters of water to the maceration.",
+   "Distill and collect 5 liters.",
+   "Prepare syrup cold from 1.75 kg sugar and 4 liters water.",
+   "Add syrup to the distillate.",
+   "Reduce total volume to 10 liters.",
+   "Color with caramel.",
+   "Filter."
+  ],
+  "notes_en": "All aromatic substances must be used dry.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "amaro-di-brescia-variant",
+  "page": 577,
+  "section_en": "Liqueurs",
+  "title_it": "A. di Bresdavia",
+  "title_en": "Amaro di Bresdavia",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 16,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Polmonaria",
+    "name_en": "Lungwort",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lauro (bacche)",
+    "name_en": "Bay laurel berries",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornelian cherry",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sambuco (fiori)",
+    "name_en": "Elder flowers",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "This recipe contains only the ingredient list; the preparation instructions are not provided on this page.",
+  "ocr_flags": [
+   "Bresdavia — possibly a place name variant or OCR error; could be 'Brescia' variant or 'Bresia'"
+  ],
+  "confidence": 0.72
+ }
+]

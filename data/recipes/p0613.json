@@ -1,0 +1,375 @@
+[
+ {
+  "id": "bruno",
+  "page": 613,
+  "section_en": "Liqueurs",
+  "title_it": "Bruno",
+  "title_en": "Bruno",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 0.2,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     0.5
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 0.2,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 0.1,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     0.3
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     0.1
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 0.2,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     1
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 0.1,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     1
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di camomilla",
+    "name_en": "Essential oil of chamomile",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Estratto di Gocce di Mampe",
+    "name_en": "Extract of Mampe Drops",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Estratto di Elisir stomatico",
+    "name_en": "Extract of Stomach Elixir",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     300
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 14,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     14
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 10.75,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     12
+    ]
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     7.7
+    ]
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils and extracts with alcohol and water.",
+   "Mix thoroughly.",
+   "Add syrup as indicated in the variant column if desired."
+  ],
+  "notes_en": "Two formulations presented in columns. First column omits angelica extract and syrup; second column includes them.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "amburgo",
+  "page": 613,
+  "section_en": "Liqueurs",
+  "title_it": "A. Amburgo",
+  "title_en": "Hamburg (A. Amburgo)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "L",
+   "note": "alcohol content 42%"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of absinthe",
+    "qty": 24,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di menta peperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 24,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 24,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemons",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4.7,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.3,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Add drops of essential oils to the alcohol.",
+   "Dissolve sugar in water and combine with the alcohol and oils.",
+   "Mix thoroughly and dilute to final volume of 10 litres."
+  ],
+  "notes_en": "Final product yields 10 litres at 42% alcohol strength.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "elixir-amaro-stomatico",
+  "page": 613,
+  "section_en": "Liqueurs",
+  "title_it": "Elisir amaro stomatico",
+  "title_en": "Bitter Stomach Elixir",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "L"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di scorze di arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di finocchi",
+    "name_en": "Essential oil of fennel",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemons",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of absinthe",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di menta peperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua quanto basta",
+    "name_en": "Water as needed",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "to complete"
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils with the alcohol.",
+   "Dissolve sugar and add to the mixture.",
+   "Add water to reach a final volume of 10 litres."
+  ],
+  "notes_en": "A digestive elixir with bitter and aromatic properties, intended for stomach health.",
+  "ocr_flags": [
+   "menta pip"
+  ],
+  "confidence": 0.93
+ }
+]

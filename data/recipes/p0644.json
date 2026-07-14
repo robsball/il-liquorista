@@ -1,0 +1,290 @@
+[
+ {
+  "id": "amaro-greco",
+  "page": 644,
+  "section_en": "Bitters (Amari)",
+  "title_it": "Amaro Greco",
+  "title_en": "Greek Bitters",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di «Amaro Greco»",
+    "name_en": "Essence of Greek Bitters",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "from page 241"
+   },
+   {
+    "name_it": "Estratto di assenzio",
+    "name_en": "Wormwood extract",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Mix all ingredients together.",
+  "ocr_flags": [],
+  "confidence": 0.98
+ },
+ {
+  "id": "amaro-inglese-i",
+  "page": 644,
+  "section_en": "Bitters (Amari)",
+  "title_it": "Amaro Inglese (I)",
+  "title_en": "English Bitters (I)",
+  "method": "infusion",
+  "yield": {
+   "amount": 23,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 3000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 330,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 330,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno quassia",
+    "name_en": "Quassia wood",
+    "qty": 3000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "70° alcohol",
+    "qty": 23,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Infuse the botanicals in 70° alcohol for the appropriate duration.",
+   "Then add a solution of 500 g of English Bitters essence (p. 241) dissolved in 1 liter of 95° alcohol."
+  ],
+  "notes_en": "The English Bitters essence solution is added after the main infusion is complete.",
+  "ocr_flags": [],
+  "confidence": 0.97
+ },
+ {
+  "id": "amaro-inglese-ii",
+  "page": 644,
+  "section_en": "Bitters (Amari)",
+  "title_it": "Amaro Inglese (II)",
+  "title_en": "English Bitters (II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 100,
+   "raw": "alcool assoluto"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di «Amaro Reale»",
+    "name_en": "Royal Bitters extract",
+    "qty": 7500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di «Gocco d'Amburgo»",
+    "name_en": "Hamburg Drops extract",
+    "qty": 4365,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura d'ireos",
+    "name_en": "Iris root tincture",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di spezie",
+    "name_en": "Spice essence",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale d'anice verde",
+    "name_en": "Green anise essential oil",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve the first three extracts in 1 liter of absolute alcohol.",
+   "Separately, dissolve the spice essence and green anise essential oil.",
+   "Mix the two solutions together."
+  ],
+  "notes_en": "The spice essence and essential oil are dissolved separately before combining with the main extract solution.",
+  "ocr_flags": [
+   "Gocco - possibly 'Gocce' (Drops)"
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "amaro-reale-i",
+  "page": 644,
+  "section_en": "Bitters (Amari)",
+  "title_it": "Amaro Reale (I)",
+  "title_en": "Royal Bitters (I)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di «Gocce Dr. Mampo»",
+    "name_en": "Dr. Mampo Drops extract",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di «Liquore caccia»",
+    "name_en": "Hunting Liqueur extract",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix equal parts of the two extracts."
+  ],
+  "notes_en": "A simple combination of two pre-made extracts.",
+  "ocr_flags": [
+   "Gocce - OCR reads 'Gocco', likely plural 'Gocce' (Drops)"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "amaro-reale-ii",
+  "page": 644,
+  "section_en": "Bitters (Amari)",
+  "title_it": "Amaro Reale (II)",
+  "title_en": "Royal Bitters (II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di «Gocce Dr. Mampo»",
+    "name_en": "Dr. Mampo Drops extract",
+    "qty": 3000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di zenzero",
+    "name_en": "Ginger extract",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di amaro china",
+    "name_en": "Cinchona bitters extract",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di cannella",
+    "name_en": "Cinnamon extract",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di garofani",
+    "name_en": "Clove extract",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all extracts together in the specified proportions."
+  ],
+  "notes_en": "A blend of five concentrated extracts with warming spices.",
+  "ocr_flags": [
+   "Gocce - OCR reads 'Gocce Dr.Mampo'"
+  ],
+  "confidence": 0.96
+ }
+]

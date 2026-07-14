@@ -1,0 +1,276 @@
+[
+ {
+  "id": "bitter-liqueur-iv",
+  "page": 620,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "IV",
+  "title_en": "Bitter Liqueur IV",
+  "method": "infusion",
+  "yield": {
+   "amount": 2,
+   "unit": "liters",
+   "note": "product yield not stated; input volume"
+  },
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 90,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 60,
+    "unit": "g"
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 60,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 120,
+    "unit": "g"
+   },
+   {
+    "name_it": "Corteccia di angostura",
+    "name_en": "Angostura bark",
+    "qty": 60,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 60,
+    "unit": "g"
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona bark",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Spirit of 75° ABV",
+    "qty": 2,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Infuse all ingredients in 2 liters of 75° alcohol."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "eau-de-cologne",
+  "page": 620,
+  "section_en": "Aromatic Waters",
+  "title_it": "A. di Colonia",
+  "title_en": "Eau de Cologne",
+  "method": "infusion",
+  "yield": {
+   "amount": 20,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 1500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 1000,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Assenzio (foglie)",
+    "name_en": "Wormwood (leaves)",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Valeriana",
+    "name_en": "Valerian",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Quassio (legno raspato)",
+    "name_en": "Quassia wood (shaved)",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Spirit of 70° ABV",
+    "qty": 20,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Infuse all botanical ingredients in 20 liters of 70° alcohol."
+  ],
+  "confidence": 0.94
+ },
+ {
+  "id": "a-doctor",
+  "page": 620,
+  "section_en": "Medicinal Liqueurs",
+  "title_it": "A. Doctor",
+  "title_en": "A. Doctor",
+  "method": "infusion",
+  "yield": {
+   "amount": 8,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Enula campana",
+    "name_en": "Elecampane",
+    "qty": 65,
+    "unit": "g"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 65,
+    "unit": "g"
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 65,
+    "unit": "g"
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 65,
+    "unit": "g"
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ireos (rad.)",
+    "name_en": "Orris root",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 130,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 225,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Spirit of 75° ABV",
+    "qty": 8,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Infuse all herbs and botanicals in 8 liters of 75° alcohol."
+  ],
+  "ocr_flags": [
+   "8Il (likely '8' at end of line, printed as '8Il')"
+  ],
+  "confidence": 0.93
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "id": "pineapple-punch-syrup",
+  "page": 655,
+  "section_en": "Punch Syrups",
+  "title_it": "Sciroppo di Punch all'Ananas",
+  "title_en": "Pineapple Punch Syrup",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "ananas tagliuzzato",
+    "name_en": "pineapple, sliced",
+    "qty": null,
+    "unit": "as needed",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "arac o rhum",
+    "name_en": "arrack or rum",
+    "qty": 3,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 2,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "vino bianco",
+    "name_en": "white wine",
+    "qty": null,
+    "unit": "to taste",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [
+   "Slice the pineapple and macerate in 3 liters of arrack or rum for three days.",
+   "Strain the liquid.",
+   "Heat the sugar and water together to form a syrup.",
+   "Pour the pineapple infusion into the hot syrup.",
+   "Add white wine to taste."
+  ],
+  "notes_en": "Punch syrups differ from extracts in that they are richer in sugar and therefore contain a lower percentage of alcohol. For use, dilute 1 part syrup with 2 parts boiling water.",
+  "confidence": 0.85
+ },
+ {
+  "id": "rum-punch-syrup",
+  "page": 655,
+  "section_en": "Punch Syrups",
+  "title_it": "Sciroppo di Punch al Rhum",
+  "title_en": "Rum Punch Syrup",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "zucchero greggio Martinica",
+    "name_en": "raw Martinique sugar",
+    "qty": 10,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "rhum comune o fino",
+    "name_en": "common or fine rum",
+    "qty": 5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "alcool di 85°",
+    "name_en": "85° alcohol (spirit)",
+    "qty": 1.5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "alcoolaturo concentrata di limoni",
+    "name_en": "concentrated lemon alcoholate",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     20
+    ]
+   },
+   {
+    "name_it": "acido citrico",
+    "name_en": "citric acid",
+    "qty": 12,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     12
+    ]
+   },
+   {
+    "name_it": "thè Hyson",
+    "name_en": "Hyson tea",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "only in second column (50 g)",
+    "variants": [
+     50
+    ]
+   }
+  ],
+  "steps_en": [
+   "Prepare a concentrated infusion of Hyson tea in 0.8 liters of boiling water.",
+   "Let the tea cool.",
+   "Combine the raw sugar, rum, 85° alcohol, concentrated lemon alcoholate, and citric acid.",
+   "Add the cooled tea infusion to the mixture.",
+   "Mix thoroughly in a covered and sealed vessel.",
+   "Allow the syrup to cool in the sealed container."
+  ],
+  "notes_en": "The table shows two proportions; the second column (marked 'Fino') represents an alternative stronger formulation.",
+  "ocr_flags": [
+   "Hyson"
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "cognac-punch-syrup",
+  "page": 655,
+  "section_en": "Punch Syrups",
+  "title_it": "Sciroppo di Punch al Cognac",
+  "title_en": "Cognac Punch Syrup",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": 32,
+  "temperature_c_note": "syrup cooked to 32° Brix (measured at boiling)",
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "zucchero raffinato",
+    "name_en": "refined sugar",
+    "qty": 10,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "cognac fino",
+    "name_en": "fine cognac",
+    "qty": 6,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcoolaturo concentrata di limoni",
+    "name_en": "concentrated lemon alcoholate",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acido citrico",
+    "name_en": "citric acid",
+    "qty": 12,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": null,
+    "unit": "small amount",
+    "unit_implicit": false,
+    "note": "for dissolving citric acid"
+   }
+  ],
+  "steps_en": [
+   "Clarify the refined sugar.",
+   "Cook the sugar to a syrup measuring 32° Brix at boiling point.",
+   "Strain and filter the resulting syrup.",
+   "Dissolve the citric acid in a small amount of water.",
+   "Add the fine cognac, concentrated lemon alcoholate, and dissolved citric acid to the syrup.",
+   "Mix vigorously in a covered and sealed vessel.",
+   "Allow the syrup to cool completely in the sealed container."
+  ],
+  "notes_en": "The sealed vessel ensures proper cooling and flavor development.",
+  "confidence": 0.88
+ }
+]

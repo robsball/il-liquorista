@@ -1,0 +1,291 @@
+[
+ {
+  "id": "centaury-bitters-ii",
+  "page": 629,
+  "section_en": "Bitters and Digestifs",
+  "title_it": "II",
+  "title_en": "Centaury Bitters (II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "Alcool"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Gallunga",
+    "name_en": "Greater galangal",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Inula campana",
+    "name_en": "Elecampane",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seed",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ireos (rad.)",
+    "name_en": "Iris root",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol (96°)",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Process as for Amaro Spagnolo (I)."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "gentian-angostura-bitters-iii",
+  "page": 629,
+  "section_en": "Bitters and Digestifs",
+  "title_it": "III",
+  "title_en": "Gentian Angostura Bitters (III)",
+  "method": "maceration",
+  "yield": {
+   "amount": 2000,
+   "unit": "mL",
+   "note": "from combined alcohol and water"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Genziana rad.",
+    "name_en": "Gentian root",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di arancio",
+    "name_en": "Orange peel",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "OCR may have shown '00' for 500"
+   },
+   {
+    "name_it": "Gallunga",
+    "name_en": "Greater galangal",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance immaturo",
+    "name_en": "Unripe orange",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol (90°)",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Process as for Angostura Bitters (II)."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "Scorze di arancio qty shown as '00', likely 500"
+  ],
+  "confidence": 0.78
+ },
+ {
+  "id": "corroborative-stomachic-i",
+  "page": 629,
+  "section_en": "Tonics and Stomachics",
+  "title_it": "A. CORROBORANTE STOMACHICO. I.",
+  "title_en": "Corroborative Stomachic (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "Alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Orange",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Valeriana",
+    "name_en": "Valerian",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Potassa depurata",
+    "name_en": "Purified potassium carbonate",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol (70°)",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Once the extract is strained, add a solution of a few drops of essential oil of peppermint dissolved in absolute alcohol."
+  ],
+  "notes_en": "The final tincture is completed by the addition of peppermint essential oil dissolved in absolute alcohol to the main extract.",
+  "ocr_flags": [
+   "Zonzoro → Zenzero (ginger)",
+   "Trifoglio acquatico — possibly watercress or aquatic clover; interpretation uncertain"
+  ],
+  "confidence": 0.82
+ }
+]

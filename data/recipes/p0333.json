@@ -1,0 +1,197 @@
+[
+ {
+  "id": "cognac-with-egg",
+  "page": 333,
+  "section_en": "Cognac Liqueurs",
+  "title_it": "Cognac all'uovo",
+  "title_en": "Cognac with Egg",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "tuorli d'uovo",
+    "name_en": "egg yolks",
+    "qty": 15,
+    "unit": "number",
+    "unit_implicit": false,
+    "note": "Recipe I: carefully separated from albumen"
+   },
+   {
+    "name_it": "Liquore benedettino",
+    "name_en": "Benedictine liqueur",
+    "qty": 300,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "note": "Recipe I"
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": null,
+    "unit": "to fill bottle",
+    "unit_implicit": true,
+    "note": "Recipe I: quality cognac to fill 1-liter bottle"
+   },
+   {
+    "name_it": "sciroppo semplice",
+    "name_en": "simple syrup",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     30,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "vaniglia",
+    "name_en": "vanilla",
+    "qty": 0.3,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null,
+     1
+    ]
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 700,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     100,
+     null,
+     null
+    ],
+    "note": "Recipe II: 700 gr. Recipe III: ~40% ABV. Recipe IV: 100 gr."
+   },
+   {
+    "name_it": "tuorli d'uovo",
+    "name_en": "egg yolks",
+    "qty": 2,
+    "unit": "number",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     8,
+     3,
+     4
+    ]
+   },
+   {
+    "name_it": "mucillaggine di gomma arabica",
+    "name_en": "gum arabic mucilage",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": null,
+    "unit": "to complete",
+    "unit_implicit": true,
+    "note": "Recipe II: to complete to 1000 grams total. Recipe III: as needed."
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 150,
+    "unit": "grams per liter",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null,
+     30
+    ],
+    "note": "Recipe III: 150 gr. per liter cognac. Recipe IV: 30 gr."
+   },
+   {
+    "name_it": "tintura di vaniglia",
+    "name_en": "vanilla tincture",
+    "qty": 1,
+    "unit": "gram",
+    "unit_implicit": false,
+    "note": "Recipe IV"
+   },
+   {
+    "name_it": "uovo intiero",
+    "name_en": "whole egg",
+    "qty": 1,
+    "unit": "number",
+    "unit_implicit": false,
+    "note": "Recipe IV variant: with albumen"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": null,
+    "unit": "tablespoon",
+    "unit_implicit": false,
+    "note": "Recipe IV variant: 1 tablespoon"
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": null,
+    "unit": "tablespoons",
+    "unit_implicit": false,
+    "note": "Recipe IV variant: 1–2 tablespoons"
+   },
+   {
+    "name_it": "tuorli d'uovo",
+    "name_en": "egg yolks",
+    "qty": 4,
+    "unit": "number",
+    "unit_implicit": false,
+    "note": "Recipe V"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "Recipe V: first addition"
+   },
+   {
+    "name_it": "latte scaldato",
+    "name_en": "heated milk",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "Recipe V: heated to 50–60°C"
+   }
+  ],
+  "steps_en": [
+   "Recipe I: Vigorously incorporate 15 egg yolks (carefully separated from albumen) into a 1-liter bottle with 300 grams of Benedictine liqueur. Fill the bottle with quality cognac.",
+   "Recipe II: Macerate vanilla with syrup and cognac for one or more hours. Beat the egg yolk with gum arabic mucilage until foamy, then add to the mixture. Complete with water to 1000 grams total.",
+   "Recipe III: Mix cognac at approximately 40% ABV with 150 grams sugar per liter. Shake vigorously with 8–10 egg yolks per liter.",
+   "Recipe IV: Beat 3 egg yolks in a mortar until homogeneous. Gradually add 30 grams sugar, stirring until creamy. Gradually add 100 grams cognac, then 1 gram vanilla tincture. Alternatively, beat a whole egg with 1 tablespoon sugar, then add 1–2 tablespoons cognac.",
+   "Recipe V: Mix 4 egg yolks with 50 grams sugar and stir until dissolved. Slowly add 50 grams milk heated to 50–60°C while stirring. Continue to heat the mixture while stirring…"
+  ],
+  "notes_en": "This is a delicate liqueur much used in Germany. Multiple recipe variations are provided to suit different preparations and preferences. The text is cut off at the final step of Recipe V.",
+  "ocr_flags": [
+   "tuorli d'uvo (likely 'tuorli d'uovo'—egg yolks)",
+   "rimestan- (text cut off; likely 'rimestando'—stirring)"
+  ],
+  "confidence": 0.92
+ }
+]

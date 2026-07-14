@@ -1,0 +1,301 @@
+[
+ {
+  "id": "polka",
+  "page": 550,
+  "section_en": "Liqueurs",
+  "title_it": "Polka",
+  "title_en": "Polka",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto d'iride",
+    "name_en": "Iris extract",
+    "qty": 50,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale d'anice russo",
+    "name_en": "Russian anise essential oil",
+    "qty": 8,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 8,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 8,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di finocchio",
+    "name_en": "Fennel essential oil",
+    "qty": 8,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rosmarino",
+    "name_en": "Rosemary essential oil",
+    "qty": 2,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": 2,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol 75°",
+    "qty": 1000,
+    "unit": "c.c.",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "confidence": 0.95
+ },
+ {
+  "id": "rose-i",
+  "page": 550,
+  "section_en": "Liqueurs",
+  "title_it": "Rose (I)",
+  "title_en": "Rose (I)",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Rose essential oil",
+    "qty": 2,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arance dolci",
+    "name_en": "Sweet orange essential oil",
+    "qty": 0.2,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "c.c.",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve the essential oils in the alcohol after having heated it slightly."
+  ],
+  "notes_en": "",
+  "confidence": 0.96
+ },
+ {
+  "id": "rose-ii",
+  "page": 550,
+  "section_en": "Liqueurs",
+  "title_it": "Rose (II)",
+  "title_en": "Rose (II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Rose essential oil",
+    "qty": 2,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 15,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 908,
+    "unit": "c.c.",
+    "unit_implicit": false,
+    "note": "OCR uncertainty: possibly '908' or different value"
+   },
+   {
+    "name_it": "Estratto di rose",
+    "name_en": "Rose extract",
+    "qty": 0.25,
+    "unit": "lit.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.5,
+    "unit": "lit.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 15,
+    "unit": "lit.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "lit.",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [
+   "Alcool di 00° (should be 90°?)",
+   "Rose II structure unclear: appears to list both ingredients and liqueur components"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "rostopschin",
+  "page": 550,
+  "section_en": "Liqueurs",
+  "title_it": "Rostopschin",
+  "title_en": "Rostopschin",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 10,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice russo",
+    "name_en": "Russian anise",
+    "qty": 10,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 10,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 10,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 10,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 5,
+    "unit": "c.c.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 1000,
+    "unit": "c.c.",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "confidence": 0.92
+ },
+ {
+  "id": "rostopschin-ii",
+  "page": 550,
+  "section_en": "Liqueurs",
+  "title_it": "Rostopschin (II)",
+  "title_en": "Rostopschin (II)",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": 50,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "gr.",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [
+   "Rostopschin II: 'di' likely corrupted for '90°'"
+  ],
+  "confidence": 0.88
+ }
+]

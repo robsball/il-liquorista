@@ -1,0 +1,194 @@
+[
+ {
+  "id": "sweet-orange-peel-liqueur",
+  "page": 689,
+  "section_en": "Orange and Citrus Liqueurs",
+  "title_it": "Scorze di arance dolci e amare",
+  "title_en": "Sweet and Bitter Orange Peel Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance dolci",
+    "name_en": "Sweet orange peel",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di limoni freschi",
+    "name_en": "Fresh lemon peel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 60%",
+    "name_en": "60% alcohol",
+    "qty": 1,
+    "unit": "l",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Chop the peels of 30 green oranges finely.",
+   "Macerate the chopped peels for two or three days with 2 litres of good arak.",
+   "Decant the liquid and pour one more litre of fine arak over the peels.",
+   "After 24 hours, combine the two liquids (which form the extract) and filter."
+  ],
+  "notes_en": "The extract is produced by double maceration with arak, allowing complete extraction of aromatic oils from the citrus peels.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "mulled-wine-simple",
+  "page": 689,
+  "section_en": "Mulled Wine",
+  "title_it": "Vino brulé - Tipo semplice",
+  "title_en": "Mulled Wine – Simple Type",
+  "method": "other",
+  "yield": {
+   "amount": 725,
+   "unit": "ml",
+   "note": "approximate yield from recipe base"
+  },
+  "alcohol_strength": null,
+  "temperature_c": 100,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vino rosso generoso",
+    "name_en": "Generous red wine",
+    "qty": 725,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo di scorze di Curaçao",
+    "name_en": "Curaçao peel syrup",
+    "qty": 40,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Infuse all spices and syrup into the red wine by bringing briefly to a boil."
+  ],
+  "notes_en": "The simplest type of hot spiced wine or mulled wine.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "mulled-wine-reduced",
+  "page": 689,
+  "section_en": "Mulled Wine",
+  "title_it": "Vino brulé - Tipo con riduzione",
+  "title_en": "Mulled Wine – Reduced Type",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": 100,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vino rosso generoso",
+    "name_en": "Generous red wine",
+    "qty": 1,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pepe garofanato",
+    "name_en": "Clove pepper",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all spices in one litre of generous red wine.",
+   "Bring to a boil and reduce to approximately two-thirds of the original volume."
+  ],
+  "notes_en": "A more concentrated version achieved by extended maceration and reduction of the wine with spices.",
+  "ocr_flags": [
+   "Pepe garofanato – could also read as 'pepe garofano' (clove pepper or pepper with cloves)"
+  ],
+  "confidence": 0.88
+ }
+]

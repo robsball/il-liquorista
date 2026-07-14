@@ -1,0 +1,248 @@
+[
+ {
+  "id": "sinequee",
+  "page": 537,
+  "section_en": "Tinctures",
+  "title_it": "Sinequiève",
+  "title_en": "Sinequiève",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorzo di arance",
+    "name_en": "Orange peel",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di limoni",
+    "name_en": "Lemon peel",
+    "qty": 1.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 100,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 5,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 5,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 35,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 35,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice (semi)",
+    "name_en": "Anise seeds",
+    "qty": 35,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 8,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 8,
+    "unit": "litri",
+    "unit_implicit": false,
+    "note": "75° strength"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in 8 litres of 75° alcohol for several days."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Sinequiève (spelling uncertain from OCR 'Sinquliève')"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "vanilla",
+  "page": 537,
+  "section_en": "",
+  "title_it": "Vaniglia",
+  "title_en": "Vanilla",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla pods",
+    "qty": 500,
+    "unit": "gr",
+    "unit_implicit": false,
+    "note": "cut into small pieces"
+   },
+   {
+    "name_it": "Arrac mezzofino o alcool",
+    "name_en": "Half-fine arrack or alcohol",
+    "qty": 8,
+    "unit": "litri",
+    "unit_implicit": false,
+    "note": "60° alcohol if using alcohol instead of arrack"
+   }
+  ],
+  "steps_en": [
+   "Cut vanilla into small pieces and shake in a bottle with half-fine arrack or 60° alcohol (8 litres per 500 gr vanilla).",
+   "Macerate for 8 days, shaking occasionally.",
+   "Decant and treat the residue with three litres of alcohol.",
+   "Combine the two liquids."
+  ],
+  "notes_en": "Liqueur formulation: 5 gr vanilla extract + 12.5 litri 85° alcohol + 15 litri syrup + 6.5 litri water. Colour: light brown to red.",
+  "ocr_flags": [
+   "arrac (spelling as in source)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "ginger-jamaica",
+  "page": 537,
+  "section_en": "Ginger",
+  "title_it": "Zenzero - Estratto della Giamaica",
+  "title_en": "Ginger – Jamaica Extract",
+  "method": "maceration",
+  "yield": {
+   "amount": 35,
+   "unit": "litri",
+   "note": "strong extract"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Rizomi di zenzero",
+    "name_en": "Ginger rhizomes",
+    "qty": 12.5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "powdered"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 35,
+    "unit": "litri",
+    "unit_implicit": false,
+    "note": "90° strength"
+   }
+  ],
+  "steps_en": [
+   "Powder 12.5 kg of ginger rhizomes.",
+   "Macerate in 35 litres of 90° alcohol for 8 days.",
+   "Decant when clear and store in bottles."
+  ],
+  "notes_en": "This very strong extract is sold commercially as Jamaica Ginger Extract.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "ginger-kochin",
+  "page": 537,
+  "section_en": "Ginger",
+  "title_it": "Zenzero Kochin",
+  "title_en": "Kochin Ginger",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zenzero Kochin",
+    "name_en": "Kochin ginger",
+    "qty": 100,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimento (allspice)",
+    "qty": 20,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 20,
+    "unit": "gr",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe appears incomplete in source; proportions given but method not stated.",
+  "ocr_flags": [
+   "Kochin (spelling as in source; possibly 'Cochin')"
+  ],
+  "confidence": 0.75
+ }
+]

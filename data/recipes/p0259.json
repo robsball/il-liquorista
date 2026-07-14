@@ -1,0 +1,362 @@
+[
+ {
+  "id": "kummel-di-danzica",
+  "page": 259,
+  "title_it": "Kummel di Danzica",
+  "title_en": "Kummel of Danzig",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cornino doppio rettificato",
+    "name_en": "Double-rectified caraway spirit",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua d'oro",
+    "name_en": "Gold water",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limone",
+    "name_en": "Lemon",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity unclear from OCR"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.7
+ },
+ {
+  "id": "lemon-liqueur",
+  "page": 259,
+  "title_it": "Limone",
+  "title_en": "Lemon Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Limoni (Ift qualità)",
+    "name_en": "Lemons (1st quality)",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura aromatico",
+    "name_en": "Aromatic tincture",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [
+   "Tintura aromatico - possibly 'Tintura aromatica'"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "turner-liqueur",
+  "page": 259,
+  "title_it": "Liquore di Turner",
+  "title_en": "Turner's Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Amaro inglese",
+    "name_en": "English bitter",
+    "qty": 420,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "see page 241"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curled mint",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "maraschino-formula-i",
+  "page": 259,
+  "section_en": "Maraschino",
+  "title_it": "Maraschino I",
+  "title_en": "Maraschino (Formula I)",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 100,
+   "raw": "Alcool assoluto"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance dolci",
+    "name_en": "Sweet oranges",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Fior d'arancio",
+    "name_en": "Orange blossom",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity unclear—OCR shows '00'"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rose (turche)",
+    "name_en": "Rose (Turkish)",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Estratto di gelsomino",
+    "name_en": "Jasmine extract",
+    "qty": 330,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.82
+ },
+ {
+  "id": "maraschino-formula-ii",
+  "page": 259,
+  "section_en": "Maraschino",
+  "title_it": "Maraschino II",
+  "title_en": "Maraschino (Formula II)",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 100,
+   "raw": "Alcool assoluto"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance dolci",
+    "name_en": "Sweet oranges",
+    "qty": 665,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Petit grain",
+    "name_en": "Petit grain",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mandorla amaro",
+    "name_en": "Bitter almond",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Fior d'arancio",
+    "name_en": "Orange blossom",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rose (turche)",
+    "name_en": "Rose (Turkish)",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.83
+ },
+ {
+  "id": "peppermint-liqueur",
+  "page": 259,
+  "title_it": "Menta piperita",
+  "title_en": "Peppermint Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Menta pip. inglese",
+    "name_en": "English peppermint",
+    "qty": 480,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Iride (alcoolato)",
+    "name_en": "Iris root (alcoholate)",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rose",
+    "name_en": "Rose",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "moro-liqueur-formula-i",
+  "page": 259,
+  "section_en": "Moro",
+  "title_it": "Moro I",
+  "title_en": "Moro Liqueur (Formula I)",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Amaro d'erba stomatiche",
+    "name_en": "Bitter herbal stomachic",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "see page 240"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [
+   "Amaro d'erba stomatiche - possibly 'Amaro d'erbe stomatiche'"
+  ],
+  "confidence": 0.78
+ }
+]

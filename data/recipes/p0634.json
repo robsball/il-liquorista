@@ -1,0 +1,215 @@
+[
+ {
+  "id": "liqueur-from-preceding-extract",
+  "page": 634,
+  "title_it": "Liquore",
+  "title_en": "Liqueur (from preceding extract)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "alcohol 50%"
+  },
+  "alcohol_strength": {
+   "degrees": 50,
+   "raw": "alcool 50%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Preceding extract",
+    "qty": 1.1,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.25,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "elixir-daubitz-i",
+  "page": 634,
+  "section_en": "Elixir Daubitz",
+  "title_it": "Elixir Daubitz I",
+  "title_en": "Elixir Daubitz (Recipe I)",
+  "method": "maceration",
+  "duration": {
+   "amount": 6,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 125,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 125,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Agarico bianco",
+    "name_en": "White agaric",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Viburno (corteccia)",
+    "name_en": "Viburnum (bark)",
+    "qty": 500,
+    "unit": "grams",
+    "note": "Black alder bark"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol 70°",
+    "qty": 15,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Digest the ingredients for 2 to 3 hours.",
+   "Then macerate for 6 to 8 days."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "elixir-daubitz-ii",
+  "page": 634,
+  "section_en": "Elixir Daubitz",
+  "title_it": "Elixir Daubitz II",
+  "title_en": "Elixir Daubitz (Recipe II, without Viburnum bark)",
+  "method": "maceration",
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 130,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 125,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Agarico bianco",
+    "name_en": "White agaric",
+    "qty": 125,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 750,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol 70°",
+    "qty": 25,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Proceed as in the first recipe: digest for 2 to 3 hours, then macerate for 6 to 8 days."
+  ],
+  "notes_en": "This version omits Viburnum bark for those who wish to exclude it.",
+  "confidence": 0.94
+ },
+ {
+  "id": "brown-elixir-daubitz-liqueur",
+  "page": 634,
+  "title_it": "Liquore",
+  "title_en": "Brown Elixir Daubitz Liqueur",
+  "method": "cold_mix",
+  "yield": {
+   "amount": null,
+   "note": "Total volume of mixed ingredients"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Preceding extract",
+    "qty": 2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 16,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 17,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": "Brown finish.",
+  "confidence": 0.96
+ }
+]

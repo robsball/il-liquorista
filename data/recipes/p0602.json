@@ -1,0 +1,291 @@
+[
+ {
+  "id": "bitter-elixir-i",
+  "page": 602,
+  "section_en": "Bitter Elixirs",
+  "title_it": "Elisir amaro I",
+  "title_en": "Bitter Elixir I",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litri"
+  },
+  "alcohol_strength": {
+   "degrees": 46,
+   "raw": "alcool 46%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 12,
+    "unit": "gocce",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 5,
+    "unit": "gocce",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di maggiorana",
+    "name_en": "Essential oil of marjoram",
+    "qty": 5,
+    "unit": "gocce",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino Malaga",
+    "name_en": "Malaga wine",
+    "qty": 1,
+    "unit": "litri"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.5,
+    "unit": "litri"
+   }
+  ],
+  "steps_en": [
+   "Mix the essential oils with Malaga wine and water.",
+   "Combine to yield 10 litres at 46% alcohol strength."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "bitter-elixir-ii",
+  "page": 602,
+  "section_en": "Bitter Elixirs",
+  "title_it": "Elisir amaro II",
+  "title_en": "Bitter Elixir II",
+  "method": "maceration",
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 40,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 500,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Colombo (radice)",
+    "name_en": "Colombo root",
+    "qty": 25,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Imperatoria (radice)",
+    "name_en": "Imperatoria root",
+    "qty": 10,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Tarassaco",
+    "name_en": "Dandelion",
+    "qty": 10,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 20,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Agarico bianco",
+    "name_en": "White agaric",
+    "qty": 20,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "China callisaia",
+    "name_en": "Calissaia cinchona bark",
+    "qty": 30,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Menta fresca",
+    "name_en": "Fresh mint",
+    "qty": 15,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 1,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 5,
+    "unit": "litri"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "litri"
+   }
+  ],
+  "steps_en": [
+   "Macerate all dry ingredients in 5 litres of alcohol and 5 litres of water.",
+   "After 8 days, strain the liquid and filter.",
+   "Add a little syrup to attenuate the bitter taste.",
+   "Bottle the elixir."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "bitter-elixir-iii",
+  "page": 602,
+  "section_en": "Bitter Elixirs",
+  "title_it": "Elisir amaro III",
+  "title_en": "Bitter Elixir III",
+  "method": "maceration",
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 60,
+    "unit": "grammi",
+    "note": "OCR uncertainty on exact value"
+   },
+   {
+    "name_it": "Genziana (radice)",
+    "name_en": "Gentian root",
+    "qty": 10,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 10,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Agarico",
+    "name_en": "Agaric",
+    "qty": 10,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 10,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 0,
+    "unit": "grammi",
+    "note": "OCR reads as 0; likely corrupted"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 7,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Scorza d'arance",
+    "name_en": "Orange peel",
+    "qty": 10,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 4,
+    "unit": "litri"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in 4 litres of 60° alcohol for 15 days.",
+   "Strain, pressing the residue.",
+   "Filter the resulting liquid."
+  ],
+  "ocr_flags": [
+   "Garofani quantity (reads as 0, likely corrupted)",
+   "Aloe quantity in recipe III (OCR uncertain on exact value)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "elixir-of-pharmacists",
+  "page": 602,
+  "section_en": "Bitter Elixirs",
+  "title_it": "Elisir dei farmacisti",
+  "title_en": "Elixir of the Pharmacists",
+  "method": "unknown",
+  "ingredients": [
+   {
+    "name_it": "Assenzio fresco",
+    "name_en": "Fresh wormwood",
+    "qty": 50,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 50,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 50,
+    "unit": "grammi"
+   },
+   {
+    "name_it": "Rabarbaro e calamo aromatico",
+    "name_en": "Rhubarb and sweet flag (each)",
+    "qty": 30,
+    "unit": "grammi",
+    "note": "di ciascuno = of each"
+   },
+   {
+    "name_it": "Cascarilla e cannella",
+    "name_en": "Cascarilla and cinnamon (each)",
+    "qty": 20,
+    "unit": "grammi",
+    "note": "di ciascuno = of each"
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 10,
+    "unit": "grammi"
+   }
+  ],
+  "notes_en": "Recipe appears incomplete; method and further instructions not provided in source.",
+  "confidence": 0.85
+ }
+]

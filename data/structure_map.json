@@ -1,0 +1,8825 @@
+[
+ {
+  "page": 1,
+  "chars": 84,
+  "lines": 5,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 15.8,
+  "headings": [
+   "PALATIASPASSO.IT"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 2,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 3,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 4,
+  "chars": 861,
+  "lines": 16,
+  "gap_ratio": 0.06,
+  "unit_hits": 0,
+  "avg_line_len": 53.2,
+  "headings": [
+   "MANUALI                  HOEPLI",
+   "Doti. A . CASTOLDI",
+   "LIQUORISTA",
+   "DUEMILA RICETTE E PROCEDIMENTI PRATICI"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 5,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 6,
+  "chars": 3438,
+  "lines": 33,
+  "gap_ratio": 0.79,
+  "unit_hits": 0,
+  "avg_line_len": 103.7,
+  "headings": [
+   "INDICE GENERALE",
+   "INTRODUZIONE",
+   "PARTE PRIMA"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 7,
+  "chars": 3578,
+  "lines": 42,
+  "gap_ratio": 0.36,
+  "unit_hits": 0,
+  "avg_line_len": 86.3,
+  "headings": [
+   "PARTE SECONDA"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 8,
+  "chars": 3333,
+  "lines": 42,
+  "gap_ratio": 0.1,
+  "unit_hits": 0,
+  "avg_line_len": 80.5,
+  "headings": [
+   "PARTE TERZA"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 9,
+  "chars": 3715,
+  "lines": 45,
+  "gap_ratio": 0.24,
+  "unit_hits": 0,
+  "avg_line_len": 83.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 10,
+  "chars": 2350,
+  "lines": 29,
+  "gap_ratio": 0.14,
+  "unit_hits": 0,
+  "avg_line_len": 83.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 11,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 12,
+  "chars": 1844,
+  "lines": 34,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.9,
+  "headings": [
+   "INTRODUZIONE",
+   "E CARATTERI DEI LIQUORI."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 13,
+  "chars": 2018,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 50.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 14,
+  "chars": 2267,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 54.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 15,
+  "chars": 1962,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 47.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 16,
+  "chars": 2303,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 17,
+  "chars": 2238,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 18,
+  "chars": 2067,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 19,
+  "chars": 2180,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 11,
+  "avg_line_len": 56.3,
+  "headings": [
+   "PER LA FABBRICAZIONE DEI LIQUORI."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 20,
+  "chars": 2293,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 21,
+  "chars": 2105,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 22,
+  "chars": 18,
+  "lines": 1,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 18,
+  "headings": [
+   "P A R T E P R IM A"
+  ],
+  "tags": [
+   "empty",
+   "heading"
+  ]
+ },
+ {
+  "page": 23,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 24,
+  "chars": 1696,
+  "lines": 31,
+  "gap_ratio": 0.19,
+  "unit_hits": 0,
+  "avg_line_len": 54.3,
+  "headings": [
+   "DEL MATERIALE",
+   "E DEL          LABORATORIO"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 25,
+  "chars": 2378,
+  "lines": 41,
+  "gap_ratio": 0.07,
+  "unit_hits": 0,
+  "avg_line_len": 57.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 26,
+  "chars": 2138,
+  "lines": 39,
+  "gap_ratio": 0.03,
+  "unit_hits": 0,
+  "avg_line_len": 53.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 27,
+  "chars": 1893,
+  "lines": 35,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 28,
+  "chars": 1684,
+  "lines": 32,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.0,
+  "headings": [
+   ".DELLE MATERIE PRIME"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 29,
+  "chars": 2308,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 58.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 30,
+  "chars": 2110,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 31,
+  "chars": 2058,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 32,
+  "chars": 2055,
+  "lines": 38,
+  "gap_ratio": 0.03,
+  "unit_hits": 1,
+  "avg_line_len": 53,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 33,
+  "chars": 2203,
+  "lines": 41,
+  "gap_ratio": 0.05,
+  "unit_hits": 1,
+  "avg_line_len": 52.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 34,
+  "chars": 2204,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 35,
+  "chars": 2349,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 55,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 36,
+  "chars": 2420,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 58.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 37,
+  "chars": 2320,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 55.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 38,
+  "chars": 2306,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 55.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 39,
+  "chars": 2208,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 40,
+  "chars": 2240,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 55.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 41,
+  "chars": 2307,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 42,
+  "chars": 2202,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 43,
+  "chars": 2390,
+  "lines": 42,
+  "gap_ratio": 0.02,
+  "unit_hits": 12,
+  "avg_line_len": 55.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 44,
+  "chars": 2428,
+  "lines": 42,
+  "gap_ratio": 0.02,
+  "unit_hits": 5,
+  "avg_line_len": 56.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 45,
+  "chars": 2270,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 54.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 46,
+  "chars": 2178,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 6,
+  "avg_line_len": 54.9,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 47,
+  "chars": 2342,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 4,
+  "avg_line_len": 56.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 48,
+  "chars": 2069,
+  "lines": 38,
+  "gap_ratio": 0.05,
+  "unit_hits": 4,
+  "avg_line_len": 53.4,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 49,
+  "chars": 3623,
+  "lines": 76,
+  "gap_ratio": 0.78,
+  "unit_hits": 1,
+  "avg_line_len": 47.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 50,
+  "chars": 2643,
+  "lines": 45,
+  "gap_ratio": 0.87,
+  "unit_hits": 0,
+  "avg_line_len": 57.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 51,
+  "chars": 2984,
+  "lines": 43,
+  "gap_ratio": 0.91,
+  "unit_hits": 1,
+  "avg_line_len": 68.8,
+  "headings": [
+   "t r i­       GRADO APPARENTE SEGNATO DALL’ALCOOLOMETRO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 52,
+  "chars": 2247,
+  "lines": 38,
+  "gap_ratio": 0.89,
+  "unit_hits": 2,
+  "avg_line_len": 58,
+  "headings": [
+   "fin­        GRADO APPARENTE SEGNATO DALL'ALCOOLOMETRO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 53,
+  "chars": 2634,
+  "lines": 39,
+  "gap_ratio": 0.9,
+  "unit_hits": 3,
+  "avg_line_len": 66.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 54,
+  "chars": 2436,
+  "lines": 41,
+  "gap_ratio": 0.9,
+  "unit_hits": 3,
+  "avg_line_len": 58.5,
+  "headings": [
+   "Tem­          GRADO APPARENTE SEGNATO DALL'ALCOOLOMETRO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 55,
+  "chars": 1992,
+  "lines": 38,
+  "gap_ratio": 0.89,
+  "unit_hits": 1,
+  "avg_line_len": 51.3,
+  "headings": [
+   "n-        CRADO APPARENTE SEGNATO DALL'ALCOOLOMETRO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 56,
+  "chars": 2457,
+  "lines": 40,
+  "gap_ratio": 0.9,
+  "unit_hits": 2,
+  "avg_line_len": 60.3,
+  "headings": [
+   ">m-          GRADO APPARENTE SEGNATO DALL’ALGOOLOMETRO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 57,
+  "chars": 2172,
+  "lines": 42,
+  "gap_ratio": 0.79,
+  "unit_hits": 2,
+  "avg_line_len": 50.6,
+  "headings": [
+   "1-      GRADO APPARENTE SEGNATO DALL’ALCOOLOMETRO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 58,
+  "chars": 2265,
+  "lines": 42,
+  "gap_ratio": 0.83,
+  "unit_hits": 2,
+  "avg_line_len": 52.9,
+  "headings": [
+   "mi-         GRADO APPARENTE SEGNATO DALL’ALCOOLOMETRO",
+   "71 I 72 ! 73 I 74 I 75 I 76 I 77    78"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 59,
+  "chars": 3179,
+  "lines": 44,
+  "gap_ratio": 0.82,
+  "unit_hits": 1,
+  "avg_line_len": 71.1,
+  "headings": [
+   "in ­          GRADO APPARENTE SEGNATO DALL’ALCOOLONETRO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 60,
+  "chars": 2546,
+  "lines": 40,
+  "gap_ratio": 0.88,
+  "unit_hits": 2,
+  "avg_line_len": 62.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 61,
+  "chars": 2002,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 12,
+  "avg_line_len": 51.7,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 62,
+  "chars": 2989,
+  "lines": 53,
+  "gap_ratio": 0.77,
+  "unit_hits": 11,
+  "avg_line_len": 55.3,
+  "headings": [
+   "T a KKUsA I I I ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 63,
+  "chars": 2285,
+  "lines": 39,
+  "gap_ratio": 0.59,
+  "unit_hits": 10,
+  "avg_line_len": 58.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 64,
+  "chars": 1867,
+  "lines": 33,
+  "gap_ratio": 0.42,
+  "unit_hits": 11,
+  "avg_line_len": 55.2,
+  "headings": [
+   "J____ I__ I__ I__               '    i_J."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 65,
+  "chars": 3469,
+  "lines": 31,
+  "gap_ratio": 0.84,
+  "unit_hits": 1,
+  "avg_line_len": 109.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 66,
+  "chars": 1698,
+  "lines": 25,
+  "gap_ratio": 0.92,
+  "unit_hits": 1,
+  "avg_line_len": 66.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 67,
+  "chars": 6122,
+  "lines": 76,
+  "gap_ratio": 0.72,
+  "unit_hits": 0,
+  "avg_line_len": 79.8,
+  "headings": [
+   "h H t '. H ^ f f i Q H O O O X",
+   ".2    O                                       © CD",
+   "H i M M i O C c C O f O t 'i M C O C C i O C O",
+   "C O C C C ì O M H - f H Q O l 'H H C O W"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 68,
+  "chars": 8385,
+  "lines": 61,
+  "gap_ratio": 0.59,
+  "unit_hits": 2,
+  "avg_line_len": 138.0,
+  "headings": [
+   "PH         Tt*",
+   "r- ©     CO PH ©      © ©       Ol © 03       ©",
+   "O l TU IO I— © ©            © IO ©        ©"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 69,
+  "chars": 6660,
+  "lines": 62,
+  "gap_ratio": 0.77,
+  "unit_hits": 7,
+  "avg_line_len": 105.9,
+  "headings": [
+   "i            SS"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 70,
+  "chars": 11,
+  "lines": 1,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 11,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 71,
+  "chars": 4795,
+  "lines": 61,
+  "gap_ratio": 0.84,
+  "unit_hits": 2,
+  "avg_line_len": 77.3,
+  "headings": [
+   "CJS ©"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 72,
+  "chars": 6569,
+  "lines": 81,
+  "gap_ratio": 0.58,
+  "unit_hits": 6,
+  "avg_line_len": 80,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 73,
+  "chars": 7146,
+  "lines": 85,
+  "gap_ratio": 0.68,
+  "unit_hits": 4,
+  "avg_line_len": 83.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 74,
+  "chars": 6413,
+  "lines": 67,
+  "gap_ratio": 0.73,
+  "unit_hits": 5,
+  "avg_line_len": 94.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 75,
+  "chars": 6444,
+  "lines": 64,
+  "gap_ratio": 0.78,
+  "unit_hits": 6,
+  "avg_line_len": 99.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 76,
+  "chars": 5534,
+  "lines": 66,
+  "gap_ratio": 0.79,
+  "unit_hits": 6,
+  "avg_line_len": 82.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 77,
+  "chars": 6355,
+  "lines": 65,
+  "gap_ratio": 0.77,
+  "unit_hits": 6,
+  "avg_line_len": 96.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 78,
+  "chars": 5737,
+  "lines": 63,
+  "gap_ratio": 0.79,
+  "unit_hits": 6,
+  "avg_line_len": 91.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 79,
+  "chars": 6273,
+  "lines": 74,
+  "gap_ratio": 0.64,
+  "unit_hits": 6,
+  "avg_line_len": 83.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 80,
+  "chars": 5710,
+  "lines": 59,
+  "gap_ratio": 0.88,
+  "unit_hits": 0,
+  "avg_line_len": 95.5,
+  "headings": [
+   "S 3 « S             - o T3"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 81,
+  "chars": 5094,
+  "lines": 61,
+  "gap_ratio": 0.39,
+  "unit_hits": 10,
+  "avg_line_len": 82.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 82,
+  "chars": 1984,
+  "lines": 36,
+  "gap_ratio": 0.03,
+  "unit_hits": 0,
+  "avg_line_len": 55.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 83,
+  "chars": 2332,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 84,
+  "chars": 2112,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.6,
+  "headings": [
+   "E DROGHE (1)."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 85,
+  "chars": 2171,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 86,
+  "chars": 2222,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 87,
+  "chars": 2248,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 88,
+  "chars": 2253,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 89,
+  "chars": 2147,
+  "lines": 41,
+  "gap_ratio": 0.05,
+  "unit_hits": 0,
+  "avg_line_len": 51.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 90,
+  "chars": 2252,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 91,
+  "chars": 2278,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 92,
+  "chars": 2216,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 51.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 93,
+  "chars": 2249,
+  "lines": 41,
+  "gap_ratio": 0.07,
+  "unit_hits": 0,
+  "avg_line_len": 53.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 94,
+  "chars": 2265,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 95,
+  "chars": 2352,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 96,
+  "chars": 2385,
+  "lines": 41,
+  "gap_ratio": 0.07,
+  "unit_hits": 0,
+  "avg_line_len": 57.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 97,
+  "chars": 2291,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 98,
+  "chars": 2386,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 57.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 99,
+  "chars": 2267,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 100,
+  "chars": 2443,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 58.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 101,
+  "chars": 2181,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 102,
+  "chars": 2223,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 103,
+  "chars": 2306,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 104,
+  "chars": 2239,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 105,
+  "chars": 2236,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 106,
+  "chars": 2213,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 107,
+  "chars": 2313,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 108,
+  "chars": 2336,
+  "lines": 43,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 109,
+  "chars": 2290,
+  "lines": 41,
+  "gap_ratio": 0.02,
+  "unit_hits": 0,
+  "avg_line_len": 55.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 110,
+  "chars": 2214,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 111,
+  "chars": 2182,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 112,
+  "chars": 2122,
+  "lines": 39,
+  "gap_ratio": 0.03,
+  "unit_hits": 0,
+  "avg_line_len": 53.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 113,
+  "chars": 2141,
+  "lines": 38,
+  "gap_ratio": 0.03,
+  "unit_hits": 0,
+  "avg_line_len": 55.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 114,
+  "chars": 2363,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 115,
+  "chars": 2259,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 116,
+  "chars": 2366,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 117,
+  "chars": 2300,
+  "lines": 40,
+  "gap_ratio": 0.03,
+  "unit_hits": 2,
+  "avg_line_len": 56.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 118,
+  "chars": 2359,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 119,
+  "chars": 3587,
+  "lines": 37,
+  "gap_ratio": 0.86,
+  "unit_hits": 0,
+  "avg_line_len": 97.5,
+  "headings": [
+   "OLII ESSENZIALI"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 120,
+  "chars": 2850,
+  "lines": 35,
+  "gap_ratio": 0.86,
+  "unit_hits": 0,
+  "avg_line_len": 81.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 121,
+  "chars": 2171,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 122,
+  "chars": 2319,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 123,
+  "chars": 2264,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 124,
+  "chars": 2118,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 49.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 125,
+  "chars": 2241,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 126,
+  "chars": 2226,
+  "lines": 41,
+  "gap_ratio": 0.02,
+  "unit_hits": 0,
+  "avg_line_len": 53.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 127,
+  "chars": 2245,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 53.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 128,
+  "chars": 2319,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 55.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 129,
+  "chars": 2202,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 52.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 130,
+  "chars": 2246,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 53.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 131,
+  "chars": 2203,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 132,
+  "chars": 2349,
+  "lines": 42,
+  "gap_ratio": 0.05,
+  "unit_hits": 1,
+  "avg_line_len": 55.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 133,
+  "chars": 2209,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 134,
+  "chars": 2207,
+  "lines": 40,
+  "gap_ratio": 0.03,
+  "unit_hits": 1,
+  "avg_line_len": 54.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 135,
+  "chars": 2272,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 54.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 136,
+  "chars": 2210,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 137,
+  "chars": 2138,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 4,
+  "avg_line_len": 53.8,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 138,
+  "chars": 2342,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 139,
+  "chars": 2169,
+  "lines": 39,
+  "gap_ratio": 0.08,
+  "unit_hits": 0,
+  "avg_line_len": 54.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 140,
+  "chars": 2191,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 141,
+  "chars": 2318,
+  "lines": 40,
+  "gap_ratio": 0.03,
+  "unit_hits": 5,
+  "avg_line_len": 57.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 142,
+  "chars": 2029,
+  "lines": 37,
+  "gap_ratio": 0.0,
+  "unit_hits": 3,
+  "avg_line_len": 53.8,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 143,
+  "chars": 2110,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 50.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 144,
+  "chars": 2160,
+  "lines": 41,
+  "gap_ratio": 0.02,
+  "unit_hits": 1,
+  "avg_line_len": 51.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 145,
+  "chars": 2281,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 54.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 146,
+  "chars": 2208,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 147,
+  "chars": 2131,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 55.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 148,
+  "chars": 2025,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 51.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 149,
+  "chars": 2298,
+  "lines": 41,
+  "gap_ratio": 0.02,
+  "unit_hits": 2,
+  "avg_line_len": 55.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 150,
+  "chars": 2299,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 151,
+  "chars": 2323,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 3,
+  "avg_line_len": 54.4,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 152,
+  "chars": 2329,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 4,
+  "avg_line_len": 54.5,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 153,
+  "chars": 2234,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 154,
+  "chars": 2137,
+  "lines": 42,
+  "gap_ratio": 0.12,
+  "unit_hits": 0,
+  "avg_line_len": 49.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 155,
+  "chars": 2181,
+  "lines": 50,
+  "gap_ratio": 0.54,
+  "unit_hits": 0,
+  "avg_line_len": 42.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 156,
+  "chars": 1757,
+  "lines": 34,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 51.1,
+  "headings": [
+   "DELLE MANIPOLAZIONI"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 157,
+  "chars": 1301,
+  "lines": 25,
+  "gap_ratio": 0.12,
+  "unit_hits": 0,
+  "avg_line_len": 51.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 158,
+  "chars": 558,
+  "lines": 10,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 159,
+  "chars": 463,
+  "lines": 8,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 160,
+  "chars": 2344,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 56.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 161,
+  "chars": 663,
+  "lines": 12,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 54,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 162,
+  "chars": 297,
+  "lines": 5,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 57.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 163,
+  "chars": 372,
+  "lines": 7,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 51.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 164,
+  "chars": 1109,
+  "lines": 20,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 165,
+  "chars": 1026,
+  "lines": 18,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 166,
+  "chars": 2103,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 52.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 167,
+  "chars": 2262,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 55.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 168,
+  "chars": 2156,
+  "lines": 41,
+  "gap_ratio": 0.02,
+  "unit_hits": 1,
+  "avg_line_len": 51.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 169,
+  "chars": 2183,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 3,
+  "avg_line_len": 55,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 170,
+  "chars": 2170,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 3,
+  "avg_line_len": 55.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 171,
+  "chars": 2315,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 55.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 172,
+  "chars": 2184,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 173,
+  "chars": 2360,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 174,
+  "chars": 2351,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 175,
+  "chars": 2141,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 176,
+  "chars": 654,
+  "lines": 12,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 177,
+  "chars": 1172,
+  "lines": 21,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 54.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 178,
+  "chars": 2019,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 47.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 179,
+  "chars": 2128,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.2,
+  "headings": [
+   "SPIRITI AROMATIZZATI E DELLE TINTURE (ESTRATTI) ME­",
+   "DIANTE DISTILLAZIONE, OPPURE PER DIGESTIONE."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 180,
+  "chars": 2063,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 181,
+  "chars": 2240,
+  "lines": 42,
+  "gap_ratio": 0.05,
+  "unit_hits": 0,
+  "avg_line_len": 52.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 182,
+  "chars": 1993,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 51.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 183,
+  "chars": 2231,
+  "lines": 39,
+  "gap_ratio": 0.08,
+  "unit_hits": 1,
+  "avg_line_len": 56.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 184,
+  "chars": 2776,
+  "lines": 43,
+  "gap_ratio": 0.35,
+  "unit_hits": 4,
+  "avg_line_len": 63.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 185,
+  "chars": 2009,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 9,
+  "avg_line_len": 50.6,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 186,
+  "chars": 1992,
+  "lines": 38,
+  "gap_ratio": 0.05,
+  "unit_hits": 1,
+  "avg_line_len": 51.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 187,
+  "chars": 1568,
+  "lines": 27,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 57.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 188,
+  "chars": 1184,
+  "lines": 22,
+  "gap_ratio": 0.05,
+  "unit_hits": 0,
+  "avg_line_len": 52.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 189,
+  "chars": 2427,
+  "lines": 42,
+  "gap_ratio": 0.02,
+  "unit_hits": 0,
+  "avg_line_len": 56.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 190,
+  "chars": 1633,
+  "lines": 41,
+  "gap_ratio": 0.05,
+  "unit_hits": 0,
+  "avg_line_len": 39.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 191,
+  "chars": 747,
+  "lines": 14,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 192,
+  "chars": 2263,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 57.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 193,
+  "chars": 2116,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 194,
+  "chars": 2329,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 55.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 195,
+  "chars": 2110,
+  "lines": 41,
+  "gap_ratio": 0.05,
+  "unit_hits": 7,
+  "avg_line_len": 50.5,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 196,
+  "chars": 2155,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 54.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 197,
+  "chars": 2236,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 55.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 198,
+  "chars": 716,
+  "lines": 14,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 50.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 199,
+  "chars": 1966,
+  "lines": 34,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 57.3,
+  "headings": [
+   "PESI E MISURE"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 200,
+  "chars": 2384,
+  "lines": 41,
+  "gap_ratio": 0.32,
+  "unit_hits": 2,
+  "avg_line_len": 57.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 201,
+  "chars": 2506,
+  "lines": 39,
+  "gap_ratio": 0.38,
+  "unit_hits": 9,
+  "avg_line_len": 64.0,
+  "headings": [
+   "1lANIMAROA."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 202,
+  "chars": 2498,
+  "lines": 37,
+  "gap_ratio": 0.41,
+  "unit_hits": 7,
+  "avg_line_len": 66.6,
+  "headings": [
+   "F R A N C IA ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 203,
+  "chars": 2805,
+  "lines": 42,
+  "gap_ratio": 0.62,
+  "unit_hits": 5,
+  "avg_line_len": 66.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 204,
+  "chars": 2322,
+  "lines": 41,
+  "gap_ratio": 0.37,
+  "unit_hits": 8,
+  "avg_line_len": 55.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 205,
+  "chars": 2338,
+  "lines": 38,
+  "gap_ratio": 0.5,
+  "unit_hits": 6,
+  "avg_line_len": 60.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 206,
+  "chars": 1728,
+  "lines": 32,
+  "gap_ratio": 0.22,
+  "unit_hits": 12,
+  "avg_line_len": 53.9,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 207,
+  "chars": 2240,
+  "lines": 38,
+  "gap_ratio": 0.16,
+  "unit_hits": 4,
+  "avg_line_len": 58.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 208,
+  "chars": 2027,
+  "lines": 38,
+  "gap_ratio": 0.08,
+  "unit_hits": 0,
+  "avg_line_len": 52.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 209,
+  "chars": 2254,
+  "lines": 30,
+  "gap_ratio": 0.17,
+  "unit_hits": 0,
+  "avg_line_len": 73.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 210,
+  "chars": 5413,
+  "lines": 41,
+  "gap_ratio": 0.71,
+  "unit_hits": 4,
+  "avg_line_len": 130.7,
+  "headings": [
+   "c6.h NUMERO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 211,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 212,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 213,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 214,
+  "chars": 1519,
+  "lines": 32,
+  "gap_ratio": 0.03,
+  "unit_hits": 0,
+  "avg_line_len": 47,
+  "headings": [
+   "PREPARAZIONI",
+   "COLLE QUALI SI COMPONGONO I LIQUORI",
+   "PER   D IS T IL L A Z IO N E ."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 215,
+  "chars": 2110,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 51.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 216,
+  "chars": 2144,
+  "lines": 37,
+  "gap_ratio": 0.14,
+  "unit_hits": 9,
+  "avg_line_len": 57,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 217,
+  "chars": 2069,
+  "lines": 36,
+  "gap_ratio": 0.11,
+  "unit_hits": 11,
+  "avg_line_len": 57.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 218,
+  "chars": 1924,
+  "lines": 35,
+  "gap_ratio": 0.03,
+  "unit_hits": 5,
+  "avg_line_len": 54.9,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 219,
+  "chars": 2327,
+  "lines": 41,
+  "gap_ratio": 0.02,
+  "unit_hits": 6,
+  "avg_line_len": 55.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 220,
+  "chars": 2186,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 221,
+  "chars": 2150,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 6,
+  "avg_line_len": 54.1,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 222,
+  "chars": 3673,
+  "lines": 48,
+  "gap_ratio": 0.88,
+  "unit_hits": 4,
+  "avg_line_len": 75.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 223,
+  "chars": 1930,
+  "lines": 32,
+  "gap_ratio": 0.22,
+  "unit_hits": 4,
+  "avg_line_len": 60.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 224,
+  "chars": 3009,
+  "lines": 46,
+  "gap_ratio": 0.65,
+  "unit_hits": 8,
+  "avg_line_len": 64.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 225,
+  "chars": 2809,
+  "lines": 38,
+  "gap_ratio": 0.5,
+  "unit_hits": 10,
+  "avg_line_len": 72.8,
+  "headings": [
+   "I.                        II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 226,
+  "chars": 2417,
+  "lines": 38,
+  "gap_ratio": 0.45,
+  "unit_hits": 4,
+  "avg_line_len": 63.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 227,
+  "chars": 2397,
+  "lines": 38,
+  "gap_ratio": 0.34,
+  "unit_hits": 3,
+  "avg_line_len": 62,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 228,
+  "chars": 1973,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 51.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 229,
+  "chars": 2016,
+  "lines": 38,
+  "gap_ratio": 0.21,
+  "unit_hits": 13,
+  "avg_line_len": 52.8,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 230,
+  "chars": 1947,
+  "lines": 38,
+  "gap_ratio": 0.11,
+  "unit_hits": 14,
+  "avg_line_len": 51.3,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading",
+   "recipe"
+  ]
+ },
+ {
+  "page": 231,
+  "chars": 2296,
+  "lines": 42,
+  "gap_ratio": 0.24,
+  "unit_hits": 14,
+  "avg_line_len": 54.6,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading",
+   "recipe"
+  ]
+ },
+ {
+  "page": 232,
+  "chars": 1841,
+  "lines": 39,
+  "gap_ratio": 0.13,
+  "unit_hits": 9,
+  "avg_line_len": 47.2,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 233,
+  "chars": 2093,
+  "lines": 36,
+  "gap_ratio": 0.19,
+  "unit_hits": 11,
+  "avg_line_len": 58.1,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 234,
+  "chars": 2094,
+  "lines": 37,
+  "gap_ratio": 0.24,
+  "unit_hits": 10,
+  "avg_line_len": 56.5,
+  "headings": [
+   "C o M IN O ."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 235,
+  "chars": 2332,
+  "lines": 39,
+  "gap_ratio": 0.38,
+  "unit_hits": 13,
+  "avg_line_len": 58.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 236,
+  "chars": 2381,
+  "lines": 39,
+  "gap_ratio": 0.44,
+  "unit_hits": 8,
+  "avg_line_len": 61.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 237,
+  "chars": 2072,
+  "lines": 36,
+  "gap_ratio": 0.42,
+  "unit_hits": 13,
+  "avg_line_len": 57.6,
+  "headings": [
+   "M A C 4 G IO R A N A ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 238,
+  "chars": 2164,
+  "lines": 36,
+  "gap_ratio": 0.47,
+  "unit_hits": 9,
+  "avg_line_len": 60.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 239,
+  "chars": 2351,
+  "lines": 39,
+  "gap_ratio": 0.46,
+  "unit_hits": 12,
+  "avg_line_len": 60.1,
+  "headings": [
+   "RABARBARO."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 240,
+  "chars": 2009,
+  "lines": 36,
+  "gap_ratio": 0.17,
+  "unit_hits": 10,
+  "avg_line_len": 55.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 241,
+  "chars": 1948,
+  "lines": 36,
+  "gap_ratio": 0.0,
+  "unit_hits": 6,
+  "avg_line_len": 54.0,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading",
+   "recipe"
+  ]
+ },
+ {
+  "page": 242,
+  "chars": 2280,
+  "lines": 40,
+  "gap_ratio": 0.25,
+  "unit_hits": 2,
+  "avg_line_len": 56.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 243,
+  "chars": 3092,
+  "lines": 44,
+  "gap_ratio": 0.7,
+  "unit_hits": 1,
+  "avg_line_len": 69.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 244,
+  "chars": 3391,
+  "lines": 43,
+  "gap_ratio": 0.77,
+  "unit_hits": 8,
+  "avg_line_len": 77.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 245,
+  "chars": 2565,
+  "lines": 39,
+  "gap_ratio": 0.74,
+  "unit_hits": 2,
+  "avg_line_len": 65.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 246,
+  "chars": 2307,
+  "lines": 37,
+  "gap_ratio": 0.38,
+  "unit_hits": 1,
+  "avg_line_len": 61.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 247,
+  "chars": 2168,
+  "lines": 40,
+  "gap_ratio": 0.03,
+  "unit_hits": 4,
+  "avg_line_len": 53.2,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 248,
+  "chars": 2137,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 49.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 249,
+  "chars": 2267,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 54.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 250,
+  "chars": 2885,
+  "lines": 42,
+  "gap_ratio": 0.55,
+  "unit_hits": 3,
+  "avg_line_len": 67.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 251,
+  "chars": 3387,
+  "lines": 43,
+  "gap_ratio": 0.35,
+  "unit_hits": 0,
+  "avg_line_len": 78.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 252,
+  "chars": 3106,
+  "lines": 41,
+  "gap_ratio": 0.49,
+  "unit_hits": 0,
+  "avg_line_len": 75.6,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 253,
+  "chars": 3179,
+  "lines": 42,
+  "gap_ratio": 0.74,
+  "unit_hits": 0,
+  "avg_line_len": 74.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 254,
+  "chars": 2872,
+  "lines": 39,
+  "gap_ratio": 0.28,
+  "unit_hits": 0,
+  "avg_line_len": 72.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 255,
+  "chars": 2888,
+  "lines": 39,
+  "gap_ratio": 0.44,
+  "unit_hits": 0,
+  "avg_line_len": 73.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 256,
+  "chars": 3160,
+  "lines": 39,
+  "gap_ratio": 0.49,
+  "unit_hits": 0,
+  "avg_line_len": 79.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 257,
+  "chars": 2827,
+  "lines": 37,
+  "gap_ratio": 0.65,
+  "unit_hits": 0,
+  "avg_line_len": 76.2,
+  "headings": [
+   "ClXRAgAO OLANDESE.",
+   "JOKEY."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 258,
+  "chars": 2919,
+  "lines": 40,
+  "gap_ratio": 0.45,
+  "unit_hits": 0,
+  "avg_line_len": 72.8,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 259,
+  "chars": 2892,
+  "lines": 40,
+  "gap_ratio": 0.33,
+  "unit_hits": 0,
+  "avg_line_len": 71.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 260,
+  "chars": 2848,
+  "lines": 39,
+  "gap_ratio": 0.77,
+  "unit_hits": 0,
+  "avg_line_len": 73.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 261,
+  "chars": 3246,
+  "lines": 41,
+  "gap_ratio": 0.61,
+  "unit_hits": 0,
+  "avg_line_len": 78.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 262,
+  "chars": 2339,
+  "lines": 36,
+  "gap_ratio": 0.25,
+  "unit_hits": 0,
+  "avg_line_len": 64,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 263,
+  "chars": 2377,
+  "lines": 38,
+  "gap_ratio": 0.13,
+  "unit_hits": 0,
+  "avg_line_len": 61.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 264,
+  "chars": 9529,
+  "lines": 46,
+  "gap_ratio": 0.65,
+  "unit_hits": 0,
+  "avg_line_len": 205.8,
+  "headings": [
+   "- I I S                    M 10 I I I I",
+   "12 1 1 1 M 1 I I I I",
+   "E T E R I D I E R U T T A A R T IF IC I A T I",
+   "OTj"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 265,
+  "chars": 3166,
+  "lines": 38,
+  "gap_ratio": 0.74,
+  "unit_hits": 1,
+  "avg_line_len": 83.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 266,
+  "chars": 3231,
+  "lines": 37,
+  "gap_ratio": 0.59,
+  "unit_hits": 0,
+  "avg_line_len": 87.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 267,
+  "chars": 3437,
+  "lines": 41,
+  "gap_ratio": 0.37,
+  "unit_hits": 3,
+  "avg_line_len": 83.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 268,
+  "chars": 2549,
+  "lines": 39,
+  "gap_ratio": 0.05,
+  "unit_hits": 17,
+  "avg_line_len": 64.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 269,
+  "chars": 2463,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 15,
+  "avg_line_len": 62.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 270,
+  "chars": 2561,
+  "lines": 43,
+  "gap_ratio": 0.21,
+  "unit_hits": 0,
+  "avg_line_len": 58.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 271,
+  "chars": 2575,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 63.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 272,
+  "chars": 2395,
+  "lines": 38,
+  "gap_ratio": 0.87,
+  "unit_hits": 3,
+  "avg_line_len": 61.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 273,
+  "chars": 2526,
+  "lines": 39,
+  "gap_ratio": 0.1,
+  "unit_hits": 12,
+  "avg_line_len": 63.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 274,
+  "chars": 2322,
+  "lines": 39,
+  "gap_ratio": 0.23,
+  "unit_hits": 7,
+  "avg_line_len": 58.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 275,
+  "chars": 2684,
+  "lines": 48,
+  "gap_ratio": 0.77,
+  "unit_hits": 0,
+  "avg_line_len": 54.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 276,
+  "chars": 2446,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 8,
+  "avg_line_len": 61.8,
+  "headings": [
+   "DELLO ZUCCHERO."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 277,
+  "chars": 2632,
+  "lines": 38,
+  "gap_ratio": 0.11,
+  "unit_hits": 10,
+  "avg_line_len": 68.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 278,
+  "chars": 2475,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 64.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 279,
+  "chars": 2278,
+  "lines": 36,
+  "gap_ratio": 0.11,
+  "unit_hits": 0,
+  "avg_line_len": 62.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 280,
+  "chars": 2489,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 14,
+  "avg_line_len": 59.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 281,
+  "chars": 2638,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 65.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 282,
+  "chars": 2622,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 10,
+  "avg_line_len": 63,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 283,
+  "chars": 2518,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 8,
+  "avg_line_len": 62.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 284,
+  "chars": 2523,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 63.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 285,
+  "chars": 2550,
+  "lines": 37,
+  "gap_ratio": 0.16,
+  "unit_hits": 3,
+  "avg_line_len": 68.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 286,
+  "chars": 2500,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 63.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 287,
+  "chars": 2631,
+  "lines": 41,
+  "gap_ratio": 0.1,
+  "unit_hits": 0,
+  "avg_line_len": 63.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 288,
+  "chars": 2715,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 65.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 289,
+  "chars": 2521,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 62.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 290,
+  "chars": 2581,
+  "lines": 41,
+  "gap_ratio": 0.1,
+  "unit_hits": 2,
+  "avg_line_len": 62.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 291,
+  "chars": 2073,
+  "lines": 37,
+  "gap_ratio": 0.03,
+  "unit_hits": 0,
+  "avg_line_len": 54.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 292,
+  "chars": 2084,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 293,
+  "chars": 2298,
+  "lines": 37,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 61.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 294,
+  "chars": 2186,
+  "lines": 36,
+  "gap_ratio": 0.0,
+  "unit_hits": 3,
+  "avg_line_len": 59.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 295,
+  "chars": 2327,
+  "lines": 37,
+  "gap_ratio": 0.05,
+  "unit_hits": 10,
+  "avg_line_len": 63,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 296,
+  "chars": 2440,
+  "lines": 35,
+  "gap_ratio": 0.23,
+  "unit_hits": 9,
+  "avg_line_len": 68.7,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 297,
+  "chars": 2233,
+  "lines": 35,
+  "gap_ratio": 0.11,
+  "unit_hits": 10,
+  "avg_line_len": 63.9,
+  "headings": [
+   "V II."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 298,
+  "chars": 2249,
+  "lines": 36,
+  "gap_ratio": 0.03,
+  "unit_hits": 10,
+  "avg_line_len": 61.5,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 299,
+  "chars": 2408,
+  "lines": 36,
+  "gap_ratio": 0.06,
+  "unit_hits": 3,
+  "avg_line_len": 65.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 300,
+  "chars": 2532,
+  "lines": 39,
+  "gap_ratio": 0.05,
+  "unit_hits": 8,
+  "avg_line_len": 64.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 301,
+  "chars": 3142,
+  "lines": 46,
+  "gap_ratio": 0.43,
+  "unit_hits": 5,
+  "avg_line_len": 67.3,
+  "headings": [
+   "LE VARIE COLORAZIONI IN UN LITRO DI LIQUORE.",
+   "COLORE",
+   "T IN T U R E D A A D O P E R A R E",
+   "DA OTTKNEKE"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 302,
+  "chars": 2264,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 8,
+  "avg_line_len": 59.5,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 303,
+  "chars": 2302,
+  "lines": 38,
+  "gap_ratio": 0.03,
+  "unit_hits": 2,
+  "avg_line_len": 59.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 304,
+  "chars": 2219,
+  "lines": 36,
+  "gap_ratio": 0.31,
+  "unit_hits": 23,
+  "avg_line_len": 60.7,
+  "headings": [
+   "I    I I I I I IV       V     VI"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 305,
+  "chars": 2889,
+  "lines": 40,
+  "gap_ratio": 0.38,
+  "unit_hits": 20,
+  "avg_line_len": 72.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 306,
+  "chars": 2449,
+  "lines": 34,
+  "gap_ratio": 0.26,
+  "unit_hits": 15,
+  "avg_line_len": 71.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 307,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 308,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 309,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 310,
+  "chars": 1972,
+  "lines": 30,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 65.0,
+  "headings": [
+   "FABBRICAZIONE DEI LIQUORI",
+   "RICETTARIO"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 311,
+  "chars": 2181,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 312,
+  "chars": 3010,
+  "lines": 41,
+  "gap_ratio": 0.71,
+  "unit_hits": 21,
+  "avg_line_len": 72.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 313,
+  "chars": 2268,
+  "lines": 40,
+  "gap_ratio": 0.07,
+  "unit_hits": 1,
+  "avg_line_len": 55.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 314,
+  "chars": 2101,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 54.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 315,
+  "chars": 2297,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 316,
+  "chars": 2139,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 317,
+  "chars": 2215,
+  "lines": 41,
+  "gap_ratio": 0.05,
+  "unit_hits": 0,
+  "avg_line_len": 53.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 318,
+  "chars": 2414,
+  "lines": 42,
+  "gap_ratio": 0.0,
+  "unit_hits": 3,
+  "avg_line_len": 56.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 319,
+  "chars": 2352,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 8,
+  "avg_line_len": 56.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 320,
+  "chars": 2305,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 4,
+  "avg_line_len": 55.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 321,
+  "chars": 2274,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 54.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 322,
+  "chars": 2366,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 3,
+  "avg_line_len": 56.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 323,
+  "chars": 2164,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 51.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 324,
+  "chars": 2180,
+  "lines": 38,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 56.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 325,
+  "chars": 2100,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 50.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 326,
+  "chars": 1979,
+  "lines": 37,
+  "gap_ratio": 0.22,
+  "unit_hits": 0,
+  "avg_line_len": 52.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 327,
+  "chars": 2817,
+  "lines": 40,
+  "gap_ratio": 0.3,
+  "unit_hits": 0,
+  "avg_line_len": 69.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 328,
+  "chars": 7479,
+  "lines": 98,
+  "gap_ratio": 0.34,
+  "unit_hits": 2,
+  "avg_line_len": 75.5,
+  "headings": [
+   "X       1C©O ©  1°IOLIO- I1 1",
+   "| H H 00N",
+   "IOo",
+   "i 1 - IF"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 329,
+  "chars": 2735,
+  "lines": 39,
+  "gap_ratio": 0.67,
+  "unit_hits": 1,
+  "avg_line_len": 69.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 330,
+  "chars": 3063,
+  "lines": 42,
+  "gap_ratio": 0.38,
+  "unit_hits": 7,
+  "avg_line_len": 72.0,
+  "headings": [
+   "III ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 331,
+  "chars": 2718,
+  "lines": 47,
+  "gap_ratio": 0.57,
+  "unit_hits": 0,
+  "avg_line_len": 56.7,
+  "headings": [
+   "L\"        1    1             Tf",
+   "05    1   I-   1   1    IO",
+   "IO   71                 IO   IO",
+   "71 •     I   O      O      CO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 332,
+  "chars": 2997,
+  "lines": 41,
+  "gap_ratio": 0.59,
+  "unit_hits": 10,
+  "avg_line_len": 73.1,
+  "headings": [
+   "X IX ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 333,
+  "chars": 2146,
+  "lines": 40,
+  "gap_ratio": 0.03,
+  "unit_hits": 16,
+  "avg_line_len": 52.7,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 334,
+  "chars": 2075,
+  "lines": 38,
+  "gap_ratio": 0.08,
+  "unit_hits": 4,
+  "avg_line_len": 53.6,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 335,
+  "chars": 2096,
+  "lines": 38,
+  "gap_ratio": 0.08,
+  "unit_hits": 0,
+  "avg_line_len": 54.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 336,
+  "chars": 2361,
+  "lines": 39,
+  "gap_ratio": 0.38,
+  "unit_hits": 23,
+  "avg_line_len": 59.4,
+  "headings": [
+   "I.     IL 111.                      IV.       V."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 337,
+  "chars": 3042,
+  "lines": 45,
+  "gap_ratio": 0.87,
+  "unit_hits": 4,
+  "avg_line_len": 66.6,
+  "headings": [
+   "VII."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 338,
+  "chars": 2535,
+  "lines": 37,
+  "gap_ratio": 0.46,
+  "unit_hits": 7,
+  "avg_line_len": 67.5,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 339,
+  "chars": 2389,
+  "lines": 37,
+  "gap_ratio": 0.08,
+  "unit_hits": 7,
+  "avg_line_len": 63.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 340,
+  "chars": 2866,
+  "lines": 40,
+  "gap_ratio": 0.57,
+  "unit_hits": 8,
+  "avg_line_len": 71.7,
+  "headings": [
+   "III.",
+   "V.       VX.      V II.       V ili.       IX ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 341,
+  "chars": 4309,
+  "lines": 38,
+  "gap_ratio": 0.53,
+  "unit_hits": 0,
+  "avg_line_len": 111.8,
+  "headings": [
+   "IS Is S | | | |",
+   "I   !   I         IO IO",
+   "M       I M     I",
+   "O   ì)     OC"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 342,
+  "chars": 2018,
+  "lines": 38,
+  "gap_ratio": 0.03,
+  "unit_hits": 0,
+  "avg_line_len": 52.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 343,
+  "chars": 3085,
+  "lines": 38,
+  "gap_ratio": 0.68,
+  "unit_hits": 2,
+  "avg_line_len": 80.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 344,
+  "chars": 3028,
+  "lines": 39,
+  "gap_ratio": 0.67,
+  "unit_hits": 4,
+  "avg_line_len": 77.6,
+  "headings": [
+   "III.                        IV.",
+   "3. Qual. II.                             H I."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 345,
+  "chars": 2814,
+  "lines": 42,
+  "gap_ratio": 0.55,
+  "unit_hits": 10,
+  "avg_line_len": 66.0,
+  "headings": [
+   "IV.  V. VI. VII. v i a ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 346,
+  "chars": 2752,
+  "lines": 36,
+  "gap_ratio": 0.53,
+  "unit_hits": 5,
+  "avg_line_len": 76.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 347,
+  "chars": 2216,
+  "lines": 39,
+  "gap_ratio": 0.05,
+  "unit_hits": 8,
+  "avg_line_len": 55.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 348,
+  "chars": 2514,
+  "lines": 40,
+  "gap_ratio": 0.45,
+  "unit_hits": 20,
+  "avg_line_len": 61.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 349,
+  "chars": 2188,
+  "lines": 39,
+  "gap_ratio": 0.05,
+  "unit_hits": 18,
+  "avg_line_len": 55.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 350,
+  "chars": 2310,
+  "lines": 39,
+  "gap_ratio": 0.28,
+  "unit_hits": 11,
+  "avg_line_len": 58.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 351,
+  "chars": 2157,
+  "lines": 37,
+  "gap_ratio": 0.05,
+  "unit_hits": 0,
+  "avg_line_len": 58.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 352,
+  "chars": 2170,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 53.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 353,
+  "chars": 2228,
+  "lines": 37,
+  "gap_ratio": 0.05,
+  "unit_hits": 0,
+  "avg_line_len": 59.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 354,
+  "chars": 2081,
+  "lines": 39,
+  "gap_ratio": 0.1,
+  "unit_hits": 1,
+  "avg_line_len": 53.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 355,
+  "chars": 2199,
+  "lines": 36,
+  "gap_ratio": 0.17,
+  "unit_hits": 8,
+  "avg_line_len": 59.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 356,
+  "chars": 2772,
+  "lines": 40,
+  "gap_ratio": 0.55,
+  "unit_hits": 14,
+  "avg_line_len": 69.4,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 357,
+  "chars": 2620,
+  "lines": 37,
+  "gap_ratio": 0.51,
+  "unit_hits": 9,
+  "avg_line_len": 69.8,
+  "headings": [
+   "V II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 358,
+  "chars": 2268,
+  "lines": 37,
+  "gap_ratio": 0.27,
+  "unit_hits": 5,
+  "avg_line_len": 60.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 359,
+  "chars": 2550,
+  "lines": 37,
+  "gap_ratio": 0.51,
+  "unit_hits": 6,
+  "avg_line_len": 68.0,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 360,
+  "chars": 1871,
+  "lines": 33,
+  "gap_ratio": 0.15,
+  "unit_hits": 9,
+  "avg_line_len": 56.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 361,
+  "chars": 2412,
+  "lines": 36,
+  "gap_ratio": 0.53,
+  "unit_hits": 12,
+  "avg_line_len": 66.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 362,
+  "chars": 2160,
+  "lines": 37,
+  "gap_ratio": 0.19,
+  "unit_hits": 4,
+  "avg_line_len": 58.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 363,
+  "chars": 2218,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 364,
+  "chars": 2174,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 365,
+  "chars": 2231,
+  "lines": 40,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 54.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 366,
+  "chars": 3027,
+  "lines": 42,
+  "gap_ratio": 0.48,
+  "unit_hits": 6,
+  "avg_line_len": 71.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 367,
+  "chars": 2501,
+  "lines": 38,
+  "gap_ratio": 0.26,
+  "unit_hits": 12,
+  "avg_line_len": 65.6,
+  "headings": [
+   "CUARA$AO BIANCO."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 368,
+  "chars": 2608,
+  "lines": 35,
+  "gap_ratio": 0.49,
+  "unit_hits": 5,
+  "avg_line_len": 73.4,
+  "headings": [
+   "I II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 369,
+  "chars": 3143,
+  "lines": 42,
+  "gap_ratio": 0.6,
+  "unit_hits": 5,
+  "avg_line_len": 74.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 370,
+  "chars": 2437,
+  "lines": 37,
+  "gap_ratio": 0.59,
+  "unit_hits": 4,
+  "avg_line_len": 65.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 371,
+  "chars": 3449,
+  "lines": 39,
+  "gap_ratio": 0.74,
+  "unit_hits": 9,
+  "avg_line_len": 87.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 372,
+  "chars": 3332,
+  "lines": 39,
+  "gap_ratio": 0.67,
+  "unit_hits": 8,
+  "avg_line_len": 85,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 373,
+  "chars": 3105,
+  "lines": 39,
+  "gap_ratio": 0.51,
+  "unit_hits": 8,
+  "avg_line_len": 78.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 374,
+  "chars": 3595,
+  "lines": 43,
+  "gap_ratio": 0.6,
+  "unit_hits": 9,
+  "avg_line_len": 83.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 375,
+  "chars": 2941,
+  "lines": 39,
+  "gap_ratio": 0.41,
+  "unit_hits": 10,
+  "avg_line_len": 75.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 376,
+  "chars": 3035,
+  "lines": 39,
+  "gap_ratio": 0.49,
+  "unit_hits": 8,
+  "avg_line_len": 76.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 377,
+  "chars": 3135,
+  "lines": 40,
+  "gap_ratio": 0.62,
+  "unit_hits": 12,
+  "avg_line_len": 78.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 378,
+  "chars": 3322,
+  "lines": 41,
+  "gap_ratio": 0.46,
+  "unit_hits": 7,
+  "avg_line_len": 81.2,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 379,
+  "chars": 3530,
+  "lines": 42,
+  "gap_ratio": 0.43,
+  "unit_hits": 8,
+  "avg_line_len": 83.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 380,
+  "chars": 3413,
+  "lines": 41,
+  "gap_ratio": 0.49,
+  "unit_hits": 8,
+  "avg_line_len": 82.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 381,
+  "chars": 2843,
+  "lines": 39,
+  "gap_ratio": 0.41,
+  "unit_hits": 12,
+  "avg_line_len": 71.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 382,
+  "chars": 3008,
+  "lines": 39,
+  "gap_ratio": 0.23,
+  "unit_hits": 11,
+  "avg_line_len": 76.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 383,
+  "chars": 2794,
+  "lines": 38,
+  "gap_ratio": 0.55,
+  "unit_hits": 17,
+  "avg_line_len": 72.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 384,
+  "chars": 3217,
+  "lines": 42,
+  "gap_ratio": 0.79,
+  "unit_hits": 10,
+  "avg_line_len": 76.6,
+  "headings": [
+   "i.   II.            III.",
+   "IV.                                    V."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 385,
+  "chars": 2558,
+  "lines": 38,
+  "gap_ratio": 0.39,
+  "unit_hits": 18,
+  "avg_line_len": 66.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 386,
+  "chars": 3096,
+  "lines": 40,
+  "gap_ratio": 0.42,
+  "unit_hits": 9,
+  "avg_line_len": 77.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 387,
+  "chars": 2879,
+  "lines": 39,
+  "gap_ratio": 0.44,
+  "unit_hits": 13,
+  "avg_line_len": 72.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 388,
+  "chars": 3200,
+  "lines": 41,
+  "gap_ratio": 0.46,
+  "unit_hits": 8,
+  "avg_line_len": 78.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 389,
+  "chars": 2412,
+  "lines": 37,
+  "gap_ratio": 0.27,
+  "unit_hits": 25,
+  "avg_line_len": 64.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 390,
+  "chars": 2504,
+  "lines": 37,
+  "gap_ratio": 0.32,
+  "unit_hits": 14,
+  "avg_line_len": 66.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 391,
+  "chars": 2359,
+  "lines": 34,
+  "gap_ratio": 0.29,
+  "unit_hits": 12,
+  "avg_line_len": 68.3,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 392,
+  "chars": 3258,
+  "lines": 42,
+  "gap_ratio": 0.67,
+  "unit_hits": 4,
+  "avg_line_len": 77.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 393,
+  "chars": 2457,
+  "lines": 44,
+  "gap_ratio": 0.68,
+  "unit_hits": 8,
+  "avg_line_len": 54.8,
+  "headings": [
+   "III ."
+  ],
+  "tags": [
+   "table",
+   "heading",
+   "recipe"
+  ]
+ },
+ {
+  "page": 394,
+  "chars": 3445,
+  "lines": 41,
+  "gap_ratio": 0.73,
+  "unit_hits": 5,
+  "avg_line_len": 84.2,
+  "headings": [
+   "I.                II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 395,
+  "chars": 3548,
+  "lines": 40,
+  "gap_ratio": 0.75,
+  "unit_hits": 6,
+  "avg_line_len": 87.7,
+  "headings": [
+   "CftlSTOFELKT."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 396,
+  "chars": 3154,
+  "lines": 40,
+  "gap_ratio": 0.62,
+  "unit_hits": 8,
+  "avg_line_len": 77.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 397,
+  "chars": 3882,
+  "lines": 42,
+  "gap_ratio": 0.86,
+  "unit_hits": 7,
+  "avg_line_len": 91.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 398,
+  "chars": 3098,
+  "lines": 41,
+  "gap_ratio": 0.59,
+  "unit_hits": 12,
+  "avg_line_len": 74.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 399,
+  "chars": 4011,
+  "lines": 45,
+  "gap_ratio": 0.76,
+  "unit_hits": 7,
+  "avg_line_len": 88.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 400,
+  "chars": 3215,
+  "lines": 39,
+  "gap_ratio": 0.69,
+  "unit_hits": 8,
+  "avg_line_len": 81.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 401,
+  "chars": 3103,
+  "lines": 39,
+  "gap_ratio": 0.69,
+  "unit_hits": 11,
+  "avg_line_len": 79.3,
+  "headings": [
+   "(rKNÉpI DBS Al.PES."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 402,
+  "chars": 3262,
+  "lines": 39,
+  "gap_ratio": 0.77,
+  "unit_hits": 10,
+  "avg_line_len": 82.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 403,
+  "chars": 3523,
+  "lines": 42,
+  "gap_ratio": 0.76,
+  "unit_hits": 4,
+  "avg_line_len": 83.8,
+  "headings": [
+   "I.      II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 404,
+  "chars": 2841,
+  "lines": 38,
+  "gap_ratio": 0.66,
+  "unit_hits": 8,
+  "avg_line_len": 73.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 405,
+  "chars": 2821,
+  "lines": 38,
+  "gap_ratio": 0.5,
+  "unit_hits": 8,
+  "avg_line_len": 74.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 406,
+  "chars": 3454,
+  "lines": 40,
+  "gap_ratio": 0.82,
+  "unit_hits": 1,
+  "avg_line_len": 86,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 407,
+  "chars": 3789,
+  "lines": 44,
+  "gap_ratio": 0.84,
+  "unit_hits": 2,
+  "avg_line_len": 85.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 408,
+  "chars": 2935,
+  "lines": 40,
+  "gap_ratio": 0.5,
+  "unit_hits": 9,
+  "avg_line_len": 73.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 409,
+  "chars": 2509,
+  "lines": 41,
+  "gap_ratio": 0.12,
+  "unit_hits": 2,
+  "avg_line_len": 60.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 410,
+  "chars": 2476,
+  "lines": 39,
+  "gap_ratio": 0.21,
+  "unit_hits": 10,
+  "avg_line_len": 62.5,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 411,
+  "chars": 2638,
+  "lines": 39,
+  "gap_ratio": 0.33,
+  "unit_hits": 12,
+  "avg_line_len": 66.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 412,
+  "chars": 2655,
+  "lines": 39,
+  "gap_ratio": 0.59,
+  "unit_hits": 7,
+  "avg_line_len": 67.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 413,
+  "chars": 3506,
+  "lines": 40,
+  "gap_ratio": 0.78,
+  "unit_hits": 4,
+  "avg_line_len": 86.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 414,
+  "chars": 2712,
+  "lines": 36,
+  "gap_ratio": 0.64,
+  "unit_hits": 9,
+  "avg_line_len": 74.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 415,
+  "chars": 2828,
+  "lines": 38,
+  "gap_ratio": 0.55,
+  "unit_hits": 11,
+  "avg_line_len": 73.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 416,
+  "chars": 3111,
+  "lines": 40,
+  "gap_ratio": 0.8,
+  "unit_hits": 6,
+  "avg_line_len": 77.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 417,
+  "chars": 2863,
+  "lines": 38,
+  "gap_ratio": 0.63,
+  "unit_hits": 7,
+  "avg_line_len": 74.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 418,
+  "chars": 3304,
+  "lines": 40,
+  "gap_ratio": 0.72,
+  "unit_hits": 9,
+  "avg_line_len": 81.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 419,
+  "chars": 3069,
+  "lines": 39,
+  "gap_ratio": 0.62,
+  "unit_hits": 11,
+  "avg_line_len": 77.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 420,
+  "chars": 2629,
+  "lines": 35,
+  "gap_ratio": 0.71,
+  "unit_hits": 5,
+  "avg_line_len": 74.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 421,
+  "chars": 3016,
+  "lines": 40,
+  "gap_ratio": 0.57,
+  "unit_hits": 11,
+  "avg_line_len": 75.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 422,
+  "chars": 2732,
+  "lines": 42,
+  "gap_ratio": 0.57,
+  "unit_hits": 18,
+  "avg_line_len": 64.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 423,
+  "chars": 2521,
+  "lines": 36,
+  "gap_ratio": 0.47,
+  "unit_hits": 5,
+  "avg_line_len": 69.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 424,
+  "chars": 2189,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 425,
+  "chars": 2705,
+  "lines": 37,
+  "gap_ratio": 0.62,
+  "unit_hits": 7,
+  "avg_line_len": 72.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 426,
+  "chars": 3047,
+  "lines": 38,
+  "gap_ratio": 0.68,
+  "unit_hits": 6,
+  "avg_line_len": 79.2,
+  "headings": [
+   "A u JHKIÌMKM.",
+   "i.       II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 427,
+  "chars": 2738,
+  "lines": 38,
+  "gap_ratio": 0.47,
+  "unit_hits": 10,
+  "avg_line_len": 71.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 428,
+  "chars": 2772,
+  "lines": 40,
+  "gap_ratio": 0.25,
+  "unit_hits": 10,
+  "avg_line_len": 69.4,
+  "headings": [
+   "I II."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 429,
+  "chars": 3140,
+  "lines": 40,
+  "gap_ratio": 0.55,
+  "unit_hits": 9,
+  "avg_line_len": 77.5,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 430,
+  "chars": 2360,
+  "lines": 39,
+  "gap_ratio": 0.56,
+  "unit_hits": 5,
+  "avg_line_len": 59.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 431,
+  "chars": 2547,
+  "lines": 39,
+  "gap_ratio": 0.44,
+  "unit_hits": 7,
+  "avg_line_len": 64.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 432,
+  "chars": 2882,
+  "lines": 36,
+  "gap_ratio": 0.67,
+  "unit_hits": 7,
+  "avg_line_len": 79.1,
+  "headings": [
+   "X.               II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 433,
+  "chars": 2557,
+  "lines": 39,
+  "gap_ratio": 0.28,
+  "unit_hits": 9,
+  "avg_line_len": 65.7,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 434,
+  "chars": 3213,
+  "lines": 40,
+  "gap_ratio": 0.78,
+  "unit_hits": 6,
+  "avg_line_len": 80.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 435,
+  "chars": 2995,
+  "lines": 40,
+  "gap_ratio": 0.68,
+  "unit_hits": 6,
+  "avg_line_len": 73.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 436,
+  "chars": 3000,
+  "lines": 37,
+  "gap_ratio": 0.65,
+  "unit_hits": 6,
+  "avg_line_len": 80.1,
+  "headings": [
+   "ClTRONELLA TEDESCA.",
+   "CURAQAO."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 437,
+  "chars": 2733,
+  "lines": 39,
+  "gap_ratio": 0.33,
+  "unit_hits": 6,
+  "avg_line_len": 69.2,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 438,
+  "chars": 2912,
+  "lines": 39,
+  "gap_ratio": 0.49,
+  "unit_hits": 11,
+  "avg_line_len": 73.6,
+  "headings": [
+   "C uR A gA O BIANCO."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 439,
+  "chars": 3331,
+  "lines": 42,
+  "gap_ratio": 0.74,
+  "unit_hits": 7,
+  "avg_line_len": 78.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 440,
+  "chars": 3213,
+  "lines": 42,
+  "gap_ratio": 0.4,
+  "unit_hits": 4,
+  "avg_line_len": 75.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 441,
+  "chars": 3369,
+  "lines": 40,
+  "gap_ratio": 0.82,
+  "unit_hits": 2,
+  "avg_line_len": 84,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 442,
+  "chars": 3078,
+  "lines": 38,
+  "gap_ratio": 0.63,
+  "unit_hits": 6,
+  "avg_line_len": 80,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 443,
+  "chars": 3210,
+  "lines": 40,
+  "gap_ratio": 0.7,
+  "unit_hits": 8,
+  "avg_line_len": 79.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 444,
+  "chars": 3178,
+  "lines": 41,
+  "gap_ratio": 0.71,
+  "unit_hits": 5,
+  "avg_line_len": 76.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 445,
+  "chars": 2653,
+  "lines": 36,
+  "gap_ratio": 0.47,
+  "unit_hits": 12,
+  "avg_line_len": 72.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 446,
+  "chars": 3108,
+  "lines": 40,
+  "gap_ratio": 0.78,
+  "unit_hits": 4,
+  "avg_line_len": 77.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 447,
+  "chars": 2783,
+  "lines": 38,
+  "gap_ratio": 0.45,
+  "unit_hits": 9,
+  "avg_line_len": 72.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 448,
+  "chars": 3205,
+  "lines": 40,
+  "gap_ratio": 0.68,
+  "unit_hits": 11,
+  "avg_line_len": 79.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 449,
+  "chars": 2908,
+  "lines": 39,
+  "gap_ratio": 0.59,
+  "unit_hits": 8,
+  "avg_line_len": 73.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 450,
+  "chars": 3016,
+  "lines": 39,
+  "gap_ratio": 0.56,
+  "unit_hits": 8,
+  "avg_line_len": 76.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 451,
+  "chars": 2551,
+  "lines": 37,
+  "gap_ratio": 0.49,
+  "unit_hits": 9,
+  "avg_line_len": 68.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 452,
+  "chars": 3241,
+  "lines": 37,
+  "gap_ratio": 0.84,
+  "unit_hits": 3,
+  "avg_line_len": 86.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 453,
+  "chars": 2692,
+  "lines": 36,
+  "gap_ratio": 0.61,
+  "unit_hits": 5,
+  "avg_line_len": 74.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 454,
+  "chars": 2714,
+  "lines": 39,
+  "gap_ratio": 0.46,
+  "unit_hits": 9,
+  "avg_line_len": 68.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 455,
+  "chars": 2510,
+  "lines": 36,
+  "gap_ratio": 0.56,
+  "unit_hits": 6,
+  "avg_line_len": 69.8,
+  "headings": [
+   "I.         II. III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 456,
+  "chars": 2901,
+  "lines": 37,
+  "gap_ratio": 0.68,
+  "unit_hits": 5,
+  "avg_line_len": 77.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 457,
+  "chars": 3143,
+  "lines": 40,
+  "gap_ratio": 0.6,
+  "unit_hits": 8,
+  "avg_line_len": 77.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 458,
+  "chars": 2126,
+  "lines": 35,
+  "gap_ratio": 0.23,
+  "unit_hits": 10,
+  "avg_line_len": 60.5,
+  "headings": [
+   "CtTRAgAO DOPPIO."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 459,
+  "chars": 2314,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 460,
+  "chars": 2167,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 51.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 461,
+  "chars": 2248,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 53.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 462,
+  "chars": 2563,
+  "lines": 38,
+  "gap_ratio": 0.53,
+  "unit_hits": 7,
+  "avg_line_len": 66.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 463,
+  "chars": 2937,
+  "lines": 40,
+  "gap_ratio": 0.7,
+  "unit_hits": 7,
+  "avg_line_len": 73.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 464,
+  "chars": 2835,
+  "lines": 39,
+  "gap_ratio": 0.69,
+  "unit_hits": 5,
+  "avg_line_len": 72.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 465,
+  "chars": 3234,
+  "lines": 39,
+  "gap_ratio": 0.77,
+  "unit_hits": 7,
+  "avg_line_len": 81.9,
+  "headings": [
+   "ITT."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 466,
+  "chars": 3102,
+  "lines": 40,
+  "gap_ratio": 0.72,
+  "unit_hits": 7,
+  "avg_line_len": 77.2,
+  "headings": [
+   "I.          II.",
+   "I.        II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 467,
+  "chars": 3112,
+  "lines": 42,
+  "gap_ratio": 0.79,
+  "unit_hits": 5,
+  "avg_line_len": 73.1,
+  "headings": [
+   "III.          IV.",
+   "I.          II.",
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 468,
+  "chars": 3312,
+  "lines": 45,
+  "gap_ratio": 0.73,
+  "unit_hits": 11,
+  "avg_line_len": 73.5,
+  "headings": [
+   "I.               II.",
+   "V.     VI."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 469,
+  "chars": 3253,
+  "lines": 42,
+  "gap_ratio": 0.69,
+  "unit_hits": 8,
+  "avg_line_len": 77.7,
+  "headings": [
+   "VII.        VICI.       IX.           X."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 470,
+  "chars": 3069,
+  "lines": 40,
+  "gap_ratio": 0.78,
+  "unit_hits": 10,
+  "avg_line_len": 76.8,
+  "headings": [
+   "ITI.",
+   "I.                     II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 471,
+  "chars": 3422,
+  "lines": 42,
+  "gap_ratio": 0.9,
+  "unit_hits": 8,
+  "avg_line_len": 81.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 472,
+  "chars": 3135,
+  "lines": 41,
+  "gap_ratio": 0.68,
+  "unit_hits": 8,
+  "avg_line_len": 76.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 473,
+  "chars": 3323,
+  "lines": 40,
+  "gap_ratio": 0.78,
+  "unit_hits": 11,
+  "avg_line_len": 82.1,
+  "headings": [
+   "I.          II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 474,
+  "chars": 2375,
+  "lines": 34,
+  "gap_ratio": 0.59,
+  "unit_hits": 11,
+  "avg_line_len": 68.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 475,
+  "chars": 3092,
+  "lines": 39,
+  "gap_ratio": 0.77,
+  "unit_hits": 5,
+  "avg_line_len": 79.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 476,
+  "chars": 2758,
+  "lines": 40,
+  "gap_ratio": 0.7,
+  "unit_hits": 7,
+  "avg_line_len": 68.0,
+  "headings": [
+   "CURAgAO."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 477,
+  "chars": 3152,
+  "lines": 37,
+  "gap_ratio": 0.84,
+  "unit_hits": 6,
+  "avg_line_len": 84.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 478,
+  "chars": 3049,
+  "lines": 38,
+  "gap_ratio": 0.82,
+  "unit_hits": 10,
+  "avg_line_len": 80.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 479,
+  "chars": 3418,
+  "lines": 39,
+  "gap_ratio": 0.87,
+  "unit_hits": 2,
+  "avg_line_len": 86.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 480,
+  "chars": 2857,
+  "lines": 37,
+  "gap_ratio": 0.81,
+  "unit_hits": 7,
+  "avg_line_len": 77.1,
+  "headings": [
+   "I.            II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 481,
+  "chars": 2520,
+  "lines": 37,
+  "gap_ratio": 0.7,
+  "unit_hits": 14,
+  "avg_line_len": 68.8,
+  "headings": [
+   "III.       IV.",
+   "II.       III.     IV."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 482,
+  "chars": 2828,
+  "lines": 35,
+  "gap_ratio": 0.77,
+  "unit_hits": 8,
+  "avg_line_len": 80.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 483,
+  "chars": 2845,
+  "lines": 38,
+  "gap_ratio": 0.76,
+  "unit_hits": 8,
+  "avg_line_len": 74.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 484,
+  "chars": 2919,
+  "lines": 36,
+  "gap_ratio": 0.75,
+  "unit_hits": 12,
+  "avg_line_len": 80.0,
+  "headings": [
+   "I.                 II.",
+   "I.             II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 485,
+  "chars": 2470,
+  "lines": 36,
+  "gap_ratio": 0.83,
+  "unit_hits": 14,
+  "avg_line_len": 68.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 486,
+  "chars": 2736,
+  "lines": 37,
+  "gap_ratio": 0.73,
+  "unit_hits": 8,
+  "avg_line_len": 74.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 487,
+  "chars": 2961,
+  "lines": 38,
+  "gap_ratio": 0.84,
+  "unit_hits": 6,
+  "avg_line_len": 77.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 488,
+  "chars": 3324,
+  "lines": 41,
+  "gap_ratio": 0.8,
+  "unit_hits": 8,
+  "avg_line_len": 80.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 489,
+  "chars": 3173,
+  "lines": 39,
+  "gap_ratio": 0.85,
+  "unit_hits": 11,
+  "avg_line_len": 81.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 490,
+  "chars": 2888,
+  "lines": 35,
+  "gap_ratio": 0.77,
+  "unit_hits": 7,
+  "avg_line_len": 82.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 491,
+  "chars": 2196,
+  "lines": 30,
+  "gap_ratio": 0.7,
+  "unit_hits": 4,
+  "avg_line_len": 72.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 492,
+  "chars": 3063,
+  "lines": 40,
+  "gap_ratio": 0.78,
+  "unit_hits": 10,
+  "avg_line_len": 76.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 493,
+  "chars": 3048,
+  "lines": 39,
+  "gap_ratio": 0.74,
+  "unit_hits": 8,
+  "avg_line_len": 77.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 494,
+  "chars": 3115,
+  "lines": 40,
+  "gap_ratio": 0.85,
+  "unit_hits": 9,
+  "avg_line_len": 77.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 495,
+  "chars": 3129,
+  "lines": 40,
+  "gap_ratio": 0.75,
+  "unit_hits": 9,
+  "avg_line_len": 77.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 496,
+  "chars": 3349,
+  "lines": 40,
+  "gap_ratio": 0.8,
+  "unit_hits": 8,
+  "avg_line_len": 83.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 497,
+  "chars": 2701,
+  "lines": 36,
+  "gap_ratio": 0.64,
+  "unit_hits": 7,
+  "avg_line_len": 75.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 498,
+  "chars": 2764,
+  "lines": 38,
+  "gap_ratio": 0.79,
+  "unit_hits": 5,
+  "avg_line_len": 72.8,
+  "headings": [
+   "I.               II.",
+   "Sun ANO."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 499,
+  "chars": 2552,
+  "lines": 37,
+  "gap_ratio": 0.57,
+  "unit_hits": 9,
+  "avg_line_len": 68.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 500,
+  "chars": 2357,
+  "lines": 40,
+  "gap_ratio": 0.33,
+  "unit_hits": 2,
+  "avg_line_len": 58.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 501,
+  "chars": 2501,
+  "lines": 39,
+  "gap_ratio": 0.38,
+  "unit_hits": 11,
+  "avg_line_len": 63.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 502,
+  "chars": 2914,
+  "lines": 41,
+  "gap_ratio": 0.88,
+  "unit_hits": 3,
+  "avg_line_len": 70.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 503,
+  "chars": 3250,
+  "lines": 42,
+  "gap_ratio": 0.86,
+  "unit_hits": 4,
+  "avg_line_len": 76.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 504,
+  "chars": 2579,
+  "lines": 40,
+  "gap_ratio": 0.75,
+  "unit_hits": 2,
+  "avg_line_len": 64.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 505,
+  "chars": 2592,
+  "lines": 39,
+  "gap_ratio": 0.72,
+  "unit_hits": 6,
+  "avg_line_len": 66.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 506,
+  "chars": 2486,
+  "lines": 37,
+  "gap_ratio": 0.68,
+  "unit_hits": 5,
+  "avg_line_len": 67.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 507,
+  "chars": 2721,
+  "lines": 38,
+  "gap_ratio": 0.76,
+  "unit_hits": 6,
+  "avg_line_len": 70.3,
+  "headings": [
+   "CURA^AO SEMPLICE.",
+   "O N O ’t"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 508,
+  "chars": 2979,
+  "lines": 42,
+  "gap_ratio": 0.83,
+  "unit_hits": 3,
+  "avg_line_len": 70.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 509,
+  "chars": 3081,
+  "lines": 41,
+  "gap_ratio": 0.83,
+  "unit_hits": 6,
+  "avg_line_len": 74.8,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 510,
+  "chars": 2986,
+  "lines": 39,
+  "gap_ratio": 0.74,
+  "unit_hits": 5,
+  "avg_line_len": 75.9,
+  "headings": [
+   "I.          II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 511,
+  "chars": 2649,
+  "lines": 40,
+  "gap_ratio": 0.75,
+  "unit_hits": 2,
+  "avg_line_len": 65.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 512,
+  "chars": 2673,
+  "lines": 39,
+  "gap_ratio": 0.67,
+  "unit_hits": 5,
+  "avg_line_len": 67.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 513,
+  "chars": 2361,
+  "lines": 38,
+  "gap_ratio": 0.71,
+  "unit_hits": 0,
+  "avg_line_len": 61.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 514,
+  "chars": 2505,
+  "lines": 37,
+  "gap_ratio": 0.59,
+  "unit_hits": 2,
+  "avg_line_len": 67.7,
+  "headings": [
+   "S lTPE R IO R U NO LISH l'R IM 'R lU f TNT.",
+   "NOCIC MOSCATA.",
+   "I.     IT.         III.             IV."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 515,
+  "chars": 2911,
+  "lines": 40,
+  "gap_ratio": 0.8,
+  "unit_hits": 2,
+  "avg_line_len": 72.4,
+  "headings": [
+   "USQUEBAUGH."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 516,
+  "chars": 2051,
+  "lines": 32,
+  "gap_ratio": 0.47,
+  "unit_hits": 4,
+  "avg_line_len": 63.1,
+  "headings": [
+   "I.                  IT."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 517,
+  "chars": 2187,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 518,
+  "chars": 2284,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 7,
+  "avg_line_len": 54.8,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 519,
+  "chars": 1914,
+  "lines": 37,
+  "gap_ratio": 0.08,
+  "unit_hits": 2,
+  "avg_line_len": 50.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 520,
+  "chars": 1606,
+  "lines": 27,
+  "gap_ratio": 0.26,
+  "unit_hits": 2,
+  "avg_line_len": 60.1,
+  "headings": [
+   "QUALITÀ’"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 521,
+  "chars": 3362,
+  "lines": 39,
+  "gap_ratio": 0.79,
+  "unit_hits": 5,
+  "avg_line_len": 85.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 522,
+  "chars": 3369,
+  "lines": 38,
+  "gap_ratio": 0.87,
+  "unit_hits": 5,
+  "avg_line_len": 88.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 523,
+  "chars": 2812,
+  "lines": 38,
+  "gap_ratio": 0.42,
+  "unit_hits": 7,
+  "avg_line_len": 73.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 524,
+  "chars": 3509,
+  "lines": 42,
+  "gap_ratio": 0.71,
+  "unit_hits": 2,
+  "avg_line_len": 83.7,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 525,
+  "chars": 3646,
+  "lines": 41,
+  "gap_ratio": 0.83,
+  "unit_hits": 4,
+  "avg_line_len": 89.0,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 526,
+  "chars": 3027,
+  "lines": 40,
+  "gap_ratio": 0.53,
+  "unit_hits": 9,
+  "avg_line_len": 74.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 527,
+  "chars": 3936,
+  "lines": 42,
+  "gap_ratio": 0.88,
+  "unit_hits": 3,
+  "avg_line_len": 93.6,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 528,
+  "chars": 3312,
+  "lines": 39,
+  "gap_ratio": 0.69,
+  "unit_hits": 4,
+  "avg_line_len": 83.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 529,
+  "chars": 3057,
+  "lines": 40,
+  "gap_ratio": 0.5,
+  "unit_hits": 10,
+  "avg_line_len": 76.5,
+  "headings": [
+   "CuRA£AO."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 530,
+  "chars": 3366,
+  "lines": 40,
+  "gap_ratio": 0.62,
+  "unit_hits": 4,
+  "avg_line_len": 83.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 531,
+  "chars": 3930,
+  "lines": 44,
+  "gap_ratio": 0.82,
+  "unit_hits": 2,
+  "avg_line_len": 89.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 532,
+  "chars": 3826,
+  "lines": 43,
+  "gap_ratio": 0.79,
+  "unit_hits": 2,
+  "avg_line_len": 88.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 533,
+  "chars": 3341,
+  "lines": 40,
+  "gap_ratio": 0.68,
+  "unit_hits": 4,
+  "avg_line_len": 82.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 534,
+  "chars": 3680,
+  "lines": 42,
+  "gap_ratio": 0.69,
+  "unit_hits": 8,
+  "avg_line_len": 86.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 535,
+  "chars": 3145,
+  "lines": 38,
+  "gap_ratio": 0.66,
+  "unit_hits": 5,
+  "avg_line_len": 82.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 536,
+  "chars": 3030,
+  "lines": 39,
+  "gap_ratio": 0.67,
+  "unit_hits": 5,
+  "avg_line_len": 76.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 537,
+  "chars": 2514,
+  "lines": 37,
+  "gap_ratio": 0.49,
+  "unit_hits": 8,
+  "avg_line_len": 68.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 538,
+  "chars": 2323,
+  "lines": 34,
+  "gap_ratio": 0.35,
+  "unit_hits": 9,
+  "avg_line_len": 67.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 539,
+  "chars": 3373,
+  "lines": 38,
+  "gap_ratio": 0.76,
+  "unit_hits": 5,
+  "avg_line_len": 88.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 540,
+  "chars": 3462,
+  "lines": 40,
+  "gap_ratio": 0.7,
+  "unit_hits": 5,
+  "avg_line_len": 86.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 541,
+  "chars": 3419,
+  "lines": 41,
+  "gap_ratio": 0.85,
+  "unit_hits": 4,
+  "avg_line_len": 83.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 542,
+  "chars": 3027,
+  "lines": 40,
+  "gap_ratio": 0.82,
+  "unit_hits": 4,
+  "avg_line_len": 75.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 543,
+  "chars": 2744,
+  "lines": 34,
+  "gap_ratio": 0.59,
+  "unit_hits": 11,
+  "avg_line_len": 79.6,
+  "headings": [
+   "CURA^AO."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 544,
+  "chars": 3074,
+  "lines": 38,
+  "gap_ratio": 0.68,
+  "unit_hits": 8,
+  "avg_line_len": 80.9,
+  "headings": [
+   "G IN E P R O ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 545,
+  "chars": 3121,
+  "lines": 37,
+  "gap_ratio": 0.7,
+  "unit_hits": 6,
+  "avg_line_len": 84.3,
+  "headings": [
+   "K UAMBAMBULI."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 546,
+  "chars": 3165,
+  "lines": 38,
+  "gap_ratio": 0.66,
+  "unit_hits": 7,
+  "avg_line_len": 82.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 547,
+  "chars": 2665,
+  "lines": 35,
+  "gap_ratio": 0.66,
+  "unit_hits": 7,
+  "avg_line_len": 76.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 548,
+  "chars": 2984,
+  "lines": 37,
+  "gap_ratio": 0.7,
+  "unit_hits": 8,
+  "avg_line_len": 80.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 549,
+  "chars": 3407,
+  "lines": 39,
+  "gap_ratio": 0.72,
+  "unit_hits": 3,
+  "avg_line_len": 87,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 550,
+  "chars": 3091,
+  "lines": 38,
+  "gap_ratio": 0.63,
+  "unit_hits": 2,
+  "avg_line_len": 81.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 551,
+  "chars": 2437,
+  "lines": 34,
+  "gap_ratio": 0.44,
+  "unit_hits": 6,
+  "avg_line_len": 70.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 552,
+  "chars": 3514,
+  "lines": 39,
+  "gap_ratio": 0.85,
+  "unit_hits": 3,
+  "avg_line_len": 89.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 553,
+  "chars": 2988,
+  "lines": 39,
+  "gap_ratio": 0.56,
+  "unit_hits": 8,
+  "avg_line_len": 76.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 554,
+  "chars": 2880,
+  "lines": 33,
+  "gap_ratio": 0.64,
+  "unit_hits": 3,
+  "avg_line_len": 86.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 555,
+  "chars": 1768,
+  "lines": 36,
+  "gap_ratio": 0.0,
+  "unit_hits": 3,
+  "avg_line_len": 48.5,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 556,
+  "chars": 2625,
+  "lines": 39,
+  "gap_ratio": 0.41,
+  "unit_hits": 7,
+  "avg_line_len": 66.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 557,
+  "chars": 2453,
+  "lines": 36,
+  "gap_ratio": 0.39,
+  "unit_hits": 9,
+  "avg_line_len": 67.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 558,
+  "chars": 2685,
+  "lines": 36,
+  "gap_ratio": 0.39,
+  "unit_hits": 8,
+  "avg_line_len": 73.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 559,
+  "chars": 2639,
+  "lines": 36,
+  "gap_ratio": 0.53,
+  "unit_hits": 4,
+  "avg_line_len": 73.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 560,
+  "chars": 3206,
+  "lines": 36,
+  "gap_ratio": 0.44,
+  "unit_hits": 7,
+  "avg_line_len": 89.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 561,
+  "chars": 2745,
+  "lines": 35,
+  "gap_ratio": 0.57,
+  "unit_hits": 5,
+  "avg_line_len": 78.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 562,
+  "chars": 2798,
+  "lines": 39,
+  "gap_ratio": 0.46,
+  "unit_hits": 8,
+  "avg_line_len": 71.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 563,
+  "chars": 1966,
+  "lines": 35,
+  "gap_ratio": 0.37,
+  "unit_hits": 6,
+  "avg_line_len": 55.1,
+  "headings": [
+   "I II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 564,
+  "chars": 2278,
+  "lines": 35,
+  "gap_ratio": 0.26,
+  "unit_hits": 5,
+  "avg_line_len": 64.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 565,
+  "chars": 3105,
+  "lines": 37,
+  "gap_ratio": 0.7,
+  "unit_hits": 4,
+  "avg_line_len": 83.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 566,
+  "chars": 2933,
+  "lines": 38,
+  "gap_ratio": 0.5,
+  "unit_hits": 6,
+  "avg_line_len": 76.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 567,
+  "chars": 2468,
+  "lines": 37,
+  "gap_ratio": 0.51,
+  "unit_hits": 11,
+  "avg_line_len": 65.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 568,
+  "chars": 2871,
+  "lines": 37,
+  "gap_ratio": 0.54,
+  "unit_hits": 5,
+  "avg_line_len": 77.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 569,
+  "chars": 2994,
+  "lines": 38,
+  "gap_ratio": 0.61,
+  "unit_hits": 5,
+  "avg_line_len": 78.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 570,
+  "chars": 2606,
+  "lines": 38,
+  "gap_ratio": 0.53,
+  "unit_hits": 5,
+  "avg_line_len": 68.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 571,
+  "chars": 2520,
+  "lines": 36,
+  "gap_ratio": 0.44,
+  "unit_hits": 5,
+  "avg_line_len": 68.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 572,
+  "chars": 2467,
+  "lines": 37,
+  "gap_ratio": 0.68,
+  "unit_hits": 5,
+  "avg_line_len": 66.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 573,
+  "chars": 2293,
+  "lines": 35,
+  "gap_ratio": 0.4,
+  "unit_hits": 4,
+  "avg_line_len": 65.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 574,
+  "chars": 2567,
+  "lines": 39,
+  "gap_ratio": 0.38,
+  "unit_hits": 14,
+  "avg_line_len": 65.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 575,
+  "chars": 1737,
+  "lines": 32,
+  "gap_ratio": 0.12,
+  "unit_hits": 1,
+  "avg_line_len": 54.2,
+  "headings": [
+   "LIQUORI SPECIALI."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 576,
+  "chars": 2187,
+  "lines": 39,
+  "gap_ratio": 0.33,
+  "unit_hits": 0,
+  "avg_line_len": 55.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 577,
+  "chars": 3118,
+  "lines": 41,
+  "gap_ratio": 0.2,
+  "unit_hits": 8,
+  "avg_line_len": 75.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 578,
+  "chars": 2869,
+  "lines": 37,
+  "gap_ratio": 0.19,
+  "unit_hits": 4,
+  "avg_line_len": 76.5,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 579,
+  "chars": 2889,
+  "lines": 37,
+  "gap_ratio": 0.24,
+  "unit_hits": 4,
+  "avg_line_len": 78,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 580,
+  "chars": 3169,
+  "lines": 40,
+  "gap_ratio": 0.47,
+  "unit_hits": 3,
+  "avg_line_len": 78.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 581,
+  "chars": 3040,
+  "lines": 40,
+  "gap_ratio": 0.53,
+  "unit_hits": 4,
+  "avg_line_len": 75.1,
+  "headings": [
+   "A. DI ERBE."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 582,
+  "chars": 3256,
+  "lines": 40,
+  "gap_ratio": 0.47,
+  "unit_hits": 5,
+  "avg_line_len": 80.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 583,
+  "chars": 2530,
+  "lines": 41,
+  "gap_ratio": 0.78,
+  "unit_hits": 3,
+  "avg_line_len": 60.7,
+  "headings": [
+   "i.      II.",
+   "A. PINO."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 584,
+  "chars": 2929,
+  "lines": 41,
+  "gap_ratio": 0.44,
+  "unit_hits": 9,
+  "avg_line_len": 70.5,
+  "headings": [
+   "A. COMUNE.",
+   "A. B A V A R E S E ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 585,
+  "chars": 3036,
+  "lines": 42,
+  "gap_ratio": 0.48,
+  "unit_hits": 9,
+  "avg_line_len": 71.4,
+  "headings": [
+   "A. INGLESE."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 586,
+  "chars": 4057,
+  "lines": 44,
+  "gap_ratio": 0.8,
+  "unit_hits": 3,
+  "avg_line_len": 92.1,
+  "headings": [
+   "A. O R IE N T A L E ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 587,
+  "chars": 2999,
+  "lines": 40,
+  "gap_ratio": 0.5,
+  "unit_hits": 7,
+  "avg_line_len": 74.1,
+  "headings": [
+   "A. O L A N D E S E .",
+   "I.                    II.",
+   "A. F E L S IN A ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 588,
+  "chars": 2856,
+  "lines": 41,
+  "gap_ratio": 0.44,
+  "unit_hits": 7,
+  "avg_line_len": 68.7,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 589,
+  "chars": 2801,
+  "lines": 37,
+  "gap_ratio": 0.24,
+  "unit_hits": 3,
+  "avg_line_len": 75.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 590,
+  "chars": 2965,
+  "lines": 45,
+  "gap_ratio": 0.82,
+  "unit_hits": 2,
+  "avg_line_len": 65.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 591,
+  "chars": 3929,
+  "lines": 42,
+  "gap_ratio": 0.5,
+  "unit_hits": 5,
+  "avg_line_len": 92.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 592,
+  "chars": 2631,
+  "lines": 43,
+  "gap_ratio": 0.79,
+  "unit_hits": 4,
+  "avg_line_len": 60.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 593,
+  "chars": 3066,
+  "lines": 39,
+  "gap_ratio": 0.38,
+  "unit_hits": 4,
+  "avg_line_len": 77.7,
+  "headings": [
+   "A. T E D E S C O ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 594,
+  "chars": 2629,
+  "lines": 37,
+  "gap_ratio": 0.24,
+  "unit_hits": 7,
+  "avg_line_len": 70.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 595,
+  "chars": 2785,
+  "lines": 40,
+  "gap_ratio": 0.78,
+  "unit_hits": 4,
+  "avg_line_len": 68.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 596,
+  "chars": 2975,
+  "lines": 40,
+  "gap_ratio": 0.03,
+  "unit_hits": 5,
+  "avg_line_len": 73.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 597,
+  "chars": 2637,
+  "lines": 35,
+  "gap_ratio": 0.6,
+  "unit_hits": 9,
+  "avg_line_len": 74.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 598,
+  "chars": 2574,
+  "lines": 38,
+  "gap_ratio": 0.5,
+  "unit_hits": 5,
+  "avg_line_len": 66.8,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 599,
+  "chars": 3143,
+  "lines": 41,
+  "gap_ratio": 0.61,
+  "unit_hits": 3,
+  "avg_line_len": 75.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 600,
+  "chars": 3164,
+  "lines": 44,
+  "gap_ratio": 0.8,
+  "unit_hits": 3,
+  "avg_line_len": 71,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 601,
+  "chars": 2921,
+  "lines": 39,
+  "gap_ratio": 0.72,
+  "unit_hits": 5,
+  "avg_line_len": 74.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 602,
+  "chars": 3013,
+  "lines": 40,
+  "gap_ratio": 0.42,
+  "unit_hits": 5,
+  "avg_line_len": 74.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 603,
+  "chars": 3153,
+  "lines": 41,
+  "gap_ratio": 0.51,
+  "unit_hits": 7,
+  "avg_line_len": 76.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 604,
+  "chars": 3487,
+  "lines": 41,
+  "gap_ratio": 0.61,
+  "unit_hits": 6,
+  "avg_line_len": 84.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 605,
+  "chars": 3324,
+  "lines": 42,
+  "gap_ratio": 0.79,
+  "unit_hits": 4,
+  "avg_line_len": 78.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 606,
+  "chars": 3995,
+  "lines": 44,
+  "gap_ratio": 0.84,
+  "unit_hits": 5,
+  "avg_line_len": 90.3,
+  "headings": [
+   "SOOTTUM,"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 607,
+  "chars": 3327,
+  "lines": 38,
+  "gap_ratio": 0.82,
+  "unit_hits": 6,
+  "avg_line_len": 87.5,
+  "headings": [
+   "W OKTA."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 608,
+  "chars": 3495,
+  "lines": 40,
+  "gap_ratio": 0.82,
+  "unit_hits": 4,
+  "avg_line_len": 86.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 609,
+  "chars": 3649,
+  "lines": 46,
+  "gap_ratio": 0.83,
+  "unit_hits": 7,
+  "avg_line_len": 78.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 610,
+  "chars": 3198,
+  "lines": 41,
+  "gap_ratio": 0.76,
+  "unit_hits": 5,
+  "avg_line_len": 77.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 611,
+  "chars": 3640,
+  "lines": 39,
+  "gap_ratio": 0.85,
+  "unit_hits": 5,
+  "avg_line_len": 92.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 612,
+  "chars": 3417,
+  "lines": 42,
+  "gap_ratio": 0.74,
+  "unit_hits": 8,
+  "avg_line_len": 81.2,
+  "headings": [
+   "I.               IT.",
+   "** Ci ? C M W"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 613,
+  "chars": 3499,
+  "lines": 40,
+  "gap_ratio": 0.9,
+  "unit_hits": 8,
+  "avg_line_len": 86.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 614,
+  "chars": 3643,
+  "lines": 41,
+  "gap_ratio": 0.95,
+  "unit_hits": 7,
+  "avg_line_len": 88.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 615,
+  "chars": 2227,
+  "lines": 39,
+  "gap_ratio": 0.15,
+  "unit_hits": 1,
+  "avg_line_len": 56.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 616,
+  "chars": 2998,
+  "lines": 39,
+  "gap_ratio": 0.56,
+  "unit_hits": 4,
+  "avg_line_len": 75.8,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 617,
+  "chars": 3165,
+  "lines": 37,
+  "gap_ratio": 0.73,
+  "unit_hits": 2,
+  "avg_line_len": 85.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 618,
+  "chars": 3772,
+  "lines": 44,
+  "gap_ratio": 0.77,
+  "unit_hits": 3,
+  "avg_line_len": 84.8,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 619,
+  "chars": 3093,
+  "lines": 41,
+  "gap_ratio": 0.73,
+  "unit_hits": 3,
+  "avg_line_len": 75.4,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 620,
+  "chars": 3539,
+  "lines": 42,
+  "gap_ratio": 0.74,
+  "unit_hits": 6,
+  "avg_line_len": 83.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 621,
+  "chars": 3451,
+  "lines": 41,
+  "gap_ratio": 0.71,
+  "unit_hits": 4,
+  "avg_line_len": 83.9,
+  "headings": [
+   "A, D I E R B E AL PIN E .",
+   "A. D I E R B E AR O M A TIC H E ."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 622,
+  "chars": 3275,
+  "lines": 40,
+  "gap_ratio": 0.55,
+  "unit_hits": 3,
+  "avg_line_len": 80.8,
+  "headings": [
+   "ITT."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 623,
+  "chars": 3617,
+  "lines": 42,
+  "gap_ratio": 0.81,
+  "unit_hits": 6,
+  "avg_line_len": 85.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 624,
+  "chars": 3678,
+  "lines": 43,
+  "gap_ratio": 0.72,
+  "unit_hits": 6,
+  "avg_line_len": 84.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 625,
+  "chars": 3667,
+  "lines": 43,
+  "gap_ratio": 0.7,
+  "unit_hits": 7,
+  "avg_line_len": 84.3,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 626,
+  "chars": 3582,
+  "lines": 43,
+  "gap_ratio": 0.56,
+  "unit_hits": 6,
+  "avg_line_len": 83.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 627,
+  "chars": 3289,
+  "lines": 40,
+  "gap_ratio": 0.57,
+  "unit_hits": 5,
+  "avg_line_len": 82,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 628,
+  "chars": 3684,
+  "lines": 45,
+  "gap_ratio": 0.89,
+  "unit_hits": 2,
+  "avg_line_len": 80.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 629,
+  "chars": 2627,
+  "lines": 39,
+  "gap_ratio": 0.77,
+  "unit_hits": 1,
+  "avg_line_len": 67.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 630,
+  "chars": 3834,
+  "lines": 44,
+  "gap_ratio": 0.55,
+  "unit_hits": 3,
+  "avg_line_len": 87.2,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 631,
+  "chars": 3252,
+  "lines": 40,
+  "gap_ratio": 0.45,
+  "unit_hits": 3,
+  "avg_line_len": 80.3,
+  "headings": [
+   "A. JOKEY."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 632,
+  "chars": 3474,
+  "lines": 41,
+  "gap_ratio": 0.61,
+  "unit_hits": 7,
+  "avg_line_len": 83.8,
+  "headings": [
+   "I.                    II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 633,
+  "chars": 3792,
+  "lines": 41,
+  "gap_ratio": 0.78,
+  "unit_hits": 4,
+  "avg_line_len": 91.4,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 634,
+  "chars": 2381,
+  "lines": 34,
+  "gap_ratio": 0.44,
+  "unit_hits": 5,
+  "avg_line_len": 68.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 635,
+  "chars": 3650,
+  "lines": 42,
+  "gap_ratio": 0.45,
+  "unit_hits": 4,
+  "avg_line_len": 86.1,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 636,
+  "chars": 3632,
+  "lines": 43,
+  "gap_ratio": 0.58,
+  "unit_hits": 5,
+  "avg_line_len": 83.5,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 637,
+  "chars": 2803,
+  "lines": 36,
+  "gap_ratio": 0.64,
+  "unit_hits": 6,
+  "avg_line_len": 76.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 638,
+  "chars": 3440,
+  "lines": 42,
+  "gap_ratio": 0.67,
+  "unit_hits": 4,
+  "avg_line_len": 81.7,
+  "headings": [
+   "I.           II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 639,
+  "chars": 3200,
+  "lines": 40,
+  "gap_ratio": 0.85,
+  "unit_hits": 4,
+  "avg_line_len": 79.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 640,
+  "chars": 3198,
+  "lines": 37,
+  "gap_ratio": 0.84,
+  "unit_hits": 0,
+  "avg_line_len": 85.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 641,
+  "chars": 2868,
+  "lines": 41,
+  "gap_ratio": 0.8,
+  "unit_hits": 6,
+  "avg_line_len": 69.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 642,
+  "chars": 3395,
+  "lines": 40,
+  "gap_ratio": 0.5,
+  "unit_hits": 5,
+  "avg_line_len": 83.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 643,
+  "chars": 3029,
+  "lines": 38,
+  "gap_ratio": 0.53,
+  "unit_hits": 6,
+  "avg_line_len": 78.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 644,
+  "chars": 2696,
+  "lines": 37,
+  "gap_ratio": 0.41,
+  "unit_hits": 12,
+  "avg_line_len": 71.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 645,
+  "chars": 2639,
+  "lines": 36,
+  "gap_ratio": 0.61,
+  "unit_hits": 6,
+  "avg_line_len": 73.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 646,
+  "chars": 2350,
+  "lines": 34,
+  "gap_ratio": 0.53,
+  "unit_hits": 12,
+  "avg_line_len": 69.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 647,
+  "chars": 3107,
+  "lines": 37,
+  "gap_ratio": 0.73,
+  "unit_hits": 4,
+  "avg_line_len": 82.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 648,
+  "chars": 3092,
+  "lines": 42,
+  "gap_ratio": 0.83,
+  "unit_hits": 9,
+  "avg_line_len": 73.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 649,
+  "chars": 3003,
+  "lines": 39,
+  "gap_ratio": 0.72,
+  "unit_hits": 5,
+  "avg_line_len": 76.3,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 650,
+  "chars": 1913,
+  "lines": 37,
+  "gap_ratio": 0.0,
+  "unit_hits": 15,
+  "avg_line_len": 51.3,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 651,
+  "chars": 2579,
+  "lines": 38,
+  "gap_ratio": 0.5,
+  "unit_hits": 11,
+  "avg_line_len": 67.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 652,
+  "chars": 3585,
+  "lines": 46,
+  "gap_ratio": 0.89,
+  "unit_hits": 10,
+  "avg_line_len": 77.7,
+  "headings": [
+   "I.     ii.     HI.        IV."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 653,
+  "chars": 2606,
+  "lines": 39,
+  "gap_ratio": 0.49,
+  "unit_hits": 6,
+  "avg_line_len": 65.8,
+  "headings": [
+   "II.   n i.             IV.      V."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 654,
+  "chars": 2714,
+  "lines": 37,
+  "gap_ratio": 0.59,
+  "unit_hits": 9,
+  "avg_line_len": 72.3,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 655,
+  "chars": 2304,
+  "lines": 35,
+  "gap_ratio": 0.37,
+  "unit_hits": 6,
+  "avg_line_len": 66.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 656,
+  "chars": 2577,
+  "lines": 35,
+  "gap_ratio": 0.46,
+  "unit_hits": 11,
+  "avg_line_len": 73.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 657,
+  "chars": 2627,
+  "lines": 41,
+  "gap_ratio": 0.34,
+  "unit_hits": 6,
+  "avg_line_len": 64.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 658,
+  "chars": 1873,
+  "lines": 34,
+  "gap_ratio": 0.21,
+  "unit_hits": 13,
+  "avg_line_len": 53.9,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 659,
+  "chars": 1958,
+  "lines": 36,
+  "gap_ratio": 0.08,
+  "unit_hits": 13,
+  "avg_line_len": 53.6,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 660,
+  "chars": 2927,
+  "lines": 40,
+  "gap_ratio": 0.5,
+  "unit_hits": 5,
+  "avg_line_len": 72.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 661,
+  "chars": 2350,
+  "lines": 37,
+  "gap_ratio": 0.3,
+  "unit_hits": 9,
+  "avg_line_len": 62.5,
+  "headings": [
+   "IT. III.                 IV.     V.        VI. VII. V ili."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 662,
+  "chars": 1865,
+  "lines": 36,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 51.1,
+  "headings": [
+   "V I .NI A ROM A T IZ Z A T I."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 663,
+  "chars": 2194,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 1,
+  "avg_line_len": 52.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 664,
+  "chars": 2211,
+  "lines": 40,
+  "gap_ratio": 0.28,
+  "unit_hits": 3,
+  "avg_line_len": 54.1,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 665,
+  "chars": 2241,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 666,
+  "chars": 2912,
+  "lines": 43,
+  "gap_ratio": 0.23,
+  "unit_hits": 3,
+  "avg_line_len": 66.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 667,
+  "chars": 3518,
+  "lines": 44,
+  "gap_ratio": 0.64,
+  "unit_hits": 4,
+  "avg_line_len": 80.0,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 668,
+  "chars": 2745,
+  "lines": 45,
+  "gap_ratio": 0.76,
+  "unit_hits": 5,
+  "avg_line_len": 60.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 669,
+  "chars": 22854,
+  "lines": 212,
+  "gap_ratio": 0.23,
+  "unit_hits": 1,
+  "avg_line_len": 106.7,
+  "headings": [
+   "COI                  04               1    04",
+   "COI",
+   "1 . LO 1 CLO4 ', © ‘,",
+   "04© 11 LO©LO 1, no ["
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 670,
+  "chars": 3993,
+  "lines": 70,
+  "gap_ratio": 0.31,
+  "unit_hits": 0,
+  "avg_line_len": 56.4,
+  "headings": [
+   "I ® I ® I 2 | 2 | | | |"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 671,
+  "chars": 2090,
+  "lines": 39,
+  "gap_ratio": 0.03,
+  "unit_hits": 7,
+  "avg_line_len": 52.8,
+  "headings": [
+   "X X II."
+  ],
+  "tags": [
+   "heading",
+   "recipe"
+  ]
+ },
+ {
+  "page": 672,
+  "chars": 1957,
+  "lines": 37,
+  "gap_ratio": 0.32,
+  "unit_hits": 13,
+  "avg_line_len": 51.8,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 673,
+  "chars": 3250,
+  "lines": 40,
+  "gap_ratio": 0.75,
+  "unit_hits": 4,
+  "avg_line_len": 81.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 674,
+  "chars": 2593,
+  "lines": 41,
+  "gap_ratio": 0.66,
+  "unit_hits": 7,
+  "avg_line_len": 62.2,
+  "headings": [
+   "VI. VII. V ili. IX . X."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 675,
+  "chars": 2064,
+  "lines": 38,
+  "gap_ratio": 0.45,
+  "unit_hits": 1,
+  "avg_line_len": 53.2,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 676,
+  "chars": 2070,
+  "lines": 35,
+  "gap_ratio": 0.29,
+  "unit_hits": 9,
+  "avg_line_len": 58.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 677,
+  "chars": 2391,
+  "lines": 36,
+  "gap_ratio": 0.36,
+  "unit_hits": 8,
+  "avg_line_len": 65.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 678,
+  "chars": 2385,
+  "lines": 37,
+  "gap_ratio": 0.3,
+  "unit_hits": 8,
+  "avg_line_len": 63.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 679,
+  "chars": 2060,
+  "lines": 32,
+  "gap_ratio": 0.28,
+  "unit_hits": 12,
+  "avg_line_len": 63.4,
+  "headings": [
+   "VERMOUTH ALLA VANIGLIA."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 680,
+  "chars": 1970,
+  "lines": 34,
+  "gap_ratio": 0.21,
+  "unit_hits": 2,
+  "avg_line_len": 57.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 681,
+  "chars": 2418,
+  "lines": 37,
+  "gap_ratio": 0.32,
+  "unit_hits": 3,
+  "avg_line_len": 65.5,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 682,
+  "chars": 2519,
+  "lines": 36,
+  "gap_ratio": 0.58,
+  "unit_hits": 4,
+  "avg_line_len": 68.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 683,
+  "chars": 2617,
+  "lines": 34,
+  "gap_ratio": 0.47,
+  "unit_hits": 9,
+  "avg_line_len": 76.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 684,
+  "chars": 2534,
+  "lines": 38,
+  "gap_ratio": 0.47,
+  "unit_hits": 6,
+  "avg_line_len": 66.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 685,
+  "chars": 2038,
+  "lines": 37,
+  "gap_ratio": 0.08,
+  "unit_hits": 3,
+  "avg_line_len": 54.1,
+  "headings": [
+   "IIL"
+  ],
+  "tags": [
+   "heading",
+   "recipe"
+  ]
+ },
+ {
+  "page": 686,
+  "chars": 2294,
+  "lines": 38,
+  "gap_ratio": 0.26,
+  "unit_hits": 8,
+  "avg_line_len": 59.7,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 687,
+  "chars": 2538,
+  "lines": 38,
+  "gap_ratio": 0.37,
+  "unit_hits": 4,
+  "avg_line_len": 65.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 688,
+  "chars": 3019,
+  "lines": 36,
+  "gap_ratio": 0.56,
+  "unit_hits": 9,
+  "avg_line_len": 82.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 689,
+  "chars": 2610,
+  "lines": 36,
+  "gap_ratio": 0.42,
+  "unit_hits": 3,
+  "avg_line_len": 72.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 690,
+  "chars": 2367,
+  "lines": 41,
+  "gap_ratio": 0.29,
+  "unit_hits": 5,
+  "avg_line_len": 57.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 691,
+  "chars": 2916,
+  "lines": 40,
+  "gap_ratio": 0.55,
+  "unit_hits": 9,
+  "avg_line_len": 73.1,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 692,
+  "chars": 2083,
+  "lines": 35,
+  "gap_ratio": 0.29,
+  "unit_hits": 8,
+  "avg_line_len": 59.2,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 693,
+  "chars": 2464,
+  "lines": 37,
+  "gap_ratio": 0.3,
+  "unit_hits": 16,
+  "avg_line_len": 65.5,
+  "headings": [
+   "III."
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 694,
+  "chars": 1712,
+  "lines": 34,
+  "gap_ratio": 0.06,
+  "unit_hits": 1,
+  "avg_line_len": 50.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 695,
+  "chars": 1925,
+  "lines": 36,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 53.1,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 696,
+  "chars": 2376,
+  "lines": 41,
+  "gap_ratio": 0.32,
+  "unit_hits": 1,
+  "avg_line_len": 57.7,
+  "headings": [
+   "F R U TTI"
+  ],
+  "tags": [
+   "heading"
+  ]
+ },
+ {
+  "page": 697,
+  "chars": 2213,
+  "lines": 39,
+  "gap_ratio": 0.0,
+  "unit_hits": 2,
+  "avg_line_len": 55.8,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 698,
+  "chars": 1440,
+  "lines": 33,
+  "gap_ratio": 0.06,
+  "unit_hits": 0,
+  "avg_line_len": 42.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 699,
+  "chars": 2046,
+  "lines": 35,
+  "gap_ratio": 0.2,
+  "unit_hits": 9,
+  "avg_line_len": 57.4,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 700,
+  "chars": 2905,
+  "lines": 40,
+  "gap_ratio": 0.55,
+  "unit_hits": 6,
+  "avg_line_len": 71.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 701,
+  "chars": 3822,
+  "lines": 41,
+  "gap_ratio": 0.88,
+  "unit_hits": 6,
+  "avg_line_len": 92.2,
+  "headings": [
+   "CURA£AO."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 702,
+  "chars": 2068,
+  "lines": 37,
+  "gap_ratio": 0.0,
+  "unit_hits": 3,
+  "avg_line_len": 54.8,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 703,
+  "chars": 2226,
+  "lines": 41,
+  "gap_ratio": 0.0,
+  "unit_hits": 5,
+  "avg_line_len": 53.4,
+  "headings": [],
+  "tags": [
+   "recipe"
+  ]
+ },
+ {
+  "page": 704,
+  "chars": 862,
+  "lines": 16,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 52.9,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 705,
+  "chars": 2519,
+  "lines": 27,
+  "gap_ratio": 0.81,
+  "unit_hits": 0,
+  "avg_line_len": 92.3,
+  "headings": [
+   "PERCENTUALE DI ALCOOL CONTENUTA NEI VARI LIQUORI."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 706,
+  "chars": 2519,
+  "lines": 32,
+  "gap_ratio": 0.5,
+  "unit_hits": 6,
+  "avg_line_len": 77.8,
+  "headings": [
+   "APPENDICE AL RICETTARIO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 707,
+  "chars": 2729,
+  "lines": 38,
+  "gap_ratio": 0.55,
+  "unit_hits": 3,
+  "avg_line_len": 70.9,
+  "headings": [
+   "V II."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 708,
+  "chars": 2947,
+  "lines": 39,
+  "gap_ratio": 0.23,
+  "unit_hits": 4,
+  "avg_line_len": 74.6,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 709,
+  "chars": 2925,
+  "lines": 37,
+  "gap_ratio": 0.62,
+  "unit_hits": 3,
+  "avg_line_len": 78.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 710,
+  "chars": 2187,
+  "lines": 37,
+  "gap_ratio": 0.7,
+  "unit_hits": 3,
+  "avg_line_len": 58.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 711,
+  "chars": 2346,
+  "lines": 35,
+  "gap_ratio": 0.23,
+  "unit_hits": 14,
+  "avg_line_len": 66.0,
+  "headings": [],
+  "tags": []
+ },
+ {
+  "page": 712,
+  "chars": 2358,
+  "lines": 34,
+  "gap_ratio": 0.47,
+  "unit_hits": 4,
+  "avg_line_len": 68.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 713,
+  "chars": 2633,
+  "lines": 35,
+  "gap_ratio": 0.6,
+  "unit_hits": 7,
+  "avg_line_len": 75.1,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 714,
+  "chars": 1685,
+  "lines": 21,
+  "gap_ratio": 0.62,
+  "unit_hits": 3,
+  "avg_line_len": 79.2,
+  "headings": [
+   "SCOTUM.",
+   "P LN E"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 715,
+  "chars": 1,
+  "lines": 1,
+  "gap_ratio": 0.0,
+  "unit_hits": 0,
+  "avg_line_len": 1,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ },
+ {
+  "page": 716,
+  "chars": 1984,
+  "lines": 38,
+  "gap_ratio": 0.55,
+  "unit_hits": 0,
+  "avg_line_len": 51.4,
+  "headings": [
+   "INDICE A LFABETICO"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 717,
+  "chars": 2695,
+  "lines": 46,
+  "gap_ratio": 0.98,
+  "unit_hits": 0,
+  "avg_line_len": 57.6,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 718,
+  "chars": 2643,
+  "lines": 46,
+  "gap_ratio": 1.0,
+  "unit_hits": 2,
+  "avg_line_len": 56.5,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 719,
+  "chars": 2636,
+  "lines": 46,
+  "gap_ratio": 1.0,
+  "unit_hits": 1,
+  "avg_line_len": 56.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 720,
+  "chars": 2653,
+  "lines": 46,
+  "gap_ratio": 0.91,
+  "unit_hits": 0,
+  "avg_line_len": 56.7,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 721,
+  "chars": 2580,
+  "lines": 46,
+  "gap_ratio": 0.96,
+  "unit_hits": 0,
+  "avg_line_len": 55.1,
+  "headings": [
+   "(AI) 422, (O) 495, (T)               423), (T) 223.",
+   "462), (T) 221,             (R) (D. 380), (S) 269."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 722,
+  "chars": 2463,
+  "lines": 46,
+  "gap_ratio": 0.85,
+  "unit_hits": 1,
+  "avg_line_len": 52.6,
+  "headings": [
+   "(T) 223.                                   (M) 425, (O) 465,"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 723,
+  "chars": 2653,
+  "lines": 46,
+  "gap_ratio": 0.98,
+  "unit_hits": 0,
+  "avg_line_len": 57.0,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 724,
+  "chars": 2522,
+  "lines": 46,
+  "gap_ratio": 0.89,
+  "unit_hits": 4,
+  "avg_line_len": 53.9,
+  "headings": [
+   "F                      (Cr. D) 390-391."
+  ],
+  "tags": [
+   "table",
+   "heading",
+   "recipe"
+  ]
+ },
+ {
+  "page": 725,
+  "chars": 2507,
+  "lines": 46,
+  "gap_ratio": 0.8,
+  "unit_hits": 7,
+  "avg_line_len": 53.5,
+  "headings": [],
+  "tags": [
+   "table",
+   "recipe"
+  ]
+ },
+ {
+  "page": 726,
+  "chars": 2522,
+  "lines": 46,
+  "gap_ratio": 0.93,
+  "unit_hits": 0,
+  "avg_line_len": 53.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 727,
+  "chars": 2280,
+  "lines": 46,
+  "gap_ratio": 0.85,
+  "unit_hits": 0,
+  "avg_line_len": 48.6,
+  "headings": [
+   "(T) 226.                   (Cr. M) 437, (O) 481.",
+   "248, (D) 400, (O) 480. I"
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 728,
+  "chars": 2349,
+  "lines": 46,
+  "gap_ratio": 0.76,
+  "unit_hits": 0,
+  "avg_line_len": 50.1,
+  "headings": [
+   "538, (Es) 249, (0)484,      (R) 649."
+  ],
+  "tags": [
+   "table",
+   "heading"
+  ]
+ },
+ {
+  "page": 729,
+  "chars": 2610,
+  "lines": 46,
+  "gap_ratio": 1.0,
+  "unit_hits": 0,
+  "avg_line_len": 55.8,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 730,
+  "chars": 2541,
+  "lines": 46,
+  "gap_ratio": 0.85,
+  "unit_hits": 0,
+  "avg_line_len": 54.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 731,
+  "chars": 2437,
+  "lines": 46,
+  "gap_ratio": 0.98,
+  "unit_hits": 0,
+  "avg_line_len": 52.3,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 732,
+  "chars": 2662,
+  "lines": 46,
+  "gap_ratio": 0.8,
+  "unit_hits": 0,
+  "avg_line_len": 56.9,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 733,
+  "chars": 555,
+  "lines": 12,
+  "gap_ratio": 0.67,
+  "unit_hits": 0,
+  "avg_line_len": 46.4,
+  "headings": [],
+  "tags": [
+   "table"
+  ]
+ },
+ {
+  "page": 734,
+  "chars": 0,
+  "lines": 0,
+  "gap_ratio": 0,
+  "unit_hits": 0,
+  "avg_line_len": 0,
+  "headings": [],
+  "tags": [
+   "empty"
+  ]
+ }
+]

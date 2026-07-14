@@ -1,0 +1,393 @@
+[
+ {
+  "id": "bitter-extract-ii",
+  "page": 628,
+  "section_en": "Bitter Extracts",
+  "title_it": "II.",
+  "title_en": "Bitter Extract II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di Limoni",
+    "name_en": "Lemon peel",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di Arance",
+    "name_en": "Orange peel",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel cherry",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta",
+    "name_en": "Mint",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol 70°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Proportions appear to be for a single formulation.",
+  "confidence": 0.85
+ },
+ {
+  "id": "bitter-extract-iii-iv",
+  "page": 628,
+  "section_en": "Bitter Extracts",
+  "title_it": "III./IV.",
+  "title_en": "Bitter Extract III/IV",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 450,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     450
+    ]
+   },
+   {
+    "name_it": "Ireos (rad.)",
+    "name_en": "Iris root",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     450
+    ]
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     450
+    ]
+   },
+   {
+    "name_it": "Polipodio quercino",
+    "name_en": "Oak fern",
+    "qty": 370,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     450
+    ]
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     550
+    ]
+   },
+   {
+    "name_it": "Imperatoria (rad.)",
+    "name_en": "Masterwort root",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     125
+    ],
+    "note": "Column 1 omitted; Column 2 shows 125 g"
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     125
+    ]
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ],
+    "note": "Both columns omitted"
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Allspice",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     125
+    ]
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     250
+    ],
+    "note": "Column 1 omitted; Column 2 shows 250 g"
+   },
+   {
+    "name_it": "Enula campana",
+    "name_en": "Elecampane",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     250
+    ]
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     250
+    ]
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     50
+    ]
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol 70°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     20
+    ]
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "This recipe presents two formulations side by side (columns III and IV).",
+  "confidence": 0.8
+ },
+ {
+  "id": "bitter-extract-di-stettino",
+  "page": 628,
+  "section_en": "Bitter Extracts",
+  "title_it": "A. di Stettino",
+  "title_en": "Bitter Extract di Stettino",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zodoaria",
+    "name_en": "Zedoary",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcanna",
+    "name_en": "Alkanet",
+    "qty": 105,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "confidence": 0.88
+ },
+ {
+  "id": "stomatic-bitter-i",
+  "page": 628,
+  "section_en": "Stomatic Bitters",
+  "title_it": "A. Stomático. I.",
+  "title_en": "Stomatic Bitter I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 440,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover / Marsh trefoil",
+    "qty": 880,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 1220,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno quassio",
+    "name_en": "Quassia wood",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "confidence": 0.9
+ }
+]

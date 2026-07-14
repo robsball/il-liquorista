@@ -1,0 +1,218 @@
+[
+ {
+  "id": "orange-liqueur-ii",
+  "page": 437,
+  "section_en": "Orange Liqueurs",
+  "title_it": "Liquore d'arance II",
+  "title_en": "Orange Liqueur II",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "final product alcohol 38%, sugar 40%"
+  },
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "alcool di 65°"
+  },
+  "duration": {
+   "amount": 20,
+   "unit": "days",
+   "note": "10 days initial maceration + 10 days after sugar addition"
+  },
+  "ingredients": [
+   {
+    "name_it": "scorze secche di arance amare",
+    "name_en": "dried bitter orange peel",
+    "qty": 75,
+    "unit": "g"
+   },
+   {
+    "name_it": "scorze gialle di arance dolci fresche",
+    "name_en": "fresh sweet orange peel, yellow",
+    "qty": 24,
+    "unit": "g"
+   },
+   {
+    "name_it": "garofani",
+    "name_en": "cloves",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "cannella",
+    "name_en": "cinnamon",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "alcool di 65°",
+    "name_en": "alcohol at 65°",
+    "qty": 700,
+    "unit": "mL"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 600,
+    "unit": "mL"
+   },
+   {
+    "name_it": "cocciniglia",
+    "name_en": "cochineal (red dye)",
+    "qty": 6,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Finely pound the cochineal, cinnamon, cloves, and dried bitter orange peel.",
+   "Cut the fresh orange peel into small pieces and pound with a little sugar.",
+   "Macerate everything in the alcohol for 10 days.",
+   "Add the sugar solution, shake well, and macerate for another 10 days.",
+   "Filter after adding 5–6 g of liquid caramel and an equal amount of cochineal red No. 2."
+  ],
+  "notes_en": "Special brown color. Final product: 20 liters at 38% alcohol, 40% sugar.",
+  "confidence": 0.92
+ },
+ {
+  "id": "orange-liqueur-iii",
+  "page": 437,
+  "section_en": "Orange Liqueurs",
+  "title_it": "Liquore d'arance III",
+  "title_en": "Orange Liqueur III",
+  "method": "maceration",
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "scorza di arance amare",
+    "name_en": "bitter orange peel",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "scorza di arance dolci",
+    "name_en": "sweet orange peel",
+    "qty": 300,
+    "unit": "g"
+   },
+   {
+    "name_it": "cannella",
+    "name_en": "cinnamon",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "vaniglia",
+    "name_en": "vanilla",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "noce moscata",
+    "name_en": "nutmeg",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "alcool di 95°",
+    "name_en": "alcohol at 95°",
+    "qty": 2500,
+    "unit": "mL"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 1500,
+    "unit": "mL"
+   },
+   {
+    "name_it": "rhum giamaica",
+    "name_en": "Jamaica rum",
+    "qty": 1000,
+    "unit": "g"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 2500,
+    "unit": "g"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 1000,
+    "unit": "mL"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Press and filter the tincture.",
+   "Add Jamaica rum, sugar, and water."
+  ],
+  "notes_en": "Brown color.",
+  "confidence": 0.9
+ },
+ {
+  "id": "home-made-orange-liqueur-iv",
+  "page": 437,
+  "section_en": "Orange Liqueurs",
+  "title_it": "Liquore d'arance casalingo",
+  "title_en": "Home-Made Orange Liqueur (IV)",
+  "method": "maceration",
+  "ingredients": [
+   {
+    "name_it": "scorze di arance verdognole",
+    "name_en": "greenish orange peel",
+    "qty": 4,
+    "unit": "whole fruits",
+    "note": "chopped"
+   },
+   {
+    "name_it": "cannella",
+    "name_en": "cinnamon",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "calamo aromatico",
+    "name_en": "sweet flag (calamus)",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "macis",
+    "name_en": "mace",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "vaniglia",
+    "name_en": "vanilla",
+    "qty": 5,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Place in a vessel, chopping four still-greenish orange peels, together with 10 g cinnamon, 10 g sweet flag, 10 g mace, and 5 g vanilla."
+  ],
+  "notes_en": "Recipe appears incomplete in source text.",
+  "ocr_flags": [
+   "scorzo (should be 'scorza')",
+   "verdognole (dialectal for 'verdognuole')"
+  ],
+  "confidence": 0.75
+ }
+]

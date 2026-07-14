@@ -1,0 +1,347 @@
+[
+ {
+  "id": "half-cognac-cut-cognac",
+  "page": 329,
+  "section_en": "Cognac and Cognac Imitations",
+  "title_it": "Mezzo Cognac Cognac tagliato",
+  "title_en": "Half Cognac, Cut Cognac",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cognac genuino",
+    "name_en": "Genuine cognac",
+    "qty": 7.5,
+    "unit": "litres",
+    "variants": [
+     5,
+     2.5
+    ],
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Colour with catechu tincture."
+  ],
+  "notes_en": "Formula I shown; two alternative proportions provided in columns.",
+  "confidence": 0.85
+ },
+ {
+  "id": "old-fine-cognac-blend",
+  "page": 329,
+  "section_en": "Cognac and Cognac Imitations",
+  "title_it": "Cognac fino vecchio",
+  "title_en": "Old Fine Cognac (Formula II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "Alcool di 60°–65°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cognac fino vecchio",
+    "name_en": "Old fine cognac",
+    "qty": 15,
+    "unit": "litres",
+    "variants": [
+     10
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°–65°",
+    "name_en": "Alcohol 60°–65° GL",
+    "qty": 23,
+    "unit": "litres",
+    "variants": [
+     8.4
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino di Malaga vecchio",
+    "name_en": "Old Malaga wine",
+    "qty": 2,
+    "unit": "litres",
+    "variants": [
+     20
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "litres",
+    "note": "quantity not specified in formula I; 30 litres in variant",
+    "variants": [
+     30
+    ]
+   },
+   {
+    "name_it": "Thè Pecco",
+    "name_en": "Pekoe tea",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "macerated in alcohol beforehand"
+   }
+  ],
+  "steps_en": [
+   "Macerate Pekoe tea in the alcohol beforehand.",
+   "Combine all ingredients.",
+   "Macerate for 15–20 days.",
+   "Decant and filter everything."
+  ],
+  "notes_en": "Two alternative proportions provided in columns.",
+  "confidence": 0.82
+ },
+ {
+  "id": "cognac-aroma",
+  "page": 329,
+  "section_en": "Cognac and Cognac Imitations",
+  "title_it": "Aroma di Cognac",
+  "title_en": "Cognac Aroma",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "Alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olii di mandorle amare torrefatti",
+    "name_en": "Toasted bitter almond oils",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amaro",
+    "name_en": "Bitter almond essential oil",
+    "qty": null,
+    "unit": "g",
+    "variants": [
+     0.1
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere enentico",
+    "name_en": "Ethyl ether",
+    "qty": 0.1,
+    "unit": "g",
+    "variants": [
+     0.2
+    ],
+    "unit_implicit": true,
+    "ocr_flags": [
+     "Utero enantico"
+    ]
+   },
+   {
+    "name_it": "Assenza artificiale di ciliegio",
+    "name_en": "Artificial cherry essence",
+    "qty": 0.1,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Semi di coriandoli pestati",
+    "name_en": "Crushed coriander seeds",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     25
+    ]
+   },
+   {
+    "name_it": "Capilvenere del Canada",
+    "name_en": "Canadian maidenhair fern",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_it": "Thè verde contuso",
+    "name_en": "Bruised green tea",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_it": "Fiori di malva",
+    "name_en": "Mallow flowers",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     1
+    ]
+   },
+   {
+    "name_it": "Radice liquirizia decorticata",
+    "name_en": "Peeled liquorice root",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_it": "Radice di ireos di Firenze",
+    "name_en": "Florentine iris root",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     1
+    ]
+   },
+   {
+    "name_it": "Semi di angelica pestati",
+    "name_en": "Crushed angelica seeds",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Legno sassafrasso contuso",
+    "name_en": "Bruised sassafras wood",
+    "qty": null,
+    "unit": "g",
+    "variants": [
+     5
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Catecù polverizzato",
+    "name_en": "Powdered catechu",
+    "qty": null,
+    "unit": "g",
+    "variants": [
+     2
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60° GL",
+    "qty": 20,
+    "unit": "litres",
+    "variants": [
+     20
+    ],
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all solid ingredients.",
+   "Add alcohol.",
+   "Macerate for 15–20 days.",
+   "Decant, press the residue, and finally filter everything."
+  ],
+  "notes_en": "Two alternative proportions provided in columns.",
+  "confidence": 0.78
+ },
+ {
+  "id": "cognac-imitation-i",
+  "page": 329,
+  "section_en": "Cognac and Cognac Imitations",
+  "title_it": "Imitazioni di Cognac (Formula I)",
+  "title_en": "Cognac Imitation (Formula I)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90° GL",
+    "qty": 100,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 19.5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rhum Giamaica genuino",
+    "name_en": "Genuine Jamaica rum",
+    "qty": 7,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 1.5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di vinaccioli",
+    "name_en": "Grape seed essential oil",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 0.35,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the grape seed essential oil first with the alcohol.",
+   "Add the vanilla extract and the rum.",
+   "Finally add the water and simple syrup."
+  ],
+  "notes_en": "Yields approximately 146 litres finished product.",
+  "confidence": 0.88
+ }
+]

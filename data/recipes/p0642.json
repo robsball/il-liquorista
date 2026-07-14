@@ -1,0 +1,232 @@
+[
+ {
+  "id": "stomachic-boonecamp-i",
+  "page": 642,
+  "section_en": "Stomachic Boonecamp",
+  "title_it": "Stomatico Boonecamp I",
+  "title_en": "Stomachic Boonecamp I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Agarico bianco",
+    "name_en": "White agaric",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea (foglie)",
+    "name_en": "Centaury (leaves)",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (radice)",
+    "name_en": "Gentian (root)",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Inula campana",
+    "name_en": "Elecampane",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio (foglie senza steli)",
+    "name_en": "Wormwood (leaves without stems)",
+    "qty": 1000,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 1000,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol at 75°",
+    "qty": 2,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di menta crispa",
+    "name_en": "Essential oil of spearmint",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "dissolved in 1 liter of 95° alcohol, added when tincture is ready"
+   }
+  ],
+  "steps_en": [
+   "Macerate the listed botanicals in 2 liters of 75° alcohol.",
+   "When the tincture is ready, add a solution of 5 grams of spearmint essential oil dissolved in 1 liter of 95° alcohol."
+  ],
+  "notes_en": "Essential oil of spearmint is added in a separate solution once the main maceration is complete.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "stomachic-boonecamp-ii",
+  "page": 642,
+  "section_en": "Stomachic Boonecamp",
+  "title_it": "Stomatico Boonecamp II",
+  "title_en": "Stomachic Boonecamp II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 260,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Agarico bianco",
+    "name_en": "White agaric",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio (foglio)",
+    "name_en": "Wormwood (leaf)",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 6,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanicals in 6 liters of 95° alcohol and 3 liters of water."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.94
+ }
+]

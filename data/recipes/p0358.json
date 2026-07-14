@@ -1,0 +1,234 @@
+[
+ {
+  "id": "bitter-almond-oil-liqueur",
+  "page": 358,
+  "section_en": "Essential Oil Liqueurs",
+  "title_it": "Olio essenziale di mandorle amaro",
+  "title_en": "Bitter Almond Oil Liqueur",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 2,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di mandorle amaro",
+    "name_en": "Bitter almond essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Bergamot essential oil",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 2,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the essential oils with the 90° alcohol.",
+   "Allow the filtered liqueur to rest for a long time."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "apricot-kernel-brandy",
+  "page": 358,
+  "section_en": "Fruit Brandies",
+  "title_it": "Di albicocche",
+  "title_en": "Apricot Kernel Brandy",
+  "method": "distillation",
+  "yield": {
+   "amount": 24,
+   "amount_max": 26,
+   "unit": "parts",
+   "note": "yield varies according to the alcohol strength of the wine used"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noccioli di albicocca",
+    "name_en": "Apricot kernels",
+    "qty": 2,
+    "unit": "parts",
+    "unit_implicit": false,
+    "note": "crushed, shells removed"
+   },
+   {
+    "name_it": "Vino generoso",
+    "name_en": "Generous wine (fortified wine)",
+    "qty": 100,
+    "unit": "parts",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero in polvere",
+    "name_en": "Powdered sugar",
+    "qty": 1,
+    "unit": "part",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Crush 2 parts of apricot kernels and remove their shells.",
+   "Place the kernels in maceration in 100 parts of generous (fortified) wine.",
+   "The next day, distill the mash to obtain 24 to 26 parts of aromatic alcohol, depending on the alcohol strength of the wine.",
+   "Dissolve 1 part of powdered sugar in this alcohol.",
+   "Filter rapidly."
+  ],
+  "notes_en": "This brandy has the flavor of Kirsch liqueur or may be confused with black cherry brandy.",
+  "confidence": 0.93
+ },
+ {
+  "id": "slivovitz",
+  "page": 358,
+  "section_en": "Fruit Brandies",
+  "title_it": "Slivovitz",
+  "title_en": "Slivovitz",
+  "method": "distillation",
+  "notes_en": "Slivovitz is a product of Austria-Hungary, distilled from plums (sometimes with added wine or grape refuse) after fermentation. The pits of the plums impart a bitter almond flavor to Slivovitz, and in other respects it resembles cognac to a certain degree. It is considered a Hungarian national beverage, prepared with great care. The price of fine aged varieties approaches that of cognac.",
+  "ingredients": [],
+  "steps_en": [
+   "Prepare as indicated for Kirschenwasser, using plums instead of cherries, possibly with the addition of wine or grape refuse after fermentation."
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "slivovitz-imitation-i",
+  "page": 358,
+  "section_en": "Slivovitz Imitations",
+  "title_it": "Imitazione di Slivovitz - Ricetta I",
+  "title_en": "Slivovitz Imitation — Recipe I",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1,
+   "unit": "liter",
+   "note": "proportions per liter of fine alcohol"
+  },
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool fino di 45-50%",
+   "note": "range given"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     20
+    ],
+    "note": "15–20 g per liter of alcohol"
+   },
+   {
+    "name_it": "Essenza (una delle seguenti)",
+    "name_en": "Essence (one of the following)",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     50
+    ],
+    "note": "25–50 g per liter of alcohol"
+   },
+   {
+    "name_it": "Slivovitz vero, fino",
+    "name_en": "True fine Slivovitz",
+    "qty": null,
+    "unit": "milliliters",
+    "note": "proportion not clearly specified in text; marked as ambiguous"
+   }
+  ],
+  "steps_en": [
+   "For each liter of fine alcohol (45–50%), add 15–20 g of refined sugar and 25–50 g of one of the essences listed below.",
+   "Add a proportion of true fine Slivovitz."
+  ],
+  "ocr_flags": [
+   "Slivovitz proportion (text shows '/■>- *\\ di Slibowitz' — unclear OCR)"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "carob-liqueur",
+  "page": 358,
+  "section_en": "Essence for Slivovitz Imitation",
+  "title_it": "Essenza I - Carrubo",
+  "title_en": "Essence I — Carob",
+  "method": "essence",
+  "yield": null,
+  "ingredients": [
+   {
+    "name_it": "Carrubo",
+    "name_en": "Carob",
+    "qty": 200,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquirizia rad.",
+    "name_en": "Licorice root",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Table salt",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di lamponi cono.",
+    "name_en": "Raspberry water (concentrated)",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1000,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "OCR reads '000'; interpreted as 1000 g or equivalent liquid measure"
+   }
+  ],
+  "steps_en": [
+   "Combine carob, licorice root, table salt, and concentrated raspberry water.",
+   "Macerate or infuse in 90° alcohol (1000 g total).",
+   "Use as essence in Slivovitz imitation formula."
+  ],
+  "ocr_flags": [
+   "Alcool di 90° quantity shown as '000' in OCR — interpreted as 1000 g"
+  ],
+  "confidence": 0.8
+ }
+]

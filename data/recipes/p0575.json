@@ -1,0 +1,61 @@
+[
+ {
+  "id": "vittoria",
+  "page": 575,
+  "title_it": "Vittoria",
+  "title_en": "Vittoria",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza artificiale di ananas",
+    "name_en": "Artificial pineapple essence",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza artificiale di fragole",
+    "name_en": "Artificial strawberry essence",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza artificiale di pesca",
+    "name_en": "Artificial peach essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcoolaturo di fragole",
+    "name_en": "Strawberry alcoholate",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all essences and alcoholate with 90° alcohol."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Alcoolaturo (possibly 'Alcoolaturo' or variant spelling)"
+  ],
+  "confidence": 0.92
+ }
+]

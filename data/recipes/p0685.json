@@ -1,0 +1,198 @@
+[
+ {
+  "id": "asperula-fresh-i",
+  "page": 685,
+  "section_en": "Asperula (Woodruff) Preparations",
+  "title_it": "Asperula fresca",
+  "title_en": "Fresh Asperula (Woodruff)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool di 45°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Asperula fresca",
+    "name_en": "Fresh asperula (woodruff)",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 45°",
+    "name_en": "Alcohol at 45° ABV",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "Alternatively, white wine may be used (5 L)"
+   }
+  ],
+  "steps_en": [
+   "Macerate the fresh asperula in alcohol for 8 days."
+  ],
+  "notes_en": "White wine (5 L) may be substituted for the alcohol.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "asperula-odorata-fresh-essence",
+  "page": 685,
+  "section_en": "Asperula (Woodruff) Preparations",
+  "title_it": "Asperula odorata fresca in essenza",
+  "title_en": "Fresh Fragrant Asperula Essence",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 0.5,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Asperula odorata fresca",
+    "name_en": "Fresh fragrant asperula (woodruff)",
+    "qty": null,
+    "unit": "",
+    "note": "At flowering stage, trimmed of lower stem (2–4 cm) and lower leaves, freed of foreign matter"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": null,
+    "unit": ""
+   }
+  ],
+  "steps_en": [
+   "Compress fresh flowering asperula lightly in a wide glass vessel.",
+   "Treat with alcohol.",
+   "After 0.5 hours, pour off the extracted liquid through a porcelain strainer onto fresh herb.",
+   "After a further 0.5 hours, strain. The essence is ready.",
+   "Do not use immediately; allow it to rest in the cellar until the green colour has disappeared."
+  ],
+  "notes_en": "Avoid adding oranges, citrons, etc. The essence must be cleared of its green colour before use.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "asperula-infusion-iii",
+  "page": 685,
+  "section_en": "Asperula (Woodruff) Preparations",
+  "title_it": "Asperula in infusione",
+  "title_en": "Asperula Infusion",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Pianta intera di asperula",
+    "name_en": "Whole asperula plant",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "Collected before flowering"
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito",
+    "name_en": "Spirit",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine asperula plant, white wine, rose water, orange flower water, and spirit.",
+   "Allow to rest for 8 hours.",
+   "Press lightly and filter."
+  ],
+  "notes_en": "Use pre-flowering asperula for best results.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "asperula-fresh-alcohol-distilled-water",
+  "page": 685,
+  "section_en": "Asperula (Woodruff) Preparations",
+  "title_it": "Asperula fresca con alcool e acqua distillata",
+  "title_en": "Fresh Asperula with Alcohol and Distilled Water",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Asperula fresca",
+    "name_en": "Fresh asperula",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95° ABV",
+    "qty": null,
+    "unit": "",
+    "note": "quantity not clearly specified in OCR"
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": null,
+    "unit": "",
+    "note": "quantity marked as '000' in OCR (corrupted)"
+   }
+  ],
+  "steps_en": [
+   "Combine fresh asperula, alcohol at 95° ABV, and distilled water.",
+   "Macerate for 8 days in a warm environment, agitating frequently.",
+   "Press and filter.",
+   "Add punch extract (50 g)."
+  ],
+  "notes_en": "Maintain a warm, gentle temperature during maceration. The final step calls for the addition of punch extract.",
+  "ocr_flags": [
+   "Aequa (should be Acqua)",
+   "distillata quantities unclear in OCR ('000')",
+   "Kstratto (should be Estratto)"
+  ],
+  "confidence": 0.85
+ }
+]

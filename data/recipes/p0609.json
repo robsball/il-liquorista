@@ -1,0 +1,381 @@
+[
+ {
+  "id": "aromatic-stomachic-bonnemcamp",
+  "page": 609,
+  "section_en": "Aromatic Stomachics",
+  "title_it": "A. Stomático Bonnemkamp",
+  "title_en": "Aromatic Stomachic Bonnemkamp",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di anice stellato",
+    "name_en": "Star anise essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Lemon essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Angelica essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di galanga",
+    "name_en": "Galangal essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di maggiorana",
+    "name_en": "Marjoram essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": 7,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di agarico",
+    "name_en": "Agaric tincture",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Soluzione di zucchero",
+    "name_en": "Sugar solution",
+    "qty": 1,
+    "unit": "kg",
+    "note": "dissolved in 4.5 kg water"
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils with the agaric tincture.",
+   "Add 4.5 kg of 90° alcohol.",
+   "Prepare a sugar solution by dissolving 1 kg sugar in 4.5 kg water.",
+   "Add the sugar solution to the mixture."
+  ],
+  "notes_en": "The sugar solution is added after initial maceration of the oils with alcohol.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "aromatic-stomachic-crimea",
+  "page": 609,
+  "section_en": "Aromatic Stomachics",
+  "title_it": "A. Stomático di Crimea",
+  "title_en": "Aromatic Stomachic Crimea",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool a 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di arance amare",
+    "name_en": "Bitter orange essential oil",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Wormwood essential oil",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di ginepro",
+    "name_en": "Juniper essential oil",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Lemon essential oil",
+    "qty": 1.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di zenzero",
+    "name_en": "Ginger essential oil",
+    "qty": 1.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di anice russo",
+    "name_en": "Russian anise essential oil",
+    "qty": 1.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Angelica essential oil",
+    "qty": 1.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di macia",
+    "name_en": "Mace essential oil",
+    "qty": 1.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 1.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 0.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenziale di galanga",
+    "name_en": "Galangal essential oil",
+    "qty": 0.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool a 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 10,
+    "unit": "L (implied)",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 0.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 18,
+    "unit": "L (implied)",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils together.",
+   "Add the oils to 10 liters of 90° alcohol.",
+   "Dissolve 0.5 kg sugar in 18 liters of water.",
+   "Combine the alcohol mixture with the sugar solution."
+  ],
+  "notes_en": "Brown in color (Brúno).",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "aromatic-stomachic-dutch",
+  "page": 609,
+  "section_en": "Aromatic Stomachics",
+  "title_it": "A. Stomático Olandese",
+  "title_en": "Aromatic Stomachic Dutch",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Angelica essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "variants": [
+     25
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di arancia amara",
+    "name_en": "Bitter orange essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "variants": [
+     25
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Lemon essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": null,
+    "unit": "drops",
+    "variants": [
+     12
+    ],
+    "note": "not used in first variant"
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "variants": [
+     12
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di galanga",
+    "name_en": "Galangal essential oil",
+    "qty": 5,
+    "unit": "drops",
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di macia",
+    "name_en": "Mace essential oil",
+    "qty": null,
+    "unit": "drops",
+    "variants": [
+     12
+    ],
+    "note": "not used in first variant"
+   },
+   {
+    "name_it": "Olio essenziale di noce moscata",
+    "name_en": "Nutmeg essential oil",
+    "qty": null,
+    "unit": "drops",
+    "variants": [
+     12
+    ],
+    "note": "not used in first variant"
+   },
+   {
+    "name_it": "Olio essenziale di zenzero",
+    "name_en": "Ginger essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "variants": [
+     25
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di maggiorana",
+    "name_en": "Marjoram essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Wormwood essential oil",
+    "qty": 15,
+    "unit": "drops",
+    "variants": [
+     25
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di anice stellato",
+    "name_en": "Star anise essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "variants": [
+     12
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": null,
+    "unit": "drops",
+    "variants": [
+     5
+    ],
+    "note": "not used in first variant"
+   },
+   {
+    "name_it": "Olio essenziale di ginepro",
+    "name_en": "Juniper essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "variants": [
+     24
+    ]
+   },
+   {
+    "name_it": "Liquore semplice",
+    "name_en": "Simple liqueur",
+    "qty": 10,
+    "unit": "L",
+    "variants": [
+     10
+    ],
+    "note": "see page 488"
+   }
+  ],
+  "steps_en": [
+   "Mix all specified essential oils according to the chosen variant proportions.",
+   "Add the mixture to 10 liters of simple liqueur (page 488)."
+  ],
+  "notes_en": "Two variants are provided in the original: a shorter version (first column) and an extended formula (second column). Some ingredients appear only in one variant or the other.",
+  "ocr_flags": [
+   "OLANDESI - likely 'OLANDESE' (Dutch)",
+   "arancia am. - expanded to 'arancia amara' (bitter orange)"
+  ],
+  "confidence": 0.89
+ }
+]

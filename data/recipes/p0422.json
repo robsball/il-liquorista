@@ -1,0 +1,354 @@
+[
+ {
+  "id": "mandarin-liqueur",
+  "page": 422,
+  "section_en": "Citrus Liqueurs",
+  "title_it": "Liquore di Mandarini",
+  "title_en": "Mandarin Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 50,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "40% alcool e 40% zucchero"
+  },
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "succo di mandarini",
+    "name_en": "mandarin juice",
+    "qty": 100,
+    "unit": "fruits",
+    "note": "seeds removed"
+   },
+   {
+    "name_it": "Olio essenziale di mandarini",
+    "name_en": "mandarin essential oil",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "rose essential oil",
+    "qty": 0.3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool di 80°",
+    "name_en": "alcohol of 80°",
+    "qty": 7,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "vino bianco secco",
+    "name_en": "dry white wine",
+    "qty": 3,
+    "unit": "litres",
+    "note": "non-acidic"
+   },
+   {
+    "name_it": "siroppo di zucchero",
+    "name_en": "sugar syrup",
+    "qty": 20,
+    "unit": "litres",
+    "note": "20 kg sugar"
+   },
+   {
+    "name_it": "acqua di fiori d'arancio",
+    "name_en": "orange flower water",
+    "qty": 1,
+    "unit": "litre"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 2,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Rest for 15 days.",
+   "Strain the liquid and transfer to the still with the juice of 100 deseeded mandarins.",
+   "Distil 8 litres of aromatic spirit (72%).",
+   "Mix with pure alcohol (100°) into which the essential oils have been diluted.",
+   "Add alcohol, wine, syrup, orange flower water, and water as listed.",
+   "Final product yields 50 litres at 40% alcohol and 40% sugar."
+  ],
+  "confidence": 0.92,
+  "ocr_flags": []
+ },
+ {
+  "id": "usquebaugh-scottish",
+  "page": 422,
+  "section_en": "Compound Essences & Digestifs",
+  "title_it": "Usquebaugh Scozzese",
+  "title_en": "Scottish Usquebaugh",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "lemon peel",
+    "qty": 100,
+    "unit": "g",
+    "variants": [
+     null
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "bitter orange",
+    "qty": 40,
+    "unit": "g",
+    "variants": [
+     null
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "anise",
+    "qty": 20,
+    "unit": "g",
+    "variants": [
+     12
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "angelica root",
+    "qty": 20,
+    "unit": "g",
+    "variants": [
+     12
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "calamus",
+    "qty": 20,
+    "unit": "g",
+    "variants": [
+     null
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "coriander seeds",
+    "qty": 15,
+    "unit": "g",
+    "variants": [
+     25
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "bitter almond",
+    "qty": 50,
+    "unit": "g",
+    "variants": [
+     null
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "lemon balm",
+    "qty": 40,
+    "unit": "g",
+    "variants": [
+     null
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "juniper berries",
+    "qty": 30,
+    "unit": "g",
+    "variants": [
+     25
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "iris root",
+    "qty": 20,
+    "unit": "g",
+    "variants": [
+     null
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "cinnamon",
+    "qty": 15,
+    "unit": "g",
+    "variants": [
+     6
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macie",
+    "name_en": "mace",
+    "qty": 10,
+    "unit": "g",
+    "variants": [
+     null
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "nutmeg",
+    "qty": 10,
+    "unit": "g",
+    "variants": [
+     null
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ambretta",
+    "name_en": "ambrette seed",
+    "qty": null,
+    "unit": "g",
+    "variants": [
+     6
+    ],
+    "unit_implicit": false,
+    "note": "column 1 omitted"
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "saffron",
+    "qty": 10,
+    "unit": "g",
+    "variants": [
+     6
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "alcohol of 85°",
+    "qty": 4,
+    "unit": "litres",
+    "variants": [
+     4
+    ],
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for the Angelica Rosoli (page 372)."
+  ],
+  "notes_en": "Yellow colour. Yields 10 litres.",
+  "confidence": 0.88,
+  "ocr_flags": []
+ },
+ {
+  "id": "vespetrò",
+  "page": 422,
+  "section_en": "Compound Essences & Digestifs",
+  "title_it": "Vespetrò",
+  "title_en": "Vespetrò",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "angelica seeds",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "coriander seeds",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pinocchio (semi)",
+    "name_en": "pine nuts",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Carvi",
+    "name_en": "caraway seeds",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "green anise",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "lemon peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "alcohol of 85°",
+    "qty": 6,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Distil 4 litres.",
+   "Add syrup prepared with 4 kg sugar dissolved in 3 kg water."
+  ],
+  "notes_en": "Yellow colour. Yields 10 litres.",
+  "confidence": 0.91,
+  "ocr_flags": [
+   "Pinocchio"
+  ]
+ }
+]

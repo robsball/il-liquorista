@@ -1,0 +1,170 @@
+[
+ {
+  "id": "rum-jamaica-i",
+  "page": 339,
+  "section_en": "Rum Jamaica",
+  "title_it": "Rhum Giamaica I",
+  "title_en": "Rum Jamaica I",
+  "method": "maceration",
+  "yield": {
+   "amount": 100,
+   "unit": "litres",
+   "note": "approx. after 3–4 months rest"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": {
+   "amount": 3,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 11.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 29.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Rhum genuino di Giamaica",
+    "name_en": "Genuine Jamaican rum",
+    "qty": 50,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 500,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Vaniglia a pezzetti",
+    "name_en": "Vanilla pieces",
+    "qty": 60,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Thè verde",
+    "name_en": "Green tea",
+    "qty": 150,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Cannella finissima",
+    "name_en": "Fine cinnamon",
+    "qty": 100,
+    "unit": "grammes"
+   }
+  ],
+  "steps_en": [
+   "Place the last three ingredients (vanilla, green tea, cinnamon) in a cloth bag and suspend it inside the barrel.",
+   "After 3–4 weeks, remove the bag and let the rum rest for 3–4 months.",
+   "Colour as usual."
+  ],
+  "notes_en": "The spices are enclosed in a cloth sack and left to infuse in the barrel for several weeks before removal.",
+  "confidence": 0.95
+ },
+ {
+  "id": "rum-jamaica-ii",
+  "page": 339,
+  "section_en": "Rum Jamaica",
+  "title_it": "Rhum Giamaica II",
+  "title_en": "Rum Jamaica II",
+  "method": "distillation",
+  "yield": {
+   "amount": 100,
+   "unit": "litres",
+   "note": "final product at 70° ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "rhum a 70°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 34,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 20.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Aceto di vino scelto",
+    "name_en": "Selected wine vinegar",
+    "qty": 1.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Siroppo imbianchito",
+    "name_en": "Whitened syrup",
+    "qty": 1,
+    "unit": "kilograms"
+   },
+   {
+    "name_it": "Tarmino",
+    "name_en": "Tamarind",
+    "qty": 375,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Acido solforico",
+    "name_en": "Sulphuric acid",
+    "qty": 190,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Nero fumo in polvere",
+    "name_en": "Carbon black powder",
+    "qty": 250,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Balsamo del Perù",
+    "name_en": "Balsam of Peru",
+    "qty": 130,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 65,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Zucchero candito bruno",
+    "name_en": "Brown rock candy",
+    "qty": 2,
+    "unit": "kilograms"
+   },
+   {
+    "name_it": "Rhum genuino di Giamaica",
+    "name_en": "Genuine Jamaican rum",
+    "qty": 8,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients in a still.",
+   "Close the alembic and distil slowly, collecting 35 litres of distillate.",
+   "Add the balsam of Peru, acetic ether, brown rock candy, and genuine Jamaican rum.",
+   "Complete the 100 litres of rum at 70° ABV by adding water and alcohol as needed."
+  ],
+  "notes_en": "The distillation is slow and controlled. The final product is adjusted to exactly 100 litres at 70° alcohol strength.",
+  "ocr_flags": [
+   "Tarmino (possibly tamarind; OCR may have corrupted the original)"
+  ],
+  "confidence": 0.92
+ }
+]

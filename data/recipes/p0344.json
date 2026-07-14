@@ -1,0 +1,175 @@
+[
+ {
+  "id": "half-aracotagliato-quality-ii",
+  "page": 344,
+  "section_en": "Half Aracotagliato (Cut)",
+  "title_it": "Mezzo Aracotagliato",
+  "title_en": "Half Aracotagliato (Quality II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arac genuino",
+    "name_en": "Genuine Arak",
+    "qty": 6,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     3,
+     1.5
+    ]
+   },
+   {
+    "name_it": "Imitazione di arac",
+    "name_en": "Arak imitation",
+    "qty": 4,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     7,
+     8.5
+    ]
+   },
+   {
+    "name_it": "Tintura di zafferano",
+    "name_en": "Saffron tincture",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": false,
+    "note": "a little, for colouring"
+   }
+  ],
+  "steps_en": [
+   "Mix genuine arak and arak imitation in the specified proportions.",
+   "Colour with a little saffron tincture."
+  ],
+  "notes_en": "Three proportion variants shown for decreasing scales of production.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "arak-imitations-i",
+  "page": 344,
+  "section_en": "Arak Imitations",
+  "title_it": "Imitazioni di Arac (I)",
+  "title_en": "Arak Imitations (I)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit (90° ABV)",
+    "qty": 120,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 63,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di arac",
+    "name_en": "Arak extract",
+    "qty": 1.75,
+    "unit": "litres",
+    "unit_implicit": false,
+    "note": "1.5–2 litres"
+   },
+   {
+    "name_it": "Arac di Goa genuino",
+    "name_en": "Genuine Goa arak",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 75,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 160,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Balsamo del Perù",
+    "name_en": "Balsam of Peru",
+    "qty": 75,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the ether and balsam together with the arak extract.",
+   "Add the genuine Goa arak.",
+   "Finally add the spirit and water.",
+   "Colour pale yellow."
+  ],
+  "notes_en": "This formula yields a close imitation of genuine arak.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "arak-imitations-ii-fine-without-essences",
+  "page": 344,
+  "section_en": "Arak Imitations",
+  "title_it": "Imitazione fina (senza essenze)",
+  "title_en": "Fine Arak Imitation (without essences)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit (90° ABV)",
+    "qty": 49.75,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 44.25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arac di Goa genuino",
+    "name_en": "Genuine Goa arak",
+    "qty": 50,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix water with spirit (90° ABV).",
+   "Add genuine Goa arak.",
+   "Blend thoroughly."
+  ],
+  "notes_en": "A simplified formula omitting aromatic essences, yielding a clean imitation based on genuine Goa arak.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ }
+]

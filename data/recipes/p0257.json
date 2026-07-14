@@ -1,0 +1,358 @@
+[
+ {
+  "id": "cordiale",
+  "page": 257,
+  "section_en": "Cordials",
+  "title_it": "Cordiale",
+  "title_en": "Cordial",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 260,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 330,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Irido (alcoolato)",
+    "name_en": "Iris root (alcoholate)",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "curaçao-olandese",
+  "page": 257,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao Olandese",
+  "title_en": "Dutch Curaçao",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 450,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella - Cassia",
+    "name_en": "Cinnamon - Cassia",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "alpine-herbs-of-switzerland",
+  "page": 257,
+  "section_en": "Herbal Liqueurs",
+  "title_it": "Erbe alpine della Svizzera",
+  "title_en": "Alpine herbs of Switzerland",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio svizzero",
+    "name_en": "Swiss wormwood",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Amaro stomatico bianco",
+    "name_en": "White bitter (stomatic)",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Estraggone",
+    "name_en": "Tarragon",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "clove-liqueur",
+  "page": 257,
+  "section_en": "Liqueurs",
+  "title_it": "Garofani",
+  "title_en": "Clove liqueur",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 33,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     0
+    ]
+   },
+   {
+    "name_it": "Anico russo",
+    "name_en": "Russian anise",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Mandorle amaro",
+    "name_en": "Bitter almond",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Arance dolci",
+    "name_en": "Sweet oranges",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_it": "Petit grain",
+    "name_en": "Petit grain",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Rose (turche)",
+    "name_en": "Roses (Turkish)",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Iride (alcoolato)",
+    "name_en": "Iris root (alcoholate)",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     33
+    ],
+    "note": "column 1 blank; column 2 = 33 g"
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Tintura di zafferano",
+    "name_en": "Saffron tincture",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     8
+    ],
+    "note": "column 1 blank; column 2 = 8 g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two proportion columns appear to be given.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "juniper-liqueur",
+  "page": 257,
+  "section_en": "Liqueurs",
+  "title_it": "Ginepro",
+  "title_en": "Juniper liqueur",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper berries",
+    "qty": 470,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vinaccioli",
+    "name_en": "Grape pips",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "jokey",
+  "page": 257,
+  "section_en": "Liqueurs",
+  "title_it": "Jokey",
+  "title_en": "Jokey",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel cherry",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Fiori di arancio",
+    "name_en": "Orange blossom",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [
+   "Cornino"
+  ],
+  "confidence": 0.8
+ }
+]

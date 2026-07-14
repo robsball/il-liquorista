@@ -1,0 +1,423 @@
+[
+ {
+  "id": "anisette-varieties",
+  "page": 469,
+  "section_en": "Anisette (Comparative Formulations)",
+  "title_it": "Anisette — Varianti VII, VIII, IX, X",
+  "title_en": "Anisette — Varieties VII, VIII, IX, X (Coarse, Semi-fine, Fine, Extra-fine)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale d'anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     3,
+     5,
+     7
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale d'anice verde",
+    "name_en": "Essential oil of green anise",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     3,
+     2,
+     3
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     1,
+     0.1,
+     1
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di sassafrasso",
+    "name_en": "Essential oil of sassafras",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     0.4,
+     0.6
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di finocchio dolce",
+    "name_en": "Essential oil of sweet fennel",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     0.6,
+     0.6,
+     0.8
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Tintura d'iride",
+    "name_en": "Iris tincture",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     4,
+     0
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Tintura d'ambra non moschera",
+    "name_en": "Non-musk amber tincture",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     0.6,
+     1
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     2.8,
+     3.2,
+     3.2
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.25,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     2.5,
+     4.4,
+     6.2
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6.6,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     5.5,
+     3.9,
+     2.6
+    ],
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Mix the essential oils, tinctures, alcohol, sugar, and water according to the selected formulation (VII, VIII, IX, or X)."
+  ],
+  "notes_en": "Four graduated formulations, from coarse to extra-fine, showing progressive refinement through adjusted ratios of oils and tinctures.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "anisette-della-martinica",
+  "page": 469,
+  "section_en": "Anisette",
+  "title_it": "Anisette della Martinica",
+  "title_en": "Anisette of Martinique",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "alcohol 38%"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "see page 243"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 8.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 7.7,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "see page 264"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.8,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Combine the special essence, alcohol, syrup, and water."
+  ],
+  "notes_en": "Yield: 20 litres at 38% alcohol strength.",
+  "ocr_flags": [],
+  "confidence": 0.97
+ },
+ {
+  "id": "anisette-doppia",
+  "page": 469,
+  "section_en": "Anisette",
+  "title_it": "Anisette doppia",
+  "title_en": "Double Anisette",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "alcohol 38%"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Tintura di muschio",
+    "name_en": "Musk tincture",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Essenza di neroli",
+    "name_en": "Neroli essence",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 8.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 7.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils and tinctures with the alcohol, syrup, and water."
+  ],
+  "notes_en": "Yield: 20 litres at 38% alcohol strength. The richer blend of oils and perfuming agents distinguishes this 'double' version.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "arancio-variety-i",
+  "page": 469,
+  "section_en": "Arancio (Orange)",
+  "title_it": "Arancio — Variante I",
+  "title_en": "Orange Liqueur — Variety I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool a 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale d'arance dolci",
+    "name_en": "Essential oil of sweet oranges",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Alcool a 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 6.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 12,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Combine the essential oil of sweet orange with the alcohol, syrup, and water."
+  ],
+  "notes_en": "Color: golden yellow. A lighter formulation compared to Variety II.",
+  "ocr_flags": [],
+  "confidence": 0.97
+ },
+ {
+  "id": "arancio-variety-ii",
+  "page": 469,
+  "section_en": "Arancio (Orange)",
+  "title_it": "Arancio — Variante II",
+  "title_en": "Orange Liqueur — Variety II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool a 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale d'arance dolci",
+    "name_en": "Essential oil of sweet oranges",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di cedro",
+    "name_en": "Essential oil of citron",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Alcool a 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 12.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Combine the essential oils of sweet orange and citron with the alcohol, syrup, and water."
+  ],
+  "notes_en": "Color: golden yellow. A richer formulation with both orange and citron oils.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ }
+]

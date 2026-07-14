@@ -1,0 +1,312 @@
+[
+ {
+  "id": "rosolio-delle-barbade",
+  "page": 496,
+  "section_en": "Rosoli (Sweet Liqueurs)",
+  "title_it": "Rosolio delle Barbade",
+  "title_en": "Rosolio of Barbados",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di cedro",
+    "name_en": "Essential oil of citron",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance dolci",
+    "name_en": "Essential oil of sweet oranges",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di noci moscate",
+    "name_en": "Essential oil of nutmeg",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 950,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 950,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils with alcohol, sugar, and water.",
+   "Mix thoroughly.",
+   "Color clear yellow using saffron tincture."
+  ],
+  "notes_en": "Clear yellow color; saffron tincture used for coloring.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "rosolio-dei-107-anni",
+  "page": 496,
+  "section_en": "Rosoli (Sweet Liqueurs)",
+  "title_it": "Rosolio dei 107 anni",
+  "title_en": "Rosolio of 107 Years",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1.75,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.6,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients.",
+   "Mix thoroughly.",
+   "Filter the mixture.",
+   "Color saffron yellow."
+  ],
+  "notes_en": "Saffron yellow color. Note: Instead of true rose essence (which is very expensive), one may use 7–8 drops of fine rosy geranium essence.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "rosolio-di-londra",
+  "page": 496,
+  "section_en": "Rosoli (Sweet Liqueurs)",
+  "title_it": "Rosolio di Londra",
+  "title_en": "Rosolio of London",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance amare",
+    "name_en": "Essential oil of bitter oranges",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di maggiorana",
+    "name_en": "Essential oil of marjoram",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di radice d'angelica",
+    "name_en": "Essential oil of angelica root",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di cognac",
+    "name_en": "Cognac extract",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 11,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 8,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils, cognac extract, alcohol, and syrup.",
+   "Mix thoroughly.",
+   "Filter.",
+   "Color brown."
+  ],
+  "notes_en": "Brown color; filter before use.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "rosolio-di-torino",
+  "page": 496,
+  "section_en": "Rosoli (Sweet Liqueurs)",
+  "title_it": "Rosolio di Torino",
+  "title_en": "Rosolio of Turin",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 0.5,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "OCR uncertain; possibly 0.2 or 0.5"
+   },
+   {
+    "name_it": "Olio essenz. di finocchio dolce",
+    "name_en": "Essential oil of sweet fennel",
+    "qty": 0.3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of roses",
+    "qty": 0.2,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "OCR uncertain; possibly 0.0 or 0.2"
+   },
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 4,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils with alcohol, sugar, and water.",
+   "Mix thoroughly.",
+   "Color red using cochineal."
+  ],
+  "notes_en": "Red color; cochineal used for coloring.",
+  "ocr_flags": [
+   "mandorle amare qty (appears as ':*' — guessed 0.5 g)",
+   "rose oil qty (appears as '0.0' — may be 0.2 or similar small amount)"
+  ],
+  "confidence": 0.85
+ }
+]

@@ -1,0 +1,348 @@
+[
+ {
+  "id": "balsam-of-riga",
+  "page": 541,
+  "title_it": "Balsamo di Riga",
+  "title_en": "Balsam of Riga",
+  "method": "infusion",
+  "yield": {
+   "amount": 4,
+   "unit": "kg",
+   "note": "from infusion of botanicals in absolute alcohol"
+  },
+  "alcohol_strength": {
+   "degrees": 100,
+   "raw": "Alcool assoluto"
+  },
+  "ingredients": [
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Luppolo spagnuolo",
+    "name_en": "Spanish hops",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Spincervino",
+    "name_en": "Spincervino",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Levistico",
+    "name_en": "Lovage",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla romana",
+    "name_en": "Roman chamomile",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "benedettino",
+  "page": 541,
+  "title_it": "Benedettino",
+  "title_en": "Benedictine",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1070,
+   "unit": "mL",
+   "note": "total of essence and spirit"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza di Benedettino",
+    "name_en": "Benedictine essence",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "calamus-i",
+  "page": 541,
+  "title_it": "Calamo I",
+  "title_en": "Calamus I",
+  "method": "maceration",
+  "yield": {
+   "amount": 805,
+   "unit": "mL",
+   "note": "net yield after maceration"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandolo",
+    "name_en": "Coriander",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di zafferano",
+    "name_en": "Saffron tincture",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 805,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "calamus-ii",
+  "page": 541,
+  "title_it": "Calamo II",
+  "title_en": "Calamus II",
+  "method": "essence",
+  "yield": {
+   "amount": 1050,
+   "unit": "mL",
+   "note": "total of essence oil and spirit"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "cinnamon",
+  "page": 541,
+  "title_it": "Cannella",
+  "title_en": "Cinnamon",
+  "method": "essence",
+  "yield": {
+   "amount": 1050,
+   "unit": "mL",
+   "note": "total of essential oil, aromatic extract, and spirit"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto aromatico",
+    "name_en": "Aromatic extract",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity not specified (OCR corruption likely)"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "ocr_flags": [
+   "Estratto aromatico quantity: text shows 'a' or corrupted symbol—likely missing value"
+  ],
+  "confidence": 0.75
+ }
+]

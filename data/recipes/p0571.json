@@ -1,0 +1,212 @@
+[
+ {
+  "id": "bitter-ratafia",
+  "page": 571,
+  "section_en": "Ratafias",
+  "title_it": "Ratafià amaro",
+  "title_en": "Bitter Ratafia",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 11.5,
+   "unit": "litres"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'angelica",
+    "name_en": "Angelica essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Cardamom essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di maggiorana",
+    "name_en": "Marjoram essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Melissa essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Wormwood essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di cognac",
+    "name_en": "Cognac extract",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di lamponi",
+    "name_en": "Raspberry extract",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore semplice",
+    "name_en": "Simple liqueur",
+    "qty": 11.5,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils and extracts with the simple liqueur."
+  ],
+  "notes_en": "Colour: Brown.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "pineapple-ratafia",
+  "page": 571,
+  "section_en": "Ratafias",
+  "title_it": "Ratafià d'ananas",
+  "title_en": "Pineapple Ratafia",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 11.5,
+   "unit": "litres"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza artificiale d'ananas",
+    "name_en": "Artificial pineapple essence",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di cognac",
+    "name_en": "Cognac extract",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere enantico in soluzione",
+    "name_en": "Ethyl enanthate in solution",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "Prepared with 1 g ethyl enanthate (extracted from grape seeds) in one litre of alcohol"
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido tartarico",
+    "name_en": "Tartaric acid",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore",
+    "name_en": "Liqueur (base spirit)",
+    "qty": 11.5,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients with the base liqueur."
+  ],
+  "notes_en": "Colour: Yellow.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "bergamot-ratafia",
+  "page": 571,
+  "section_en": "Ratafias",
+  "title_it": "Ratafià di bergamotto",
+  "title_en": "Bergamot Ratafia",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 11.5,
+   "unit": "litres"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di bergamotto",
+    "name_en": "Bergamot essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido tartarico",
+    "name_en": "Tartaric acid",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore",
+    "name_en": "Liqueur (base spirit)",
+    "qty": 11.5,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients with the base liqueur."
+  ],
+  "notes_en": "Colour: Yellow.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ }
+]

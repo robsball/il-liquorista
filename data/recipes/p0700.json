@@ -1,0 +1,302 @@
+[
+ {
+  "id": "anise-pastilles",
+  "page": 700,
+  "section_en": "Pastilles and Lozenges",
+  "title_it": "Pastiglie di Anice",
+  "title_en": "Anise Pastilles",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "miscele (estratti da olii essenziali od alcoolati)",
+    "name_en": "blends (essential oil extracts or alcoholates)",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": false,
+    "note": "as indicated for the respective liqueurs"
+   }
+  ],
+  "steps_en": [
+   "Use the blends of essential oil extracts or alcoholates already indicated for the respective liqueurs (Anise, Curaçao, Alkermes, Kümmel, etc.)"
+  ],
+  "notes_en": "Method applies equally to Curaçao, Alkermes, Kümmel, and similar pastilles.",
+  "ocr_flags": [],
+  "confidence": 0.75
+ },
+ {
+  "id": "herbal-liqueur-infusion",
+  "page": 700,
+  "section_en": "Simple Infusion Method",
+  "title_it": "Procedimento semplice per liquori",
+  "title_en": "Simple Method for Herbal Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 2.5,
+   "unit": "hours",
+   "note": "2–3 hours digestion"
+  },
+  "ingredients": [
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 0.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "pacchetto di miscela di vegetali",
+    "name_en": "packet of prepared vegetable blend",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 0.5,
+    "unit": "litre",
+    "unit_implicit": false,
+    "note": "for sugar syrup"
+   }
+  ],
+  "steps_en": [
+   "Digest a prepared packet of vegetable blend in a mixture of 1 litre of alcohol and ½ litre of water for 2–3 hours.",
+   "Filter and press out the solids.",
+   "Add to the filtered liquid a hot solution of 1 kg of sugar dissolved in ½ litre of water."
+  ],
+  "notes_en": "The herbs must be of excellent quality, dry, not aged, weighed out, and intimately mixed.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "amaro-boonekamp",
+  "page": 700,
+  "section_en": "Vegetable Blend Formulas",
+  "title_it": "Amaro Boonekamp",
+  "title_en": "Amaro Boonekamp",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb root",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anico comune",
+    "name_en": "Common anise",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Curcuma (radice)",
+    "name_en": "Turmeric root",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 22,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance immature",
+    "name_en": "Unripe orange",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (radice)",
+    "name_en": "Gentian root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "All herbs must be of excellent quality, dry, not aged, weighed out accurately, and thoroughly mixed together.",
+  "ocr_flags": [
+   "Arance immature"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "amaro-stomatico",
+  "page": 700,
+  "section_en": "Vegetable Blend Formulas",
+  "title_it": "Amaro Stomachico",
+  "title_en": "Amaro Stomachio (Digestive Bitters)",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquirizia (radice)",
+    "name_en": "Licorice root",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimpinella",
+    "name_en": "Pimpinella (Burnet)",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori di sambuco",
+    "name_en": "Elder flowers",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "All herbs must be of excellent quality, dry, not aged, weighed out accurately, and thoroughly mixed together.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "chartreuse-herb-blend",
+  "page": 700,
+  "section_en": "Vegetable Blend Formulas",
+  "title_it": "Chartreuse",
+  "title_en": "Chartreuse Herb Blend",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tanaceto",
+    "name_en": "Tansy",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita (foglie)",
+    "name_en": "Peppermint leaves",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa (foglie)",
+    "name_en": "Lemon balm leaves",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice comune",
+    "name_en": "Common anise",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "All herbs must be of excellent quality, dry, not aged, weighed out accurately, and thoroughly mixed together.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ }
+]

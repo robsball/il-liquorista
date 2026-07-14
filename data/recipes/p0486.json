@@ -1,0 +1,287 @@
+[
+ {
+  "id": "liqueur-iv",
+  "page": 486,
+  "section_en": "Liqueurs",
+  "title_it": "IV",
+  "title_en": "Liqueur IV",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 31.25,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di cornino",
+    "name_en": "Essential oil of caraway",
+    "qty": 24,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of clove",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di vaniglia",
+    "name_en": "Essential oil of vanilla",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.75,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 12,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6.5,
+    "unit": "liters"
+   }
+  ],
+  "notes_en": "Colourless.",
+  "confidence": 0.95
+ },
+ {
+  "id": "latte-di-vecchia",
+  "page": 486,
+  "section_en": "Liqueurs",
+  "title_it": "Latte di vecchia",
+  "title_en": "Old Woman's Milk",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 6,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Gommorosina Benzoe",
+    "name_en": "Gum benzoin",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Balsamo del Perù",
+    "name_en": "Balsam of Peru",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di menta",
+    "name_en": "Essential oil of mint",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di fior di lavanda",
+    "name_en": "Essential oil of lavender flower",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di noci moscato",
+    "name_en": "Essential oil of nutmeg",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 6,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Dissolve 15 g gum benzoin and 2 g balsam of Peru in 6 liters of 90° alcohol.",
+   "Add the essential oils.",
+   "Filter or tint to a light red colour."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "limone",
+  "page": 486,
+  "section_en": "Liqueurs",
+  "title_it": "Limone",
+  "title_en": "Lemon",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 3,
+    "unit": "milliliters",
+    "variants": [
+     3.5
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": 0.5,
+    "unit": "milliliters",
+    "variants": [
+     0.5
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 3,
+    "unit": "liters",
+    "variants": [
+     3.5
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kilograms",
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.5,
+    "unit": "liters",
+    "variants": [
+     4
+    ]
+   }
+  ],
+  "notes_en": "Two proportions given: Rosolio (first column) and Crema (second column). Yellow colour.",
+  "confidence": 0.93
+ },
+ {
+  "id": "liquore-dell-anatolia",
+  "page": 486,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore dell'Anatolia",
+  "title_en": "Liqueur of Anatolia",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool a 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di Cannella Ceylan",
+    "name_en": "Essential oil of Ceylon cinnamon",
+    "qty": 2,
+    "unit": "milliliters",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di menta pip.",
+    "name_en": "Essential oil of peppermint",
+    "qty": 2,
+    "unit": "milliliters",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of clove",
+    "qty": 1,
+    "unit": "milliliters",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di mandorlo amaro",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 2,
+    "unit": "milliliters",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool a 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "liters",
+    "note": "q.b. (as needed) to complete 10 liters"
+   }
+  ],
+  "confidence": 0.9,
+  "ocr_flags": [
+   "menta pip. (abbreviated, likely 'piperita')",
+   "SU (unclear abbreviation in source; interpreted as milliliters context)"
+  ]
+ }
+]

@@ -1,0 +1,277 @@
+[
+ {
+  "id": "superior-unolish-first-print",
+  "page": 514,
+  "section_en": "Essences (Extra)",
+  "title_it": "Superior Unolish Primo Ritenimento",
+  "title_en": "Superior Unolish First Print",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di menta acquatica",
+    "name_en": "Spearmint essential oil",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Verde-erba (Green herb)",
+  "ocr_flags": [
+   "Unolish",
+   "Ritenimento"
+  ],
+  "confidence": 0.65
+ },
+ {
+  "id": "mint-almond",
+  "page": 514,
+  "section_en": "Essences (Extra)",
+  "title_it": "Menta alla Mandorla",
+  "title_en": "Mint with Almond",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "note": "quantity not specified in original"
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amaro",
+    "name_en": "Bitter almond essential oil",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Mace essential oil",
+    "qty": 0.5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di balsamo del Perù",
+    "name_en": "Tincture of balsam of Peru",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "note": "quantity not specified in original"
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "note": "quantity not specified in original"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Incoloro (Colorless)",
+  "ocr_flags": [],
+  "confidence": 0.75
+ },
+ {
+  "id": "nutmeg",
+  "page": 514,
+  "section_en": "Essences (Extra)",
+  "title_it": "Noce Moscata",
+  "title_en": "Nutmeg",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di noci moscate",
+    "name_en": "Nutmeg essence",
+    "qty": 1,
+    "unit": "grams",
+    "variants": [
+     1
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di macis",
+    "name_en": "Mace essence",
+    "qty": 1,
+    "unit": "grams",
+    "variants": [
+     1
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di coriandoli",
+    "name_en": "Coriander essence",
+    "qty": 0.5,
+    "unit": "grams",
+    "variants": null,
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di cannella",
+    "name_en": "Cinnamon essence",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     0.5
+    ],
+    "unit_implicit": true,
+    "note": "not in column I"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 5,
+    "unit": "grams",
+    "variants": null,
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Estratto di cognac",
+    "name_en": "Cognac extract",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     5
+    ],
+    "unit_implicit": true,
+    "note": "not in column I"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Bruno (Brown). Two proportion columns indicated: I and II",
+  "ocr_flags": [],
+  "confidence": 0.8
+ },
+ {
+  "id": "rose",
+  "page": 514,
+  "section_en": "Essences (Extra)",
+  "title_it": "Rosa",
+  "title_en": "Rose",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di rosa",
+    "name_en": "Rose essential oil",
+    "qty": 1.5,
+    "unit": "grams",
+    "variants": [
+     1,
+     0.4,
+     2
+    ],
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Clove essential oil",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     0.5,
+     null,
+     null
+    ],
+    "unit_implicit": true,
+    "note": "not in column I"
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Orange blossom essential oil",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     null,
+     0.2,
+     0.5
+    ],
+    "unit_implicit": true,
+    "note": "not in column I"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": null,
+    "unit": "grams",
+    "variants": [
+     null,
+     2,
+     null
+    ],
+    "unit_implicit": true,
+    "note": "not in column I"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Rosa (cocciniglia) — Cochineal red. Four proportion columns indicated: I, II (Muscosa), III (Bassora), IV. These essences are of extreme intensity; add them gradually to the alcohol.",
+  "ocr_flags": [],
+  "confidence": 0.8
+ },
+ {
+  "id": "rosemary",
+  "page": 514,
+  "section_en": "Essences (Extra)",
+  "title_it": "Rosmarino",
+  "title_en": "Rosemary",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di rosmarino",
+    "name_en": "Rosemary essential oil",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Verde (Green)",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

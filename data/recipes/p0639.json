@@ -1,0 +1,345 @@
+[
+ {
+  "id": "bitter-liqueur-xi-col-1",
+  "page": 639,
+  "section_en": "Bitters and Tonics",
+  "title_it": "Amaro (XI, colonna I)",
+  "title_en": "Bitter Liqueur (XI, Column 1)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb root",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Spirit at 70° GL",
+    "qty": 20,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     100
+    ]
+   },
+   {
+    "name_it": "Agarico bianco",
+    "name_en": "White agaric",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     100
+    ]
+   },
+   {
+    "name_it": "Enula campana",
+    "name_en": "Elecampane root",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     100
+    ]
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus root",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     100
+    ]
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water trefoil",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     200
+    ]
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     250
+    ]
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     250
+    ]
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     6
+    ]
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Spirit at 70° GL",
+    "qty": 2.5,
+    "unit": "l",
+    "unit_implicit": false,
+    "variants": [
+     3
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di menta",
+    "name_en": "Essential oil of mint",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "dissolved in spirit at 95° GL"
+   }
+  ],
+  "steps_en": [
+   "Add the essential oil of mint (30 g) dissolved in spirit at 95° GL."
+  ],
+  "notes_en": "Two proportions shown: Column I and Column II (XI col. II). The mint oil is added at the end.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "bitter-liqueur-iv",
+  "page": 639,
+  "section_en": "Bitters and Tonics",
+  "title_it": "Amaro (IV)",
+  "title_en": "Bitter Liqueur (IV)",
+  "method": "maceration",
+  "yield": {
+   "amount": 2000,
+   "unit": "ml",
+   "note": "total volume from alcohol and water"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cascarilla",
+    "name_en": "Cascarilla bark",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance immature",
+    "name_en": "Immature oranges",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90° GL",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Amaro Angostura (II)."
+  ],
+  "notes_en": "See the Angostura Bitters (II) recipe for detailed instructions.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "fever-drops",
+  "page": 639,
+  "section_en": "Bitters and Tonics",
+  "title_it": "Gocce di Fieber",
+  "title_en": "Fever Drops",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "l",
+   "note": "before mixing with cinchona extract"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 1250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 1250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb root",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60° GL",
+    "qty": 20,
+    "unit": "l",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Then mix this extract with an equal quantity of Cinchona Extract (I)."
+  ],
+  "notes_en": "The final volume will be approximately 40 litres after combining with the cinchona extract.",
+  "ocr_flags": [],
+  "confidence": 0.91
+ }
+]

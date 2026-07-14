@@ -1,0 +1,341 @@
+[
+ {
+  "id": "ginger-angelica-digestive",
+  "page": 624,
+  "section_en": "Digestive Liqueurs",
+  "title_it": "Zenzero e Angelico",
+  "title_en": "Ginger and Angelica",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelico (radicò)",
+    "name_en": "Angelica (root)",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 1100,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Perform prolonged maceration, then strain and press the solids.",
+   "Filter the infusion.",
+   "To prepare the final liqueur: dilute 1.5 litres of the infusion with 4 litres of alcohol at 95°.",
+   "Add 4 litres of syrup containing 2 kg of sugar."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "holy-thistle-liqueur",
+  "page": 624,
+  "section_en": "Digestive Liqueurs",
+  "title_it": "Cardo Santo (II)",
+  "title_en": "Holy Thistle (II)",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica (root)",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimento (allspice)",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di arance",
+    "name_en": "Orange peel",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di limoni",
+    "name_en": "Lemon peel",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol at 70°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe of A. Haftmann",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "haftmann-bitter-aromatic",
+  "page": 624,
+  "section_en": "Aromatic Liqueurs",
+  "title_it": "A. Haftmann (Bitter Aromatico)",
+  "title_en": "A. Haftmann Aromatic Bitter",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 76,
+   "raw": "alcool di 76°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda (fiori)",
+    "name_en": "Lavender (flowers)",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori di cannella",
+    "name_en": "Cinnamon flowers",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero in polvere",
+    "name_en": "Powdered sugar",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 76°",
+    "name_en": "Alcohol at 76°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "english-bitter-i",
+  "page": 624,
+  "section_en": "English Bitters",
+  "title_it": "A. Inglese (I)",
+  "title_en": "English Bitter (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Arance immature",
+    "name_en": "Unripe oranges",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella bianca",
+    "name_en": "White cinnamon",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Alcohol at 96°",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 8 days."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ }
+]

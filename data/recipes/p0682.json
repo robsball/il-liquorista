@@ -1,0 +1,255 @@
+[
+ {
+  "id": "china-wine-with-cocoa",
+  "page": 682,
+  "section_en": "China wines",
+  "title_it": "Vino di china col cacao",
+  "title_en": "China wine with cocoa",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cacao torrefatto",
+    "name_en": "Roasted cocoa",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "96° alcohol",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino di china",
+    "name_en": "China wine",
+    "qty": null,
+    "unit": "ml",
+    "unit_implicit": true,
+    "note": "from previous recipe"
+   },
+   {
+    "name_it": "Sciroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Heat cocoa and 96° alcohol together in a bain-marie.",
+   "Let rest in a bottle for 8 days.",
+   "Add to the china wine prepared above, then add 200 g of simple syrup.",
+   "After another 8 days, filter and store in small bottles."
+  ],
+  "notes_en": "A good tonic and fortifying wine.",
+  "confidence": 0.95
+ },
+ {
+  "id": "chamomile-china-wine",
+  "page": 682,
+  "section_en": "China wines",
+  "title_it": "Vino chinatato alla camomilla",
+  "title_en": "Chamomile china wine",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool a 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "China Calisaia",
+    "name_en": "Calisaya bark",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Camomilla (fiori)",
+    "name_en": "Chamomile flowers",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool a 80°",
+    "name_en": "80° alcohol",
+    "qty": 0.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino rosso generoso",
+    "name_en": "Full-bodied red wine",
+    "qty": 4.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients together for 8 days.",
+   "Strain, pressing out the solids.",
+   "Filter."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "bitter-wine-stomachic-i",
+  "page": 682,
+  "section_en": "Bitter wines",
+  "title_it": "Vino amaro stomatico (I)",
+  "title_en": "Bitter stomachic wine (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Radice secca di genziana in polvere",
+    "name_en": "Dried gentian root powder",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno quassio",
+    "name_en": "Quassia wood",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "60° alcohol",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Miele o zucchero",
+    "name_en": "Honey or sugar",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino rosso o bianco",
+    "name_en": "Red or white wine",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the plant materials in the alcohol for 48 hours.",
+   "Dissolve the honey or sugar cold in the wine.",
+   "Add this solution to the alcohol maceration.",
+   "Macerate further for 8 days, shaking from time to time.",
+   "Filter."
+  ],
+  "confidence": 0.96
+ },
+ {
+  "id": "bitter-wine-stomachic-ii",
+  "page": 682,
+  "section_en": "Bitter wines",
+  "title_it": "Vino amaro stomatico (II)",
+  "title_en": "Bitter stomachic wine (II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Marsh clover",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sassafrasso",
+    "name_en": "Sassafras",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Emila campi",
+    "name_en": "Field everlasting",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity truncated in source"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe marked 'Bej sdli' (Bejsuli). Instructions incomplete.",
+  "ocr_flags": [
+   "Bej sdli",
+   "Emila camp",
+   "Sasaafrasso"
+  ],
+  "confidence": 0.75
+ }
+]

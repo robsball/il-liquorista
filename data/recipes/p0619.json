@@ -1,0 +1,323 @@
+[
+ {
+  "id": "china-liqueur-i",
+  "page": 619,
+  "section_en": "China Liqueur",
+  "title_it": "China alla Cinese I",
+  "title_en": "China Liqueur, Chinese Style I",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "China",
+    "name_en": "China bark",
+    "qty": 1580,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze d'arancio",
+    "name_en": "Orange peel",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Genziana (radice)",
+    "name_en": "Gentian root",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 75,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 10,
+    "unit": "L"
+   },
+   {
+    "name_it": "Essenza di spezie",
+    "name_en": "Spice essence",
+    "qty": 12,
+    "unit": "g",
+    "note": "dissolved in 500 mL of 95° alcohol, added to maceration"
+   }
+  ],
+  "steps_en": [
+   "Soak orange peels in cold water for 24 hours.",
+   "Remove the white inner pith from the peels.",
+   "Combine china bark, treated orange peels, gentian root, and nutmeg.",
+   "Add the spice essence solution (12 g dissolved in 500 mL of 95° alcohol).",
+   "Macerate in 10 L of 85° alcohol."
+  ],
+  "notes_en": "The orange peel must be blanched to remove bitterness before use.",
+  "confidence": 0.92
+ },
+ {
+  "id": "china-liqueur-ii",
+  "page": 619,
+  "section_en": "China Liqueur",
+  "title_it": "China alla Cinese II",
+  "title_en": "China Liqueur, Chinese Style II",
+  "method": "infusion",
+  "yield": {
+   "amount": 12,
+   "unit": "L",
+   "note": "approximate final yield after dilution and sweetening"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "China gialla regia",
+    "name_en": "Royal yellow china bark",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Genziana (radice)",
+    "name_en": "Gentian root",
+    "qty": 55,
+    "unit": "g"
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 800,
+    "unit": "mL"
+   }
+  ],
+  "steps_en": [
+   "Prepare the extract by maceration and digestion of china bark, gentian root, galangal, ginger, and mace in a mixture of 1 L of 90° alcohol and 800 mL water.",
+   "Strain the extract to obtain the base infusion."
+  ],
+  "notes_en": "This is the digestive extract phase. The final liqueur is prepared by mixing the extract with additional spirits and ingredients (see Liquore section below).",
+  "confidence": 0.88
+ },
+ {
+  "id": "china-liqueur-ii-final",
+  "page": 619,
+  "section_en": "China Liqueur",
+  "title_it": "China alla Cinese II - Liquore finale",
+  "title_en": "China Liqueur, Chinese Style II – Final Liqueur",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 12,
+   "unit": "L"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Previous extract",
+    "qty": 1.2,
+    "unit": "L"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4,
+    "unit": "L"
+   },
+   {
+    "name_it": "Arak",
+    "name_en": "Arak",
+    "qty": 0.2,
+    "unit": "L"
+   },
+   {
+    "name_it": "Vino Malaga",
+    "name_en": "Malaga wine",
+    "qty": 0.3,
+    "unit": "L"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 1.2,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.2,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Combine the prepared extract with the alcohol, arak, and Malaga wine.",
+   "Add the sugar syrup.",
+   "Top up with water to reach the desired volume and proof.",
+   "Mix thoroughly and allow to rest before bottling."
+  ],
+  "notes_en": "The arak and Malaga wine add distinctive aromatic and flavor complexity to the final liqueur.",
+  "confidence": 0.9
+ },
+ {
+  "id": "china-liqueur-iii",
+  "page": 619,
+  "section_en": "China Liqueur",
+  "title_it": "China alla Cinese III",
+  "title_en": "China Liqueur, Chinese Style III",
+  "method": "infusion",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "approximate final yield after dilution and sweetening"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "China",
+    "name_en": "China bark",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 800,
+    "unit": "mL"
+   }
+  ],
+  "steps_en": [
+   "Combine china bark, orange peel, cardamom, and cinnamon.",
+   "Macerate in a mixture of 1 L of 90° alcohol and 800 mL water.",
+   "Strain the extract."
+  ],
+  "notes_en": "This is the digestive extract phase. The final liqueur is prepared by blending the extract with additional spirits and ingredients (see Liquore section below).",
+  "confidence": 0.88
+ },
+ {
+  "id": "china-liqueur-iii-final",
+  "page": 619,
+  "section_en": "China Liqueur",
+  "title_it": "China alla Cinese III - Liquore finale",
+  "title_en": "China Liqueur, Chinese Style III – Final Liqueur",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "L"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Previous extract",
+    "qty": 2.8,
+    "unit": "L"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 8.8,
+    "unit": "L"
+   },
+   {
+    "name_it": "Vino Malaga",
+    "name_en": "Malaga wine",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 1.5,
+    "unit": "L"
+   },
+   {
+    "name_it": "Glicerina",
+    "name_en": "Glycerin",
+    "qty": 0.5,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.7,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Blend the prepared extract with the alcohol and Malaga wine.",
+   "Add the sugar syrup and glycerin.",
+   "Top up with water to reach the desired volume.",
+   "Mix thoroughly and allow to rest before bottling."
+  ],
+  "notes_en": "Glycerin adds body and smoothness to this larger-scale formulation.",
+  "confidence": 0.9
+ }
+]

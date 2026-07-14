@@ -1,0 +1,226 @@
+[
+ {
+  "id": "gentian-elixir",
+  "page": 597,
+  "section_en": "Elixirs",
+  "title_it": "Elisir di Genziana",
+  "title_en": "Gentian Elixir",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 56,
+   "raw": "alcool di 56°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity not clearly printed"
+   },
+   {
+    "name_it": "Tormentila",
+    "name_en": "Tormentil",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Muschio",
+    "name_en": "Musk",
+    "qty": 8.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acquavite di 56°",
+    "name_en": "Acquavit, 56° proof",
+    "qty": 6,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Siroppo di fior d'arancio",
+    "name_en": "Orange blossom syrup",
+    "qty": 3,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 15 days.",
+   "Filter.",
+   "Add 3 kg of orange blossom syrup to the filtered liquid."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "china-elixir-i",
+  "page": 597,
+  "section_en": "Elixirs",
+  "title_it": "Elisir di China I",
+  "title_en": "China Elixir, I (Simple)",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Corteccia china contusa",
+    "name_en": "Crushed china bark",
+    "qty": 1000,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90° proof",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 8.4,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water (for syrup)",
+    "qty": 7.2,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Prepare a composite tincture by extracting the crushed china bark in multiple stages with a mixture of 3 kg alcohol (90°) and 1 kg water.",
+   "Mix 3 kg of the composite tincture with 0.3 kg of 90° alcohol.",
+   "Separately prepare a syrup by dissolving 8.4 kg refined sugar in 7.2 kg water.",
+   "Combine the tincture mixture with the prepared syrup."
+  ],
+  "notes_en": "This is the simplest and most highly regarded preparation, as indicated by the Military Medical Pharmacopoeia.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "china-elixir-ii",
+  "page": 597,
+  "section_en": "Elixirs",
+  "title_it": "Elisir di China II",
+  "title_en": "China Elixir, II (Compound)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Corteccia china soppressa",
+    "name_en": "China bark",
+    "qty": 95,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di arance dolci",
+    "name_en": "Sweet orange peel",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Genziana (radice)",
+    "name_en": "Gentian root",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 4,
+    "unit": "g"
+   },
+   {
+    "name_it": "Imperatoria (radice)",
+    "name_en": "Masterwort root",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Iva",
+    "name_en": "Iva (ground pine)",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 0,
+    "unit": "g",
+    "note": "quantity printed as 0, possibly OCR error or to taste"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90° proof",
+    "qty": 2,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Combine all botanical ingredients.",
+   "Macerate in 2 liters of 90° alcohol."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Cannella quantity shown as 0 — may be erroneous or 'to taste'"
+  ],
+  "confidence": 0.85
+ }
+]

@@ -1,0 +1,477 @@
+[
+ {
+  "id": "a-di-riga",
+  "opus": "Fine liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "a-grunewaldi-double",
+  "opus": "Fine liqueurs",
+  "sonnet": "Double spirits"
+ },
+ {
+  "id": "a-doctor",
+  "opus": "Fine liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "a-di-londra",
+  "opus": "Fine liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "a-tedesco",
+  "opus": "Fine liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "a-ptcon",
+  "opus": "Fine liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "absinthe-swiss",
+  "opus": "Fine liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "acqua-cedrata",
+  "opus": "Fine liqueurs",
+  "sonnet": "Fine"
+ },
+ {
+  "id": "absinthe-grand",
+  "opus": "Fine liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "acqua-d-argento",
+  "opus": "Fine liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "acqua-d-oro-i",
+  "opus": "Fine liqueurs",
+  "sonnet": "Fine liqueurs"
+ },
+ {
+  "id": "acqua-bianca",
+  "opus": "Fine liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "acqua-di-mannheim-ii",
+  "opus": "Fine liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "acqua-di-mannheim-i",
+  "opus": "Fine liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "aftmannin",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "acqua-loro",
+  "opus": "Fine liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "amaro-angostura-i",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "alpine-herbs-of-switzerland",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "amaro-angostura-ii",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "amaro-angostura-iii",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "acqua-loriente",
+  "opus": "Fine liqueurs",
+  "sonnet": "Fine liqueurs"
+ },
+ {
+  "id": "amaro-di-amburgo-i",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "amaro-di-amburgo-ii",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "amaro-inglese-i-2",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "amaro-d-amburgo-2",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "amaro-inglese-liquor-i",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Ordinary"
+ },
+ {
+  "id": "amaro-reale-ii",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "amaro-reale-i",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "amaro-inglese-ii-2",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "aromatic-liquor-with-ginger-and-gentian",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "aromatic-of-turin",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Fine liqueurs"
+ },
+ {
+  "id": "absinthe-i-2",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "absinthe-ii",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "absinthe-swiss-2",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "absinthe-swiss-i",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "acquavite-di-danzica-i",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "acquavite-di-hendaye-i",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "acquavite-di-danzica-ii",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "acquavite-di-hendaye-ii",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "amaro-spagnolo-a-m",
+  "opus": "Ordinary liqueurs",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "alcool-90",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "anise-brandy",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "aquavit-malta",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "anise-fennel-liqueur-ii",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Fine liqueurs"
+ },
+ {
+  "id": "arac-di-goa",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "arak-imitations-i",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "arak-batavia",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "arak-imitations-ii-fine-without-essences",
+  "opus": "Spirits (eaux-de-vie)",
+  "sonnet": "Fine liqueurs"
+ },
+ {
+  "id": "apricotina",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Fine liqueurs"
+ },
+ {
+  "id": "apricots",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "bilberry-elixir",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "cassis",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "cassis-and-blackcurrant",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "bitter-cherry-liqueur",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "cassis-rosolio",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "cherry-raspberry-liqueur-ii",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "cherry-raspberry-liqueur-iii",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "cherry-ratafia-variant-i",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "ciliege-liqueur-2",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "currant-liqueur",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "ciliege-liqueur-1",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "date-liqueur",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "fig-liqueur",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "grape-liqueur",
+  "opus": "Ratafias (fruit)",
+  "sonnet": "Ratafias (fruit)"
+ },
+ {
+  "id": "absinthe-rosolio",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "absinthe-common-rosolio",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "absinthe-superfine-cream-1",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "alkermès-of-florence",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "absinthe-superfine-cream-2",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "alkismes-i",
+  "opus": "Rosolios & creams",
+  "sonnet": "Fine liqueurs"
+ },
+ {
+  "id": "alkismes-ii",
+  "opus": "Rosolios & creams",
+  "sonnet": "Fine liqueurs"
+ },
+ {
+  "id": "angelica-rosolio-2",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "angelica-rosolio-3",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "angelica-rosolio",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "anise-rosolio-2",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "badiana-rosolio",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "bitter-almond-rosolio",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "arac-with-eggs-and-cacao",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "cacao-rosolio",
+  "opus": "Rosolios & creams",
+  "sonnet": "Rosolios & creams"
+ },
+ {
+  "id": "cacao-alla-vaniglia",
+  "opus": "Rosolios & creams",
+  "sonnet": "Fine liqueurs"
+ },
+ {
+  "id": "absinthe-double-extract",
+  "opus": "Double spirits",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "angelica",
+  "opus": "Double spirits",
+  "sonnet": "Double spirits"
+ },
+ {
+  "id": "anise",
+  "opus": "Double spirits",
+  "sonnet": "Double spirits"
+ },
+ {
+  "id": "green-liqueur-doppio",
+  "opus": "Double spirits",
+  "sonnet": "Double spirits"
+ },
+ {
+  "id": "curacao-doppio",
+  "opus": "Double spirits",
+  "sonnet": "Double spirits"
+ },
+ {
+  "id": "half-rum-cut-rum",
+  "opus": "Double spirits",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "herbal-liqueur-40-percent",
+  "opus": "Double spirits",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "cinnamon-iii-double",
+  "opus": "Double spirits",
+  "sonnet": "Double spirits"
+ },
+ {
+  "id": "kummel-doppio-di-danzica",
+  "opus": "Double spirits",
+  "sonnet": "Double spirits"
+ },
+ {
+  "id": "liquore-40-percent",
+  "opus": "Double spirits",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "orange-citron-lemon",
+  "opus": "Double spirits",
+  "sonnet": "Double spirits"
+ },
+ {
+  "id": "rum-jamaica-i",
+  "opus": "Double spirits",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "rum-variant-iii",
+  "opus": "Double spirits",
+  "sonnet": "Ordinary liqueurs"
+ },
+ {
+  "id": "stomachic-boonecamp-i",
+  "opus": "Double spirits",
+  "sonnet": "Spirits"
+ },
+ {
+  "id": "stomachic-boonecamp-ii",
+  "opus": "Double spirits",
+  "sonnet": "Spirits"
+ }
+]

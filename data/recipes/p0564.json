@@ -1,0 +1,181 @@
+[
+ {
+  "id": "pear-ratafia-ii",
+  "page": 564,
+  "section_en": "Fruit Liqueurs Recipe Book",
+  "title_it": "II. (Pere)",
+  "title_en": "Pear Ratafia (II)",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [],
+  "steps_en": [
+   "Prepare as with the pineapple recipe; the result naturally improves the better the quality of the pears used, which must be well ripe.",
+   "A little vanilla and raspberry extract may be added."
+  ],
+  "notes_en": "This is a continuation/variant note following an earlier pineapple ratafia recipe (not shown on this page); no separate ingredient list is given.",
+  "ocr_flags": [],
+  "confidence": 0.55
+ },
+ {
+  "id": "peach-liqueur",
+  "page": 564,
+  "section_en": "Fruit Liqueurs Recipe Book",
+  "title_it": "Pesche",
+  "title_en": "Peach Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Pesche",
+    "name_en": "Peaches",
+    "qty": 6,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4.6,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.7,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di mandorle amare",
+    "name_en": "Bitter almond tincture",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Peel perfectly ripe peaches, remove the pits, and mash the pulp into a pulp-like mass.",
+   "Press and strain through cloth; mix the residue with 1.5 liters of water and let it macerate for two days together with the crushed pits (kernels).",
+   "Then press again. Combine this liquid with the juice obtained from the first pressing.",
+   "Dissolve the sugar in this mixture while cold.",
+   "Add the remaining ingredients, color pale pink, and let clarify or filter, keeping the funnel well covered."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "plum-liqueur",
+  "page": 564,
+  "section_en": "Fruit Liqueurs Recipe Book",
+  "title_it": "Prugne",
+  "title_en": "Plum Liqueur",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [],
+  "steps_en": [
+   "Prepare as with the peach liqueur, but color a deep bluish red."
+  ],
+  "notes_en": "References the peach liqueur recipe above for method and proportions.",
+  "ocr_flags": [],
+  "confidence": 0.8
+ },
+ {
+  "id": "currant-liqueur",
+  "page": 564,
+  "section_en": "Fruit Liqueurs Recipe Book",
+  "title_it": "Ribes",
+  "title_en": "Currant Liqueur",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [],
+  "steps_en": [
+   "Prepare as with the Cherry Ratafia."
+  ],
+  "notes_en": "References an earlier Cherry Ratafia recipe not shown on this page.",
+  "ocr_flags": [],
+  "confidence": 0.75
+ },
+ {
+  "id": "grape-liqueur",
+  "page": 564,
+  "section_en": "Fruit Liqueurs Recipe Book",
+  "title_it": "Uva",
+  "title_en": "Grape Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Uva",
+    "name_en": "Grapes",
+    "qty": 6,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.1,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 5.2,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Muscat grapes must be used. Remove the skins, crush the berries by hand, and let them steep with the water and 2.25 liters of alcohol for 8 days.",
+   "Then decant and add the remaining alcohol.",
+   "The sugar is dissolved in the cold liquid, and the mixture is filtered."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

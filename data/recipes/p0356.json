@@ -1,0 +1,251 @@
+[
+ {
+  "id": "essence-for-fruit-brandy-ii",
+  "page": 356,
+  "section_en": "Essences for Brandy and Spirits",
+  "title_it": "Essenza per acquavite (II)",
+  "title_en": "Essence for Brandy (II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 50,
+   "raw": "spirito di riso di 50°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di mandorlo amaro",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 0.25,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acquadistillata di fiori d'arancio",
+    "name_en": "Distilled water of orange blossoms",
+    "qty": 25,
+    "unit": "gram",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acquadistillata di lauro ceraso",
+    "name_en": "Distilled water of cherry laurel",
+    "qty": 5,
+    "unit": "gram",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Spirito di riso di 50°",
+    "name_en": "Rice spirit of 50°",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "confidence": 0.92
+ },
+ {
+  "id": "essence-for-grape-brandy-iii",
+  "page": 356,
+  "section_en": "Essences for Brandy and Spirits",
+  "title_it": "Essenza per acquavite di Nordhausen e di vinacce (III)",
+  "title_en": "Essence for Nordhausen Brandy and Grape Brandy (III)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza di acquavite di Nordhausen",
+    "name_en": "Essence of Nordhausen brandy",
+    "qty": 50,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di acquavite di vinacce",
+    "name_en": "Essence of grape brandy",
+    "qty": 250,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere formico",
+    "name_en": "Formic ether",
+    "qty": 50,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol of 90°",
+    "qty": 150,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 10,
+    "unit": "drop",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido acetico concentrato",
+    "name_en": "Concentrated acetic acid",
+    "qty": 5,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione acquosa 1:1 di acido citrico",
+    "name_en": "Aqueous solution 1:1 of citric acid",
+    "qty": 10,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 25,
+    "unit": "gram",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Note: The essence for grape brandy is obtained by dissolving in 140 grams of alcohol (90°–95°): 70 grams of cognac essence, 4 grams of formic ether, 3 grams of acetic ether, 3–4 drops of essential oil of bitter almond, 1–2 drops of essential oil of galangal, and 1 gram of 1:1 citric acid solution in water.",
+  "confidence": 0.89
+ },
+ {
+  "id": "essence-for-hazelnut-brandy-iv",
+  "page": 356,
+  "section_en": "Essences for Brandy and Spirits",
+  "title_it": "Essenza per acquavite (IV)",
+  "title_en": "Essence for Brandy (IV)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 50,
+   "raw": "alcool di 50°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza di noccioli",
+    "name_en": "Essence of hazelnut",
+    "qty": 0.4,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua distillata di fiori d'arancio",
+    "name_en": "Distilled water of orange blossoms",
+    "qty": 10,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 50°",
+    "name_en": "Alcohol of 50°",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Keep for a long time before using for consumption.",
+  "confidence": 0.94
+ },
+ {
+  "id": "essence-for-rum-v",
+  "page": 356,
+  "section_en": "Essences for Brandy and Spirits",
+  "title_it": "Essenza per rum (V)",
+  "title_en": "Essence for Rum (V)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di rum",
+    "name_en": "Rum extract",
+    "qty": 1000,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di ananas (artificiale)",
+    "name_en": "Essence of pineapple (artificial)",
+    "qty": 75,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di persico",
+    "name_en": "Essence of peach",
+    "qty": 250,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 250,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere formico",
+    "name_en": "Formic ether",
+    "qty": 1000,
+    "unit": "gram",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Add a solution of essential oil of laurel buds (80 grams) in 1 kilogram of absolute alcohol, or tartaric acid powdered (30 grams) in 135 grams of hot water.",
+   "Mix everything together well and store in well-sealed containers."
+  ],
+  "notes_en": null,
+  "confidence": 0.88,
+  "ocr_flags": [
+   "bacchio"
+  ]
+ },
+ {
+  "id": "essence-for-spirits-vi",
+  "page": 356,
+  "section_en": "Essences for Brandy and Spirits",
+  "title_it": "Essenza per acquaviti (VI)",
+  "title_en": "Essence for Spirits (VI)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 150,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di macia",
+    "name_en": "Essential oil of mace",
+    "qty": 80,
+    "unit": "gram",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve in 10 litres of alcohol of 95°."
+  ],
+  "notes_en": null,
+  "confidence": 0.85
+ }
+]

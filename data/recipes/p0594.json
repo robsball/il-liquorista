@@ -1,0 +1,280 @@
+[
+ {
+  "id": "elixir-of-long-life",
+  "page": 594,
+  "section_en": "Elixirs",
+  "title_it": "Elisir di lunga vita",
+  "title_en": "Elixir of Long Life",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Agarico",
+    "name_en": "Agaric",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance immature",
+    "name_en": "Unripe oranges",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 4.5,
+    "unit": "l",
+    "note": "4.5 liters of 95° spirit"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.5,
+    "unit": "l",
+    "note": "5.5 liters water"
+   },
+   {
+    "name_it": "Essenza di cognac",
+    "name_en": "Cognac essence",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di ciliege nere",
+    "name_en": "Black cherry juice",
+    "qty": null,
+    "unit": "",
+    "note": "for coloring"
+   }
+  ],
+  "steps_en": [
+   "Pound together all the solid substances.",
+   "Macerate for 8 days in a mixture of 4.5 liters of 95° alcohol and 5.5 liters of water.",
+   "Press and add 5 g of cognac essence.",
+   "Color with black cherry juice and filter."
+  ],
+  "notes_en": "Original recipe mentions initial 10-day maceration in 1 liter alcohol with 1 liter water; detailed recipe specifies 8 days with precise proportions.",
+  "confidence": 0.92
+ },
+ {
+  "id": "elixir-of-long-life-ii",
+  "page": 594,
+  "section_en": "Elixirs",
+  "title_it": "Elisir di lunga vita",
+  "title_en": "Elixir of Long Life (Alternative)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana roti",
+    "name_en": "Gentian root (cut)",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Agarico",
+    "name_en": "Agaric",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 10,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero fuso",
+    "name_en": "Dissolved sugar",
+    "qty": 1.4,
+    "unit": "kg",
+    "note": "2/3 kg dissolved in 1 liter water"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 15 days.",
+   "Strain and filter.",
+   "Mix with a solution of 2/3 kg dissolved sugar in 1 liter of water."
+  ],
+  "notes_en": "",
+  "confidence": 0.9
+ },
+ {
+  "id": "elixir-swedese-alter-schwede",
+  "page": 594,
+  "section_en": "Elixirs",
+  "title_it": "Elisir Svedese (Alter Schwede)",
+  "title_en": "Swedish Elixir (Alter Schwede)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Agarico bianco",
+    "name_en": "White agaric",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo arom",
+    "name_en": "Aromatic calamus",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1600,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 800,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all dry ingredients with 1600 ml of 90° alcohol and 800 ml of water.",
+   "Macerate until extraction is complete.",
+   "Strain and filter."
+  ],
+  "notes_en": "Traditional Swedish-style elixir formula. The name 'Alter Schwede' suggests a historical German or Swedish origin.",
+  "ocr_flags": [
+   "Calamo arom (possibly Calamo aromatico)"
+  ],
+  "confidence": 0.88
+ }
+]

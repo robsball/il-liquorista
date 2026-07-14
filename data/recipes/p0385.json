@@ -1,0 +1,252 @@
+[
+ {
+  "id": "anisette-incolore",
+  "page": 385,
+  "section_en": "Anisettes",
+  "title_it": "Anisette incolore",
+  "title_en": "Colourless Anisette",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 65,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 160,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Thè",
+    "name_en": "Tea",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit of 85°",
+    "qty": 4.25,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 2,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in 4.25 litres of 85° spirit for 8 days.",
+   "Add 2 litres of water and distil to obtain 4 litres.",
+   "Prepare a syrup from 3 kg sugar and 2 litres distilled water.",
+   "Add the cold syrup to the distillate.",
+   "Top up to 10 litres with water and filter."
+  ],
+  "notes_en": "The distillation begins with 14–15 litres of base spirit.",
+  "confidence": 0.92
+ },
+ {
+  "id": "anisette-tedesca",
+  "page": 385,
+  "section_en": "Anisettes",
+  "title_it": "Anisette tedesca",
+  "title_en": "German Anisette",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 300,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ireos (radice) polv.",
+    "name_en": "Iris root powder",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Spirit of 80°",
+    "qty": null,
+    "unit": "litres",
+    "note": "quantity not specified in source"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 8,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate the ingredients in 80° spirit (duration not specified).",
+   "Add 4 litres of water and distil to obtain 10 litres of alcoholate.",
+   "Add 8 litres of syrup.",
+   "Top up to 20 litres total with water."
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "anise-rosolio",
+  "page": 385,
+  "section_en": "Anisettes",
+  "title_it": "Anice (Rosolio di)",
+  "title_en": "Anise (Rosolio)",
+  "method": "other",
+  "ingredients": [
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cascarilla",
+    "name_en": "Cascarilla bark",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Legno di sandalo",
+    "name_en": "Sandalwood",
+    "qty": 50,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Rosolio of Angelica (see page 172)."
+  ],
+  "notes_en": "For full instructions, refer to the Angelica Rosolio recipe on page 172.",
+  "confidence": 0.9
+ },
+ {
+  "id": "oranges-rosolio-i",
+  "page": 385,
+  "section_en": "Citrus liqueurs",
+  "title_it": "Arance (Rosolio di) — I",
+  "title_en": "Oranges (Rosolio) — I",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "of 72° spirit obtained; final liqueur volume not specified in this excerpt"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "duration": {
+   "amount": 1,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 1500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit of 60°",
+    "qty": null,
+    "unit": "litres",
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 1,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 24 hours.",
+   "Distil to obtain 20 litres of 72° spirit.",
+   "Add 4 litres of water or 1 litre of syrup."
+  ],
+  "notes_en": "Brown sugar is mentioned at the end of the text, likely relating to the syrup.",
+  "ocr_flags": [
+   "Soorze d'arance (likely 'Scorze d'arance' — orange peel)"
+  ],
+  "confidence": 0.85
+ }
+]

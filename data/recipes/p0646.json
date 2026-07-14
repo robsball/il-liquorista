@@ -1,0 +1,294 @@
+[
+ {
+  "id": "amaro-spagnolo-a-m",
+  "page": 646,
+  "section_en": "A.M. Mixtures",
+  "title_it": "Amaro spagnolo (A.M.)",
+  "title_en": "Spanish Bitter (A.M.)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di « Amaro spagnolo »",
+    "name_en": "Spanish Bitter essence",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "see p. 242"
+   },
+   {
+    "name_it": "Olio essenz. di arance amaro",
+    "name_en": "Bitter orange essential oil",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di galanga",
+    "name_en": "Galangal essential oil",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di Chartreuse",
+    "name_en": "Chartreuse essence",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "see p. 245"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol of 95°",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di Amaro Malakoff",
+    "name_en": "Malakoff Bitter extract",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "added to the solution"
+   }
+  ],
+  "steps_en": [
+   "Combine the essences and essential oils with the 95° alcohol.",
+   "Add the Malakoff Bitter extract to the solution."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "alpine-herbs-a",
+  "page": 646,
+  "section_en": "A. Alpine Herbs",
+  "title_it": "Amaro di Erbe alpine",
+  "title_en": "Alpine Herbs Bitter",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza d'« Erbe alpine svizzere »",
+    "name_en": "Swiss Alpine Herbs essence",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "see p. 246"
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Alcohol of 96°",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di Amaro Malakoff",
+    "name_en": "Malakoff Bitter extract",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "added to the solution"
+   }
+  ],
+  "steps_en": [
+   "Combine the Alpine Herbs essence with the 96° alcohol.",
+   "Add the Malakoff Bitter extract to this solution."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "donakiel-a",
+  "page": 646,
+  "section_en": "A. Donakiel",
+  "title_it": "Amaro Donakiel",
+  "title_en": "Donakiel Bitter",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di Gocce Mampe",
+    "name_en": "Mampe Drops extract",
+    "qty": 8,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di zenzero",
+    "name_en": "Ginger extract",
+    "qty": 4,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di pepe di Spagna",
+    "name_en": "Spanish pepper tincture",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol of 95°",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine the Mampe Drops extract, ginger extract, and Spanish pepper tincture.",
+   "Mix with a solution of 30 grams of peppermint essential oil in one litre of 95° alcohol.",
+   "Shake vigorously."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "garibaldi-a",
+  "page": 646,
+  "section_en": "A. Garibaldi",
+  "title_it": "Amaro Garibaldi",
+  "title_en": "Garibaldi Bitter",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di Gocce Mampe",
+    "name_en": "Mampe Drops extract",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di Amaro aromatico",
+    "name_en": "Aromatic Bitter extract",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto precedente",
+    "name_en": "Previous extract (combined)",
+    "qty": 26,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "the mixed extract from above"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol of 90°",
+    "qty": 14.25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 9.75,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the Mampe Drops extract with the Aromatic Bitter extract.",
+   "To the liqueur: combine 26 grams of the above extract, 14.25 litres of 90° alcohol, 10 litres of sugar syrup, and 9.75 litres of water.",
+   "The resulting liqueur should be light brown in colour."
+  ],
+  "notes_en": "Light brown colour (Bruno chiaro)",
+  "ocr_flags": [],
+  "confidence": 0.91
+ },
+ {
+  "id": "juniper-a",
+  "page": 646,
+  "section_en": "A. al Ginepro",
+  "title_it": "Amaro al Ginepro",
+  "title_en": "Juniper Bitter",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estrattore « Gocce Mampe »",
+    "name_en": "Mampe Drops extract",
+    "qty": 750,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estrattore di arance",
+    "name_en": "Orange extract",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estrattore di zenzero",
+    "name_en": "Ginger extract",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estrattore di assenzio",
+    "name_en": "Wormwood extract",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all extracts: Mampe Drops, orange, ginger, and wormwood in the proportions given."
+  ],
+  "notes_en": "Recipe continues on next page",
+  "ocr_flags": [],
+  "confidence": 0.9
+ }
+]

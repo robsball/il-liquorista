@@ -1,0 +1,251 @@
+[
+ {
+  "id": "liqueur-i",
+  "page": 651,
+  "title_it": "Liquore I",
+  "title_en": "Liqueur I",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "alcohol 37%, sugar 54.5%"
+  },
+  "alcohol_strength": {
+   "degrees": 37,
+   "raw": "37%"
+  },
+  "ingredients": [
+   {
+    "name_en": "alcohol",
+    "name_it": "Alcool",
+    "qty": 5,
+    "unit": "liters",
+    "note": "90°"
+   },
+   {
+    "name_en": "Jamaica rum",
+    "name_it": "Rhum Giamaica",
+    "qty": 2.8,
+    "unit": "liters",
+    "note": "70°"
+   },
+   {
+    "name_en": "Goa arrack",
+    "name_it": "Arac di Goa",
+    "qty": 1.2,
+    "unit": "liters",
+    "note": "55°"
+   },
+   {
+    "name_en": "vanilla tincture",
+    "name_it": "Tintura di vaniglia",
+    "qty": 0.2,
+    "unit": "liters"
+   },
+   {
+    "name_en": "lemon tincture",
+    "name_it": "Tintura di limoni",
+    "qty": 0.2,
+    "unit": "liters"
+   },
+   {
+    "name_en": "red wine",
+    "name_it": "Vino rosso",
+    "qty": 1,
+    "unit": "liters",
+    "note": "10% alcohol content"
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Siroppo",
+    "qty": 9.5,
+    "unit": "liters",
+    "note": "see page 639"
+   },
+   {
+    "name_en": "boiling water with citric acid",
+    "name_it": "Acqua bollente (in cui sia stato disciolto acido citrico)",
+    "qty": 0.1,
+    "unit": "liters",
+    "note": "containing 40 grams citric acid"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "lemon-orange-liqueur",
+  "page": 651,
+  "title_it": "Liquore II",
+  "title_en": "Lemon and Orange Liqueur",
+  "method": "maceration",
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_en": "genuine Jamaica rum",
+    "name_it": "Rhum Giamaica genuino",
+    "qty": 9,
+    "unit": "liters",
+    "variants": [
+     9
+    ]
+   },
+   {
+    "name_en": "Goa arrack",
+    "name_it": "Arac di Goa",
+    "qty": 4,
+    "unit": "liters",
+    "variants": null
+   },
+   {
+    "name_en": "lemons",
+    "name_it": "Limoni",
+    "qty": 30,
+    "unit": "number",
+    "variants": [
+     20
+    ]
+   },
+   {
+    "name_en": "oranges",
+    "name_it": "Arance",
+    "qty": 2,
+    "unit": "number",
+    "variants": [
+     1
+    ]
+   },
+   {
+    "name_en": "vanilla extract",
+    "name_it": "Estratto di vaniglia",
+    "qty": 25,
+    "unit": "grams",
+    "variants": [
+     30
+    ]
+   },
+   {
+    "name_en": "citric acid",
+    "name_it": "Acido citrico",
+    "qty": null,
+    "unit": "grams",
+    "note": "quantity not shown in first column",
+    "variants": [
+     20
+    ]
+   },
+   {
+    "name_en": "sugar",
+    "name_it": "Zucchero",
+    "qty": 15,
+    "unit": "kilograms",
+    "variants": [
+     20
+    ]
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 11,
+    "unit": "liters",
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_en": "alcohol",
+    "name_it": "Alcool di 90°",
+    "qty": 6,
+    "unit": "liters",
+    "variants": [
+     5
+    ],
+    "note": "90°"
+   }
+  ],
+  "steps_en": [
+   "Peel the lemons and oranges; allow the peels to macerate in alcohol for 24 hours.",
+   "Cut the lemons and oranges, express the juice, and combine with the vanilla extract noted above.",
+   "Add the boiling syrup.",
+   "Subtract the three liters of alcohol used for maceration from the 9 liters indicated in the recipe.",
+   "Color: light brown, like sugar."
+  ],
+  "notes_en": "Light brown color.",
+  "confidence": 0.92
+ },
+ {
+  "id": "lemon-liqueur-iii",
+  "page": 651,
+  "title_it": "Liquore III",
+  "title_en": "Lemon Liqueur III",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_en": "fresh lemon juice",
+    "name_it": "Succo fresco di limoni",
+    "qty": 7,
+    "unit": "number"
+   },
+   {
+    "name_en": "citric acid",
+    "name_it": "Acido citrico",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_en": "cedro essential oil",
+    "name_it": "Olio essenz. di cedro",
+    "qty": 18,
+    "unit": "drops"
+   },
+   {
+    "name_en": "vanilla extract",
+    "name_it": "Estratto di vaniglia",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_en": "Jamaica rum",
+    "name_it": "Rhum Giamaica",
+    "qty": 3,
+    "unit": "liters"
+   },
+   {
+    "name_en": "alcohol",
+    "name_it": "Alcool di 90°",
+    "qty": 1.5,
+    "unit": "liters",
+    "note": "90°"
+   },
+   {
+    "name_en": "sugar",
+    "name_it": "Zucchero",
+    "qty": 0,
+    "unit": "kilograms",
+    "note": "quantity illegible or zero"
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 2,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients."
+  ],
+  "ocr_flags": [
+   "sugar quantity for recipe III appears as '0' in source"
+  ],
+  "confidence": 0.85
+ }
+]

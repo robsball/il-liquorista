@@ -1,0 +1,181 @@
+[
+ {
+  "id": "coriander-cinnamon-lemon-essence",
+  "page": 523,
+  "section_en": "Essences",
+  "title_it": "Coriandoli, Cannella, Scorze di limoni",
+  "title_en": "Coriander, Cinnamon, Lemon Peel Essence",
+  "method": "distillation",
+  "yield": {
+   "amount": 12.5,
+   "unit": "litres",
+   "note": "from two successive extractions"
+  },
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Spirit at 75°",
+    "qty": 25,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Perform extraction in two stages, using 7.5 litres of 50–60° alcohol for the first stage and 6 litres for the second.",
+   "Strain by pressing and filter to obtain 12–12.5 litres."
+  ],
+  "notes_en": "To prepare the liqueur (22 litres at 45° strength): dilute 2.2 litres of extract with 9.4 litres of 96° alcohol, mixed with 5 drops of cognac essence (dissolved in 2 cc ethyl acetate), 5 cc triple orange-blossom extract, then add 10.6 litres of syrup containing 8 kg refined sugar. Color reddish-orange using 20 cc saffron tincture mixed with cochineal tincture.",
+  "confidence": 0.92
+ },
+ {
+  "id": "orange-peel-essence",
+  "page": 523,
+  "section_en": "Essences",
+  "title_it": "Arance",
+  "title_en": "Orange Peel Essence",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arancio",
+    "name_en": "Orange peel (yellow zest only)",
+    "qty": 1400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arancia amara",
+    "name_en": "Bitter orange peel",
+    "qty": 350,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Spirit at 75°",
+    "qty": 12,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 5 days, then decant.",
+   "Pour 8 litres of 90° alcohol over the residue.",
+   "Macerate for another 3 days, then press the mass and combine the juice with the first liquid."
+  ],
+  "confidence": 0.89
+ },
+ {
+  "id": "aromatic-elixir",
+  "page": 523,
+  "section_en": "Elixirs",
+  "title_it": "Aromatico (Elixir)",
+  "title_en": "Aromatic Elixir",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Spirit at 70°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Decant, press, and filter."
+  ],
+  "confidence": 0.95
+ }
+]

@@ -1,0 +1,337 @@
+[
+ {
+  "id": "juniper-i",
+  "page": 544,
+  "section_en": "Juniper",
+  "title_it": "Ginepro I",
+  "title_en": "Juniper I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "Alcool assoluto"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di ginepro",
+    "name_en": "Juniper essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.98
+ },
+ {
+  "id": "juniper-ii",
+  "page": 544,
+  "section_en": "Juniper",
+  "title_it": "Ginepro II",
+  "title_en": "Juniper II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di ginepro",
+    "name_en": "Juniper essence",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di rhum",
+    "name_en": "Rum essence",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di cognac",
+    "name_en": "Cognac essence",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 885,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.98
+ },
+ {
+  "id": "dutch-juniper-i",
+  "page": 544,
+  "section_en": "Dutch Juniper",
+  "title_it": "Ginepro Olandese I",
+  "title_en": "Dutch Juniper I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di ginepro olandese",
+    "name_en": "Dutch juniper essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.98
+ },
+ {
+  "id": "dutch-juniper-ii",
+  "page": 544,
+  "section_en": "Dutch Juniper",
+  "title_it": "Ginepro Olandese II",
+  "title_en": "Dutch Juniper II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "Alcool assoluto"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di ginepro olandese",
+    "name_en": "Dutch juniper essence",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di ginepro",
+    "name_en": "Juniper extract",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.98
+ },
+ {
+  "id": "grappa",
+  "page": 544,
+  "section_en": "Grappa",
+  "title_it": "Grappa",
+  "title_en": "Grappa",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di mandorle amare",
+    "name_en": "Bitter almond essence",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di vinaccioli",
+    "name_en": "Grape seed essence",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [
+   "vinaccioli"
+  ],
+  "confidence": 0.97
+ },
+ {
+  "id": "iris",
+  "page": 544,
+  "section_en": "Iris",
+  "title_it": "Iride",
+  "title_en": "Iris",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza artificiale di ananas",
+    "name_en": "Artificial pineapple essence",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di ireos",
+    "name_en": "Iris tincture",
+    "qty": 2500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 3250,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve 10 g of essential oil of orange flowers in the alcohol first."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "ireos"
+  ],
+  "confidence": 0.96
+ },
+ {
+  "id": "iris-liqueur",
+  "page": 544,
+  "section_en": "Iris",
+  "title_it": "Iride - Liquore",
+  "title_en": "Iris Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto speciale",
+    "name_en": "Special extract",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.8,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.5,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Lilac",
+  "ocr_flags": [],
+  "confidence": 0.96
+ }
+]

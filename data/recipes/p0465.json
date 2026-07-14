@@ -1,0 +1,323 @@
+[
+ {
+  "id": "orange-flower-liqueur-red",
+  "page": 465,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "Liquore di fiori d'arancio (Rosso)",
+  "title_en": "Orange Flower Liqueur (Red)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di ambra",
+    "name_en": "Amber tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 15,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils, orange flower water, vanilla and amber tinctures with 90° alcohol.",
+   "Add syrup and water.",
+   "Color with caramel and red colorant to obtain a dark orange tint.",
+   "Filter."
+  ],
+  "notes_en": "Labeled 'Red' (Rosso)",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "danzig-aquavit-i",
+  "page": 465,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "Acquavite di Danzica I",
+  "title_en": "Danzig Aquavit I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di pimento",
+    "name_en": "Essential oil of pimento",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oil drops with 90° alcohol.",
+   "Add sugar and water.",
+   "Color with caramel and red colorant to obtain a dark orange tint.",
+   "Filter."
+  ],
+  "notes_en": "This is the first of three Danzig Aquavit recipes on this page.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "danzig-aquavit-ii",
+  "page": 465,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "Acquavite di Danzica II",
+  "title_en": "Danzig Aquavit II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cedro",
+    "name_en": "Essential oil of citron",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arancio dolce",
+    "name_en": "Essential oil of sweet orange",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella Ceylon",
+    "name_en": "Essential oil of Ceylon cinnamon",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oil drops with 85° alcohol.",
+   "Add sugar and water.",
+   "Color and filter as above."
+  ],
+  "notes_en": "Second Danzig Aquavit recipe. 'Come sopra' (as above) refers to the coloring and filtering procedure.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "danzig-aquavit-iii",
+  "page": 465,
+  "section_en": "Liqueurs and Cordials",
+  "title_it": "Acquavite di Danzica III",
+  "title_en": "Danzig Aquavit III",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 2.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella Ceylon",
+    "name_en": "Essential oil of Ceylon cinnamon",
+    "qty": 0.4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella China",
+    "name_en": "Essential oil of China cinnamon",
+    "qty": 1.2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 0.8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4.4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 3.2,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.9,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils with 85° alcohol.",
+   "Add sugar and water.",
+   "Color and filter as per the first recipe."
+  ],
+  "notes_en": "Third and final Danzig Aquavit recipe. This version uses both Ceylon and China cinnamon oils.",
+  "ocr_flags": [
+   "coriandoli (likely coriandolo, coriander seed or ground coriander)"
+  ],
+  "confidence": 0.94
+ }
+]

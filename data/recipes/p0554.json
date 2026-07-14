@@ -1,0 +1,189 @@
+[
+ {
+  "id": "club",
+  "page": 554,
+  "section_en": "Liqueurs",
+  "title_it": "Club",
+  "title_en": "Club",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di zenzero",
+    "name_en": "Ginger extract",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di curaçao",
+    "name_en": "Curaçao extract",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di arance",
+    "name_en": "Orange extract",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di ananas",
+    "name_en": "Pineapple extract",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arac genuino",
+    "name_en": "Genuine arrack",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 13,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Simple syrup",
+    "qty": 12,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino di Porto",
+    "name_en": "Port wine",
+    "qty": 4,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "l",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Colour red with cherry juice."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "lawn-tennis",
+  "page": 554,
+  "section_en": "Liqueurs",
+  "title_it": "Lawn Tennis",
+  "title_en": "Lawn Tennis",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di amaro di erbe",
+    "name_en": "Bitter herb extract",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di arance",
+    "name_en": "Orange extract",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di zenzero",
+    "name_en": "Ginger extract",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di mele",
+    "name_en": "Apple extract",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di viole",
+    "name_en": "Violet extract",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 2.8,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 2,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo di vino",
+    "name_en": "Wine syrup",
+    "qty": 0.0,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "See footnote (1) for preparation method"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.5,
+    "unit": "l",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Colour yellow by means of saffron tincture."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ }
+]

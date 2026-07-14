@@ -1,0 +1,278 @@
+[
+ {
+  "id": "lemon-sage-melissa-marjoram-mace-liqueur",
+  "page": 442,
+  "section_en": "Compound Liqueurs",
+  "title_it": "",
+  "title_en": "Lemon, Sage, Melissa, Marjoram & Mace Liqueur",
+  "method": "infusion",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "final product"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "alcool 40%"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemon",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Dissolve the essential oils in alcohol.",
+   "Achieve a light brown colour.",
+   "Final product contains 40% alcohol and 25% sugar."
+  ],
+  "notes_en": "Colour: light brown. Final yield 20 litres at 40% ABV with 25% sugar content.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "eucalyptus-elixir",
+  "page": 442,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Eucalipto (Elisir di)",
+  "title_en": "Eucalyptus Elixir",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Eucalipto (foglie)",
+    "name_en": "Eucalyptus (leaves)",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Crisp mint",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 200,
+    "unit": "ml"
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "80° alcohol",
+    "qty": 5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": null,
+    "unit": "kg",
+    "note": "quantity not specified in source"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "unknown",
+    "note": "quantity not specified in source"
+   }
+  ],
+  "steps_en": [
+   "Macerate the ingredients in 80° alcohol.",
+   "After maceration, mix in sugar syrup and water."
+  ],
+  "notes_en": "After maceration, add sugar syrup and water to the infusion.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "carnation-rosolio",
+  "page": 442,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Garofani (Rosolio di)",
+  "title_en": "Carnation Rosolio",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Chiodi di garofani",
+    "name_en": "Clove buds",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 10,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 20,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 18,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 5.7,
+    "unit": "litres",
+    "note": "added after filtering"
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 5,
+    "unit": "litres",
+    "note": "added after filtering"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in 85° alcohol.",
+   "Strain the maceration.",
+   "Add 20 litres water and 18 kg sugar to the tincture.",
+   "Filter the liquid.",
+   "Add 5.7 litres 90° alcohol, 5 litres simple syrup, and 4.5 litres water to the filtered liquid."
+  ],
+  "notes_en": "The final adjustment includes 5.7 litres 90° alcohol, simple syrup, and water to reach the desired strength.",
+  "ocr_flags": [
+   "RE (OCR artifact in clove quantity)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "alpine-genepy",
+  "page": 442,
+  "section_en": "Compound Liqueurs",
+  "title_it": "Genepì delle Alpi",
+  "title_en": "Alpine Genepy",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Genepì dello Alpi",
+    "name_en": "Alpine genepy (alpine wormwood)",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Assenzio maggiore",
+    "name_en": "Greater wormwood",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Assenzio minore",
+    "name_en": "Lesser wormwood",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 100,
+    "unit": "g",
+    "note": "OCR uncertain on exact quantity"
+   }
+  ],
+  "steps_en": [
+   "Combine the botanicals as listed."
+  ],
+  "notes_en": "Recipe incomplete in source; likely requires maceration in alcohol (details not provided on this page).",
+  "ocr_flags": [
+   "Menta piperita quantity (printed as 'JQO'; interpreted as 100)"
+  ],
+  "confidence": 0.78
+ }
+]

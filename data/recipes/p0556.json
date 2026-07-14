@@ -1,0 +1,198 @@
+[
+ {
+  "id": "apricots",
+  "page": 556,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Albicocche",
+  "title_en": "Apricots",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "weeks"
+  },
+  "ingredients": [
+   {
+    "name_it": "Albicocche",
+    "name_en": "Apricots",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 11,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Crush the apricots with their pits and allow them to digest in the alcohol for one week."
+  ],
+  "notes_en": "Rose-colored liqueur.",
+  "confidence": 0.95
+ },
+ {
+  "id": "pineapple-i",
+  "page": 556,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Ananas I",
+  "title_en": "Pineapple (Method I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ananas (frutti)",
+    "name_en": "Pineapple (fruits)",
+    "qty": 2,
+    "unit": "number",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 4.6,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza artificiale di pere",
+    "name_en": "Artificial pear essence",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Pound the pineapple with its skin in a marble mortar and allow it to digest with the alcohol for 3 days.",
+   "Decant the clear liquid; from the pulp recover the residual alcohol by pressing, which will serve for another similar operation."
+  ],
+  "notes_en": "Yellow-colored liqueur.",
+  "confidence": 0.93
+ },
+ {
+  "id": "pineapple-ii",
+  "page": 556,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Ananas II",
+  "title_en": "Pineapple (Method II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 20,
+   "unit": "days",
+   "note": "10 days initial maceration + 10 days continued after sugar solution added"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ananas fresco maturo",
+    "name_en": "Fresh ripe pineapple",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 700,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "mL",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Pound the vanilla with 20 g of sugar and place in the alcohol.",
+   "Finely chop the pineapple, pound it with 200 g of sugar, and add to the alcohol.",
+   "Allow to macerate for 10 days, shaking frequently.",
+   "Dissolve the remaining sugar cold in the water; add the solution to the maceration and allow it to continue for another 10 days."
+  ],
+  "notes_en": "Recipe continues on next page.",
+  "ocr_flags": [
+   "macerazione (OCR: 'macoraziono')",
+   "aggiunge (OCR: 'aggiungo' - minor verb form variation)"
+  ],
+  "confidence": 0.91
+ }
+]

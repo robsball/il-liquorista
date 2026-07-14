@@ -1,0 +1,395 @@
+[
+ {
+  "id": "english-bitter",
+  "page": 612,
+  "section_en": "A. English",
+  "title_it": "Essenza di Amaro inglese",
+  "title_en": "English Bitter Essence",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di Amaro inglese",
+    "name_en": "English Bitter Essence",
+    "qty": 11,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": "from p. 241"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     9
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 7,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     0
+    ],
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two proportions given (columns I and II)",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "dutch-fine-bitter",
+  "page": 612,
+  "section_en": "A. Dutch",
+  "title_it": "Essenza di Amaro fino",
+  "title_en": "Dutch Fine Bitter Essence",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di Amaro fino",
+    "name_en": "Fine Bitter Essence",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": "from p. 240"
+   },
+   {
+    "name_it": "Olio essenziale di arance amare",
+    "name_en": "Essential oil of bitter oranges",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "quantity illegible"
+   },
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "quantity illegible"
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "quantity illegible"
+   },
+   {
+    "name_it": "Olio essenziale di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "quantity illegible"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "quantity not stated"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Color: Brown",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "spanish-bitter-i",
+  "page": 612,
+  "section_en": "A. Spanish",
+  "title_it": "Essenza di Amaro spagnuolo",
+  "title_en": "Spanish Bitter Essence (I)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di Amaro spagnuolo",
+    "name_en": "Spanish Bitter Essence",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": "from p. 244"
+   },
+   {
+    "name_it": "Olio essenziale di arance amare",
+    "name_en": "Essential oil of bitter oranges",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 12.75,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "quantity not stated"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": true,
+    "variants": null,
+    "note": "quantity not stated"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Color: Dark brown",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "spanish-bitter-ii",
+  "page": 612,
+  "section_en": "A. Spanish",
+  "title_it": "Essenza di Amaro spagnuolo",
+  "title_en": "Spanish Bitter Essence (II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di Amaro spagnuolo",
+    "name_en": "Spanish Bitter Essence",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 0,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": null,
+    "note": "quantity unclear in source"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "stomachic-bitters",
+  "page": 612,
+  "section_en": "A. Stomachic",
+  "title_it": "Amaro Stomachico",
+  "title_en": "Stomachic Bitters",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Essential oil of lemons",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     25
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di arance dolci",
+    "name_en": "Essential oil of sweet oranges",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     5
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Olio essenziale di arance amare",
+    "name_en": "Essential oil of bitter oranges",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ],
+    "note": "first proportion column illegible"
+   },
+   {
+    "name_it": "Olio essenziale di anice russo",
+    "name_en": "Essential oil of Russian anise",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null,
+    "note": null
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two proportions given (columns I and II)",
+  "ocr_flags": [
+   "anice russo"
+  ],
+  "confidence": 0.83
+ }
+]

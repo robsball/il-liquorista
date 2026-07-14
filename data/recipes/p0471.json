@@ -1,0 +1,401 @@
+[
+ {
+  "id": "absinthe-extract-unsweetened",
+  "page": 471,
+  "section_en": "Absinthe",
+  "title_it": "Assenzio (Estratto), (non dolcificato)",
+  "title_en": "Absinthe Extract (Unsweetened)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Absinthe essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     3,
+     3
+    ],
+    "note": "Column 1: Ordinario; Column 2: Semifino; Column 3: Fino"
+   },
+   {
+    "name_it": "Olio essenziale di assenzio minore",
+    "name_en": "Minor wormwood essential oil",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     1,
+     1
+    ],
+    "note": "Ordinario: —"
+   },
+   {
+    "name_it": "Olio essenziale di menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     0.5,
+     0.5
+    ],
+    "note": "Ordinario: —"
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Angelica essential oil",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     0.2,
+     null
+    ],
+    "note": "Ordinario: —; Fino: —"
+   },
+   {
+    "name_it": "Olio essenziale di issopo",
+    "name_en": "Hyssop essential oil",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     0.2,
+     0.6
+    ],
+    "note": "Ordinario: —"
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Anise essential oil",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     5,
+     10
+    ],
+    "note": "Ordinario: —"
+   },
+   {
+    "name_it": "Olio essenziale di anice stellato",
+    "name_en": "Star anise essential oil",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     3,
+     10
+    ],
+    "note": "Ordinario"
+   },
+   {
+    "name_it": "Olio essenziale di finocchio",
+    "name_en": "Fennel essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     1.5,
+     1.3
+    ],
+    "note": "Ordinario"
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     0.2,
+     0.2
+    ],
+    "note": "Ordinario: —"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 5.4,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     6.2,
+     7.6
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.6,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     3.8,
+     2.5
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils with alcohol and water according to the chosen proportion variant (Ordinario, Semifino, or Fino)."
+  ],
+  "notes_en": "Three proportion columns provided for varying quality levels. Unsweetened extract form.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "absinthe-superfine-cream-1",
+  "page": 471,
+  "section_en": "Absinthe Superfine (Cream)",
+  "title_it": "Assenzio sopraffino (Crema) — I",
+  "title_en": "Absinthe Superfine Cream — Recipe I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Absinthe essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di scorze d'arance",
+    "name_en": "Orange peel essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice verde",
+    "name_en": "Green anise essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di menta",
+    "name_en": "Mint essential oil",
+    "qty": 0.75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di finocchio",
+    "name_en": "Fennel essential oil",
+    "qty": 0.75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": null,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "quantity not specified in source"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.6,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils with alcohol.",
+   "Add water and sugar (quantity to be determined by liquorist).",
+   "Blend thoroughly to create a smooth cream liqueur."
+  ],
+  "notes_en": "Sugar quantity omitted in source; this is a sweetened cream variant.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "absinthe-superfine-cream-2",
+  "page": 471,
+  "section_en": "Absinthe Superfine (Cream)",
+  "title_it": "Assenzio sopraffino (Crema) — II",
+  "title_en": "Absinthe Superfine Cream — Recipe II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Absinthe essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di macia",
+    "name_en": "Mace essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di finocchio",
+    "name_en": "Fennel essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Measure essential oils by drops and combine with alcohol.",
+   "Dissolve sugar in water.",
+   "Mix alcohol infusion with sugar water to form a smooth cream liqueur."
+  ],
+  "notes_en": "This variant uses drops for several essential oils and includes mace and calamus rather than citrus.",
+  "ocr_flags": [
+   "macia"
+  ],
+  "confidence": 0.91
+ },
+ {
+  "id": "absinthe-common-rosolio",
+  "page": 471,
+  "section_en": "Absinthe Common (Rosolio)",
+  "title_it": "Assenzio comune (Rosolio)",
+  "title_en": "Absinthe Common Rosolio",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Absinthe essential oil",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice verde",
+    "name_en": "Green anise essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cedro",
+    "name_en": "Citron essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di menta inglese",
+    "name_en": "English mint (peppermint) essential oil",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di finocchio",
+    "name_en": "Fennel essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6.6,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils with alcohol.",
+   "Dissolve sugar in water.",
+   "Mix alcohol infusion with sugar water to create a rosolio (sweet cordial)."
+  ],
+  "notes_en": "Rosolio format — a sweet syrup-based cordial with lower alcohol content than the extract forms above.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ }
+]

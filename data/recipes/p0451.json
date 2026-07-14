@@ -1,0 +1,278 @@
+[
+ {
+  "id": "oil-of-citronella",
+  "page": 451,
+  "section_en": "Oils and Essences",
+  "title_it": "Olio di Citeronella",
+  "title_en": "Oil of Citronella",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 500,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool di 85°",
+    "name_en": "alcohol 85°",
+    "qty": 10.5,
+    "unit": "lit.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool assoluto",
+    "name_en": "absolute alcohol",
+    "qty": 0.5,
+    "unit": "lit.",
+    "unit_implicit": false,
+    "note": "half litre"
+   },
+   {
+    "name_it": "Bergamotto",
+    "name_en": "Bergamot",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Limone",
+    "name_en": "Lemon",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "siroppo",
+    "name_en": "syrup",
+    "qty": 17,
+    "unit": "lit.",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate Ceylon cinnamon in 10.5 litres of 85° alcohol.",
+   "In a separate half litre of absolute alcohol, dissolve the following essential oils: 10 drops bergamot, 10 drops cloves, 25 drops lemon.",
+   "Mix the two liquids together.",
+   "Sweeten with 17 litres of syrup.",
+   "Colour to a light brown."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "rose-rosolio",
+  "page": 451,
+  "section_en": "Rosolios and Cordials",
+  "title_it": "Rose (Rosolio)",
+  "title_en": "Rose (Rosolio)",
+  "method": "maceration",
+  "yield": {
+   "amount": 2700,
+   "unit": "gr.",
+   "note": "sum of ingredients"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 20,
+   "unit": "days",
+   "note": "two periods of 10 days each"
+  },
+  "ingredients": [
+   {
+    "name_it": "Petali di rose rosse o odorose",
+    "name_en": "Rose petals (red or fragrant)",
+    "qty": 20,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 700,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "gr.",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Pound the rose petals in a marble or porcelain mortar with 100 gr. of sugar to form a paste.",
+   "Macerate this paste in the alcohol for 10 days.",
+   "Add the sugar solution, stir, and macerate for a further 10 days.",
+   "Filter."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "rosolio-bouquet",
+  "page": 451,
+  "section_en": "Rosolios and Cordials",
+  "title_it": "Rosolio Bouquet",
+  "title_en": "Rosolio Bouquet",
+  "method": "maceration",
+  "yield": {
+   "amount": 16.5,
+   "unit": "lit.",
+   "note": "base liquid before syrup addition"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 30,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 25,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 50,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 25,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.5,
+    "unit": "lit.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.5,
+    "unit": "lit.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": null,
+    "unit": "to taste",
+    "unit_implicit": false,
+    "note": "sufficient quantity for a delicate fragrance"
+   },
+   {
+    "name_it": "siroppo",
+    "name_en": "syrup",
+    "qty": 17,
+    "unit": "lit.",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Digest the ingredients (vanilla, cardamom, iris root, cloves) in the alcohol and water for 8 days.",
+   "Decant the liquid.",
+   "Mix with rose water to taste, so that the fragrance is only delicately perceptible.",
+   "Sweeten with 17 litres of syrup.",
+   "Leave colourless or colour to a deep green."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "rosolio-of-four-seeds",
+  "page": 451,
+  "section_en": "Rosolios and Cordials",
+  "title_it": "Rosolio dei 4 semi",
+  "title_en": "Rosolio of Four Seeds",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di sedano",
+    "name_en": "Celery seeds",
+    "qty": 5,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di angelica",
+    "name_en": "Angelica seeds",
+    "qty": 5,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di finocchio",
+    "name_en": "Fennel seeds",
+    "qty": 5,
+    "unit": "gr.",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di coriandolo",
+    "name_en": "Coriander seeds",
+    "qty": 5,
+    "unit": "gr.",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete in source; only ingredients listed.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ }
+]

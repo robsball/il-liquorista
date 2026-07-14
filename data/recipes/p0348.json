@@ -1,0 +1,297 @@
+[
+ {
+  "id": "gin-imitation-i",
+  "page": 348,
+  "section_en": "Gin Imitations",
+  "title_it": "Imitazione di Gin (I)",
+  "title_en": "Gin Imitation (I)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "final product at 38% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 38,
+   "raw": "38% di alcool"
+  },
+  "ingredients": [
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito di nitro dolce",
+    "name_en": "Sweet nitric spirit",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "liters",
+    "note": "for dissolving essences"
+   },
+   {
+    "name_it": "Alcool finissimo di 90°",
+    "name_en": "Fine alcohol at 90°",
+    "qty": 3.85,
+    "unit": "liters",
+    "note": "for final dilution"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.15,
+    "unit": "liters",
+    "note": "for final dilution"
+   }
+  ],
+  "steps_en": [
+   "Vigorously stir the mass, then leave to cool with the vessel covered.",
+   "Decant the liquid and mix with 7 liters of 90° alcohol of first quality.",
+   "Filter and add the acetic ether, sweet nitric spirit, and essential oils of juniper, anise, and coriander (previously dissolved in 1 liter of 90° alcohol).",
+   "For the imitation formula, add 1 liter of this liquid to 3.85 liters of fine 90° alcohol and 5.15 liters of water to obtain 10 liters of product at 38% ABV."
+  ],
+  "confidence": 0.85,
+  "ocr_flags": [
+   "nitro dolce (context suggests sweet nitric spirit)"
+  ]
+ },
+ {
+  "id": "gin-imitation-ii",
+  "page": 348,
+  "section_en": "Gin Imitations",
+  "title_it": "Imitazione di Gin (II)",
+  "title_en": "Gin Imitation (II)",
+  "method": "maceration",
+  "yield": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": 1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Etere nitrico",
+    "name_en": "Nitric ether",
+    "qty": 4,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool a 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 200,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Aroma speciale",
+    "name_en": "Special aroma",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di viola",
+    "name_en": "Violet essence",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Carrube",
+    "name_en": "Carob",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Table salt",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.6,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4.4,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Prepare the aroma by dissolving 1 g juniper essential oil, 4 g nitric ether, and 5 g acetic ether in 200 g of 90° alcohol.",
+   "Leave the mixture for 15 days.",
+   "Then mix with special aroma, violet essence, carob, table salt, water, and 90° alcohol in the proportions given."
+  ],
+  "confidence": 0.8,
+  "ocr_flags": []
+ },
+ {
+  "id": "gin-imitation-iii",
+  "page": 348,
+  "section_en": "Gin Imitations",
+  "title_it": "Imitazione di Gin (III)",
+  "title_en": "Gin Imitation (III)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "45%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 45°",
+    "name_en": "Alcohol at 45°",
+    "qty": 1,
+    "unit": "liters",
+    "note": "base alcohol"
+   },
+   {
+    "name_it": "Miscela",
+    "name_en": "Mixture (per liter of 45° alcohol)",
+    "qty": 3,
+    "unit": "grams",
+    "note": "see composition below"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio di flemma depurato",
+    "name_en": "Purified phlegm oil",
+    "qty": 60,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di senape",
+    "name_en": "Essential oil of mustard",
+    "qty": null,
+    "unit": "drops",
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Spirito (alcoolato) di ginepro",
+    "name_en": "Spirit of juniper",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Etere formico",
+    "name_en": "Formic ether",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Etere nitrico",
+    "name_en": "Nitric ether",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 10,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "For every liter of 45° alcohol, add 3 grams of the mixture composed of the ingredients listed above."
+  ],
+  "confidence": 0.82,
+  "ocr_flags": [
+   "olio essenziale di senape (line appears cut off, no quantity given)"
+  ]
+ },
+ {
+  "id": "aquavit-malta",
+  "page": 348,
+  "section_en": "Aquavits and Grain Spirits",
+  "title_it": "Acquavite di Malta (Malt Brandy)",
+  "title_en": "Aquavit of Malta (Malt Brandy)",
+  "method": "unknown",
+  "yield": null,
+  "ingredients": [
+   {
+    "name_it": "Malto d'orzo",
+    "name_en": "Barley malt",
+    "qty": 2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Malto di frumento",
+    "name_en": "Wheat malt",
+    "qty": 1,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool finissimo",
+    "name_en": "Fine alcohol",
+    "qty": 8,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Crush a mixture of 2 kg barley malt and 1 kg wheat malt.",
+   "Pour 8 liters of fine alcohol over the mixture."
+  ],
+  "notes_en": "Recipe appears to be incomplete; the text continues on the following page.",
+  "confidence": 0.75,
+  "ocr_flags": []
+ }
+]

@@ -1,0 +1,299 @@
+[
+ {
+  "id": "bergamot-peel-extract",
+  "page": 232,
+  "section_en": "Bergamot Peel",
+  "title_it": "Scorzo di bergamotto",
+  "title_en": "Bergamot Peel Extract",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorzo di bergamotto",
+    "name_en": "Bergamot peel",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate bergamot peel in 80° alcohol for 10 days."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "cocoa-extract-i",
+  "page": 232,
+  "section_en": "Cocoa",
+  "title_it": "Cacao I",
+  "title_en": "Cocoa Extract I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cacao",
+    "name_en": "Cocoa",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Roast the cocoa, remove the shell, and grind coarsely.",
+   "Macerate in 90° alcohol for 10 days.",
+   "The exhausted cocoa mass can be sold to chocolate manufacturers."
+  ],
+  "notes_en": "The cocoa must be roasted, shelled, and coarsely ground. The spent mass is suitable for sale to chocolate factories.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "cocoa-extract-ii",
+  "page": 232,
+  "section_en": "Cocoa",
+  "title_it": "Cacao II",
+  "title_en": "Cocoa Extract II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 18,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cacao tostato, in polvere, senza bucce",
+    "name_en": "Roasted cocoa powder, hulled",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate roasted cocoa powder in 80° alcohol for 18 days."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "coffee-extract",
+  "page": 232,
+  "section_en": "Coffee",
+  "title_it": "Caffè",
+  "title_en": "Coffee Extract",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Caffè",
+    "name_en": "Coffee",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Select a high-quality, highly aromatic coffee.",
+   "Roast to a light brown color and grind very finely.",
+   "Macerate in 90° alcohol for 8 days."
+  ],
+  "notes_en": "Coffee tincture is preferable to any other preparation for the manufacture of coffee liqueurs.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "aromatic-calamus-extract-i",
+  "page": 232,
+  "section_en": "Aromatic Calamus",
+  "title_it": "Calamo Aromatico I",
+  "title_en": "Aromatic Calamus Extract I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Radici di calamo",
+    "name_en": "Calamus roots",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": null,
+    "unit": "kg",
+    "unit_implicit": true,
+    "note": "quantity not specified in original"
+   }
+  ],
+  "steps_en": [
+   "Macerate calamus roots in 90° alcohol for 10 days."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "aromatic-calamus-extract-ii",
+  "page": 232,
+  "section_en": "Aromatic Calamus",
+  "title_it": "Calamo Aromatico II",
+  "title_en": "Aromatic Calamus Extract II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 14,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Radici di calamo",
+    "name_en": "Calamus roots",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Alcohol 96°",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": true,
+    "note": "quantity not specified in original"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": true,
+    "note": "quantity not specified in original"
+   }
+  ],
+  "steps_en": [
+   "Macerate calamus roots in 96° alcohol and water for 14 days."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "chamomile-extract",
+  "page": 232,
+  "section_en": "Chamomile",
+  "title_it": "Camomilla",
+  "title_en": "Chamomile Extract",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Fiori di camomilla",
+    "name_en": "Chamomile flowers",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity not specified in original"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": null,
+    "unit": "kg",
+    "unit_implicit": true,
+    "note": "quantity not specified in original"
+   }
+  ],
+  "steps_en": [
+   "Macerate chamomile flowers in 90° alcohol for 10 days.",
+   "Press and filter."
+  ],
+  "notes_en": "Strain under pressure and filter.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ }
+]

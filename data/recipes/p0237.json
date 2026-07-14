@@ -1,0 +1,261 @@
+[
+ {
+  "id": "hyssop",
+  "page": 237,
+  "title_it": "Issopo",
+  "title_en": "Hyssop",
+  "method": "maceration",
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Sommità fiorito d'issopo secche",
+    "name_en": "Dried hyssop flowering tops",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "confidence": 0.98
+ },
+ {
+  "id": "lavender",
+  "page": 237,
+  "title_it": "Lavanda",
+  "title_en": "Lavender",
+  "method": "maceration",
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Lavanda (fiori)",
+    "name_en": "Lavender flowers",
+    "qty": 300,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "confidence": 0.99
+ },
+ {
+  "id": "bay-laurel",
+  "page": 237,
+  "title_it": "Lauro",
+  "title_en": "Bay Laurel",
+  "method": "maceration",
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Foglie secche di lauro",
+    "name_en": "Dried bay laurel leaves",
+    "qty": 125,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "confidence": 0.99
+ },
+ {
+  "id": "lemon",
+  "page": 237,
+  "title_it": "Limone",
+  "title_en": "Lemon",
+  "method": "maceration",
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze fresche di limoni",
+    "name_en": "Fresh lemon zest",
+    "qty": 0.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "confidence": 0.99
+ },
+ {
+  "id": "licorice",
+  "page": 237,
+  "title_it": "Liquirizia",
+  "title_en": "Licorice",
+  "method": "maceration",
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Legno di liquirizia",
+    "name_en": "Licorice wood",
+    "qty": 1,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "kg"
+   }
+  ],
+  "confidence": 0.99
+ },
+ {
+  "id": "mace-version-i",
+  "page": 237,
+  "title_it": "Macis (Versione I)",
+  "title_en": "Mace (Version I)",
+  "method": "maceration",
+  "notes_en": "See Cinnamon (1), substituting mace.",
+  "ingredients": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "mace-version-ii",
+  "page": 237,
+  "title_it": "Macis (Versione II)",
+  "title_en": "Mace (Version II)",
+  "method": "maceration",
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "confidence": 0.99
+ },
+ {
+  "id": "marjoram",
+  "page": 237,
+  "title_it": "Maggiorana",
+  "title_en": "Marjoram",
+  "method": "maceration",
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol 70°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "confidence": 0.99
+ },
+ {
+  "id": "bitter-almonds",
+  "page": 237,
+  "title_it": "Mandorle amare",
+  "title_en": "Bitter Almonds",
+  "method": "maceration",
+  "duration": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Mandorle amaro",
+    "name_en": "Bitter almonds",
+    "qty": 0.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 1,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Shake frequently during maceration."
+  ],
+  "confidence": 0.98
+ }
+]

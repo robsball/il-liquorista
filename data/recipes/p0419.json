@@ -1,0 +1,322 @@
+[
+ {
+  "id": "water-of-nutmeg",
+  "page": 419,
+  "section_en": "Waters and Syrups",
+  "title_it": "Acqua di noci moscate",
+  "title_en": "Water of Nutmeg",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Acqua di noci moscate",
+    "name_en": "Water of nutmeg",
+    "qty": 0.25,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Water of orange blossoms",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 56,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 20,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosa chiaro (cocciniglia)",
+    "name_en": "Pale rose coloring (cochineal)",
+    "qty": null,
+    "unit": "",
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "confidence": 0.75
+ },
+ {
+  "id": "rosolio-della-giovane-di-torino",
+  "page": 419,
+  "section_en": "Rosoli",
+  "title_it": "Rosolio della giovane di Torino",
+  "title_en": "Rosolio of the Young Woman of Turin",
+  "method": "distillation",
+  "yield": {
+   "amount": 40,
+   "unit": "liter",
+   "note": "distilled product"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella Cina",
+    "name_en": "Cinnamon (Chinese)",
+    "qty": 125,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Benzoino in lacrime",
+    "name_en": "Benzoin in tears (gum)",
+    "qty": 30,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Storace calamita",
+    "name_en": "Storax (liquid storax)",
+    "qty": 125,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 100,
+    "unit": "gram",
+    "unit_implicit": false,
+    "note": "OCR: '00' likely meant 100"
+   },
+   {
+    "name_it": "Ambretta",
+    "name_en": "Ambrette seed (musk mallow)",
+    "qty": 30,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lauro (bacche)",
+    "name_en": "Bay laurel (berries)",
+    "qty": 250,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno di sandalo",
+    "name_en": "Sandalwood",
+    "qty": 250,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 42,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Water of orange blossoms",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 56,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 21,
+    "unit": "liter",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Rosa chiaro (cocciniglia)",
+    "name_en": "Pale rose coloring (cochineal)",
+    "qty": null,
+    "unit": "",
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [
+   "Distill in a bain-marie with care, without rectification, to yield 40 liters of fine product.",
+   "Add water of orange blossoms, sugar, water, and pale rose coloring."
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "rosolio-parigino",
+  "page": 419,
+  "section_en": "Rosoli",
+  "title_it": "Rosolio parigino",
+  "title_en": "Parisian Rosolio",
+  "method": "distillation",
+  "yield": {
+   "amount": 15,
+   "unit": "liter",
+   "note": "distilled product before additions"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 750,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise seed",
+    "qty": 250,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mandorlo amaro",
+    "name_en": "Bitter almond",
+    "qty": 500,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 125,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 65,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 15,
+    "unit": "gram",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di cedri",
+    "name_en": "Citron peel",
+    "qty": 10,
+    "unit": "number",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 10,
+    "unit": "number",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 19,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura d'iride",
+    "name_en": "Iris tincture",
+    "qty": 10,
+    "unit": "gram",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Water of orange blossoms",
+    "qty": 0.5,
+    "unit": "liter",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Acqua di cannella",
+    "name_en": "Water of cinnamon",
+    "qty": 25,
+    "unit": "gram",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "gram",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 10,
+    "unit": "gram",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 28,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "in final syrup"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 12,
+    "unit": "liter",
+    "unit_implicit": false,
+    "note": "in final syrup"
+   }
+  ],
+  "steps_en": [
+   "Crush all ingredients and macerate in the alcohol.",
+   "Distill until 15 liters of product are obtained.",
+   "Add iris tincture, water of orange blossoms, water of cinnamon, cloves, and nutmegs.",
+   "Combine with a syrup made from sugar and water.",
+   "After complete mixing, dilute with 10 liters of water.",
+   "Color golden yellow and filter."
+  ],
+  "notes_en": "The final syrup is made separately from 28 kg sugar and 12 liters water.",
+  "ocr_flags": [
+   "Coriandoli (possibly coriander seeds; could be confetti-like decorations but context suggests spice)",
+   "grammi 10 d i garofani (spacing suggests 10 grams of cloves)"
+  ],
+  "confidence": 0.85
+ }
+]

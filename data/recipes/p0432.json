@@ -1,0 +1,329 @@
+[
+ {
+  "id": "cinnamon-flowers-liqueur",
+  "page": 432,
+  "section_en": "Liqueurs",
+  "title_it": "Fiori di cannella",
+  "title_en": "Cinnamon Flowers Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Fiori di cannella",
+    "name_en": "Cinnamon flowers",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori d'arancio",
+    "name_en": "Orange flowers",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 5500,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Infuse the cinnamon flowers, mace, peppermint, and orange flowers.",
+   "Filter the infusion.",
+   "Add 5500 ml of simple syrup."
+  ],
+  "notes_en": null,
+  "confidence": 0.85
+ },
+ {
+  "id": "bon-savoyard",
+  "page": 432,
+  "section_en": "Liqueurs",
+  "title_it": "Bon Savoyard",
+  "title_en": "Bon Savoyard",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Calamus",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arancio",
+    "name_en": "Orange peel",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "80° alcohol",
+    "qty": 5,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 18,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate juniper berries, calamus, mace, and orange peel in 5 liters of 80° alcohol for 8 days.",
+   "Filter the macerate.",
+   "Prepare a syrup by dissolving 18 kg sugar in 7 kg water.",
+   "Mix the hot syrup into the filtered macerate."
+  ],
+  "notes_en": null,
+  "confidence": 0.9
+ },
+ {
+  "id": "cacao-alla-vaniglia",
+  "page": 432,
+  "section_en": "Liqueurs",
+  "title_it": "Cacao alla vaniglia",
+  "title_en": "Cacao with Vanilla",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cacao Caracas torrefatto e pestato",
+    "name_en": "Roasted and ground Caracas cacao",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     250
+    ]
+   },
+   {
+    "name_it": "Cacao delle Isole torrefatto e pestato",
+    "name_en": "Roasted and ground island cacao",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Cocciniglia",
+    "name_en": "Cochineal",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ],
+    "note": "absent from first column"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ],
+    "note": "absent from first column"
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     18
+    ]
+   },
+   {
+    "name_it": "Arac",
+    "name_en": "Arak",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     200
+    ],
+    "note": "absent from first column"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1,
+    "unit": "l",
+    "unit_implicit": false,
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.2,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     4.8
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     4
+    ]
+   }
+  ],
+  "steps_en": [
+   "Macerate roasted and ground cacao, cochineal, cloves, vanilla, and arak (if using) in the 90° alcohol for 8 days.",
+   "Filter the macerate.",
+   "Dissolve sugar in hot water to form a syrup.",
+   "Mix the hot sugar solution into the filtered macerate."
+  ],
+  "notes_en": "Two formulations given: column I (smaller batch) and column II (larger batch). The second formulation includes cochineal, cloves, and arak.",
+  "confidence": 0.88
+ },
+ {
+  "id": "cacao-rosolio",
+  "page": 432,
+  "section_en": "Liqueurs",
+  "title_it": "Cacao (Rosolio)",
+  "title_en": "Cacao Rosolio",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 4,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cacao deoleato",
+    "name_en": "Defatted cacao",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Coylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity appears corrupted or zero"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 2000,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2000,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 3000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate defatted cacao, Ceylon cinnamon, and vanilla in 2000 ml of 90° alcohol and 2000 ml of water for 4 days.",
+   "Filter the macerate.",
+   "Add 3000 g of syrup to the filtrate."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Vaniglia quantity (0) appears corrupted or incomplete"
+  ],
+  "confidence": 0.82
+ }
+]

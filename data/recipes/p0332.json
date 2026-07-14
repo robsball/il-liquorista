@@ -1,0 +1,258 @@
+[
+ {
+  "id": "imitation-liqueur-xviii",
+  "page": 332,
+  "section_en": "Imitations by Maceration",
+  "title_it": "Imitazione (XVIII)",
+  "title_en": "Imitation Liqueur (XVIII)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 650,
+   "unit": "g",
+   "note": "per 100 litres of spirits"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Alcohol",
+    "name_it": "Alcool",
+    "qty": 5900,
+    "unit": "g"
+   },
+   {
+    "name_en": "Grape seed essential oil",
+    "name_it": "Olio essenziale di vinaccioli",
+    "qty": 30,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Cedarwood essential oil",
+    "name_it": "Olio essenziale di legno cedro",
+    "qty": 30,
+    "unit": "drops"
+   },
+   {
+    "name_en": "Ceylon cinnamon essential oil",
+    "name_it": "Olio essenziale di cannella Ceylan",
+    "qty": 40,
+    "unit": "drops"
+   },
+   {
+    "name_en": "Bitter almond essential oil",
+    "name_it": "Olio essenziale di mandorle amare",
+    "qty": 1,
+    "unit": "drops"
+   },
+   {
+    "name_en": "Carob tincture",
+    "name_it": "Tintura di carrube",
+    "qty": 400,
+    "unit": "g"
+   },
+   {
+    "name_en": "Iris tincture",
+    "name_it": "Tintura di ireos",
+    "qty": 80,
+    "unit": "g"
+   },
+   {
+    "name_en": "Vanilla tincture",
+    "name_it": "Tintura di vaniglia",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_en": "Tonka bean tincture",
+    "name_it": "Tintura di fave tonka",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_en": "Rum essence",
+    "name_it": "Essenza di rhum",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_en": "Formic ether",
+    "name_it": "Etere formico",
+    "qty": 300,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients as specified.",
+   "Use 650–700 g of this mixture per 100 litres of brandy."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "imitation-liqueur-xix",
+  "page": 332,
+  "section_en": "Imitations by Maceration",
+  "title_it": "Imitazione (XIX)",
+  "title_en": "Imitation Liqueur (XIX)",
+  "method": "maceration",
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Sweet almond shells",
+    "name_it": "Gusci di mandorle dolci",
+    "qty": 60,
+    "unit": "g"
+   },
+   {
+    "name_en": "Bitter almond shells",
+    "name_it": "Gusci di mandorle amare",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_en": "Iris root",
+    "name_it": "Ireos radice",
+    "qty": 4,
+    "unit": "g"
+   },
+   {
+    "name_en": "Catechu earth",
+    "name_it": "Terra Cattù",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_en": "Sassafras wood",
+    "name_it": "Sassafrasso legno",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_en": "Old Marsala wine",
+    "name_it": "Marsala vecchio",
+    "qty": 0.5,
+    "unit": "L"
+   },
+   {
+    "name_en": "Alcohol",
+    "name_it": "Alcool di 90°",
+    "qty": 7,
+    "unit": "L"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 3,
+    "unit": "L"
+   },
+   {
+    "name_en": "Sugar",
+    "name_it": "Zucchero",
+    "qty": 100,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Toast the almond shells and place them, while still hot, into an earthenware vessel.",
+   "Pour 0.5 L of boiling water and 200 mL of alcohol over the hot shells.",
+   "Add the remaining ingredients (iris root, catechu earth, sassafras wood).",
+   "Macerate for 8 days, then strain the liquid.",
+   "Mix the strained liquid with the water, sugar, and Marsala wine.",
+   "Filter the final mixture."
+  ],
+  "notes_en": "The almond shells should be toasted and still warm when the liquid is poured.",
+  "confidence": 0.88
+ },
+ {
+  "id": "simple-imitation-quince",
+  "page": 332,
+  "section_en": "Imitations by Maceration",
+  "title_it": "Imitazione semplice e scadente",
+  "title_en": "Simple Poor-Quality Imitation",
+  "method": "maceration",
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "alcohol_strength": {
+   "degrees": 67.5,
+   "raw": "alcool di 65°–70°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Quinces",
+    "name_it": "Mele cotogne",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_en": "Alcohol",
+    "name_it": "Alcool di 65°–70°",
+    "qty": 20,
+    "unit": "L"
+   },
+   {
+    "name_en": "Tea leaves",
+    "name_it": "Foglie di thè",
+    "qty": 50,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Combine quinces, alcohol, and tea leaves.",
+   "Macerate for 15 days.",
+   "Filter the mixture."
+  ],
+  "notes_en": "This is described as a very simple but inferior imitation.",
+  "confidence": 0.9
+ },
+ {
+  "id": "imitation-by-distillation-xx",
+  "page": 332,
+  "section_en": "Imitations by Distillation",
+  "title_it": "Imitazione per distillazione (XX)",
+  "title_en": "Imitation by Distillation (XX)",
+  "method": "distillation",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Alcohol",
+    "name_it": "Alcool di 90°",
+    "qty": 100,
+    "unit": "L"
+   },
+   {
+    "name_en": "Acetic ether",
+    "name_it": "Etere acetico",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_en": "Nitrous ether",
+    "name_it": "Etere nitroso",
+    "qty": 300,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Combine the alcohol with acetic ether and nitrous ether.",
+   "Subject the mixture to distillation."
+  ],
+  "confidence": 0.85,
+  "ocr_flags": [
+   "Etere nitroso – chemical accuracy of period text uncertain"
+  ]
+ }
+]

@@ -1,0 +1,250 @@
+[
+ {
+  "id": "rosolio-di-venere",
+  "page": 420,
+  "section_en": "Rosolios",
+  "title_it": "Rosolio di Venere",
+  "title_en": "Rosolio of Venus",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di cornino",
+    "name_en": "Cornel seeds",
+    "qty": 160,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance dolci",
+    "name_en": "Peel of sweet oranges",
+    "qty": 4,
+    "unit": "number",
+    "note": "4 oranges"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Acqua Americana."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "rosolio-of-roses",
+  "page": 420,
+  "section_en": "Rosolios",
+  "title_it": "Rose (Rosolio)",
+  "title_en": "Rosolio of Roses",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Petali di rose rosse",
+    "name_en": "Red rose petals",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori d'arancio",
+    "name_en": "Orange blossoms",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno di rosa",
+    "name_en": "Rosewood",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Orris root",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Rosolio of Angelica.",
+   "Add rose color (cochineal)."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "celery-rosolio",
+  "page": 420,
+  "section_en": "Rosolios",
+  "title_it": "Sedano",
+  "title_en": "Celery Rosolio",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "Final product"
+  },
+  "alcohol_strength": {
+   "degrees": 3.8,
+   "raw": "3.8% (final product)"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Sedano (semi)",
+    "name_en": "Celery seeds",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit of 90°",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.2,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90° (per completamento)",
+    "name_en": "Spirit of 90° (for completion)",
+    "qty": 6,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Acqua (per completamento)",
+    "name_en": "Water (for completion)",
+    "qty": 6,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   }
+  ],
+  "steps_en": [
+   "After maceration, distill 3 liters.",
+   "To the distillate add: 6 L of spirit of 90°, 5 L of syrup, and 6 L of water.",
+   "Color with light brown."
+  ],
+  "notes_en": "Final product: 20 liters at 3.8% alcohol and 25% sugar.",
+  "ocr_flags": [],
+  "confidence": 0.89
+ }
+]

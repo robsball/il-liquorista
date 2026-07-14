@@ -1,0 +1,204 @@
+[
+ {
+  "id": "kummel-glaciale",
+  "page": 405,
+  "section_en": "Kummels",
+  "title_it": "Kummel Glaciale",
+  "title_en": "Glacial Kummel",
+  "method": "distillation",
+  "yield": {
+   "amount": 11.1,
+   "unit": "liters",
+   "note": "3.2 liters distilled, then combined with added alcohol, syrup, and water"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cornino di Olanda (semi)",
+    "name_en": "Dutch juniper (seeds)",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Carvi",
+    "name_en": "Caraway",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": null,
+    "unit": "liters",
+    "note": "quantity not specified for maceration stage"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2200,
+    "unit": "ml",
+    "unit_implicit": true,
+    "note": "for maceration"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 2,
+    "unit": "liters",
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 3,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3900,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 4,
+    "unit": "kg",
+    "note": "dissolved in 2 liters water and concentrated to 2 liters"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in alcohol and water.",
+   "Distill 3.2 liters.",
+   "Separately dissolve 4 kg of refined sugar in 2 liters of water and concentrate the syrup to 2 liters (without citric acid).",
+   "Mix this syrup in a kettle with 4 liters of alcohol (90°) and pour the mixture while still warm into cylindrical or prismatic bottles of approximately 500 ml capacity, filling to about one-third.",
+   "Stopper bottles lightly and let rest for some time.",
+   "As soon as crystal formation appears, fill the bottles with the prepared liqueur and stopper tightly, shaking frequently.",
+   "During pouring of the hot alcohol-sugar mixture, stir constantly to ensure homogeneous distribution of substances."
+  ],
+  "notes_en": "This recipe employs fractional crystallization in sealed bottles to achieve the characteristic glacial effect. The syrup preparation omits citric acid intentionally.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "kummel-di-riga",
+  "page": 405,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Riga",
+  "title_en": "Kummel of Riga",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 19.5,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcoolato composto per Kummel",
+    "name_en": "Compound kummel alcoholate",
+    "qty": 3.25,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 20,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol 75°",
+    "qty": 7.25,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 0,
+    "unit": "liters",
+    "note": "quantity listed as 0, likely OCR error or placeholder"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.5,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients."
+  ],
+  "notes_en": "This is a simplified cold-mix formula based on a pre-made kummel alcoholate. The syrup quantity (0 liters) appears anomalous and may indicate OCR corruption or intentional omission.",
+  "ocr_flags": [
+   "Siroppo quantity listed as 0 — unclear if error or intentional"
+  ],
+  "confidence": 0.85
+ }
+]

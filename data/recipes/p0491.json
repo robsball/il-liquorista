@@ -1,0 +1,303 @@
+[
+ {
+  "id": "melissa-tedesca-i",
+  "page": 491,
+  "section_en": "Melissa (German style)",
+  "title_it": "Melissa (Tedesca) - I",
+  "title_en": "Melissa (German style) - I",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 2100,
+   "unit": "ml",
+   "note": "sum of components"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di melissa",
+    "name_en": "Melissa essential oil",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 4,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 650,
+    "unit": "ml"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "ml"
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils, alcohol, sugar, and water.",
+   "Color green.",
+   "Filter through paper."
+  ],
+  "notes_en": "German-style melissa liqueur.",
+  "confidence": 0.92
+ },
+ {
+  "id": "melissa-francese-ii",
+  "page": 491,
+  "section_en": "Melissa (French style)",
+  "title_it": "Melissa (Francese) - II",
+  "title_en": "Melissa (French style) - II",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 2100,
+   "unit": "ml",
+   "note": "sum of components"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di melissa composto",
+    "name_en": "Compound melissa alcoholate",
+    "qty": 700,
+    "unit": "g",
+    "note": "see page 215"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "ml"
+   }
+  ],
+  "steps_en": [
+   "Combine compound melissa alcoholate, sugar, and water.",
+   "Do not color.",
+   "Filter through paper."
+  ],
+  "notes_en": "French-style melissa liqueur. No coloring added.",
+  "confidence": 0.93
+ },
+ {
+  "id": "menta-piperita-i",
+  "page": 491,
+  "section_en": "Peppermint",
+  "title_it": "Menta piperita - I",
+  "title_en": "Peppermint - I",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "40% alcool"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di menta piperita inglese",
+    "name_en": "English peppermint essential oil",
+    "qty": 6,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 8.35,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 11.65,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Combine ingredients.",
+   "Color green.",
+   "Filter through paper."
+  ],
+  "notes_en": "Yields 20 liters at 40% alcohol and 32% sugar.",
+  "confidence": 0.88
+ },
+ {
+  "id": "menta-piperita-ii-doppia",
+  "page": 491,
+  "section_en": "Peppermint",
+  "title_it": "Menta piperita - II (Doppia)",
+  "title_en": "Peppermint - II (Double strength)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di menta piperita inglese",
+    "name_en": "English peppermint essential oil",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 6.75,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 13.25,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Combine ingredients.",
+   "Color green.",
+   "Filter through paper."
+  ],
+  "notes_en": "Double-strength formulation.",
+  "confidence": 0.85
+ },
+ {
+  "id": "menta-piperita-iii-rosolio",
+  "page": 491,
+  "section_en": "Peppermint",
+  "title_it": "Menta piperita - III (Rosolio)",
+  "title_en": "Peppermint - III (Rosolio)",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di menta inglese",
+    "name_en": "English peppermint essential oil",
+    "qty": 6,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.7,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Combine ingredients.",
+   "Color green.",
+   "Filter through paper."
+  ],
+  "notes_en": "Rosolio style peppermint liqueur.",
+  "confidence": 0.89
+ },
+ {
+  "id": "menta-piperita-iv-crema",
+  "page": 491,
+  "section_en": "Peppermint",
+  "title_it": "Menta piperita - IV (Crema)",
+  "title_en": "Peppermint - IV (Cream)",
+  "method": "cold_mix",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di menta inglese",
+    "name_en": "English peppermint essential oil",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4.3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Combine ingredients.",
+   "Color green.",
+   "Filter through paper."
+  ],
+  "notes_en": "Cream-style peppermint liqueur with higher sugar content.",
+  "confidence": 0.87
+ }
+]

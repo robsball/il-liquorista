@@ -1,0 +1,340 @@
+[
+ {
+  "id": "ether-of-apricots",
+  "page": 265,
+  "section_en": "Fruit Ethers",
+  "title_it": "Etere di albicocche",
+  "title_en": "Ether of Apricots",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere valerianico",
+    "name_en": "Valeric ether",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Glicerina",
+    "name_en": "Glycerin",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool amilico",
+    "name_en": "Amyl alcohol",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere amilbutirrico",
+    "name_en": "Amyl butyric ether",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cloroformio",
+    "name_en": "Chloroform",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido tartarico",
+    "name_en": "Tartaric acid",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Mix ingredients.",
+  "confidence": 0.95
+ },
+ {
+  "id": "ether-of-apricots-english",
+  "page": 265,
+  "section_en": "Fruit Ethers",
+  "title_it": "Etere di albicocche (in inglese)",
+  "title_en": "Ether of Apricots (English style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Butirrato di amile",
+    "name_en": "Amyl butyrate",
+    "qty": 25,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Mix ingredients.",
+  "confidence": 0.96
+ },
+ {
+  "id": "ether-of-pineapple",
+  "page": 265,
+  "section_en": "Fruit Ethers",
+  "title_it": "Etere di ananas",
+  "title_en": "Ether of Pineapple",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di ananas",
+    "name_en": "Pineapple essence",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di vaniglia",
+    "name_en": "Vanilla essence",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere di pere",
+    "name_en": "Pear ether",
+    "qty": 1.5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere di mele",
+    "name_en": "Apple ether",
+    "qty": 5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 77.5,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Mix ingredients.",
+  "confidence": 0.94
+ },
+ {
+  "id": "ether-of-pineapple-english",
+  "page": 265,
+  "section_en": "Fruit Ethers",
+  "title_it": "Etere di ananas (in inglese)",
+  "title_en": "Ether of Pineapple (English style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere sebacilico",
+    "name_en": "Sebacic ether",
+    "qty": 4,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 1.5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Butirrato di etile",
+    "name_en": "Ethyl butyrate",
+    "qty": 12.5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Butirrato di amile",
+    "name_en": "Amyl butyrate",
+    "qty": 1.5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acetato di amile",
+    "name_en": "Amyl acetate",
+    "qty": 1.5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di ananas (dal frutto)",
+    "name_en": "Pineapple essence (from fruit)",
+    "qty": 2,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza di vaniglia",
+    "name_en": "Vanilla essence",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Mix ingredients.",
+  "confidence": 0.94
+ },
+ {
+  "id": "ether-of-bergamot-english",
+  "page": 265,
+  "section_en": "Fruit Ethers",
+  "title_it": "Etere di bergamotto (in inglese)",
+  "title_en": "Ether of Bergamot (English style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di ananas inglese",
+    "name_en": "English-style pineapple ether",
+    "qty": 20,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": 1.5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Mix ingredients.",
+  "confidence": 0.96
+ },
+ {
+  "id": "ether-of-lemon-english",
+  "page": 265,
+  "section_en": "Fruit Ethers",
+  "title_it": "Etere di limone (in inglese)",
+  "title_en": "Ether of Lemon (English style)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di ananas inglese",
+    "name_en": "English-style pineapple ether",
+    "qty": 20,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 35,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 35,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Mix ingredients.",
+  "confidence": 0.96
+ }
+]

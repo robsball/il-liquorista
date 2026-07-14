@@ -1,0 +1,292 @@
+[
+ {
+  "id": "hazelnut-apricot-cream",
+  "page": 369,
+  "title_it": "Noccioli d'albicocche (Crema di)",
+  "title_en": "Apricot Kernel Cream",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di noccioli albicocche",
+    "name_en": "Apricot kernel alcoholate",
+    "qty": 1.8,
+    "unit": "litres",
+    "variants": [
+     2.8,
+     3.2
+    ]
+   },
+   {
+    "name_it": "Alcoolato di mandorle amare",
+    "name_en": "Bitter almond alcoholate",
+    "qty": null,
+    "unit": "litres",
+    "variants": [
+     null,
+     1.6
+    ],
+    "note": "omitted in first proportion"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 3.2,
+    "unit": "litres",
+    "variants": [
+     2.7,
+     1.6
+    ]
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange blossom water",
+    "qty": null,
+    "unit": "litres",
+    "variants": [
+     null,
+     0.2
+    ],
+    "note": "omitted in first two proportions"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "variants": [
+     5.0,
+     8.75
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 13.2,
+    "unit": "litres",
+    "variants": [
+     null,
+     7.6
+    ],
+    "note": "second proportion unclear in OCR"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "To make this liqueur more aromatic and delicate, the bitter almond alcoholate can be replaced by volume with: 200 ml orange alcoholate, 100 ml cinnamon alcoholate, and 50 ml clove alcoholate.",
+  "ocr_flags": [
+   "second_water_proportion_ambiguous"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "peach-liqueur",
+  "page": 369,
+  "section_en": "Perfetto Amore (see p. 301)",
+  "title_it": "Persico",
+  "title_en": "Peach Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di mandorle amare",
+    "name_en": "Bitter almond alcoholate",
+    "qty": 1.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di cannella Cina",
+    "name_en": "Chinese cinnamon alcoholate",
+    "qty": 0.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di finocchio",
+    "name_en": "Fennel alcoholate",
+    "qty": 0.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di coriandoli",
+    "name_en": "Coriander alcoholate",
+    "qty": 0.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di aneto",
+    "name_en": "Dill alcoholate",
+    "qty": 0.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange blossom water",
+    "qty": 0.1,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1.4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 5.0,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Common water",
+    "qty": 2.5,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See p. 301.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "rose-genoa-rosolio",
+  "page": 369,
+  "section_en": "Rose (see p. 301)",
+  "title_it": "Rosolio di Genova",
+  "title_en": "Genoa Rose Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di mandorle amare",
+    "name_en": "Bitter almond alcoholate",
+    "qty": 2.0,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di fiori d'arancio",
+    "name_en": "Orange blossom alcoholate",
+    "qty": 1.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di rose",
+    "name_en": "Rose alcoholate",
+    "qty": 0.8,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di cannella Cina",
+    "name_en": "Chinese cinnamon alcoholate",
+    "qty": 0.05,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcoolato di noce moscato",
+    "name_en": "Nutmeg alcoholate",
+    "qty": 0.05,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 3.1,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 10.0,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.0,
+    "unit": "litres",
+    "note": "possibly OCR error; may be intended as blank or omitted"
+   }
+  ],
+  "steps_en": [
+   "Color: light yellow (saffron)."
+  ],
+  "notes_en": "See p. 301.",
+  "ocr_flags": [
+   "water_quantity_zero_may_be_OCR_error"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "celery-liqueur",
+  "page": 369,
+  "title_it": "Sedano",
+  "title_en": "Celery Liqueur",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "total yield"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di sedano",
+    "name_en": "Celery alcoholate",
+    "qty": 1.6,
+    "unit": "litres",
+    "variants": [
+     2.4,
+     4.0
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 6.4,
+    "unit": "litres",
+    "variants": [
+     3.1,
+     2.0
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "variants": [
+     5.0,
+     8.75
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 13.2,
+    "unit": "litres",
+    "variants": [
+     11.0,
+     7.8
+    ]
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Three quality grades shown: Comune (common), Semifino (semi-fine), Fino (fine).",
+  "ocr_flags": [],
+  "confidence": 0.9
+ }
+]

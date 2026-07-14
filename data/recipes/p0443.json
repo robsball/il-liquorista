@@ -1,0 +1,328 @@
+[
+ {
+  "id": "green-liqueur",
+  "page": 443,
+  "section_en": "Green Liqueurs",
+  "title_it": "Liquore verde",
+  "title_en": "Green Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice comune",
+    "name_en": "Common anise",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica sommità",
+    "name_en": "Angelica tops",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di cedri",
+    "name_en": "Citron peel",
+    "qty": 4,
+    "unit": "pieces",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 12,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 8,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "added after maceration"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "for syrup"
+   },
+   {
+    "name_it": "Clorofilla",
+    "name_en": "Chlorophyll",
+    "qty": null,
+    "unit": "q.b.",
+    "unit_implicit": false,
+    "note": "for green color"
+   }
+  ],
+  "steps_en": [
+   "Macerate all dry ingredients in 12 liters of 60° alcohol.",
+   "Separately, dissolve 8 kg sugar in 5 L water.",
+   "Add the sugar syrup to the macerated mixture.",
+   "Stir well and let rest for one day.",
+   "Filter.",
+   "Add chlorophyll for green color."
+  ],
+  "notes_en": "The recipe indicates standard maceration procedure. Color is adjusted by chlorophyll at the end.",
+  "confidence": 0.92
+ },
+ {
+  "id": "juniper-liqueur-i",
+  "page": 443,
+  "section_en": "Juniper Liqueurs",
+  "title_it": "Ginepro I",
+  "title_en": "Juniper Liqueur I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 4,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Bacche di ginepro",
+    "name_en": "Juniper berries",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Foglio di menta piperita",
+    "name_en": "Peppermint leaf",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di finocchio",
+    "name_en": "Fennel seed",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Carvi",
+    "name_en": "Caraway",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "dissolved separately"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "for syrup"
+   }
+  ],
+  "steps_en": [
+   "Pound all dry ingredients together.",
+   "Macerate in 10 liters of 85° alcohol for no more than 4–5 days, stirring occasionally.",
+   "Separately, dissolve 5 kg sugar in 8 L water.",
+   "Combine the macerate with the syrup.",
+   "Let rest for one day.",
+   "Filter."
+  ],
+  "notes_en": "Short maceration period (4–5 days maximum) to preserve delicate flavor.",
+  "confidence": 0.94
+ },
+ {
+  "id": "juniper-liqueur-ii",
+  "page": 443,
+  "section_en": "Juniper Liqueurs",
+  "title_it": "Ginepro II",
+  "title_en": "Juniper Liqueur II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Bacche di ginepro fresche e mature",
+    "name_en": "Fresh ripe juniper berries",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 700,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed using the standard method (macerate berries in high-proof alcohol, then combine with syrup made from sugar and water)."
+  ],
+  "notes_en": "This variant uses simpler proportions and higher-proof alcohol (90°). The 'standard method' refers to the procedure described in variant I.",
+  "confidence": 0.91
+ },
+ {
+  "id": "ivan-russian-liqueur",
+  "page": 443,
+  "section_en": "Ivan (Russian Liqueur)",
+  "title_it": "Ivan (Liquore russo)",
+  "title_en": "Ivan (Russian Liqueur)",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; no method or proportions for alcohol and water provided on this page.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

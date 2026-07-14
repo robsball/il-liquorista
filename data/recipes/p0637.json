@@ -1,0 +1,178 @@
+[
+ {
+  "id": "elixir-dei-marinai",
+  "page": 637,
+  "section_en": "Elixirs",
+  "title_it": "Elixir dei Marinai",
+  "title_en": "Elixir of the Sailors",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zodoara",
+    "name_en": "Zedoary",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Gelanga",
+    "name_en": "Galangal",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in 20 litres of spirit at 60° for 1 day.",
+   "Strain to obtain the extract.",
+   "To make the liqueur: combine 2 litres of the extract, 14.25 litres of spirit at 90°, 5 litres of syrup, and 14.75 litres of water.",
+   "Colour with caramel (brown) to desired shade."
+  ],
+  "notes_en": "The preceding extract (from the initial maceration) is used in the final liqueur formulation.",
+  "confidence": 0.92
+ },
+ {
+  "id": "elixir-svedese-di-lunga-vita",
+  "page": 637,
+  "section_en": "Elixirs",
+  "title_it": "Elixir Svedese di lunga vita",
+  "title_en": "Swedish Elixir of Long Life",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di rhum",
+    "name_en": "Rum essence",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "added to the obtained extract"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Amaro Angostura (II): macerate the botanicals in 1 litre of spirit at 90° and 1 litre of water.",
+   "Strain to obtain the extract.",
+   "Add 20 g of rum essence to the extract.",
+   "To make the liqueur: proceed as for Amaro Inglese (II), employing 1 litre of this extract."
+  ],
+  "notes_en": "Refer to recipes for Amaro Angostura (II) and Amaro Inglese (II) for detailed instructions on maceration and final liqueur preparation.",
+  "confidence": 0.88,
+  "ocr_flags": [
+   "Kabarbaro — likely 'Rabarbaro' (rhubarb), OCR conflation"
+  ]
+ }
+]

@@ -1,0 +1,276 @@
+[
+ {
+  "id": "clove-liqueur",
+  "page": 447,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore (unnamed clove-based)",
+  "title_en": "Clove Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "alcool di 65°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "days",
+   "note": "parecchi giorni (several days) in sun"
+  },
+  "ingredients": [
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 2.5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Canfora",
+    "name_en": "Camphor",
+    "qty": 5.0,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 65°",
+    "name_en": "Alcohol 65°",
+    "qty": 10,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Siroppo di zucchero caramellizzato",
+    "name_en": "Caramelized sugar syrup",
+    "qty": 500,
+    "unit": "g",
+    "note": "lightly caramelized"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients together in the closed vessel in the sun for several days.",
+   "Strain the liquid.",
+   "Sweeten with 500 g of lightly caramelized sugar syrup."
+  ],
+  "notes_en": "Keep the vessel well sealed during maceration.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "scottish-liqueur",
+  "page": 447,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore Scozzese",
+  "title_en": "Scottish Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days",
+   "note": "first maceration 10 days, then second rest 10 days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Bacche di ginepro",
+    "name_en": "Juniper berries",
+    "qty": 13,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice comune",
+    "name_en": "Common anise",
+    "qty": 6,
+    "unit": "g"
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seeds",
+    "qty": 6,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ambrotta",
+    "name_en": "Ambretta (musk mallow)",
+    "qty": 3,
+    "unit": "g",
+    "note": "uncertain reading"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 13,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 125,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1.6,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.0,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.6,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Scorza gialla di limone",
+    "name_en": "Lemon zest (yellow peel)",
+    "qty": 1,
+    "unit": "piece",
+    "note": "from one lemon"
+   }
+  ],
+  "steps_en": [
+   "Pound together the first seven substances and place in the alcohol.",
+   "Add the lemon zest in small pieces and macerate for 10 days.",
+   "Dissolve the sugar in water mixed with orange flower water.",
+   "Add this solution to the maceration and let rest for 10 days.",
+   "Filter and add a few drops of caramel."
+  ],
+  "notes_en": "Total maceration time is 20 days (10+10).",
+  "ocr_flags": [
+   "Ambrotta – possibly ambretta (musk mallow) or amaro (bitters); OCR uncertain"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "mandarin-rosolio-i",
+  "page": 447,
+  "section_en": "Rosolios",
+  "title_it": "Mandaurino (Rosolio di) — Metodo I",
+  "title_en": "Mandarin Rosolio — Method I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di mandarini",
+    "name_en": "Mandarin peel",
+    "qty": 1.5,
+    "unit": "kg",
+    "note": "in place of 2 kg orange peel as in basic orange rosolio"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for orange rosolio (see method on page 1), using 1.5 kg of mandarin peel instead of 2 kg of orange peel."
+  ],
+  "notes_en": "Cross-reference to orange rosolio recipe (page 1) for full procedure.",
+  "ocr_flags": [],
+  "confidence": 0.78
+ },
+ {
+  "id": "mandarin-rosolio-ii",
+  "page": 447,
+  "section_en": "Rosolios",
+  "title_it": "Mandaurino (Rosolio di) — Metodo II",
+  "title_en": "Mandarin Rosolio — Method II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Scorze di mandarini",
+    "name_en": "Mandarin peel",
+    "qty": 30,
+    "unit": "mandarins",
+    "note": "peels from 30 mandarins"
+   },
+   {
+    "name_it": "Succo dei mandarini",
+    "name_en": "Mandarin juice",
+    "qty": null,
+    "unit": "as extracted",
+    "note": "juice that flows from the peels"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90° (additional)",
+    "qty": 3,
+    "unit": "litres",
+    "note": "added after first decanting"
+   }
+  ],
+  "steps_en": [
+   "Pour 2 litres of 90° alcohol and 1 litre of water over the peel from 30 mandarins and the juice that flows from them.",
+   "Let rest for 10 days.",
+   "Decant the liquid, pressing out the peels.",
+   "Filter.",
+   "Add 3 litres of 90° alcohol and 1 litre of water. [Recipe continues on next page]"
+  ],
+  "notes_en": "Text is incomplete at the bottom of the page.",
+  "ocr_flags": [],
+  "confidence": 0.82
+ }
+]

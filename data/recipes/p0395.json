@@ -1,0 +1,326 @@
+[
+ {
+  "id": "fennel-liqueur",
+  "page": 395,
+  "section_en": "Liqueurs",
+  "title_it": "Finocchio",
+  "title_en": "Fennel Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 17,
+   "unit": "litres",
+   "note": "at 72° proof"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     65
+    ]
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 150,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     130
+    ]
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 90,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     25
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     25
+    ]
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Iride",
+    "name_en": "Iris",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     30
+    ]
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": false,
+    "variants": [
+     35
+    ]
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60° proof",
+    "qty": 22,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     22
+    ]
+   }
+  ],
+  "steps_en": [
+   "Distil to obtain 17 litres at 72° proof.",
+   "Add 3 litres of water and 1.4 litres of syrup to the distillate.",
+   "The product is colourless or blue-tinted."
+  ],
+  "notes_en": "Two proportion columns given; first column represents the standard recipe, second column an alternative.",
+  "confidence": 0.92
+ },
+ {
+  "id": "coca-elixir",
+  "page": 395,
+  "section_en": "Liqueurs",
+  "title_it": "Coca (Elisir)",
+  "title_en": "Coca Elixir",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "at 40% ABV, 37% sugar content"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di coca",
+    "name_en": "Coca tincture",
+    "qty": 3,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "Cognac",
+    "qty": 1,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di melissa",
+    "name_en": "Lemon balm essential oil",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di calamo aromatico",
+    "name_en": "Aromatic calamus essential oil",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Rose essential oil",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90° proof",
+    "qty": 5.7,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 7.5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.8,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients.",
+   "The final product is yellow-green in colour."
+  ],
+  "notes_en": "Final product: 20 litres at 40% ABV with 37% sugar content.",
+  "confidence": 0.94
+ },
+ {
+  "id": "cristofele",
+  "page": 395,
+  "section_en": "Liqueurs",
+  "title_it": "Cristofele",
+  "title_en": "Cristofele",
+  "method": "distillation",
+  "yield": {
+   "amount": 15,
+   "unit": "litres",
+   "note": "at 72° proof"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance fresche",
+    "name_en": "Fresh orange peel",
+    "qty": 200,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 200,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fichi",
+    "name_en": "Figs",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Datteri",
+    "name_en": "Dates",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 75,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 75,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60° proof",
+    "qty": 20,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in the spirit for 24 hours.",
+   "Distil to obtain 15 litres at 72° proof."
+  ],
+  "confidence": 0.93
+ }
+]

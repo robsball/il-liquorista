@@ -1,0 +1,176 @@
+[
+ {
+  "id": "benedettino-i",
+  "page": 431,
+  "section_en": "Benedettino",
+  "title_it": "Benedettino",
+  "title_en": "Benedettino I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 1,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Scorze d'arance dolci",
+    "name_en": "Sweet orange peel",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Spirit of 75°",
+    "qty": 5,
+    "unit": "L"
+   },
+   {
+    "name_it": "Tintura di cui sopra",
+    "name_en": "Tincture from above",
+    "qty": 450,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Spirit of 95°",
+    "qty": 12.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cognac genuino",
+    "name_en": "Genuine cognac",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Siroppo di vino",
+    "name_en": "Wine syrup",
+    "qty": 4,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di zafferano",
+    "name_en": "Saffron tincture",
+    "qty": null,
+    "unit": "g",
+    "note": "for colour, added to taste"
+   }
+  ],
+  "steps_en": [
+   "Macerate angelica root, sweet orange peel, Ceylon cinnamon, and cloves in 5 L of 75° spirit for 5 days.",
+   "Decant after 5 days.",
+   "Mix the resulting tincture (450 g) with 12.5 g of 95° spirit, 2 g genuine cognac, 2 g simple syrup, 4 g wine syrup, and 6 g water.",
+   "Colour with saffron tincture, adding gradually to avoid the extract flavour becoming too dominant."
+  ],
+  "notes_en": "This is an excellent imitation of the liqueur made by the Benedettines of Fécamp. The flavour of the extract should not be overpowering; it is best added little by little. If 450 g of tincture is insufficient, a little more may be added. The most suitable wine for making the syrup is Sardinian or Polcevera wine made from ripe grapes.",
+  "ocr_flags": [
+   "Fécamp"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "benedettino-ii",
+  "page": 431,
+  "section_en": "Benedettino",
+  "title_it": "Benedettino",
+  "title_en": "Benedettino II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": null,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool rettificato",
+    "name_en": "Rectified spirit",
+    "qty": 1500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag root",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper berry",
+    "qty": 2,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Macerate coriander seed, lemon peel, lemon balm, hyssop, angelica root, sweet flag root, and juniper berry in 1500 g of rectified spirit for several days."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ }
+]

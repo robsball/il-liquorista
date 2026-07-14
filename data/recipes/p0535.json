@@ -1,0 +1,253 @@
+[
+ {
+  "id": "rosolio-del-pastore",
+  "page": 535,
+  "section_en": "Rosoli",
+  "title_it": "Rosolio del Pastore",
+  "title_en": "Shepherd's Rosolio",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di cedro raspate",
+    "name_en": "Scraped citron peel",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 265,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 265,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda (fiori)",
+    "name_en": "Lavender (flowers)",
+    "qty": 265,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol at 70°",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for one month or digest for 24 hours.",
+   "Strain through a sieve and filter."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "lupuolo",
+  "page": 535,
+  "section_en": "Lupuolo",
+  "title_it": "Lupuolo",
+  "title_en": "Hops Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Lupuolo",
+    "name_en": "Hops",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di aranco",
+    "name_en": "Orange peel",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 4.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Final liqueur: Extract 800 g, Alcohol at 90° 14.25 L, Syrup 18 L, Water 7.75 L. Dark brown colour.",
+  "ocr_flags": [
+   "Scorzo di aranco (possibly 'Arance' or similar orange variety)"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "noci-mallo-di-i",
+  "page": 535,
+  "section_en": "Noci (Mallo di)",
+  "title_it": "Noci (Mallo di) — I",
+  "title_en": "Walnut Liqueur — Formula I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Noci verdi",
+    "name_en": "Green walnuts",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di limoni",
+    "name_en": "Lemon peel",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol at 75°",
+    "qty": 3,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Maceration time: 'Giorni ir.' (days unclear from OCR)",
+  "ocr_flags": [
+   "Giorni ir. (duration unclear; possibly 'Giorni 10' or similar)"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "noci-mallo-di-ii",
+  "page": 535,
+  "section_en": "Noci (Mallo di)",
+  "title_it": "Noci (Mallo di) — II",
+  "title_en": "Walnut Liqueur — Formula II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Noci verdi",
+    "name_en": "Green walnuts",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di mandorle amare",
+    "name_en": "Bitter almond water",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 5000,
+    "unit": "mL",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Pour boiling water over the walnuts and leave them immersed for one hour.",
+   "Remove and set aside (procedure continues on next page)."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ }
+]

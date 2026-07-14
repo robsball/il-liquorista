@@ -1,0 +1,311 @@
+[
+ {
+  "id": "bitter-almond-liqueur",
+  "page": 382,
+  "section_en": "Bitters and Aromatic Spirits",
+  "title_it": "Mandorle amare",
+  "title_en": "Bitter Almond Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seeds",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85° GL",
+    "qty": 3.8,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3.6,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as above (macerate and distill).",
+   "May be perfumed with 20 mL of iris alcohol."
+  ],
+  "notes_en": "Reference to 'procedure as above' indicates a standard infusion and distillation method described elsewhere in the text.",
+  "confidence": 0.92
+ },
+ {
+  "id": "alkismes-i",
+  "page": 382,
+  "section_en": "Alkismes",
+  "title_it": "Alkismes I",
+  "title_en": "Alkismes I",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "aromatic spirit after distillation"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ambretta",
+    "name_en": "Ambrette seed",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus root",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 130,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macie",
+    "name_en": "Mace",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85° GL",
+    "qty": 22,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di gelsomino",
+    "name_en": "Jasmine extract",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 3,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura d'iride",
+    "name_en": "Iris tincture",
+    "qty": 0.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "likely kg, OCR ambiguous"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanicals in 85° alcohol for 48 hours.",
+   "Distill in a bain-marie with care, without rectification, yielding 20 litres of fine aromatic spirit.",
+   "To the distillate, add jasmine extract, rose water, iris tincture, white sugar, and water.",
+   "Colour with cochineal to a deep red."
+  ],
+  "notes_en": "Bain-marie distillation ensures gentle heating to preserve delicate aromatics.",
+  "ocr_flags": [
+   "Zucchero unit unclear (kg vs L)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "alkismes-ii",
+  "page": 382,
+  "section_en": "Alkismes",
+  "title_it": "Alkismes II",
+  "title_en": "Alkismes II",
+  "method": "distillation",
+  "yield": {
+   "amount": 7,
+   "unit": "L",
+   "note": "distilled spirit"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85° GL",
+    "qty": 7.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 12,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "OCR reads '0', likely '6'"
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanicals in 85° alcohol for 5 days.",
+   "Distill to obtain 7 litres.",
+   "Prepare a syrup with 12 kg sugar, 6 L water, and 5 L rose water.",
+   "Add syrup to the distilled spirit."
+  ],
+  "notes_en": "The source text appears to have OCR errors in the water quantity and syrup preparation instructions.",
+  "ocr_flags": [
+   "acqua quantity reads '0', interpreted as '6' L",
+   "aggiunge spelling likely 'aggiungono'"
+  ],
+  "confidence": 0.82
+ },
+ {
+  "id": "alla-solchi-rosso-i",
+  "page": 382,
+  "section_en": "Alla Solchi Rosso (Red Solchi Style)",
+  "title_it": "Alla Solchi Rosso I",
+  "title_en": "Alla Solchi Rosso I",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di carvi d'Olanda",
+    "name_en": "Caraway seeds from Holland",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe is incomplete on this page; only ingredients are listed.",
+  "confidence": 0.95
+ }
+]

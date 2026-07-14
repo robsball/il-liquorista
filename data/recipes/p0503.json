@@ -1,0 +1,328 @@
+[
+ {
+  "id": "golden-water",
+  "page": 492,
+  "title_it": "Acqua d'oro",
+  "title_en": "Golden Water",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di lavanda",
+    "name_en": "Essential oil of lavender",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of roses",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 12,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rosmarino",
+    "name_en": "Essential oil of rosemary",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 0.1,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fogliette d'oro vero",
+    "name_en": "Gold leaf (genuine)",
+    "qty": 5,
+    "unit": "leaves",
+    "unit_implicit": false,
+    "note": "Reduced to fine powder"
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils.",
+   "Add alcohol at 90°.",
+   "Add powdered gold leaf.",
+   "Mix well."
+  ],
+  "notes_en": "Five sheets of genuine gold leaf, reduced to fine powder, are added.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "sultans-water",
+  "page": 492,
+  "title_it": "Acqua del Sultano",
+  "title_en": "Sultan's Water",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura d'ambra",
+    "name_en": "Amber tincture",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di muschio",
+    "name_en": "Musk tincture",
+    "qty": 0.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di benzoino",
+    "name_en": "Benzoin tincture",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di rose",
+    "name_en": "Rose essence",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all tinctures and essences.",
+   "Add alcohol at 90°.",
+   "Blend thoroughly."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "valerian-water",
+  "page": 492,
+  "title_it": "Acqua di valeriana",
+  "title_en": "Valerian Water",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di valeriana",
+    "name_en": "Essential oil of valerian",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils."
+  ],
+  "notes_en": "Recipe marked 'Giallo' (Yellow).",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "virgins-water",
+  "page": 492,
+  "title_it": "Acqua della Vergine",
+  "title_en": "Virgin's Water",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 0.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 1.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura d'ireos",
+    "name_en": "Iris root tincture",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils and tincture."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.87
+ },
+ {
+  "id": "bertrand-adieu",
+  "page": 492,
+  "title_it": "Adieu de Bertrand",
+  "title_en": "Bertrand's Adieu",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 2.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of absinthe",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the two essential oils."
+  ],
+  "notes_en": "Recipe marked 'Bicoloro o violetto' (Two-toned or violet).",
+  "ocr_flags": [
+   "Bicoloro—OCR reads 'Bicoloro', possibly 'Bicolore' intended"
+  ],
+  "confidence": 0.8
+ }
+]

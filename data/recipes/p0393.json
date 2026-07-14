@@ -1,0 +1,278 @@
+[
+ {
+  "id": "yellow-green-white-liqueur",
+  "page": 393,
+  "section_en": "Liqueurs",
+  "title_it": "Gialla, Verde, Bianca",
+  "title_en": "Yellow, Green, White Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": null
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 45,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     100,
+     140
+    ]
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     20,
+     null
+    ]
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Issopo (fiori)",
+    "name_en": "Hyssop (flowers)",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     60,
+     50
+    ]
+   },
+   {
+    "name_it": "Genziana delle Alpi",
+    "name_en": "Alpine gentian",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     60,
+     50
+    ]
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seed",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     60,
+     45
+    ]
+   },
+   {
+    "name_it": "Balsamite",
+    "name_en": "Balm of Gilead",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     7,
+     null
+    ]
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     25
+    ]
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     20
+    ]
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 12,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     5,
+     25
+    ]
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     4,
+     25
+    ]
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     15
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 0,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Arnica (fiori)",
+    "name_en": "Arnica flowers",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     5,
+     null
+    ]
+   },
+   {
+    "name_it": "Lavanda (fiori)",
+    "name_en": "Lavender flowers",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     6,
+     null
+    ],
+    "note": "yellow variety omitted"
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     5,
+     null
+    ],
+    "note": "yellow variety omitted"
+   },
+   {
+    "name_it": "Menta piperita (foglie)",
+    "name_en": "Peppermint leaves",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     0,
+     null
+    ],
+    "note": "yellow and white varieties omitted"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit 90°",
+    "qty": 2.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit 85°",
+    "qty": 0.75,
+    "unit": "litres",
+    "variants": [
+     7.75,
+     6.75
+    ]
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 8,
+    "unit": "litres",
+    "variants": [
+     8,
+     8
+    ]
+   },
+   {
+    "name_it": "Acqua (aggiunto)",
+    "name_en": "Water (added)",
+    "qty": 2,
+    "unit": "litres",
+    "variants": [
+     1,
+     2
+    ]
+   }
+  ],
+  "steps_en": [
+   "Prepare the botanicals in the usual manner.",
+   "Macerate in 2.5 litres of spirit 90° and 2.2 litres of water.",
+   "After maceration, distil by bain-marie to obtain 3.25 litres.",
+   "Add spirit 85° (0.75 litres for yellow, 7.75 for green, 6.75 for white), syrup, and additional water as specified for each variety.",
+   "For yellow: add saffron tincture.",
+   "For green: add chlorophyll tincture.",
+   "Final volume: 20 litres.",
+   "Filter."
+  ],
+  "notes_en": "Three distinct varieties produced from the same base recipe with different botanical proportions and colorants. Yellow and white versions: 40% alcohol, 40% sugar. Green version: 45% alcohol, 40% sugar.",
+  "ocr_flags": [
+   "Genopl → likely Genziana (gentian)",
+   "Issopo (Bomm. fior.) → uncertain abbreviation, interpreted as hyssop flowers",
+   "macoraziono → likely 'macerazione' (maceration)"
+  ],
+  "confidence": 0.82
+ }
+]

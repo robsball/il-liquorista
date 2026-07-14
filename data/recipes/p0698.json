@@ -1,0 +1,725 @@
+[
+ {
+  "id": "apricot-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Albicocche",
+  "title_en": "Apricot",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere d'albicocche",
+    "name_en": "Apricot ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino",
+    "name_en": "wine",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "pineapple-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Ananas",
+  "title_en": "Pineapple",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere d'ananas",
+    "name_en": "Pineapple ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 250,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino bianco",
+    "name_en": "white wine",
+    "qty": 250,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "orange-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Arancio",
+  "title_en": "Orange",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere d'arancio",
+    "name_en": "Orange ether",
+    "qty": 75,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 250,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino",
+    "name_en": "wine",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua di mandorlo amare",
+    "name_en": "bitter almond water",
+    "qty": 15,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua fior d'arancio",
+    "name_en": "orange flower water",
+    "qty": 75,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "citron-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Cedro",
+  "title_en": "Citron",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di cedro",
+    "name_en": "Citron ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "olio essenz. di cedro",
+    "name_en": "citron essential oil",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino di Sherry",
+    "name_en": "sherry wine",
+    "qty": 150,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "cherry-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Ciliege",
+  "title_en": "Cherry",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di ciliege",
+    "name_en": "Cherry ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 400,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino rosso",
+    "name_en": "red wine",
+    "qty": 250,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua di mandorlo amare",
+    "name_en": "bitter almond water",
+    "qty": 50,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "strawberry-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Fragole",
+  "title_en": "Strawberry",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di fragole",
+    "name_en": "Strawberry ether",
+    "qty": 120,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino",
+    "name_en": "wine",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "raspberry-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Lamponi",
+  "title_en": "Raspberry",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di lamponi",
+    "name_en": "Raspberry ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 400,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino rosso",
+    "name_en": "red wine",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "apple-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Mele",
+  "title_en": "Apple",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di melo",
+    "name_en": "Apple ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 400,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino",
+    "name_en": "wine",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [
+   "Etore"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "quince-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Mele cotogne",
+  "title_en": "Quince",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di melo cotogne",
+    "name_en": "Quince ether",
+    "qty": 75,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 250,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino bianco",
+    "name_en": "white wine",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua di mandorle amare",
+    "name_en": "bitter almond water",
+    "qty": 25,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [
+   "Etore"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "melon-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Melone",
+  "title_en": "Melon",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di melone",
+    "name_en": "Melon ether",
+    "qty": 75,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 400,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino di l'orto",
+    "name_en": "garden wine",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true,
+    "note": "OCR unclear; possibly 'vino di Porto' or regional variant"
+   },
+   {
+    "name_it": "acqua di fior d'arancio",
+    "name_en": "orange flower water",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [
+   "vino di l'orto"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "pear-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Pere",
+  "title_en": "Pear",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di pere",
+    "name_en": "Pear ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino bianco",
+    "name_en": "white wine",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "peach-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Pesche",
+  "title_en": "Peach",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di pesche",
+    "name_en": "Peach ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 400,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino di Porto",
+    "name_en": "port wine",
+    "qty": 250,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua di fior d'arancio",
+    "name_en": "orange flower water",
+    "qty": 70,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua di mandorlo amare",
+    "name_en": "bitter almond water",
+    "qty": 30,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "portugal-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Portogallo",
+  "title_en": "Portugal",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di Portogallo",
+    "name_en": "Portugal ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino di Porto",
+    "name_en": "port wine",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "plum-wine-syrup",
+  "page": 698,
+  "section_en": "Artificial Fruit Wine Syrups",
+  "title_it": "Prugne",
+  "title_en": "Plum",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere di prugne",
+    "name_en": "Plum ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 400,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cognac",
+    "name_en": "cognac",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "vino",
+    "name_en": "wine",
+    "qty": 300,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua mandorle amare",
+    "name_en": "bitter almond water",
+    "qty": 30,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua fior d'arancio",
+    "name_en": "orange flower water",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "See pages 253 and 257.",
+  "ocr_flags": [
+   "ucqua"
+  ],
+  "confidence": 0.92
+ }
+]

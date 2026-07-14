@@ -1,0 +1,4413 @@
+{
+ "entry_count": 292,
+ "instance_count": 562,
+ "entries": [
+  {
+   "name": "Abelmosco",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      73
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Abricotina",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      563
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Achillea",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      73
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Acqua",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      129
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      359,
+      365
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      452
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      361
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      362
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      452
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      491
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      490
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Acqua d'oro",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      360,
+      365
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      490
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      452,
+      490
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      360
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      510
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      361
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      361
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      491
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      361
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      215
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bergamotto",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      254
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      546
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bigarade",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      76
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bilancia",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bisanzio",
+   "refs": [
+    {
+     "method": "Ess.",
+     "pages": [
+      244
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bitter",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bitter d'interlaken",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      585
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bixa orellana",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      141
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bon Savoyard",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      421
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bommerlunder",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      340
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bouquet des Dames",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      494
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Brou de Noix",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      414
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cacao",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      78
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      515
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      378,
+      421
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      221
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cacao alla vaniglia",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      378
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      421
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      494
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Caccia",
+   "refs": [
+    {
+     "method": "Ess.",
+     "pages": [
+      244
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      462
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Caffè",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      79
+     ]
+    },
+    {
+     "method": "Cr.",
+     "pages": [
+      379
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      515
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      422
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      495
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      221
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      212
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      379
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Calamo aromatico",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      79
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      530
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      112,
+      245
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      462
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      379,
+      462
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      221
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      206
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      542
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      462
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      463
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Calendola",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      138
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Camedrio",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      79
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Campeccio",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      141
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Camomilla",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      80
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      215
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      427
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      113
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      221
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cannella",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      80
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      206
+     ]
+    },
+    {
+     "method": "Cr. O",
+     "pages": [
+      463
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      530
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      113,
+      245
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      463,
+      495
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      380,
+      422
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      222,
+      233
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Capillarometro",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      28
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Capelvenere",
+   "refs": [
+    {
+     "method": "S",
+     "pages": [
+      269
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Caramello",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      137
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cardamomo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      80
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      113
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      495
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      222
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cardinale",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      465,
+      497
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cardo santo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      80
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      222
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cariofillata",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      81
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Carmelitani Romani",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      497
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Carmen",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      423
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Carminativo",
+   "refs": [
+    {
+     "method": "Ess.",
+     "pages": [
+      245
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      495
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Carmino",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      139
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Carrube",
+   "refs": [
+    {
+     "method": "T",
+     "pages": [
+      222
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Carvi",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      81
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      113
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cascarilla",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      81
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      223
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cassis",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      95
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      547,
+      554
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      423
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      223
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Catta",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      138
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cedro",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      81
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      206
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      212
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      114,
+      258
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      253
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      380
+     ]
+    },
+    {
+     "method": "S",
+     "pages": [
+      269
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      281
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cedro (legno)",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      71
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Centaurea minore",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      71
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      223
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Centosette anni",
+   "refs": [
+    {
+     "method": "R",
+     "pages": [
+      485
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cerfoglio",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      82
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Certosa di Pavia Elixir",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      429
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chartreuse",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      516,
+      531
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      245
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      424
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      464
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      381
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      423
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      689
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chermes",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      138
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cherry-brandy",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      532
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      554
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cherry Cordial",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      554
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chiarificazione",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      182
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gocce del Dott. Manipe",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      629
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      593
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gocce di Fieber",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      628
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gocce del Gottardo",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      594
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gocce di Milano",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      593
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gocce d'oro",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      391
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gocce di Thorner",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      629
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gocce verdi stomatiche",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      595
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gradi Baumé e densità corrispondenti",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      261
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Grana paradisi",
+   "refs": [
+    {
+     "method": "T",
+     "pages": [
+      225
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Granatina",
+   "refs": [
+    {
+     "method": "S",
+     "pages": [
+      272
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Grani di Provenza",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      138
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Grappa",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      312
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      533
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Grenoble - Ratafià",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      555
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Grog",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      639,
+      650
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Guaiaco",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      87
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Guignolet - Ratafià",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      559
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Idromele",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      683
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Idrometri",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      34
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Imbuti",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Indaco",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      140
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Invecchiamento dei liquori",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      185
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Iperico",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      395
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ippocrasso",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      681
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ireos",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      87
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Iride fiorentina",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      87
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      533
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      225
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Issopo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      88
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      116
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Iva",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      73
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      395
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      522
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Iwan",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      432
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Jokey",
+   "refs": [
+    {
+     "method": "Ess.",
+     "pages": [
+      246
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kirschwasser",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      7,
+      340,
+      344
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      344
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      471
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      471
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kola",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      88
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kontuczowka",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      472,
+      500
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Krambambuli",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      392
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      534
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      247
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      433
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      471,
+      500
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Krambambuli di Danzica",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      471
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      556
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Krambambuli di Magdeburgo",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      472
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kujawier",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      589
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kummel",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      392
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      215
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      523,
+      534
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      472,
+      500
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kummel di Berlino",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      392
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      247
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      535
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      473,
+      474
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kummel di Breslavia",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      393
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      535
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      247
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      473,
+      474
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kummel di Danzica",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      393
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      535
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      248
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kummel doppio",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      536
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      447,
+      473,
+      474
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kummel di Eckau",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      393
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kummel di Magdeburgo",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      474
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kummel di Riga",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      394
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kummel glaciale",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      394
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Laboratorio",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "name": "La Favorita",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      433
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lamponi",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      207,
+      253,
+      254,
+      255,
+      256,
+      549,
+      558,
+      685
+     ]
+    },
+    {
+     "method": "Cr.",
+     "pages": [
+      563
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      536
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      258
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      501
+     ]
+    },
+    {
+     "method": "S",
+     "pages": [
+      269
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mandorle amare",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      90
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      118
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      478
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      437
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mandorle di albicocche",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      90
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mandorle di pesche",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      90
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      478
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mandorle dolci",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      90
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Marasche",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      253,
+      685
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Maraschino",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      205
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      356,
+      397,
+      701
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      537,
+      542
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      248
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      479,
+      501,
+      502
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mastice",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      90
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Materiale",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Materie coloranti",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      137
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Materie prime",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      17
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Matricaria",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      80
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      113
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mele",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      253,
+      257
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mele Ratafià",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      551
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mele cotogne",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      280
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mele cotogne Ratafià",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      551
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Melagrana",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      253,
+      282
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mélange",
+   "refs": [
+    {
+     "method": "A",
+     "pages": [
+      595
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Meliloto",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      91
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Melissa",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      91
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      215
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      120
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      480,
+      501
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      227,
+      233
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Melone",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      253
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Menta",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      91
+     ]
+    },
+    {
+     "method": "Cr. O",
+     "pages": [
+      481
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      502,
+      503
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      227
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      120
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      400,
+      700
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      537
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mezzo-arac",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      333
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mezzo-cognac",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      318
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mezzo-kirschwasser",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      344
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mezzo-rhum",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      327
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Millefiori",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      357
+     ]
+    },
+    {
+     "method": "Cr. M",
+     "pages": [
+      437
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      481
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Millefiori cristallizzato",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      437
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Millepertuis",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      395
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mirobolani",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      92
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mirra",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      92
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mirtilli",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      141,
+      685
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      438
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Misure",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      188
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mogador",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      481
+     ]
+    }
+   ]
+  },
+  {
+   "name": "More",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      253,
+      282,
+      685
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Moro",
+   "refs": [
+    {
+     "method": "Ess.",
+     "pages": [
+      248
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      482
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mortai",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Moscato",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      402
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      482
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Muschio",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      129
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nalewska",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      556
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Napoleone",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      483
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nectar",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      402
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Neroli",
+   "refs": [
+    {
+     "method": "Ess.",
+     "pages": [
+      121
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Noccioli di Phalsburg",
+   "refs": [
+    {
+     "method": "Cr. O",
+     "pages": [
+      483
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Noci verdi",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      524,
+      538
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      552
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      438
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Noci di Kola",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      88
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      439
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Noci moscate",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      92
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      121
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      503
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Norme per la fabbricazione dei liquori",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Obozowka",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      483
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Olii essenziali",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      110,
+      102
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Latte di vecchia",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      475
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lauro",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      88
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      117
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      220
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lavanda",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      88,
+      205
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      117
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      434
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      220
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lawn tennis",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      543
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Legni coloranti",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      141
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Legno del Brasile",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      141
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Legno rosa",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      88
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Legno santo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      87
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Levistico",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      89
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Limone",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      89,
+      212,
+      248,
+      253,
+      254
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      536
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      117
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      434
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      475,
+      501
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      550
+     ]
+    },
+    {
+     "method": "S",
+     "pages": [
+      269
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquirizia",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      89
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore Algerino",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      435
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore aromatico",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      418
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore assenzio svizzero",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      419
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore di Anatolia",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      475
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore della Caccia",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      523,
+      537
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      231
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore dei Cacciatori",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      470
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore dei Cappuccini",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      476,
+      500
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore dei Cardinali Romani",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      501
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore dei Carmelitani",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      476
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore del Mozenc",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      397
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      477
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore di Sorrento",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      697
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore di Teichmeyer",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      396
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      477
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore di Tolosa",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      435
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore di Turingia",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      396
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore di Turner",
+   "refs": [
+    {
+     "method": "Ess.",
+     "pages": [
+      248
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore Fra Diavolo",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      701
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore igienico Raspail",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      397
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      485
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore scozzese",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      436
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore semplice",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      449
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquore toscano",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      696
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquori amari",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      564
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquori artificiali",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      4
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      351
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      359,
+      353,
+      354
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Liquori",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      1,
+      544,
+      8,
+      447,
+      505,
+      412,
+      413,
+      451,
+      562,
+      411,
+      2,
+      8,
+      694,
+      7,
+      8,
+      8
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      564
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Luppolo",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      524
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Macaron",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      478
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Macerazione",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      161
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Macinatore",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Macis",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      89
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      117
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Madras",
+   "refs": [
+    {
+     "method": "O",
+     "pages": [
+      478
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Magenbitter",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      638
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Maggiorana",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      90
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      118
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Maitrank",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      673
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mallo di noci",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      524,
+      538
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      414
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Malt brandy",
+   "refs": [
+    {
+     "method": "D",
+     "pages": [
+      337
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mandarini",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      90,
+      281
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      436
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tafia",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      323
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tanaceto",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      97
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tarassaco",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      97
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Teichmeyer",
+   "refs": [
+    {
+     "method": "Ess.",
+     "pages": [
+      251
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      396
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Terra Catechu",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      138
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tè",
+   "refs": [
+    {
+     "method": "Cr.",
+     "pages": [
+      442
+     ]
+    },
+    {
+     "method": "D",
+     "pages": [
+      359
+     ]
+    },
+    {
+     "method": "R",
+     "pages": [
+      442
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      229
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Timo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      97
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      443
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      122
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      229
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      217
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture amara",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      232
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture aromatica",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      232
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture coloranti",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      283
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture composto",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      231
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di agarico",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      218
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di aloe",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      218
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di ambra",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      218
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di ananas",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      218
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di angelica",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      218
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di anice",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      219
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di arance",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      219
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di asperula odorosa",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      219
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di assenzio",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      219,
+      232
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di balsamo del Perù",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      220
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di balsamo del Tolù",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      220
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di basilico",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      220
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di benzoino",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      220
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di bergamotto",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      220
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di cacao",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      221
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di caffè",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      221
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di calamo aromatico",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      221
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di camomilla",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      221
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di cannella",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      222,
+      233
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di cardamomo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      222
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di cardo santo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      222
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di carrubo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      222
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di cascarilla",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      223
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di cassis",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      223
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di centaurea",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      223
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di china",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      223,
+      233
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di coca",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      223
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di cumino",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      223
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di curaçao",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      219,
+      224
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di eucalipto",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      224
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di fava tonca",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      224
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di finocchio",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      224
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di galanga",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      224
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di garofani",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      224
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di genziana",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      225
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di ginepro",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      225
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di grana paradisi",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      225
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture d'iride",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      225
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture d'issopo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di lavanda",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di lauro",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di limone",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di liquirizia",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      220
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di macis",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di maggiorana",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di mallo di noci",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di mandorle amare",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di melissa",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      227,
+      233
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di menta",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di muschio",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di noci moscate",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di noci verdi",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di pepe",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      228
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di pimento",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      228
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di prugne",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      228
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di quassio",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      228
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di rabarbaro",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      228,
+      235
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di ribes nero",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      223
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di rose",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      228
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di rosmarino",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      228
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di salvia",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      228
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di storace",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      229
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di thè",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      229
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di timo",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      229
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di valeriana",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      229
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di vaniglia",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      229
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di viole",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      230
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di zedoaria",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      230
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture di zenzero",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      230
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture diluizione",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      169
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture mescolanza",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      169
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture miste",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      230
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture per elixir svedese",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      234
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture preparazione",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      168
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tinture stomatica",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      233,
+      235
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Whisky",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      7,
+      335
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wokta, amaro",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      590
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zafferano",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      99,
+      141
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zedoaria",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      99
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      230
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zenzero",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      99
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      215
+     ]
+    },
+    {
+     "method": "E",
+     "pages": [
+      526
+     ]
+    },
+    {
+     "method": "Ess.",
+     "pages": [
+      123
+     ]
+    },
+    {
+     "method": "O",
+     "pages": [
+      488
+     ]
+    },
+    {
+     "method": "M",
+     "pages": [
+      444
+     ]
+    },
+    {
+     "method": "T",
+     "pages": [
+      230
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zenzero doppio",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      446
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zenzero indiano",
+   "refs": [
+    {
+     "method": "E",
+     "pages": [
+      505
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zeven Kruid Liqueur",
+   "refs": [
+    {
+     "method": "M",
+     "pages": [
+      446
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zucchero",
+   "refs": [
+    {
+     "method": "",
+     "pages": [
+      131
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      265
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      263
+     ]
+    },
+    {
+     "method": "",
+     "pages": [
+      264
+     ]
+    }
+   ]
+  }
+ ]
+}

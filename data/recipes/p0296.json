@@ -1,0 +1,263 @@
+[
+ {
+  "id": "carmine-red-fine-powder",
+  "page": 296,
+  "section_en": "Colorants",
+  "title_it": "Carmino rosso in fina polvero",
+  "title_en": "Carmine Red in Fine Powder",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Carmino rosso in fina polvero",
+    "name_en": "Carmine red fine powder",
+    "qty": 32,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     16
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Ammoniaca",
+    "name_en": "Ammonia",
+    "qty": 32,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     32
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Allume crude",
+    "name_en": "Crude alum",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     16
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     50
+    ],
+    "note": null
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 900,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     450
+    ],
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Grind the mixed substances together.",
+   "Let the mixture stand for several days.",
+   "Filter the resulting tincture."
+  ],
+  "notes_en": "For the preparation of liquid carmine, see page 110. The substance is left to rest for two days, filtered through paper, and mixed with 200 g of simple syrup.",
+  "ocr_flags": [
+   "Allume crude (possibly 'Allume crudo')"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "orchil-paste",
+  "page": 296,
+  "section_en": "Common Colorants",
+  "title_it": "Oricello in pasta",
+  "title_en": "Orchil in Paste",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 110,
+   "raw": "Alcool a 110°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Oricello in pasta",
+    "name_en": "Orchil in paste",
+    "qty": 350,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Alcool a 110°",
+    "name_en": "Alcohol at 110°",
+    "qty": 1,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Macerate for 5 days, shaking the liquid at intervals.",
+   "Decant.",
+   "The coloring matter may be treated a second time with alcohol to exhaust it completely."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "cudbear-powder",
+  "page": 296,
+  "section_en": "Common Colorants",
+  "title_it": "Cudbear in polvere",
+  "title_en": "Cudbear in Powder",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool a 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cudbear in polvere",
+    "name_en": "Cudbear in powder",
+    "qty": 350,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Alcool a 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Proceed as in the previous recipe."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Cudbear (OCR: 'Cudbear')"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "red-sandalwood",
+  "page": 296,
+  "section_en": "Common Colorants",
+  "title_it": "Legno sandalo rosso",
+  "title_en": "Red Sandalwood",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "Alcool a 80°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Legno sandalo rosso",
+    "name_en": "Red sandalwood",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Alcool a 80°",
+    "name_en": "Alcohol at 80°",
+    "qty": 1.5,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "Proceed as above."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "fernambuco-wood",
+  "page": 296,
+  "section_en": "Common Colorants",
+  "title_it": "Legno di Fernambuco raspato",
+  "title_en": "Scraped Fernambuco Wood",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "Alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Legno di Fernambuco raspato",
+    "name_en": "Scraped fernambuco wood",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Allume usto",
+    "name_en": "Calcined alum",
+    "qty": 13,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": null
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol at 80°",
+    "qty": 1.5,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": null
+   }
+  ],
+  "steps_en": [
+   "After several days of maceration, filter the tincture."
+  ],
+  "notes_en": "Adding a suitable proportion of saffron tincture to this yields an intense and brilliant scarlet-red.",
+  "ocr_flags": [
+   "Fernambuco (wood type)"
+  ],
+  "confidence": 0.9
+ }
+]

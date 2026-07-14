@@ -1,0 +1,273 @@
+[
+ {
+  "id": "curaçao-optimal",
+  "page": 438,
+  "section_en": "Curaçao",
+  "title_it": "Curaçao ottimo",
+  "title_en": "Optimal Curaçao",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "spirito di vino a 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "weeks"
+  },
+  "ingredients": [
+   {
+    "name_it": "bucce d'arance",
+    "name_en": "orange peel",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "spirito di vino a 95°",
+    "name_en": "wine spirit at 95°",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "spirito preparato",
+    "name_en": "prepared spirit",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false,
+    "note": "filtered infusion from above"
+   },
+   {
+    "name_it": "alcool di 90°",
+    "name_en": "alcohol at 90°",
+    "qty": 1.5,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 1.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "glucosio",
+    "name_en": "glucose",
+    "qty": 1.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 5.6,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "zucchero bruciato",
+    "name_en": "burnt sugar (caramel)",
+    "qty": null,
+    "unit": "to taste",
+    "unit_implicit": false,
+    "note": "for coloring"
+   }
+  ],
+  "steps_en": [
+   "Soften orange peels with hot water and leave them for one week in wine spirit at 95°, using 500 g of peel per 1 liter of spirit.",
+   "Filter the spirit infusion.",
+   "Combine 1 liter prepared spirit, 1.5 liters alcohol at 90°, 1.25 kg sugar, 1.25 kg glucose, and 5.6 liters water.",
+   "Color with burnt sugar and filter."
+  ],
+  "notes_en": "This is the refined method for making curaçao with measured proportions and glucose addition.",
+  "confidence": 0.92
+ },
+ {
+  "id": "curaçao-bianco",
+  "page": 438,
+  "section_en": "Curaçao",
+  "title_it": "Curaçao bianco",
+  "title_en": "White Curaçao",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "vanillina",
+    "name_en": "vanillin",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "latte",
+    "name_en": "milk",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "scorze d'arance dolci",
+    "name_en": "sweet orange peel",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool di 85°",
+    "name_en": "alcohol at 85°",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together.",
+   "Filter."
+  ],
+  "notes_en": "A simple white curaçao made without maceration, relying on vanillin for flavor and milk for whiteness.",
+  "confidence": 0.95
+ },
+ {
+  "id": "camomile-liqueur",
+  "page": 438,
+  "section_en": "Camomile",
+  "title_it": "Camomilla (liquore di)",
+  "title_en": "Camomile Liqueur",
+  "method": "maceration",
+  "yield": {
+   "amount": 9,
+   "unit": "liters",
+   "note": "7 liters alcohol + 2 liters water input"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "camomilla romana",
+    "name_en": "Roman chamomile",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "camomilla volgare",
+    "name_en": "common chamomile",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "menta piperita",
+    "name_en": "peppermint",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "angelica (semi)",
+    "name_en": "angelica seeds",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "genzianella",
+    "name_en": "gentian",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "ireos fiorentino",
+    "name_en": "Florentine iris root",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "cannella",
+    "name_en": "cinnamon",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "macia",
+    "name_en": "mace",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "china",
+    "name_en": "cinchona bark",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "rabarbaro",
+    "name_en": "rhubarb",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "acqua di fior d'arancio",
+    "name_en": "orange flower water",
+    "qty": 50,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool di 90°",
+    "name_en": "alcohol at 90°",
+    "qty": 7,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 2,
+    "unit": "liter",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all herbs, spices, and aromatic materials in the alcohol and water mixture."
+  ],
+  "notes_en": "A complex herbal and spiced camomile liqueur with bitter and aromatic botanicals including cinchona, rhubarb, and Florentine iris.",
+  "ocr_flags": [
+   "Ireos fiorentino (OCR: 'Ireos fio re n tin o') – word break in source"
+  ],
+  "confidence": 0.93
+ }
+]

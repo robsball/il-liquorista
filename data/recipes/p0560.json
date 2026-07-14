@@ -1,0 +1,202 @@
+[
+ {
+  "id": "strawberry",
+  "page": 560,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Fragole",
+  "title_en": "Strawberry",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Fragole",
+    "name_en": "Strawberries",
+    "qty": 0.8,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4.0,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di macia",
+    "name_en": "Mace tincture",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "The strawberries must be fresh and without stems; mix them with the alcohol and let them settle for 8 days.",
+   "Extract the clear liquid, press the remaining pulp, filter, and combine with the remaining liquid, sugar, and tinctures.",
+   "If necessary, colour further with cochineal."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "wild-strawberry",
+  "page": 560,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Fragole di bosco",
+  "title_en": "Wild Strawberry",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 20,
+   "unit": "days",
+   "note": "total: 10 days with alcohol and sugar, then 10 more days after adding water"
+  },
+  "ingredients": [
+   {
+    "name_it": "Piccole fragole di bosco ben mature",
+    "name_en": "Small ripe wild strawberries",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Crush the strawberries without washing them, together with the sugar.",
+   "Add the alcohol and let macerate for 10 days.",
+   "Add the water, stir, and after a further 10 days of maceration, filter."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "raspberry-i",
+  "page": 560,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Lamponi (I)",
+  "title_en": "Raspberry (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Lamponi",
+    "name_en": "Raspberries",
+    "qty": 6.7,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 6.2,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.3,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannello",
+    "name_en": "Cinnamon tincture",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di ireos",
+    "name_en": "Iris tincture",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Crush the raspberries thoroughly and press the pulp within a cloth sack.",
+   "To the remaining solids, add ½ litre of water and press again.",
+   "Combine the turbid liquid obtained with 1½ litres of alcohol and filter after 6–8 days.",
+   "Mix with clear sugar syrup and combine with the rest."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "ireos (possibly 'ireos' or variant of iris; may be OCR corruption)"
+  ],
+  "confidence": 0.92
+ }
+]

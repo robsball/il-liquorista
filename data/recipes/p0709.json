@@ -1,0 +1,277 @@
+[
+ {
+  "id": "ginger-liqueur",
+  "page": 709,
+  "section_en": "Liqueurs",
+  "title_it": "[Liquore allo Zenzero]",
+  "title_en": "Ginger Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "distilled spirit at 72°, before additions"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool a 60°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_en": "Ginger",
+    "name_it": "Zenzero",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "quantity unclear in OCR"
+   },
+   {
+    "name_en": "Nutmeg",
+    "name_it": "Noci moscate",
+    "qty": 55,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Camomile",
+    "name_it": "Camomilla",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Cardamom",
+    "name_it": "Cardamomo",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Rosemary",
+    "name_it": "Rosmarino",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Iris root",
+    "name_it": "Iride fior (radice)",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Galangal",
+    "name_it": "Galanga",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Alcohol at 60°",
+    "name_it": "Alcool a 60°",
+    "qty": 25,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 4,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Syrup",
+    "name_it": "Siroppo",
+    "qty": 10,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Caramel colouring",
+    "name_it": "Bruno al caramello",
+    "qty": null,
+    "note": "to taste"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in alcohol at 60° for 24 hours.",
+   "Distil 20 litres at 72°.",
+   "Add water and syrup.",
+   "Colour with caramel."
+  ],
+  "confidence": 0.75,
+  "ocr_flags": [
+   "Zenzero quantity missing from OCR"
+  ]
+ },
+ {
+  "id": "tuscan-liqueur",
+  "page": 709,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore toscano",
+  "title_en": "Tuscan Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 15,
+   "unit": "litres",
+   "note": "distilled spirit at 72°, before additions"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool a 60°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_en": "Cinnamon",
+    "name_it": "Cannella",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Galangal",
+    "name_it": "Galanga",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Ginger",
+    "name_it": "Zenzero",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Coriander seeds",
+    "name_it": "Coriandoli",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Calamus",
+    "name_it": "Calamo",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Cubeb pepper",
+    "name_it": "Cubebe",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Cloves",
+    "name_it": "Garofani",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Fennel",
+    "name_it": "Finocchio",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Orange peel",
+    "name_it": "Arance",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Orange zest",
+    "name_it": "Scorze d'arance",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Alcohol at 60°",
+    "name_it": "Alcool a 60°",
+    "qty": 20,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 3,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Syrup",
+    "name_it": "Siroppo",
+    "qty": 12,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Light caramel colouring",
+    "name_it": "Bruno chiaro",
+    "qty": null,
+    "note": "to taste"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in alcohol at 60° for 24 hours.",
+   "Distil 15 litres at 72°.",
+   "Add water and syrup.",
+   "Colour with light caramel."
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "riviera-liqueur",
+  "page": 709,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore nigine prodella Riviera",
+  "title_en": "Riviera Liqueur",
+  "method": "unknown",
+  "ingredients": [
+   {
+    "name_en": "Juniper (ripe berries)",
+    "name_it": "Ginepro (barelle mature)",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Anise",
+    "name_it": "Anice",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Fennel",
+    "name_it": "Finocchio",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Spearmint (leaves)",
+    "name_it": "Menta crispa (foglie)",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; only ingredients listed.",
+  "confidence": 0.65,
+  "ocr_flags": [
+   "nigine prodella: unclear OCR; possibly 'di Genova' or regional variant"
+  ]
+ }
+]

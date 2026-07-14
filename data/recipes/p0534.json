@@ -1,0 +1,296 @@
+[
+ {
+  "id": "pale-green-digestif",
+  "page": 534,
+  "section_en": "Digestifs",
+  "title_it": "Liquore Verde Pallido",
+  "title_en": "Pale Green Digestif",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "Final product"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Menta pip.",
+    "name_en": "Peppermint",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (rad.)",
+    "name_en": "Gentian root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Meliloto",
+    "name_en": "Melilot",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 800,
+    "unit": "mL",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 15 days.",
+   "Press the liquid and filter to obtain 2.4 liters extract.",
+   "Mix extract with 4 liters of 90° alcohol, 1.2 liters syrup, and 2.4 liters water."
+  ],
+  "notes_en": "Final product yields 10 liters of pale green liqueur.",
+  "confidence": 0.95
+ },
+ {
+  "id": "herbal-bitters",
+  "page": 534,
+  "section_en": "Bitters & Digestifs",
+  "title_it": "Liquore (Herbal Bitters)",
+  "title_en": "Herbal Bitters",
+  "method": "maceration",
+  "yield": {
+   "amount": 1.4,
+   "unit": "liters",
+   "note": "Range 1.25–1.4 liters after filtration, plus alcohol and syrup added"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Iva",
+    "name_en": "Iva (Water Hyssop)",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Imperatoria",
+    "name_en": "Masterwort",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 11,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "After suitable digestion, press the liquid and filter to yield 1.25–1.4 liters.",
+   "Add 10 liters of 90° alcohol.",
+   "Add 10 liters of syrup made from 4.5 kg refined sugar."
+  ],
+  "notes_en": "The initial infusion uses 60° alcohol; final product is strengthened with 90° alcohol and syrup.",
+  "ocr_flags": [
+   "Imperatoria quantity (60 g — possibly OCR corruption of '00' or '90')"
+  ],
+  "confidence": 0.87
+ },
+ {
+  "id": "kummel",
+  "page": 534,
+  "section_en": "Liqueurs",
+  "title_it": "Kümmel",
+  "title_en": "Kümmel",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Semi cumino contusi",
+    "name_en": "Bruised caraway seeds",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi anice",
+    "name_en": "Anise seeds",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos",
+    "name_en": "Iris root",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 5,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Infuse all seeds and roots in 85° alcohol."
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "liquore-della-caccia",
+  "page": 534,
+  "section_it": "Liquore della Caccia",
+  "section_en": "Hunting Liqueur",
+  "title_it": "Liquore della Caccia",
+  "title_en": "Hunting Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 20,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Infuse all spices in 60° alcohol."
+  ],
+  "confidence": 0.95
+ }
+]

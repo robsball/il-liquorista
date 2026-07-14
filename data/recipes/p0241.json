@@ -1,0 +1,240 @@
+[
+ {
+  "id": "vanilla-tincture-iii",
+  "page": 241,
+  "section_en": "Tinctures (Simple)",
+  "title_it": "Vaniglia (III)",
+  "title_en": "Vanilla Tincture (Variant III)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "Alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 14,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vaniglia di prima qualità (Messico, Borbone o isole della Riunione)",
+    "name_en": "First-quality vanilla (Mexico, Bourbon, or Reunion Island)",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "96° alcohol",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": true,
+    "note": "Unit inferred as same as alcohol line (kg), marked with ditto symbol »"
+   }
+  ],
+  "steps_en": [
+   "Macerate the vanilla in the alcohol and distilled water mixture for 14 days."
+  ],
+  "notes_en": "Third variant of vanilla tincture recipe (continuing series from prior page).",
+  "ocr_flags": [
+   "» symbol interpreted as ditto for kg"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "violet-tincture",
+  "page": 241,
+  "section_en": "Tinctures (Simple)",
+  "title_it": "Viole",
+  "title_en": "Violet Tincture",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Fiori di viole mammole",
+    "name_en": "Sweet violet flowers",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "Unit inferred as grams (ditto from vanilla line above)"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Decant the liquid and renew the maceration with 400 g of alcohol for a few more days.",
+   "Press and filter the combined liquids through paper."
+  ],
+  "notes_en": "Second maceration uses an additional 400 g of alcohol not listed in the main ingredient table.",
+  "ocr_flags": [
+   "» symbol interpreted as ditto for g"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "ginger-tincture",
+  "page": 241,
+  "section_en": "Tinctures (Simple)",
+  "title_it": "Zenzero",
+  "title_en": "Ginger Tincture",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 14,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zenzero della Cocincina",
+    "name_en": "Cochin ginger",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": true,
+    "note": "Unit inferred as kg (ditto)"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.5,
+    "unit": "kg",
+    "unit_implicit": true,
+    "note": "Unit inferred as kg (ditto)"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 14 days."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "» symbol interpreted as ditto for kg"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "zedoary-tincture",
+  "page": 241,
+  "section_en": "Tinctures (Simple)",
+  "title_it": "Zedoaria",
+  "title_en": "Zedoary Tincture",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": null,
+    "unit": "",
+    "unit_implicit": false,
+    "note": "Prepared following the Cinnamon (II) recipe, substituting zedoary for cinnamon"
+   }
+  ],
+  "steps_en": [
+   "Follow the Cinnamon (II) recipe on a previous page, substituting zedoary for cinnamon."
+  ],
+  "notes_en": "Cross-reference recipe; no separate quantities given on this page.",
+  "ocr_flags": [],
+  "confidence": 0.75
+ },
+ {
+  "id": "essential-oil-tinctures-general-method",
+  "page": 241,
+  "section_en": "Tinctures (General Notes)",
+  "title_it": "Tinture dagli olii essenziali",
+  "title_en": "Tinctures from Essential Oils (General Method)",
+  "method": "essence",
+  "yield": {
+   "amount": 1,
+   "unit": "liter",
+   "note": "Final tincture volume"
+  },
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "Alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale rispettivo",
+    "name_en": "Respective essential oil",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     10
+    ],
+    "note": "Range of 5-10 g per liter of alcohol"
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "96° alcohol",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dilute 5–10 g of the respective essential oil in 1 liter of 96° alcohol."
+  ],
+  "notes_en": "General formula for preparing tinctures directly from essential oils, applicable across multiple flavor types.",
+  "ocr_flags": [
+   "p. 5-10 interpreted as 'per 5-10 grams'"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "mixed-tinctures-note",
+  "page": 241,
+  "section_en": "Tinture miste",
+  "title_it": "Tinture miste",
+  "title_en": "Mixed Tinctures (Introductory Note)",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [],
+  "steps_en": [],
+  "notes_en": "Mixed tinctures are prepared by blending, in determined proportions, two or more simple tinctures. However, such preparations are not highly recommended because mixing tinctures of differing alcoholic percentage and strength (titolo) can cause clouding and separation of active principles, requiring additional filtration and consequent losses or modifications to the product.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

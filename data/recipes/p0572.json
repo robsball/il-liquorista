@@ -1,0 +1,257 @@
+[
+ {
+  "id": "ratafia-di-cacao",
+  "page": 572,
+  "title_it": "Ratafia di cacao",
+  "title_en": "Cacao Ratafia",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cacao tostato",
+    "name_en": "Roasted cocoa",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Liquore S",
+    "name_en": "Spirit S",
+    "qty": 11.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Dark brown colour.",
+  "confidence": 0.95
+ },
+ {
+  "id": "ratafia-di-calamo",
+  "page": 572,
+  "title_it": "Ratafia di calamo",
+  "title_en": "Calamus Ratafia",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cardamomo",
+    "name_en": "Cardamom essential oil",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore S",
+    "name_en": "Spirit S",
+    "qty": 11.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Yellow colour.",
+  "confidence": 0.95
+ },
+ {
+  "id": "ratafia-di-curalo",
+  "page": 572,
+  "title_it": "Ratafia di curalo",
+  "title_en": "Curalo Ratafia",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di arance",
+    "name_en": "Orange essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di fior d'arancio",
+    "name_en": "Neroli essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Bitter almond essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore S",
+    "name_en": "Spirit S",
+    "qty": 11,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Brown colour.",
+  "confidence": 0.93
+ },
+ {
+  "id": "ratafia-di-fava-tonca",
+  "page": 572,
+  "title_it": "Ratafia di fava tonca",
+  "title_en": "Tonka Bean Ratafia",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di fava tonca",
+    "name_en": "Tonka bean tincture",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore S",
+    "name_en": "Spirit S",
+    "qty": 11.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Green colour.",
+  "confidence": 0.95
+ },
+ {
+  "id": "ratafia-di-lamponi",
+  "page": 572,
+  "title_it": "Ratafia di lamponi",
+  "title_en": "Raspberry Ratafia",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza artificiale di lamponi",
+    "name_en": "Artificial raspberry essence",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido tartarico",
+    "name_en": "Tartaric acid",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore S",
+    "name_en": "Spirit S",
+    "qty": 11.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Raspberry-red colour.",
+  "confidence": 0.94
+ }
+]

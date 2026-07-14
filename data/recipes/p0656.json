@@ -1,0 +1,257 @@
+[
+ {
+  "id": "kirsch-punch-base",
+  "page": 656,
+  "section_en": "Punch Essences / Concentrates",
+  "title_it": "Al Kirsch",
+  "title_en": "Kirsch Punch Base",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°; Kirschwasser 55°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 10,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Kirschwasser (55°)",
+    "name_en": "Kirschwasser (55°)",
+    "qty": 5,
+    "unit": "lit"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol, 85°",
+    "qty": 0.8,
+    "unit": "lit",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Spirito di noccioli di ciliege",
+    "name_en": "Cherry-kernel spirit",
+    "qty": 0.2,
+    "unit": "lit",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcoolaturo di limoni conc.",
+    "name_en": "Concentrated lemon alcoholate",
+    "qty": 20,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 12,
+    "unit": "gr",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Cognac Punch (see preceding recipe)."
+  ],
+  "notes_en": "This is a concentrate used to prepare Kirsch-flavored punch, following the same finishing method used for the Cognac Punch described earlier in the chapter.",
+  "ocr_flags": [
+   "noccioli di ciliege",
+   "Alcoolaturo"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "madeira-punch-base",
+  "page": 656,
+  "section_en": "Punch Essences / Concentrates",
+  "title_it": "Al Madera",
+  "title_en": "Madeira Punch Base",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arac di Goa",
+    "name_en": "Goa arrack",
+    "qty": 6.5,
+    "unit": "lit"
+   },
+   {
+    "name_it": "Spirito di vaniglia",
+    "name_en": "Vanilla spirit",
+    "qty": 0.2,
+    "unit": "lit",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Spirito di limoni",
+    "name_en": "Lemon spirit",
+    "qty": 0.1,
+    "unit": "lit",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vino Madera",
+    "name_en": "Madeira wine",
+    "qty": 5.6,
+    "unit": "lit",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 7.5,
+    "unit": "lit",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua bollente (con gr. 15 di acido citrico)",
+    "name_en": "Boiling water (with 15 g citric acid)",
+    "qty": 0.1,
+    "unit": "lit",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Combine the ingredients as per the standard punch preparation method described for the Cognac Punch."
+  ],
+  "notes_en": "A Madeira-based punch concentrate; final water addition contains dissolved citric acid.",
+  "ocr_flags": [
+   "seremato",
+   "Arac di Goa"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "wine-punch",
+  "page": 656,
+  "section_en": "Preparation of Various Punches",
+  "title_it": "Al Vino",
+  "title_en": "Wine Punch",
+  "method": "other",
+  "yield": {
+   "amount": 4,
+   "unit": "liters (approx.)",
+   "note": "Approximate total from 3-3.5 L wine plus 1 L arrack"
+  },
+  "alcohol_strength": null,
+  "temperature_c": 100,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vino rosso generoso del Reno o di Borgogna",
+    "name_en": "Full-bodied red wine (Rhine or Burgundy)",
+    "qty": 3,
+    "unit": "liters",
+    "note": "3-3.5 L, equivalent to the contents of 4 bottles"
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 250,
+    "unit": "gr",
+    "note": "250-280 g, crushed together with lemon zest"
+   },
+   {
+    "name_it": "Scorza gialla di limone",
+    "name_en": "Yellow lemon zest",
+    "qty": 1,
+    "unit": "pcs",
+    "note": "1 to 2 lemons"
+   },
+   {
+    "name_it": "Arac finissimo",
+    "name_en": "Fine arrack",
+    "qty": 1,
+    "unit": "liter",
+    "note": "one bottle"
+   }
+  ],
+  "steps_en": [
+   "Heat 3 to 3.5 liters (the contents of 4 bottles) of full-bodied red wine — Rhine or Burgundy — to boiling.",
+   "Dissolve into it 250-280 g of refined sugar, previously crushed together with the yellow zest of 1 or 2 lemons.",
+   "While the wine is still hot, mix in one liter (one bottle) of the finest arrack.",
+   "Consume the punch while still hot, or let it cool before serving."
+  ],
+  "notes_en": "A simple hot wine punch flavored with citrus zest and finished with arrack.",
+  "ocr_flags": [
+   "disciogliere",
+   "arac finissimo"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "milk-punch-americano",
+  "page": 656,
+  "section_en": "Preparation of Various Punches",
+  "title_it": "Al Latte (Americano)",
+  "title_en": "Milk Punch (American Style)",
+  "method": "other",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "final volume of reduced milk-sugar mixture"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaica rum",
+    "qty": 5,
+    "unit": "lit"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol, 90°",
+    "qty": 4.5,
+    "unit": "lit",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rhum aromatizzato (con vaniglia gr. 2 e noci moscate gr. 20 per litro)",
+    "name_en": "Flavored rum (macerated with 2 g vanilla and 20 g nutmeg per liter)",
+    "qty": 0.5,
+    "unit": "lit",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Latte non scremato litri 7½ e zucchero kg. 6, ridotti per riscaldamento",
+    "name_en": "Non-skimmed milk (7.5 L) and sugar (6 kg), reduced by heating",
+    "qty": 10,
+    "unit": "lit",
+    "note": "Combined and reduced by heating to a final volume of 10 liters",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Spirito di rose",
+    "name_en": "Rose spirit",
+    "qty": 1,
+    "unit": "gr"
+   }
+  ],
+  "steps_en": [
+   "Combine the Jamaica rum, alcohol, and vanilla/nutmeg-flavored rum.",
+   "Separately heat the non-skimmed milk together with the sugar, reducing the volume down to 10 liters.",
+   "Blend the reduced milk-sugar mixture with the rum and alcohol base.",
+   "Finish with rose spirit."
+  ],
+  "notes_en": "An American-style milk punch enriched with rum, alcohol, and aromatic spices, finished with rose essence.",
+  "ocr_flags": [
+   "seremato",
+   "noci moscate",
+   "riscaldamento"
+  ],
+  "confidence": 0.8
+ }
+]

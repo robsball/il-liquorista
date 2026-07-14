@@ -1,0 +1,227 @@
+[
+  {
+    "id": "acqua-d-oro-di-breslavia",
+    "page": 250,
+    "section_en": "Compound Essences",
+    "title_it": "Acqua d'oro di Breslavia",
+    "title_en": "Golden Water of Breslau",
+    "method": "essence",
+    "yield": null,
+    "ingredients": [
+      {
+        "name_it": "Arance dolci",
+        "name_en": "Sweet oranges",
+        "qty": 18,
+        "unit": "gr",
+        "unit_implicit": true,
+        "note": "Essential oil equivalent by drops or weight"
+      },
+      {
+        "name_it": "Limoni (1a qualità)",
+        "name_en": "Lemons (1st grade)",
+        "qty": 18,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Rosmarino",
+        "name_en": "Rosemary",
+        "qty": 18,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Ginepro",
+        "name_en": "Juniper",
+        "qty": 10,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Anice",
+        "name_en": "Anise",
+        "qty": 10,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Coriandoli",
+        "name_en": "Coriander",
+        "qty": 10,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Cannella",
+        "name_en": "Cinnamon",
+        "qty": 10,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Macis",
+        "name_en": "Mace",
+        "qty": 5,
+        "unit": "gr",
+        "unit_implicit": true
+      }
+    ],
+    "steps_en": [],
+    "notes_en": "Compound essence proportions measured by weight of essential oils.",
+    "ocr_flags": [],
+    "confidence": 0.88
+  },
+  {
+    "id": "acqua-d-oro-di-danzica",
+    "page": 250,
+    "section_en": "Compound Essences",
+    "title_it": "Acqua d'oro di Danzica",
+    "title_en": "Golden Water of Danzig",
+    "method": "essence",
+    "yield": null,
+    "ingredients": [
+      {
+        "name_it": "Limoni",
+        "name_en": "Lemons",
+        "qty": 105,
+        "unit": "gr",
+        "unit_implicit": true,
+        "variants": [36]
+      },
+      {
+        "name_it": "Arance dolci",
+        "name_en": "Sweet oranges",
+        "qty": null,
+        "unit": "gr",
+        "unit_implicit": true,
+        "variants": [12],
+        "note": "Marked with dash (—) in original, likely omitted from first column"
+      },
+      {
+        "name_it": "Macis",
+        "name_en": "Mace",
+        "qty": 4,
+        "unit": "gr",
+        "unit_implicit": true,
+        "variants": [12]
+      },
+      {
+        "name_it": "Ginepro",
+        "name_en": "Juniper",
+        "qty": null,
+        "unit": "gr",
+        "unit_implicit": true,
+        "variants": [12]
+      },
+      {
+        "name_it": "Cannella",
+        "name_en": "Cinnamon",
+        "qty": 25,
+        "unit": "gr",
+        "unit_implicit": true,
+        "variants": [12]
+      },
+      {
+        "name_it": "Cassia",
+        "name_en": "Cassia",
+        "qty": null,
+        "unit": "gr",
+        "unit_implicit": true,
+        "variants": [12]
+      },
+      {
+        "name_it": "Calamo",
+        "name_en": "Calamus",
+        "qty": null,
+        "unit": "gr",
+        "unit_implicit": true,
+        "variants": [0]
+      },
+      {
+        "name_it": "Lavanda",
+        "name_en": "Lavender",
+        "qty": null,
+        "unit": "gr",
+        "unit_implicit": true,
+        "note": "Entry incomplete in OCR"
+      },
+      {
+        "name_it": "Rosmarino",
+        "name_en": "Rosemary",
+        "qty": 25,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Cardamomo",
+        "name_en": "Cardamom",
+        "qty": 4,
+        "unit": "gr",
+        "unit_implicit": true,
+        "variants": [3]
+      },
+      {
+        "name_it": "Coriandoli",
+        "name_en": "Coriander",
+        "qty": 40,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Garofani",
+        "name_en": "Clove",
+        "qty": null,
+        "unit": "gr",
+        "unit_implicit": true,
+        "note": "Marked with dash (—) in original"
+      },
+      {
+        "name_it": "Cubebe",
+        "name_en": "Cubeb",
+        "qty": 4,
+        "unit": "gr",
+        "unit_implicit": true
+      }
+    ],
+    "steps_en": [],
+    "notes_en": "Complex multi-variant formula with two quantity columns. Dashes (—) indicate absence or omission in first column.",
+    "ocr_flags": ["Araned"],
+    "confidence": 0.75
+  },
+  {
+    "id": "acqua-di-mannheim",
+    "page": 250,
+    "section_en": "Compound Essences",
+    "title_it": "Acqua di Mannheim",
+    "title_en": "Water of Mannheim",
+    "method": "essence",
+    "yield": null,
+    "ingredients": [
+      {
+        "name_it": "Anice russo",
+        "name_en": "Russian anise",
+        "qty": 80,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Anice stellato",
+        "name_en": "Star anise",
+        "qty": 80,
+        "unit": "gr",
+        "unit_implicit": true
+      },
+      {
+        "name_it": "Garofani",
+        "name_en": "Clove",
+        "qty": 6,
+        "unit": "gr",
+        "unit_implicit": true
+      }
+    ],
+    "steps_en": [],
+    "notes_en": "Recipe continues on next page.",
+    "ocr_flags": [],
+    "confidence": 0.95
+  }
+]

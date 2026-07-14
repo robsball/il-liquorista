@@ -1,0 +1,202 @@
+[
+ {
+  "id": "cacao-rosolio",
+  "page": 389,
+  "section_en": "Cacao Liqueurs",
+  "title_it": "Cacao (Rosolio di)",
+  "title_en": "Cacao Rosolio",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cacao semi",
+    "name_en": "Cacao beans",
+    "qty": 500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 6,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Toast and powder the cacao beans.",
+   "Macerate for 48 hours with 4 litres of 85° alcohol.",
+   "Add 2 litres of water and distil 4 litres.",
+   "Rectify with 2 litres to obtain 4 litres.",
+   "Add the syrup, bring volume to 10 litres, and filter."
+  ],
+  "notes_en": "Final product: 10 litres (30% alcohol, 36% sugar).",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "cacao-vanilla-rose-cream-i",
+  "page": 389,
+  "section_en": "Cacao Liqueurs",
+  "title_it": "Cacao alla vaniglia o rosa (Crema) - I",
+  "title_en": "Cacao with Vanilla or Rose Cream - Version I",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di cacao tostati e macinati",
+    "name_en": "Toasted and ground cacao beans",
+    "qty": 600,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Table salt",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 7,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 7.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "grams",
+    "note": "or essence of roses 8 drops instead"
+   }
+  ],
+  "steps_en": [
+   "Distil 600 g of toasted and ground cacao beans mixed with 20 g of table salt and 3.5 litres of water to obtain 2 litres.",
+   "To the distillate add 7 litres of 85° alcohol, 7.5 litres of syrup, and 3.5 litres of water.",
+   "Add 10 g vanilla tincture or 8 drops rose essence.",
+   "Colour pink.",
+   "Bring total volume to 20 litres."
+  ],
+  "notes_en": "Final product: 20 litres (30% alcohol, 37% sugar).",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "cacao-vanilla-rose-cream-ii",
+  "page": 389,
+  "section_en": "Cacao Liqueurs",
+  "title_it": "Cacao alla vaniglia o rosa (Crema) - II",
+  "title_en": "Cacao with Vanilla or Rose Cream - Version II",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "before sweetening"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": null,
+   "unit": "days",
+   "note": "parecchi giorni (several days)"
+  },
+  "ingredients": [
+   {
+    "name_it": "Semi di cacao tostati",
+    "name_en": "Toasted cacao beans",
+    "qty": 4000,
+    "unit": "grams",
+    "note": "4 kg"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 25,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 20,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 3,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": null,
+    "unit": "litres",
+    "note": "quantity to be determined for tincture"
+   }
+  ],
+  "steps_en": [
+   "Toast 4 kg of cacao beans, remove husks and crush.",
+   "Mix with 25 litres of 60° alcohol and place in still.",
+   "Distil slowly to extract 20 litres of 70° alcohol.",
+   "Prepare a tincture by digesting vanilla (20 g), Ceylon cinnamon (5 g), and cloves (3 g) in 80° alcohol for several days.",
+   "Decant the liquid (20 litres) and add the tincture.",
+   "Sweeten with syrup made from 20 kg of sugar (recipe continues on next page)."
+  ],
+  "notes_en": "Page break: sweetening instructions continue. This is version II of the Cacao Cream recipe.",
+  "ocr_flags": [
+   "parecchi (presumed 'several' or 'various' days)"
+  ],
+  "confidence": 0.92
+ }
+]

@@ -1,0 +1,350 @@
+[
+ {
+  "id": "mint-cream",
+  "page": 492,
+  "section_en": "Creams and Liqueurs",
+  "title_it": "Menta (Crema di)",
+  "title_en": "Mint Cream",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di menta",
+    "name_en": "Mint alcoholate",
+    "qty": 3,
+    "unit": "liters",
+    "variants": [
+     3
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di menta pip.",
+    "name_en": "Essential oil of peppermint",
+    "qty": 4,
+    "unit": "grams",
+    "variants": [
+     1.5
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 3.2,
+    "unit": "liters",
+    "variants": [
+     5.4
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 4.35,
+    "unit": "kilograms",
+    "variants": [
+     5
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Water",
+    "qty": 3.9,
+    "unit": "liters",
+    "variants": [
+     1.6
+    ],
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Colore verde",
+    "name_en": "Green coloring",
+    "qty": null,
+    "unit": "as needed",
+    "note": "to taste"
+   },
+   {
+    "name_it": "Tintura di iris",
+    "name_en": "Iris tincture",
+    "qty": null,
+    "unit": "drops",
+    "note": "a few drops, optional"
+   },
+   {
+    "name_it": "Essenza di rose",
+    "name_en": "Rose essence",
+    "qty": 1,
+    "unit": "drop",
+    "note": "optional"
+   }
+  ],
+  "steps_en": [
+   "Combine mint alcoholate, peppermint essential oil, 85° alcohol, refined sugar, and water according to the chosen proportion.",
+   "Add green coloring.",
+   "Optional: add a few drops of iris tincture and one drop of rose essence."
+  ],
+  "notes_en": "Two proportion columns provided (I and II).",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "common-mint",
+  "page": 492,
+  "section_en": "Creams and Liqueurs",
+  "title_it": "Menta (comune)",
+  "title_en": "Common Mint",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta comune",
+    "name_en": "Essential oil of common mint",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 12.75,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.25,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Verde",
+    "name_en": "Green coloring",
+    "qty": null,
+    "unit": "as needed",
+    "note": "to taste"
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils of common mint, peppermint, lemon, and rose drops.",
+   "Add 90° alcohol, syrup, and water in the specified proportions.",
+   "Add green coloring to achieve desired hue."
+  ],
+  "notes_en": "Single formula.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "thousand-flowers-cream",
+  "page": 492,
+  "section_en": "Creams and Liqueurs",
+  "title_it": "Millefiori (Crema di)",
+  "title_en": "Thousand Flowers Cream",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di gelsomino",
+    "name_en": "Jasmine extract",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di eliotropio",
+    "name_en": "Heliotrope extract",
+    "qty": 2.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di reseda",
+    "name_en": "Mignonette extract",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di tuberosa",
+    "name_en": "Tuberose extract",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di giunchiglia (narciso)",
+    "name_en": "Daffodil extract",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 4,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5.5,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.5,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine essential oils of orange blossom and rose with floral extracts (jasmine, heliotrope, mignonette, tuberose, and daffodil).",
+   "Add 85° alcohol, sugar, and water in the specified proportions.",
+   "Mix thoroughly until sugar is dissolved."
+  ],
+  "notes_en": "A delicate composition of multiple floral extracts.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "mogador",
+  "page": 492,
+  "section_en": "Creams and Liqueurs",
+  "title_it": "Mogador",
+  "title_en": "Mogador",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils in the specified drop quantities."
+  ],
+  "notes_en": "Formula incomplete; final proportions of alcohol and other ingredients not provided on this page.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ }
+]

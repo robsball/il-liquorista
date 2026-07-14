@@ -1,0 +1,335 @@
+[
+ {
+  "id": "herbal-tincture-with-marjoram",
+  "page": 605,
+  "section_en": "Tinctures",
+  "title_it": "[Tintura con Maggiorana]",
+  "title_en": "Herbal Tincture with Marjoram",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "final product after maceration and addition of spirit, water, wine and syrup"
+  },
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool 45%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 1.6,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.9,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcool di 90° (aggiunto)",
+    "name_en": "Spirit at 90° (added)",
+    "qty": 3.25,
+    "unit": "liters",
+    "note": "added to filtered tincture"
+   },
+   {
+    "name_it": "Acqua (aggiunta)",
+    "name_en": "Water (added)",
+    "qty": 2.5,
+    "unit": "liters",
+    "note": "added to filtered tincture"
+   },
+   {
+    "name_it": "Vino rosso",
+    "name_en": "Red wine",
+    "qty": 0.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 1.25,
+    "unit": "liters",
+    "note": "containing 1.25 kg sugar"
+   }
+  ],
+  "steps_en": [
+   "Macerate the herbs (marjoram, sage, rosemary, thyme) in spirit and water.",
+   "After maceration producing 2.5 liters of tincture, filter.",
+   "Add the filtered tincture to a mixture of spirit at 90° (3.25 liters), water (2.5 liters), red wine (0.5 liters), and syrup (1.25 liters containing 1.25 kg sugar).",
+   "Mix to obtain 10 liters at 45% alcohol."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "gottes-del-gottardo",
+  "page": 605,
+  "section_en": "Aromatic Liqueurs",
+  "title_it": "Gocce del Gottardo",
+  "title_en": "Gottardo Drops",
+  "method": "maceration",
+  "yield": {
+   "amount": null,
+   "unit": "liters",
+   "note": "final yield not explicitly stated; initial maceration produces 2.5 liters tincture"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Calamus",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Lavanda (fiori)",
+    "name_en": "Lavender flowers",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla romana",
+    "name_en": "Roman chamomile",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 18,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 1.7,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.8,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 0.8,
+    "unit": "liters",
+    "note": "added to filtered tincture"
+   },
+   {
+    "name_it": "Acqua (aggiunta)",
+    "name_en": "Water (added)",
+    "qty": 3.5,
+    "unit": "liters",
+    "note": "added after maceration"
+   },
+   {
+    "name_it": "Alcool di 90° (aggiunto)",
+    "name_en": "Spirit at 90° (added)",
+    "qty": 3.3,
+    "unit": "liters",
+    "note": "added with essential oils dissolved in it"
+   },
+   {
+    "name_it": "Olio essenziale di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di arance amare",
+    "name_en": "Essential oil of bitter orange",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 6,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di timo",
+    "name_en": "Essential oil of thyme",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di galanga",
+    "name_en": "Essential oil of galangal",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di origano",
+    "name_en": "Essential oil of oregano",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate all herbs and aromatics in spirit at 90° and water.",
+   "After maceration, filter and press to extract the tincture (yields 2.5 liters).",
+   "Dissolve the essential oils in spirit at 90° (3.3 liters).",
+   "Combine the filtered tincture with the spirit containing dissolved oils, syrup (0.8 liters), and water (3.5 liters).",
+   "Mix thoroughly to combine all components."
+  ],
+  "notes_en": "The essential oils are dissolved in the spirit before being combined with the filtered tincture to ensure even distribution.",
+  "ocr_flags": [
+   "Trifoglio acquatico (possibly water trefoil or buckbean; exact botanical identity uncertain)",
+   "Zedoaria (also spelled Zedoary; tropical rhizome with bitter-spicy profile)"
+  ],
+  "confidence": 0.88
+ }
+]

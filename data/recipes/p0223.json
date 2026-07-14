@@ -1,0 +1,215 @@
+[
+ {
+  "id": "cedrat-liqueur",
+  "page": 223,
+  "section_en": "Simple Alcoholates",
+  "title_it": "Ceduo",
+  "title_en": "Citron (Cedrat)",
+  "method": "distillation",
+  "yield": {
+   "amount": 11,
+   "unit": "litres",
+   "note": "after distillation and rectification"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool a 85°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "scorze fresche di cedri",
+    "name_en": "fresh citron peel",
+    "qty": 60,
+    "unit": "pieces (60 citrons implied by proportion)",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "alcool a 85°",
+    "name_en": "alcohol at 85°",
+    "qty": 12,
+    "unit": "litres"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 5,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate fresh citron peels for 24 hours in 12 litres of 85° alcohol.",
+   "Add 5 litres of water.",
+   "Distil to obtain 11 litres.",
+   "Rectify with 5 litres of water."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "lemon-alcoholate",
+  "page": 223,
+  "section_en": "Simple Alcoholates",
+  "title_it": "Limoni",
+  "title_en": "Lemon",
+  "method": "distillation",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "scorze fresche di limoni",
+    "name_en": "fresh lemon peel",
+    "qty": 80,
+    "unit": "pieces"
+   },
+   {
+    "name_it": "alcool di 85°",
+    "name_en": "alcohol at 85°",
+    "qty": 12,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Operate as for the citron alcoholate."
+  ],
+  "notes_en": "Method identical to Cedrat recipe above.",
+  "confidence": 0.94
+ },
+ {
+  "id": "lemon-alcoholate-concentrated",
+  "page": 223,
+  "section_en": "Simple Alcoholates",
+  "title_it": "Limoni (concentrato)",
+  "title_en": "Lemon (Concentrated)",
+  "method": "distillation",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "scorze fresche di limoni",
+    "name_en": "fresh lemon peel",
+    "qty": 160,
+    "unit": "pieces"
+   },
+   {
+    "name_it": "alcool di 85°",
+    "name_en": "alcohol at 85°",
+    "qty": 12,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Operate as for the citron alcoholate."
+  ],
+  "notes_en": "Concentrated version using double the lemon peels (160 instead of 80).",
+  "confidence": 0.94
+ },
+ {
+  "id": "mocha-coffee-alcoholate",
+  "page": 223,
+  "section_en": "Simple Alcoholates",
+  "title_it": "Caffè Moka",
+  "title_en": "Mocha Coffee",
+  "method": "distillation",
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Caffè Moka o Martinica mescolati in parti uguali",
+    "name_en": "Mocha or Martinica coffee mixed in equal parts",
+    "qty": 1.25,
+    "unit": "kilogrammes"
+   },
+   {
+    "name_it": "alcool di 75°",
+    "name_en": "alcohol at 75°",
+    "qty": 10.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 5,
+    "unit": "litres"
+   }
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "allasch-russo",
+  "page": 223,
+  "section_en": "Compound Alcoholates",
+  "title_it": "Allasch Russo",
+  "title_en": "Russian Allasch",
+  "method": "distillation",
+  "yield": {
+   "amount": 8,
+   "unit": "litres",
+   "note": "after distillation"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool 90°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cornino Olanda (semi)",
+    "name_en": "caraway seeds (Dutch)",
+    "qty": 1500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "coriander seeds",
+    "qty": 85,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "anise",
+    "qty": 65,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Ireos radice",
+    "name_en": "iris root",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "alcool 90°",
+    "name_en": "alcohol at 90°",
+    "qty": 6.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 5.5,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Digest the ingredients (caraway seeds, coriander, anise, and iris root) in the alcohol for 24 hours.",
+   "Distil to obtain 8 litres."
+  ],
+  "ocr_flags": [
+   "Cornino (likely caraway; Italian 'cumino dei Paesi Bassi')",
+   "Coriandoli (variant for 'coriandolo')",
+   "Ireos radice (iris root; 'iride' in modern Italian)"
+  ],
+  "confidence": 0.9
+ }
+]

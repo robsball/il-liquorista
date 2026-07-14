@@ -1,0 +1,266 @@
+[
+ {
+  "id": "vanilla-ginger-liqueur",
+  "page": 533,
+  "title_it": "Vaniglia e Zenzero",
+  "title_en": "Vanilla and Ginger Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool 95°"
+  },
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol 75°",
+    "qty": 5,
+    "unit": "L",
+    "note": "for initial extraction"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 44,
+    "unit": "L"
+   },
+   {
+    "name_it": "Estratto (A)",
+    "name_en": "Extract (A)",
+    "qty": 4,
+    "unit": "L"
+   },
+   {
+    "name_it": "Estratto (B)",
+    "name_en": "Extract (B)",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Estratto (C)",
+    "name_en": "Extract (C)",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Estratto d'iride",
+    "name_en": "Iris extract",
+    "qty": 14,
+    "unit": "L"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 27.5,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 27.5,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Allow the extracts to rest for 5 to 8 days.",
+   "Decant carefully.",
+   "Press the plant material and combine the products with their respective clear liquids.",
+   "Filter.",
+   "To prepare the liqueur, mix together alcohol 95°, extracts A, B, and C, iris extract, syrup, and water.",
+   "Color to golden-brown."
+  ],
+  "notes_en": "Compounds three separate extracts (A, B, C) with an iris extract base. Rest period is essential before decanting.",
+  "confidence": 0.92
+ },
+ {
+  "id": "clove-liqueur",
+  "page": 533,
+  "title_it": "Garofani",
+  "title_en": "Clove Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Basic botanical infusion; method details presumably follow in subsequent text.",
+  "confidence": 0.88
+ },
+ {
+  "id": "juniper-liqueur",
+  "page": 533,
+  "title_it": "Ginepro",
+  "title_en": "Juniper Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Bacche di ginepro",
+    "name_en": "Juniper berries",
+    "qty": 1000,
+    "unit": "g"
+   },
+   {
+    "name_it": "Fiori di cassia",
+    "name_en": "Cassia flowers",
+    "qty": 600,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 400,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "mL"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1000,
+    "unit": "mL"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for the Aromatic liqueur (II)."
+  ],
+  "notes_en": "References another recipe (Aromatic II) for full method details.",
+  "confidence": 0.89
+ },
+ {
+  "id": "juniper-liqueur-finished",
+  "page": 533,
+  "section_en": "Juniper Liqueur (liqueur composition)",
+  "title_it": "Ginepro (Liquore)",
+  "title_en": "Juniper Liqueur (finished)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Estratto",
+    "name_en": "Extract",
+    "qty": 90,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 15,
+    "unit": "L"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 1,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 10,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Final blending recipe for the juniper liqueur product.",
+  "confidence": 0.85,
+  "ocr_flags": [
+   "10"
+  ]
+ },
+ {
+  "id": "iva-liqueur",
+  "page": 533,
+  "title_it": "Iva",
+  "title_en": "Iva Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "ingredients": [
+   {
+    "name_it": "Iva (Achillea moschata)",
+    "name_en": "Iva (Achillea moschata)",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Artemisia volgare",
+    "name_en": "Common wormwood (Artemisia vulgaris)",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm (Melissa)",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 25,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe 1. Herbal aromatic blend; method details not yet provided.",
+  "confidence": 0.86,
+  "ocr_flags": [
+   "Achillea moschata botanical identification"
+  ]
+ }
+]

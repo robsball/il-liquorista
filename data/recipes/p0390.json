@@ -1,0 +1,236 @@
+[
+ {
+  "id": "coffee-elixir",
+  "page": 390,
+  "section_en": "Coffee",
+  "title_it": "Caffè (Elixir di)",
+  "title_en": "Coffee Elixir",
+  "method": "distillation",
+  "yield": {
+   "amount": 30,
+   "unit": "litres",
+   "note": "15 litres distillate + 15 litres syrup"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "70°-72°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Caffè fino tostato e macinato",
+    "name_en": "Fine roasted and ground coffee",
+    "qty": 2000,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 20,
+    "unit": "litres",
+    "alcohol_strength": {
+     "degrees": 60
+    }
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 15,
+    "unit": "litres",
+    "note": "for sweetening"
+   },
+   {
+    "name_it": "Colore di zucchero",
+    "name_en": "Sugar colour",
+    "qty": null,
+    "note": "to brown"
+   }
+  ],
+  "steps_en": [
+   "Distil 15 litres at 70°–72° from the 20 litres of alcohol.",
+   "Sweeten with 15 litres of syrup.",
+   "Color brown with sugar colour.",
+   "For superior liqueur: soak the coffee with 5 litres of rum or arrack, let contact for one day before distilling."
+  ],
+  "notes_en": "Optional premium method uses rum or arrack maceration before distillation.",
+  "confidence": 0.92
+ },
+ {
+  "id": "coffee-cream-I",
+  "page": 390,
+  "section_en": "Coffee",
+  "title_it": "Caffè (Crema) I",
+  "title_en": "Coffee Cream I",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "85°"
+  },
+  "duration": {
+   "amount": 21,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Caffè Moka",
+    "name_en": "Mocha coffee",
+    "qty": 500,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 4.25,
+    "unit": "litres",
+    "alcohol_strength": {
+     "degrees": 85
+    }
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5.6,
+    "unit": "kilograms"
+   }
+  ],
+  "steps_en": [
+   "Roast coffee until brown and grind coarsely.",
+   "Macerate in alcohol for 21 hours.",
+   "Distil and rectify to obtain 4 litres.",
+   "Sweeten and adjust volume to 10 litres total."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "coffee-II",
+  "page": 390,
+  "section_en": "Coffee",
+  "title_it": "Caffè II",
+  "title_en": "Coffee II",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "90°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Caffè torrefatto e macinato",
+    "name_en": "Roasted and ground coffee",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Spirito di nitro dolce",
+    "name_en": "Sweet nitrous spirit",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 5000,
+    "unit": "grams",
+    "alcohol_strength": {
+     "degrees": 90
+    }
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5000,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4000,
+    "unit": "grams",
+    "note": "dissolved in hot solution"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2000,
+    "unit": "grams",
+    "note": "for sugar solution"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 25,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 24 hours.",
+   "Distil 5000 grams.",
+   "Prepare hot syrup from 4000 grams sugar and 2000 grams water, mix with distillate.",
+   "Add 25 grams vanilla tincture."
+  ],
+  "ocr_flags": [
+   "crii (should be 'cri' — unclear abbreviation, possibly 'in crogioli' = in crucibles)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "calamus-rosolio",
+  "page": 390,
+  "section_en": "Calamus",
+  "title_it": "Calamo (Rosolio di) I",
+  "title_en": "Calamus Rosolio I",
+  "method": "maceration",
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Calamo arom",
+    "name_en": "Aromatic calamus",
+    "qty": 1,
+    "unit": "kilogram"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 20,
+    "unit": "litres",
+    "alcohol_strength": {
+     "degrees": 60
+    }
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe continues on following page.",
+  "confidence": 0.95
+ }
+]

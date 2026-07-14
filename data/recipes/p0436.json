@@ -1,0 +1,275 @@
+[
+ {
+  "id": "german-citronella",
+  "page": 436,
+  "section_en": "Liqueurs",
+  "title_it": "CITRONELLA TEDESCA",
+  "title_en": "German Citronella",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze fresche di arance dolci",
+    "name_en": "Fresh peel of sweet oranges",
+    "qty": 24,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze fresche di limoni",
+    "name_en": "Fresh peel of lemons",
+    "qty": 24,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mace",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 700,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "90° Gay-Lussac"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the orange and lemon peels, mace, and cloves in the spirit for 8 days.",
+   "Decant and press, then filter.",
+   "To the filtered liquid, add the sugar and water (mixed as a hot solution or directly).",
+   "Follow the standard procedure."
+  ],
+  "notes_en": "Standard procedure (solito procedimento) typically involves filtering and bottling.",
+  "confidence": 0.92
+ },
+ {
+  "id": "crema-sultana",
+  "page": 436,
+  "section_en": "Liqueurs",
+  "title_it": "Crema Sultana",
+  "title_en": "Sultana Cream",
+  "method": "maceration",
+  "yield": {
+   "amount": 27,
+   "unit": "L",
+   "note": "12 L spirit + 5 L water + 10 L syrup"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di cedri",
+    "name_en": "Citron peel",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos fiorentina",
+    "name_en": "Florentine iris root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 12,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate citron peel, iris root, vanilla, cardamom, and cloves in the spirit and water.",
+   "Filter the tincture.",
+   "Add the syrup and red colouring to the filtered liquid."
+  ],
+  "notes_en": "Red colouring (Coloro rosso) is added to achieve the desired shade.",
+  "ocr_flags": [
+   "Ireos fiorentina"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "curacao-i",
+  "page": 436,
+  "section_en": "Liqueurs",
+  "title_it": "CURAÇAO I",
+  "title_en": "Curaçao I",
+  "method": "maceration",
+  "yield": {
+   "amount": 13.9,
+   "unit": "L",
+   "note": "2 L tincture + 6.6 L spirit + 0.6 L rum + 4 L syrup + 0.6 L orange water + 0.2 L orange blossom water + 2 L water"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": null,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance amare (Curaçao)",
+    "name_en": "Bitter orange peel (Curaçao)",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 100%",
+    "name_en": "Spirit at 100°",
+    "qty": 1.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "mixed with water for initial maceration"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "for initial maceration (1.5 L spirit + 0.5 L water = 2 L total)"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 6.6,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaica rum",
+    "qty": 0.6,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di lamponi",
+    "name_en": "Raspberry water",
+    "qty": 0.6,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange blossom water",
+    "qty": 0.2,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix spirit at 100° with water in the proportion 1.5 L spirit to 0.5 L water.",
+   "Macerate bitter orange peel and vanilla in this mixture for several days.",
+   "Strain the tincture (yields 2 L).",
+   "Mix the tincture with spirit at 90°, Jamaica rum, syrup, raspberry water, orange blossom water, and water.",
+   "Blend and bottle."
+  ],
+  "notes_en": "This is the first formula for Curaçao. The use of both orange water and orange blossom water adds complexity.",
+  "ocr_flags": [
+   "lamponi"
+  ],
+  "confidence": 0.85
+ }
+]

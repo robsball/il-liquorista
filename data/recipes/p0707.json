@@ -1,0 +1,208 @@
+[
+ {
+  "id": "anise-liqueur-triduon-v",
+  "page": 707,
+  "section_en": "Anise Liqueurs",
+  "title_it": "Anebòne triduò (V)",
+  "title_en": "Anise Liqueur Triduò (V)",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 22,
+   "raw": "Alcool a 22°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 40,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool a 22°",
+    "name_en": "Spirit at 22°",
+    "qty": 600,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 75,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice di Romagna",
+    "name_en": "Anise from Romagna",
+    "qty": 35,
+    "unit": "g"
+   },
+   {
+    "name_it": "Semi di finocchio",
+    "name_en": "Fennel seeds",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcoolato di rose, semplice",
+    "name_en": "Simple rose alcoholate",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 155,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 185,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Macerate the aromatic ingredients in the spirit for 40 hours.",
+   "Distill to recover the spirit used.",
+   "Add the rose alcoholate and sugar syrup to the recovered spirit.",
+   "Allow to rest appropriately, then filter."
+  ],
+  "notes_en": "Reference page 372.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "anise-liqueur-triduon-vi",
+  "page": 707,
+  "section_en": "Anise Liqueurs",
+  "title_it": "Anebòne triduò (VI)",
+  "title_en": "Anise Liqueur Triduò (VI)",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 22,
+   "raw": "Alcool a 22°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 60,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool a 22°",
+    "name_en": "Spirit at 22°",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 60,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice di Romagna",
+    "name_en": "Anise from Romagna",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Semi di finocchio",
+    "name_en": "Fennel seeds",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Sassafrasso tagliato",
+    "name_en": "Cut sassafras",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Fava tonka",
+    "name_en": "Tonka bean",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Thé",
+    "name_en": "Tea",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Essenza di rose",
+    "name_en": "Rose essence",
+    "qty": null,
+    "unit": "g",
+    "note": "q.b. (to taste)"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 60 hours.",
+   "Distill the macerated mixture.",
+   "Add the rose syrup and finally the rose essence drop by drop, ensuring it does not predominate.",
+   "Strain."
+  ],
+  "notes_en": "The quantity of rose essence is difficult to specify with precision due to the inconsistency and variety of types in modern essences of this kind.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "anise-liqueur-triduon-vii",
+  "page": 707,
+  "section_en": "Anise Liqueurs",
+  "title_it": "Anebòne triduò (VII)",
+  "title_en": "Anise Liqueur Triduò (VII)",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 20,
+   "raw": "Alcool a 20°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcool a 20°",
+    "name_en": "Spirit at 20°",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Semi anice di Francia",
+    "name_en": "French anise seeds",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Semi anice di Romagna",
+    "name_en": "Anise seeds from Romagna",
+    "qty": 30,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete in source text.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

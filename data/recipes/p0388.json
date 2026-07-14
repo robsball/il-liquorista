@@ -1,0 +1,288 @@
+[
+ {
+  "id": "benedettino-imitation-i",
+  "page": 388,
+  "section_en": "Benedettino (Imitation)",
+  "title_it": "Benedettino. I. (Imitazione)",
+  "title_en": "Benedettino. I. (Imitation)",
+  "method": "distillation",
+  "yield": {
+   "amount": 50,
+   "unit": "litres",
+   "note": "after addition of honey and sugar syrup"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa foglie",
+    "name_en": "Lemon balm leaves",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita (foglie)",
+    "name_en": "Peppermint leaves",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genepì delle Alpi",
+    "name_en": "Alpine wormwood",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice) fresca",
+    "name_en": "Fresh angelica root",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo minoro",
+    "name_en": "Lesser cardamom",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag (calamus)",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arnica (fiori)",
+    "name_en": "Arnica flowers",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 20,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false,
+    "note": "added after maceration"
+   },
+   {
+    "name_it": "Miele",
+    "name_en": "Honey",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 15,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanical mixture in 90° alcohol for 2 days.",
+   "Add 10 litres of water.",
+   "Distil 20 litres.",
+   "Prepare a hot syrup by dissolving 5 kg honey and 15 kg refined sugar in sufficient water.",
+   "Add the hot syrup to the distillate and adjust the total volume to 50 litres."
+  ],
+  "notes_en": "Yellow colour. Final product is sweetened and diluted to approximately 45–50° ABV.",
+  "ocr_flags": [
+   "Menta pip."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "benedettino-imitation-ii",
+  "page": 388,
+  "section_en": "Benedettino (Imitation)",
+  "title_it": "Benedettino. II. (Imitazione)",
+  "title_en": "Benedettino. II. (Imitation)",
+  "method": "distillation",
+  "yield": {
+   "amount": 3.2,
+   "unit": "litres",
+   "note": "distilled; final volume with additions approximately 10.2 litres"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 26,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag (calamus)",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga (radice)",
+    "name_en": "Galangal root",
+    "qty": 36,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 18,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Camomilla romana",
+    "name_en": "Roman chamomile",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 2.6,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "Cognac",
+    "qty": 2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Alcohol 96°",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale rosa",
+    "name_en": "Rose essential oil",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale arancio",
+    "name_en": "Orange essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale arnica fiori",
+    "name_en": "Arnica flower essential oil",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanical mixture in 2.6 litres of 90° alcohol and 2.2 litres of water.",
+   "Distil 3.2 litres of the macerate.",
+   "To the distillate, add 2 litres of cognac and 5 litres of 96° alcohol.",
+   "Add the essential oils: 10 drops peppermint, 5 drops rose, 10 drops orange, and 2 drops arnica flower."
+  ],
+  "notes_en": "A more concentrated and aromatic variant using essential oils for precision flavouring.",
+  "ocr_flags": [
+   "Menta pip."
+  ],
+  "confidence": 0.92
+ }
+]

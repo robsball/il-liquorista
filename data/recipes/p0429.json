@@ -1,0 +1,300 @@
+[
+ {
+  "id": "bitter-orange-peel-liqueur",
+  "page": 429,
+  "section_en": "Orange Liqueurs",
+  "title_it": "Scorze di arance amare",
+  "title_en": "Bitter Orange Peel Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance verdi",
+    "name_en": "Green oranges",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 2.2,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80° (second addition)",
+    "qty": 6.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arancio dolce",
+    "name_en": "Sweet orange essential oil",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water (second addition)",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rhum",
+    "name_en": "Rum",
+    "qty": 0.6,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino rosso",
+    "name_en": "Red wine",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fiord'arancio",
+    "name_en": "Orange flower water",
+    "qty": 0.3,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 7.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 7.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Pound the orange peels cut into very small pieces with 100 g of sugar (part of the 800 g prescribed).",
+   "Macerate in alcohol for 10 days.",
+   "Filter through paper after adding a few drops of saffron tincture.",
+   "To the obtained tincture (1.3200 L), add the second set of ingredients: 80° alcohol, sweet orange essential oil, water, rum, red wine, orange flower water, simple syrup, and sugar.",
+   "Mix well and complete to the final volume."
+  ],
+  "notes_en": "The recipe involves two stages: initial maceration of peels, then addition of a second set of ingredients to the filtered tincture.",
+  "ocr_flags": [
+   "Rhura (likely Rhum/Rum)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "aromatic-liqueur",
+  "page": 429,
+  "section_en": "Aromatic Liqueurs",
+  "title_it": "Aromatico",
+  "title_en": "Aromatic Liqueur",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "L",
+   "note": "after dilution with syrup and water"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cubebe pepo",
+    "name_en": "Cubeb pepper",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (radice)",
+    "name_en": "Gentian root",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cascarilla",
+    "name_en": "Cascarilla bark",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 6,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "to complete 10 liters total"
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanical ingredients in 60° alcohol.",
+   "Strain, press, and filter the tincture.",
+   "Mix with 4 liters of simple syrup and water to complete 10 liters total."
+  ],
+  "notes_en": "A complex aromatic formulation combining citrus, spices, and roots.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "absinth-rosolio",
+  "page": 429,
+  "section_en": "Herbal & Mint Liqueurs",
+  "title_it": "Assenzio (Rosolio)",
+  "title_en": "Absinth (Rosolio)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta pip.",
+    "name_en": "Peppermint",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almond",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sassafrasso",
+    "name_en": "Sassafras",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1.2,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanical ingredients in 90° alcohol."
+  ],
+  "notes_en": "A traditional absinth-style rosolio combining wormwood, anise, fennel, and other botanicals.",
+  "ocr_flags": [
+   "Monta pip. (likely Menta pip. = Peppermint)",
+   "Sassafrasso (likely Sassafrasso or Sassafrax)"
+  ],
+  "confidence": 0.87
+ }
+]

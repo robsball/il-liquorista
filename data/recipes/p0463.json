@@ -1,0 +1,318 @@
+[
+ {
+  "id": "acqua-d-argento",
+  "page": 463,
+  "section_en": "Liqueurs",
+  "title_it": "Acqua d'argento",
+  "title_en": "Silver Water",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 55,
+   "raw": "alcool di 55°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 0,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di mandorlo",
+    "name_en": "Essential oil of almond",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di macia",
+    "name_en": "Essential oil of mace",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 55°",
+    "name_en": "Alcohol (55° GL)",
+    "qty": 12.75,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 15,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.25,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Add to the liqueur some thin lamellae of beaten silver in small pieces."
+  ],
+  "notes_en": "Silver leaf is added for decoration.",
+  "ocr_flags": [],
+  "confidence": 0.75
+ },
+ {
+  "id": "acqua-bianca",
+  "page": 463,
+  "section_en": "Liqueurs",
+  "title_it": "Acqua bianca",
+  "title_en": "White Water",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di menta",
+    "name_en": "Essential oil of mint",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di cedro",
+    "name_en": "Essential oil of citron",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di melissa",
+    "name_en": "Essential oil of lemon balm",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false,
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di neroli",
+    "name_en": "Essential oil of neroli",
+    "qty": null,
+    "unit": "drops",
+    "unit_implicit": false,
+    "note": "amount uncertain (OCR corruption)",
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol (90° GL)",
+    "qty": 650,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     650
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     800
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 850,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     800
+    ]
+   }
+  ],
+  "steps_en": [
+   "Do not colour; add a thin sheet of silver finely minced."
+  ],
+  "notes_en": "This is a colourless liqueur finished with a thin lamella of silver.",
+  "ocr_flags": [
+   "Non si colorisco ina v j (probable OCR corruption; likely 'Non si colorisc<h>e, e v<i>ene'>)",
+   "neroli oil quantity unclear"
+  ],
+  "confidence": 0.7
+ },
+ {
+  "id": "acqua-cedrata",
+  "page": 463,
+  "section_en": "Liqueurs",
+  "title_it": "Acqua cedrata",
+  "title_en": "Citron Water",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorza fresca di cedro",
+    "name_en": "Fresh citron zest",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol (70° GL)",
+    "qty": 5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 50,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Essential oil of bergamot",
+    "qty": 35,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 0.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura d'ambra",
+    "name_en": "Amber tincture",
+    "qty": 50,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol (90° GL)",
+    "qty": 11.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Sugar syrup",
+    "qty": 11.5,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.5,
+    "unit": "litre",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Prepare a tincture with 1 kg of fresh citron zest and 5 litres of alcohol (70° GL).",
+   "Dissolve 50 drops of lemon essential oil and 35 drops of bergamot essential oil in 1/4 kg of absolute alcohol and mix with the tincture prepared above.",
+   "Then add the remaining ingredients."
+  ],
+  "notes_en": "Challo (origin/meaning of this final note term is unclear).",
+  "ocr_flags": [
+   "Challo (unclear term at end; may be a stage direction, regional variant, or OCR corruption)"
+  ],
+  "confidence": 0.82
+ }
+]

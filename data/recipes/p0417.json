@@ -1,0 +1,281 @@
+[
+ {
+  "id": "aromatic-spirit",
+  "page": 417,
+  "title_it": "Spirito aromatizzato",
+  "title_en": "Aromatic Spirit",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "final product after dilution and sweetening"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 12,
+    "unit": "g"
+   },
+   {
+    "name_it": "Storace calamita",
+    "name_en": "Liquid storax",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Lauro",
+    "name_en": "Laurel",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Thè imperiale",
+    "name_en": "Imperial tea",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 7.1,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in the spirit.",
+   "Distil and rectify to obtain 7.2 litres of aromatic spirit.",
+   "Separately, dissolve 11.2 kg of sugar into syrup.",
+   "Mix the aromatic spirit with the sugar syrup.",
+   "Add sufficient water to complete 20 litres of finished product."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "rosolio-di-cremona",
+  "page": 417,
+  "title_it": "Rosolio di Cremona",
+  "title_en": "Rosolio of Cremona",
+  "method": "distillation",
+  "yield": {
+   "amount": 40,
+   "unit": "litres",
+   "note": "final product"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di limoni freschi",
+    "name_en": "Fresh lemon peel",
+    "qty": 50,
+    "unit": "number",
+    "note": "lemons"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 40,
+    "unit": "number",
+    "note": "oranges"
+   },
+   {
+    "name_it": "Storace calamita",
+    "name_en": "Liquid storax",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 42,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 56,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 20,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Rosso di cocciniglia",
+    "name_en": "Cochineal red",
+    "qty": null,
+    "note": "for colouring"
+   }
+  ],
+  "steps_en": [
+   "Macerate the lemon and orange peels and liquid storax in the spirit.",
+   "Distil and rectify to obtain 40 litres of perfumed alcohol.",
+   "Add 2 litres of rose water.",
+   "Dissolve 56 kg of sugar in 20 litres of water.",
+   "Combine the distillate with the sugar solution.",
+   "Add cochineal colouring as desired."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "rosolio-di-majorica",
+  "page": 417,
+  "title_it": "Rosolio di Majorica",
+  "title_en": "Rosolio of Majorca",
+  "method": "distillation",
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "yield": {
+   "amount": 40,
+   "unit": "litres",
+   "note": "final product after dilution and flavouring"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance fresche",
+    "name_en": "Fresh orange peel",
+    "qty": 200,
+    "unit": "number",
+    "note": "oranges"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 40,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 26,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 18,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Succo di arance",
+    "name_en": "Orange juice",
+    "qty": 200,
+    "unit": "number",
+    "note": "from oranges"
+   },
+   {
+    "name_it": "Tintura di scorze di arance amare",
+    "name_en": "Tincture of bitter orange peel",
+    "qty": 0.3,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": null,
+    "note": "for golden-yellow colouring"
+   }
+  ],
+  "steps_en": [
+   "Macerate the fresh orange peels in the spirit for 48 hours.",
+   "Distil and rectify to obtain 26 litres of fine product.",
+   "Separately, dissolve 26 kg of white sugar in 18 litres of water; allow to cool.",
+   "Combine the distillate with the cooled sugar solution.",
+   "Add the juice of 200 oranges.",
+   "Add 30 centilitres of tincture of bitter orange peel.",
+   "Colour with caramel to a golden-yellow hue."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "rosolio-fiorentino",
+  "page": 417,
+  "title_it": "Rosolio fiorentino",
+  "title_en": "Rosolio Florentine",
+  "method": "unknown",
+  "ingredients": [
+   {
+    "name_it": "Scorze fresche di limoni",
+    "name_en": "Fresh lemon peel",
+    "qty": 320,
+    "unit": "g",
+    "variants": [
+     125,
+     100
+    ]
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 100,
+    "unit": "g",
+    "variants": [
+     250,
+     165
+    ]
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Aromatic calamus",
+    "qty": 75,
+    "unit": "g",
+    "variants": [
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 35,
+    "unit": "g",
+    "variants": [
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 35,
+    "unit": "g",
+    "variants": [
+     null,
+     null
+    ]
+   }
+  ],
+  "notes_en": "Three formulation variants presented (columns I, II, III). Recipe instructions not shown on this page.",
+  "ocr_flags": [
+   "Ualanga"
+  ],
+  "confidence": 0.85
+ }
+]

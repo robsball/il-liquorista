@@ -1,0 +1,166 @@
+[
+ {
+  "id": "vermouth-nux-vomica",
+  "page": 678,
+  "section_en": "Vermouths",
+  "title_it": "Vermouth alla Noce Vomica",
+  "title_en": "Vermouth with Nux Vomica",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vermouth semplice",
+    "name_en": "plain vermouth",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di noce vomica",
+    "name_en": "nux vomica tincture",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "or 0.20 g alcoholic extract"
+   },
+   {
+    "name_it": "Vino Marsala",
+    "name_en": "Marsala wine",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "as solvent for the tincture/extract"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "sugar",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve the nux vomica tincture (or alcoholic extract) in 100 g of Marsala wine.",
+   "Add this solution to 1 litre of plain vermouth.",
+   "Add 100 g of sugar."
+  ],
+  "notes_en": "This preparation is medicinal in nature and must be used with caution.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "vermouth-madeira",
+  "page": 678,
+  "section_en": "Vermouths",
+  "title_it": "Vermouth al Madera",
+  "title_en": "Vermouth with Madeira",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Assenzio maggiore",
+    "name_en": "greater wormwood",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "angelica root",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "holy thistle",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Polmonaria",
+    "name_en": "lungwort",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Veronica",
+    "name_en": "veronica",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "rhubarb",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "China rossa",
+    "name_en": "red cinchona bark",
+    "qty": 210,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice) in polvere",
+    "name_en": "iris root powder",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di scorze di aranco amaro",
+    "name_en": "bitter orange peel tincture",
+    "qty": 0.25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino Madera",
+    "name_en": "Madeira wine",
+    "qty": 62,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo d'uva",
+    "name_en": "grape syrup",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "cognac",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanical ingredients with the Madeira wine, grape syrup, and cognac.",
+   "After 3 days, decant and clarify using fish glue.",
+   "After a further rest of 8 days, decant and clarify again."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "Cardo santo (OCR: 'Andò santo' — contextually corrected to thistle)",
+   "Madera spelling (French/Italian variants of Madeira)"
+  ],
+  "confidence": 0.88
+ }
+]

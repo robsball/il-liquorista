@@ -1,0 +1,303 @@
+[
+ {
+  "id": "yellow-saffron-liqueur",
+  "page": 543,
+  "title_it": "Giallo-zafferano",
+  "title_en": "Yellow-Saffron Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Estratto speciale",
+    "name_en": "Special extract",
+    "qty": null,
+    "unit": "gr",
+    "unit_implicit": false,
+    "note": "quantity not printed"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 12.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 15,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 17.5,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Yellow color, saffron-flavored.",
+  "ocr_flags": [],
+  "confidence": 0.7
+ },
+ {
+  "id": "chartreuse-essence-liqueur",
+  "page": 543,
+  "title_it": "Essenza di Chartreuse",
+  "title_en": "Chartreuse Essence Liqueur",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza di Chartreuse",
+    "name_en": "Chartreuse essence",
+    "qty": 50,
+    "unit": "gr",
+    "unit_implicit": false,
+    "note": "see page 245"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1000,
+    "unit": "gr",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Color pale green with green tincture."
+  ],
+  "notes_en": "Colored pale green.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "cherry-brandy",
+  "page": 543,
+  "title_it": "Cherry Brandy",
+  "title_en": "Cherry Brandy",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Coriandolo",
+    "name_en": "Coriander",
+    "qty": 3,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almond",
+    "qty": 2,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di violetta",
+    "name_en": "Violet essence",
+    "qty": 5,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di cognac",
+    "name_en": "Cognac essence",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": null,
+    "unit": "gr",
+    "unit_implicit": false,
+    "note": "quantity not printed"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [
+   "Coriandolo (possibly error for Coriandoli or Corino)"
+  ],
+  "confidence": 0.72
+ },
+ {
+  "id": "curacao",
+  "page": 543,
+  "title_it": "Curaçao",
+  "title_en": "Curaçao",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool a 95°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di scorza d'arance amare",
+    "name_en": "Essential oil of bitter orange peel",
+    "qty": 100,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool a 95°",
+    "name_en": "95° alcohol",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto Vescovo",
+    "name_en": "Vescovo extract",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "see Aromatic Wines section"
+   }
+  ],
+  "steps_en": [
+   "Dissolve 100 gr of bitter orange peel essential oil in 3 kg of 95° alcohol.",
+   "After 24 hours, add 1 kg of Vescovo extract to the solution.",
+   "Shake vigorously to aid mixing."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "elixir-of-saint-agatha",
+  "page": 543,
+  "title_it": "Elixir di Sta.",
+  "title_en": "Elixir of Saint Agatha",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 100,
+   "raw": "alcool assoluto"
+  },
+  "ingredients": [
+   {
+    "name_it": "Arancio dolce",
+    "name_en": "Sweet orange",
+    "qty": 30,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemon",
+    "qty": 30,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Clove",
+    "qty": 4,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 4,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 4,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 4,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Clove",
+    "qty": 2,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 2,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Contains aromatic spices and citrus.",
+  "ocr_flags": [
+   "Coriandoli (uncertain if singular or plural; context suggests the plant/seeds)"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "clove-liqueur",
+  "page": 543,
+  "title_it": "Garofani",
+  "title_en": "Clove Liqueur",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Essenza di garofani",
+    "name_en": "Clove essence",
+    "qty": 50,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1000,
+    "unit": "gr",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.9
+ }
+]

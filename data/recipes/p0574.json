@@ -1,0 +1,197 @@
+[
+ {
+  "id": "apricotina",
+  "page": 574,
+  "section_en": "Liqueurs",
+  "title_it": "Abricotina",
+  "title_en": "Apricotina",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "at 30% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 30,
+   "raw": "30% alcool"
+  },
+  "ingredients": [
+   {
+    "name_it": "Estratto di albicocche",
+    "name_en": "Apricot extract (from preparation)",
+    "qty": 5.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcool fino",
+    "name_en": "Fine alcohol 90°",
+    "qty": 5.5,
+    "unit": "liters",
+    "alcohol_strength": {
+     "degrees": 90
+    }
+   },
+   {
+    "name_it": "Succo di fragole",
+    "name_en": "Strawberry juice",
+    "qty": 0.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 1,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 7.5,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Prepare the apricot extract by selecting 7 kg of ripe, healthy apricots. Clean, peel, and remove the pits.",
+   "Crush the fruit and boil with 4 liters of sugar syrup (4 kg sugar).",
+   "After cooling, decant the apricot syrup and pour 7 liters of 60% fine alcohol over the fruit residue, stirring well.",
+   "Macerate for 5–6 days, then combine with the syrup obtained earlier and filter.",
+   "Crush the reserved pits and mix with 1.5 kg of dried Turkish prunes. Macerate in 12 liters of 60% fine alcohol for 12–15 days.",
+   "Decant the liquid and combine with the syrup from the first extraction. Filter again and reserve.",
+   "Mix the apricot extract (5.5 L), 90° alcohol (5.5 L), strawberry juice (0.5 L), white wine (1 L), and simple syrup (7.5 L).",
+   "The final product yields 20 liters at 30% alcohol with a light red color."
+  ],
+  "notes_en": "The apricot extract is prepared separately over two stages: a primary syrup extraction by boiling, followed by alcohol maceration of the fruit solids and pit infusion.",
+  "confidence": 0.92
+ },
+ {
+  "id": "cherry-cream",
+  "page": 574,
+  "section_en": "Liqueurs",
+  "title_it": "Ciliege (Crema di)",
+  "title_en": "Cherry Cream",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 10,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": 5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Fine alcohol 90°",
+    "qty": 8.5,
+    "unit": "liters",
+    "alcohol_strength": {
+     "degrees": 90
+    }
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 25,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 5,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [
+   "Cook a mixture of 10 kg sugar and 5 liters of cherry juice, reducing to 10 liters.",
+   "Add 8.5 liters of 90° alcohol, 1 liter of water, 25 drops of bitter almond oil, 10 drops of cinnamon oil, and 5 drops of clove oil.",
+   "Mix thoroughly to combine all ingredients."
+  ],
+  "notes_en": "The base reduction should reach exactly 10 liters before adding the alcohol and essential oils.",
+  "ocr_flags": [
+   "mandorle umuro (likely 'amare' = bitter almonds)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "raspberry-cream",
+  "page": 574,
+  "section_en": "Liqueurs",
+  "title_it": "Lamponi (Crema di)",
+  "title_en": "Raspberry Cream",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 10,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Succo di lamponi",
+    "name_en": "Raspberry juice",
+    "qty": 5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Fine alcohol 90°",
+    "qty": 7.8,
+    "unit": "liters",
+    "alcohol_strength": {
+     "degrees": 90
+    }
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.2,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 10,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Cook a mixture of 10 kg sugar, 5 liters of raspberry juice, and 10 grams of citric acid, reducing to 10 liters.",
+   "Add 7.8 liters of 90° alcohol, 2.2 liters of water, and 10 grams of acetic ether.",
+   "Mix thoroughly to incorporate all ingredients."
+  ],
+  "notes_en": "The citric acid enhances the natural acidity of the raspberry juice. Acetic ether contributes flavor complexity and helps preserve the liqueur.",
+  "confidence": 0.9
+ }
+]

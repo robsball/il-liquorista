@@ -1,0 +1,277 @@
+[
+ {
+  "id": "bitter-digestive-i",
+  "page": 588,
+  "section_en": "Bitter Digestives",
+  "title_it": "I",
+  "title_en": "Bitter Digestive I",
+  "method": "maceration",
+  "yield": {
+   "amount": 34,
+   "unit": "litres",
+   "note": "final product at 40° alcohol strength"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "40°"
+  },
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol 70°",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanical ingredients in the 70° alcohol for 48 hours.",
+   "Digest the mixture.",
+   "Decant and combine the clear liquid with the liquid expressed from the botanicals and filter it.",
+   "Add alcohol or water until reaching 34 litres at 40° alcohol strength."
+  ],
+  "notes_en": "Finish with sugar colouring (caramel).",
+  "confidence": 0.95
+ },
+ {
+  "id": "bitter-digestive-ii",
+  "page": 588,
+  "section_en": "Bitter Digestives",
+  "title_it": "II",
+  "title_en": "Bitter Digestive II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance immature",
+    "name_en": "Unripe oranges",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cascarilla",
+    "name_en": "Cascarilla bark",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Clove",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4000,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2000,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanical ingredients in the alcohol and water mixture.",
+   "Express the liquid by pressing, and filter.",
+   "Add to the filtrate a sugar solution made from 5 kg sugar dissolved in 3 kg water."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "bitter-digestive-iii",
+  "page": 588,
+  "section_en": "Bitter Digestives",
+  "title_it": "III",
+  "title_en": "Bitter Digestive III",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "45°"
+  },
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance dolci",
+    "name_en": "Sweet orange peel",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Clove",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 45°",
+    "name_en": "Alcohol 45°",
+    "qty": null,
+    "unit": "litres",
+    "unit_implicit": true,
+    "note": "quantity not specified in source"
+   }
+  ],
+  "steps_en": [
+   "Digest all ingredients in the 45° alcohol for 5 days.",
+   "Strain through pressing.",
+   "Dissolve 1 kg sugar in the obtained tincture.",
+   "Filter the final product."
+  ],
+  "confidence": 0.92
+ }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "id": "curacao-bitter-orange",
+  "page": 235,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao (Arance amare)",
+  "title_en": "Curaçao (Bitter Orange)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorzo d'arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol (85°)",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 85,
+     "raw": "alcool di 85°"
+    }
+   }
+  ],
+  "steps_en": [
+   "Macerate bitter orange peel in 85° alcohol for 10 days."
+  ],
+  "notes_en": "Recipe I of II for Curaçao.",
+  "confidence": 0.95
+ },
+ {
+  "id": "curacao-bitter-orange-ii",
+  "page": 235,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao (Arance amare) - II",
+  "title_en": "Curaçao (Bitter Orange) - II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol (95°)",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 95,
+     "raw": "alcool di 95°"
+    }
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate bitter orange peel in 95° alcohol and water for 8 days."
+  ],
+  "notes_en": "Recipe II of II for Curaçao.",
+  "confidence": 0.95
+ },
+ {
+  "id": "eucalyptus",
+  "page": 235,
+  "section_en": "Liqueurs",
+  "title_it": "Eucalipto",
+  "title_en": "Eucalyptus",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Foglie di eucalipto",
+    "name_en": "Eucalyptus leaves",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol (85°)",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 85,
+     "raw": "alcool di 85°"
+    }
+   }
+  ],
+  "steps_en": [
+   "Macerate eucalyptus leaves in 85° alcohol for 10 days."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "tonka-bean",
+  "page": 235,
+  "section_en": "Liqueurs",
+  "title_it": "Fava tonca",
+  "title_en": "Tonka Bean",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Fave tonche",
+    "name_en": "Tonka beans",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Alcohol (96°)",
+    "qty": null,
+    "unit": "kg",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 96,
+     "raw": "alcool di 96°"
+    },
+    "note": "quantity not stated in source"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate tonka beans in 96° alcohol and water for 8 days."
+  ],
+  "notes_en": "Alcohol quantity omitted in source.",
+  "ocr_flags": [
+   "Fave tonche (possibly 'Fave tonca' singular in heading)"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "fennel",
+  "page": 235,
+  "section_en": "Liqueurs",
+  "title_it": "Finocchio",
+  "title_en": "Fennel",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Finocchio (semi)",
+    "name_en": "Fennel seeds",
+    "qty": 160,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol (85°)",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 85,
+     "raw": "alcool di 85°"
+    }
+   }
+  ],
+  "steps_en": [
+   "Macerate fennel seeds in 85° alcohol for 8 days."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "galangal",
+  "page": 235,
+  "section_en": "Liqueurs",
+  "title_it": "Galanga - I",
+  "title_en": "Galangal - I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Radici di galanga",
+    "name_en": "Galangal roots",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol (60°)",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 60,
+     "raw": "alcool di 60°"
+    }
+   }
+  ],
+  "steps_en": [
+   "Macerate galangal roots in 60° alcohol for 15 days."
+  ],
+  "notes_en": "Recipe I of II for Galangal.",
+  "ocr_flags": [
+   "gnlanga (OCR error for 'galanga')"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "galangal-ii",
+  "page": 235,
+  "section_en": "Liqueurs",
+  "title_it": "Galanga - II",
+  "title_en": "Galangal - II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol (90°)",
+    "qty": null,
+    "unit": "kg",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 90,
+     "raw": "alcool di 90°"
+    },
+    "note": "quantity not stated in source"
+   }
+  ],
+  "steps_en": [
+   "Macerate galangal in 90° alcohol for 5 days."
+  ],
+  "notes_en": "Recipe II of II for Galangal. Alcohol quantity omitted in source.",
+  "ocr_flags": [
+   "90(> (OCR corruption of '90°')"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "cloves",
+  "page": 235,
+  "section_en": "Liqueurs",
+  "title_it": "Garofani - I",
+  "title_en": "Cloves - I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol (80°)",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 80,
+     "raw": "alcool di 80°"
+    }
+   }
+  ],
+  "steps_en": [
+   "Macerate cloves in 80° alcohol for 8 days."
+  ],
+  "notes_en": "Recipe I of II for Cloves (continues on next page).",
+  "confidence": 0.95
+ }
+]

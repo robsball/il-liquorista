@@ -1,0 +1,306 @@
+[
+ {
+  "id": "bitter-orange-liqueur-i",
+  "page": 386,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore d'Arance Amare",
+  "title_en": "Bitter Orange Liqueur I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze fresche d'arance amare",
+    "name_en": "Fresh bitter orange peel",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze fresche d'arance dolci",
+    "name_en": "Fresh sweet orange peel",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 25,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as in the previous recipe."
+  ],
+  "notes_en": "Refer to preceding recipe for method.",
+  "confidence": 0.95
+ },
+ {
+  "id": "rosolio-iii",
+  "page": 386,
+  "section_en": "Liqueurs",
+  "title_it": "Rosolio III",
+  "title_en": "Rosolio III",
+  "method": "distillation",
+  "yield": {
+   "amount": 15,
+   "unit": "L",
+   "note": "distilled product at 70°"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance dolci",
+    "name_en": "Sweet orange peel",
+    "qty": 20,
+    "unit": "pcs",
+    "unit_implicit": false,
+    "note": "from 20 oranges"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 48 hours in 20 litres of 60° alcohol.",
+   "Distil 15 litres at 70°.",
+   "Add 15 litres of syrup.",
+   "Color yellow."
+  ],
+  "notes_en": "The recipe yields 15 L of distillate at 70° ABV, to which 15 L of syrup is added.",
+  "confidence": 0.92
+ },
+ {
+  "id": "absinthe-swiss",
+  "page": 386,
+  "section_en": "Liqueurs",
+  "title_it": "Assenzio Svizzero",
+  "title_en": "Swiss Absinthe",
+  "method": "distillation",
+  "yield": {
+   "amount": 18,
+   "unit": "L",
+   "note": "distilled product at 80°"
+  },
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "alcool di 65°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": null,
+   "unit": "days",
+   "note": "alcuni giorni (several days)"
+  },
+  "ingredients": [
+   {
+    "name_it": "Assenzio (sommità)",
+    "name_en": "Wormwood (tops)",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus root",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 65°",
+    "name_en": "Alcohol 65°",
+    "qty": 25,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaican rum",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for several days.",
+   "Distil 18 litres at 80°.",
+   "Mix in the rum, 95° alcohol, water, and sugar.",
+   "Color yellowish-green with indigo and saffron tincture."
+  ],
+  "notes_en": "The base maceration uses 25 L of 65° alcohol, yielding 18 L at 80°. This is then combined with rum, high-strength alcohol, water, and sugar for the final product.",
+  "confidence": 0.9
+ },
+ {
+  "id": "absinthe-grand",
+  "page": 386,
+  "section_en": "Liqueurs",
+  "title_it": "Assenzio Grande",
+  "title_en": "Grand Absinthe",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio grande (sommità fiorito e steli flocchi)",
+    "name_en": "Grand wormwood (flowering tops and stems)",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio minore",
+    "name_en": "Lesser wormwood",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta pip. foglie secche",
+    "name_en": "Peppermint dried leaves",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe appears incomplete; no method or alcohol/yield information is provided.",
+  "ocr_flags": [
+   "flocchi (possibly 'fiocchi' meaning 'flakes' or 'tufts')"
+  ],
+  "confidence": 0.7
+ }
+]

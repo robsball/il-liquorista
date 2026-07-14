@@ -1,0 +1,288 @@
+[
+ {
+  "id": "ekhau",
+  "page": 478,
+  "title_en": "Ekhau",
+  "title_it": "Ekhau",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool 45%"
+  },
+  "ingredients": [
+   {
+    "name_en": "essential oil of cumin",
+    "name_it": "Olio essenz. di cornino",
+    "qty": 18,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of lemon",
+    "name_it": "Olio essenz. di limone",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of coriander",
+    "name_it": "Olio essenz. di coriandoli",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of anise",
+    "name_it": "Olio essenz. di anico",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Sciroppo",
+    "qty": 18,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "notes_en": "Product yield: 20 litres (alcohol 45%, sugar 50%).",
+  "confidence": 0.92
+ },
+ {
+  "id": "excelsior",
+  "page": 478,
+  "title_en": "Excelsior",
+  "title_it": "Excelsior",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 38,
+   "raw": "alcool 38%"
+  },
+  "ingredients": [
+   {
+    "name_en": "essential oil of lemon",
+    "name_it": "Olio essenz. di limone",
+    "qty": 18,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of bergamot",
+    "name_it": "Olio essenz. di bergamotto",
+    "qty": 30,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of nutmeg",
+    "name_it": "Olio essenz. di noce moscata",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of cardamom",
+    "name_it": "Olio essenz. di cardamomo",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of cinnamon",
+    "name_it": "Olio essenz. di cannella",
+    "qty": 2.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of cloves",
+    "name_it": "Olio essenz. di garofani",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of rosemary",
+    "name_it": "Olio essenz. di rosmarino",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of neroli",
+    "name_it": "Olio essenz. di neroli",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 9.2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "cognac",
+    "name_it": "Cognac",
+    "qty": 0.5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Sciroppo",
+    "qty": 7,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 4.3,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "notes_en": "Light yellow colour. Product yield: 20 litres (alcohol 38%).",
+  "confidence": 0.93
+ },
+ {
+  "id": "euxir-aromatic",
+  "page": 478,
+  "title_en": "Euxir Aromatic",
+  "title_it": "Euxir aromatico",
+  "method": "cold_mix",
+  "yield": {
+   "amount": null,
+   "unit": "litres",
+   "note": "Total volume determined by stated components"
+  },
+  "ingredients": [
+   {
+    "name_en": "essential oil of cinnamon",
+    "name_it": "Olio essenz. di cannella",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of cloves",
+    "name_it": "Olio essenz. di garofani",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of cardamom",
+    "name_it": "Olio essenz. di cardamomo",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of ginger",
+    "name_it": "Olio essenz. di zenzero",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of mace",
+    "name_it": "Olio essenz. di macie",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of pimento",
+    "name_it": "Olio essenz. di pimento",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of orange blossoms",
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "essential oil of sweet orange",
+    "name_it": "Olio essenz. di arance dolci",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "absolute alcohol",
+    "name_it": "Alcool assoluto",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "oils dissolved in this first"
+   },
+   {
+    "name_en": "alcohol 80°",
+    "name_it": "Alcool di 80°",
+    "qty": 42,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "sugar",
+    "name_it": "Zucchero",
+    "qty": 18,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Sciroppo",
+    "qty": 5,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 50,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "cochineal tincture",
+    "name_it": "Tintura cocciniglia",
+    "qty": 0.5,
+    "unit": "kilograms",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve the essential oils in 250 grams of absolute alcohol.",
+   "Add the remaining ingredients: alcohol 80°, sugar, syrup, water, and cochineal tincture."
+  ],
+  "confidence": 0.9,
+  "ocr_flags": [
+   "Euxir (unclear origin of term)",
+   "fiori d'arancio vs fiori d'aranzi"
+  ]
+ }
+]

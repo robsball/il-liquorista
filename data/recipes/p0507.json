@@ -1,0 +1,308 @@
+[
+ {
+  "id": "corino-oil-essence",
+  "page": 507,
+  "section_en": "Essential Oils",
+  "title_it": "Olio essenz. di corino",
+  "title_en": "Corino Essential Oil",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di corino",
+    "name_en": "Corino essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Orange blossom essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arancio",
+    "name_en": "Orange peel essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Yellow colour.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "coriandoli",
+  "page": 507,
+  "section_en": "Essential Oils",
+  "title_it": "Coriandoli",
+  "title_en": "Coriander",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Coriander essential oil",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Lemon essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Yellow colour.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "curacao-simple",
+  "page": 507,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao Semplice",
+  "title_en": "Simple Curaçao",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di scorze d'arancio",
+    "name_en": "Orange peel essential oil",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Mace essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Light brown colour.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "curacao-holland",
+  "page": 507,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao d'Olanda",
+  "title_en": "Holland Curaçao",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di scorze d'arancio",
+    "name_en": "Orange peel essential oil",
+    "qty": 18,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Orange blossom essential oil",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 0.25,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Light brown colour.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "curacao-imperial",
+  "page": 507,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao Imperiale",
+  "title_en": "Imperial Curaçao",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'arance amare",
+    "name_en": "Bitter orange essential oil",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Orange blossom essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di noci moscato",
+    "name_en": "Nutmeg essential oil",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity unclear in OCR"
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arancio",
+    "name_en": "Orange peel essential oil",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity unclear in OCR"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity unclear in OCR"
+   },
+   {
+    "name_it": "Etere di lamponi",
+    "name_en": "Raspberry ether",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity unclear in OCR"
+   },
+   {
+    "name_it": "Tintura di fava tonca",
+    "name_en": "Tonka bean tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Dark brown colour.",
+  "ocr_flags": [
+   "noci moscato quantities unclear",
+   "scorze d'arancio quantities unclear",
+   "cannella quantities unclear",
+   "etere di lamponi quantities unclear"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "curacao-marseille",
+  "page": 507,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao di Marsiglia",
+  "title_en": "Marseille Curaçao",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di macis",
+    "name_en": "Mace essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arancio",
+    "name_en": "Orange peel essential oil",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere di lamponi",
+    "name_en": "Raspberry ether",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Light brown colour.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ }
+]

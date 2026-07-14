@@ -1,0 +1,256 @@
+[
+ {
+  "id": "maraschino-distilled-water-version",
+  "page": 368,
+  "section_en": "Maraschino Liqueurs",
+  "title_it": "Maraschino (Ricetta XI)",
+  "title_en": "Maraschino",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "acqua distillata di maraschino",
+    "name_en": "maraschino distilled water",
+    "qty": 4,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua distillata di fior d'arancio",
+    "name_en": "orange blossom distilled water",
+    "qty": 0.2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua distillata di rose",
+    "name_en": "rose distilled water",
+    "qty": 0.2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool di 85°",
+    "name_en": "spirit of 85°",
+    "qty": 8,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "zucchero bianco raffinato",
+    "name_en": "refined white sugar",
+    "qty": 11,
+    "unit": "kilograms",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Make a syrup by dissolving the sugar in the distilled waters in a covered vessel (alembic pot) or by heating.",
+   "Add the spirit, stirring well.",
+   "Allow the mixture to cool, then filter."
+  ],
+  "notes_en": "Follow the procedure indicated in the preceding recipe (I).",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "maraschino-apricot-kernels",
+  "page": 368,
+  "section_en": "Maraschino Liqueurs",
+  "title_it": "Maraschino (Ricetta XII)",
+  "title_en": "Maraschino with Apricot Kernels",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "alcoolato di noccioli d'albicocche",
+    "name_en": "apricot kernel alcoholate",
+    "qty": 1.6,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcoolato di fiori d'arancio",
+    "name_en": "orange blossom alcoholate",
+    "qty": 0.4,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcoolato di lamponi",
+    "name_en": "raspberry alcoholate",
+    "qty": 0.3,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Kirschwasser vecchio",
+    "name_en": "aged Kirschwasser",
+    "qty": 4,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 11.2,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 4.4,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Prepare a hot syrup.",
+   "Add the alcoholates and Kirschwasser in a covered vessel.",
+   "Filter."
+  ],
+  "notes_en": "Yield: 20 litres.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "maraschino-cattaro-boccche",
+  "page": 368,
+  "section_en": "Maraschino Liqueurs",
+  "title_it": "Maraschino delle bocche di Cattaro",
+  "title_en": "Maraschino of the Bocche di Cattaro",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "acqua di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "acqua di mandorle amaro distillata",
+    "name_en": "bitter almond distilled water",
+    "qty": 1.15,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua di lamponi",
+    "name_en": "raspberry water",
+    "qty": 3.45,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua di fiori d'arancio",
+    "name_en": "orange blossom water",
+    "qty": 2.25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua di 90°",
+    "name_en": "spirit of 90°",
+    "qty": 4.0,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 4,
+    "unit": "kilograms",
+    "unit_implicit": false,
+    "note": "dissolved in the raspberry water"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Sugar dissolved in the raspberry water.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "mille-fiori-cream",
+  "page": 368,
+  "section_en": "Maraschino Liqueurs",
+  "title_it": "Mille fiori (Crema)",
+  "title_en": "Thousand Flowers (Cream)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "alcoolato di rosa",
+    "name_en": "rose alcoholate",
+    "qty": 1.8,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcoolato di fior d'arancio",
+    "name_en": "orange blossom alcoholate",
+    "qty": 1.6,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcoolato di sassafrasso",
+    "name_en": "sassafras alcoholate",
+    "qty": 0.5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcoolato di ambretta",
+    "name_en": "ambrette alcoholate",
+    "qty": 0.1,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool di 85°",
+    "name_en": "spirit of 85°",
+    "qty": 3.2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 11.2,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 5.2,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.96
+ }
+]

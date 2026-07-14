@@ -1,0 +1,319 @@
+[
+ {
+  "id": "bitters-alla-rosa",
+  "page": 645,
+  "section_en": "Bitters",
+  "title_it": "A. alla Rosa",
+  "title_en": "Bitters alla Rosa",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 330,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 330,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 330,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cassia lignea",
+    "name_en": "Cassia bark",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di arance",
+    "name_en": "Orange peel",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 75°",
+    "name_en": "Alcohol at 75°",
+    "qty": 15,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di rose",
+    "name_en": "Rose essence",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "dissolved in absolute alcohol, added after maceration is complete"
+   }
+  ],
+  "steps_en": [
+   "Macerate the cloves, star anise, galangal, ginger, cardamom, cassia bark, and orange peel in 15 liters of alcohol at 75°.",
+   "After maceration is complete, add 5 grams of rose essence dissolved in absolute alcohol."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "stomachic-bitters-copenhagen",
+  "page": 645,
+  "section_en": "Bitters",
+  "title_it": "A. Stomachico di Copenaghen",
+  "title_en": "Stomachic Bitters Copenhagen",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di rhum",
+    "name_en": "Rum extract",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cardo santo",
+    "name_en": "Holy thistle tincture",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di genziana",
+    "name_en": "Gentian tincture",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di galanga",
+    "name_en": "Galangal tincture",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di Gocce Dr. Mampe",
+    "name_en": "Dr. Mampe Drops extract",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di angelica",
+    "name_en": "Angelica tincture",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di zenzero",
+    "name_en": "Ginger tincture",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "bitters-turco",
+  "page": 645,
+  "section_en": "Bitters",
+  "title_it": "A. Turco",
+  "title_en": "Turkish Bitters",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di Grünewald",
+    "name_en": "Grünewald extract",
+    "qty": 0,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto di Amaro stomatico",
+    "name_en": "Stomachic bitters extract",
+    "qty": 2,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice verde",
+    "name_en": "Green anise essential oil",
+    "qty": 15,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di menta piperita",
+    "name_en": "Peppermint essential oil",
+    "qty": 8,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di cornino",
+    "name_en": "Cornel essential oil",
+    "qty": 15,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 1,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "solvent for essential oils"
+   }
+  ],
+  "steps_en": [
+   "Dissolve the three essential oils in one liter of alcohol at 95°.",
+   "Mix with the extracts."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "bitters-di-turinola",
+  "page": 645,
+  "section_en": "Bitters",
+  "title_it": "A. di Turinola",
+  "title_en": "Turinola Bitters",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto Grünewald",
+    "name_en": "Grünewald extract",
+    "qty": null,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Estratto Gocce di Stettino",
+    "name_en": "Stettin Drops extract",
+    "qty": null,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Estratto Elixir dei marinai",
+    "name_en": "Sailors' Elixir extract",
+    "qty": null,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Estratto Liquore caccia",
+    "name_en": "Hunting Liqueur extract",
+    "qty": null,
+    "unit": "l",
+    "unit_implicit": false,
+    "note": "quantity not specified"
+   }
+  ],
+  "steps_en": [
+   "Mix the extracts together."
+  ],
+  "notes_en": "This recipe lacks specified quantities for all ingredients.",
+  "ocr_flags": [],
+  "confidence": 0.7
+ },
+ {
+  "id": "bitters-westphalia",
+  "page": 645,
+  "section_en": "Bitters",
+  "title_it": "A. di Westfalia",
+  "title_en": "Westphalian Bitters",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto Amaro stomatico verde",
+    "name_en": "Green stomachic bitters extract",
+    "qty": 12,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto Amaro china",
+    "name_en": "China bitters extract",
+    "qty": 2,
+    "unit": "l",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto Vescovo",
+    "name_en": "Bishop extract",
+    "qty": 2,
+    "unit": "l",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all extracts together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.94
+ }
+]

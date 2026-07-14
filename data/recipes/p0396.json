@@ -1,0 +1,232 @@
+[
+ {
+  "id": "curacao",
+  "page": 396,
+  "section_en": "Liqueurs",
+  "title_it": "Curaçao",
+  "title_en": "Curaçao",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Bucce raspate di arance",
+    "name_en": "Scraped orange peel",
+    "qty": 20,
+    "unit": "number",
+    "note": "20 pieces"
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 4,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 2,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit at 85°",
+    "qty": 5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.75,
+    "unit": "kilograms"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 15 days.",
+   "Distil in a water bath without rectification.",
+   "Colour with caramel or special colouring."
+  ],
+  "notes_en": "Yield: 10 litres. Dark red colour.",
+  "confidence": 0.95
+ },
+ {
+  "id": "herbes-albines-elixir",
+  "page": 396,
+  "section_en": "Liqueurs",
+  "title_it": "Erbe albine (Elixir di)",
+  "title_en": "White Herbs Elixir",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "final product: 38% alcohol, 35% sugar"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Iva",
+    "name_en": "Iva (germander)",
+    "qty": 80,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Issopo (sommità fiorite)",
+    "name_en": "Hyssop (flowering tops)",
+    "qty": 60,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 50,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 25,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 25,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Genepì delle Alpi",
+    "name_en": "Alpine juniper (genepì)",
+    "qty": 25,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Balsamite",
+    "name_en": "Costmary",
+    "qty": 10,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Arnica (fiori)",
+    "name_en": "Arnica flowers",
+    "qty": 10,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Lavanda (fiori)",
+    "name_en": "Lavender flowers",
+    "qty": 6,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 5,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 20,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 10,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 10,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60°",
+    "qty": 2.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 6,
+    "unit": "litres",
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 7,
+    "unit": "litres",
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "litres",
+    "note": "added after distillation"
+   }
+  ],
+  "steps_en": [
+   "Macerate the herbs.",
+   "Distil 3 litres.",
+   "Add spirit at 90°, syrup, and water to the distillate."
+  ],
+  "notes_en": "Pale green colour. Final product: 20 litres at 38% alcohol, 35% sugar.",
+  "confidence": 0.92
+ },
+ {
+  "id": "elixir-carminativo",
+  "page": 396,
+  "section_en": "Liqueurs",
+  "title_it": "Elixir Carminativo",
+  "title_en": "Carminative Elixir",
+  "method": "unknown",
+  "ingredients": [
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 100,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 100,
+    "unit": "grammes"
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 100,
+    "unit": "grammes"
+   }
+  ],
+  "notes_en": "Recipe continues on next page (marked as part I).",
+  "confidence": 0.88,
+  "ocr_flags": [
+   "Melisma → likely Melissa (lemon balm); OCR corruption"
+  ]
+ }
+]

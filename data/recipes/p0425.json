@@ -1,0 +1,292 @@
+[
+ {
+  "id": "walnut-liqueur",
+  "page": 425,
+  "section_en": "Liqueurs Based on Directly Prepared Tincture",
+  "title_it": "Brou de Noix (Mallo di noce)",
+  "title_en": "Walnut Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di mallo noci invecchiate",
+    "name_en": "Aged walnut hull tincture",
+    "qty": 4.2,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     5,
+     6,
+     8
+    ],
+    "note": "ordinary, semi-fine, fine, superior proportions"
+   },
+   {
+    "name_it": "Spirito di noci moscate",
+    "name_en": "Nutmeg spirit",
+    "qty": 50,
+    "unit": "cc",
+    "unit_implicit": false,
+    "variants": [
+     60,
+     70,
+     10
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 2.6,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     2.8,
+     3,
+     2
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     5,
+     7.5,
+     10
+    ]
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Common water",
+    "qty": 11.4,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     9,
+     5.8,
+     3.2
+    ]
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Four proportion columns given: ordinary, semi-fine, fine, and superior.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "vanilla-rosolio",
+  "page": 425,
+  "section_en": "Liqueurs Based on Directly Prepared Tincture",
+  "title_it": "Rosolio di Vaniglia",
+  "title_en": "Vanilla Rosolio",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 200,
+    "unit": "cc",
+    "unit_implicit": false,
+    "variants": [
+     800,
+     1600,
+     2000
+    ],
+    "note": "third and fourth proportions in liters"
+   },
+   {
+    "name_it": "Tintura di storace calamita",
+    "name_en": "Liquid storax tincture",
+    "qty": 50,
+    "unit": "cc",
+    "unit_implicit": false,
+    "variants": null,
+    "note": "only in ordinary and semi-fine proportions"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 4.8,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     4.4,
+     4.8,
+     5.2
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     5,
+     8.75,
+     11.2
+    ]
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Common water",
+    "qty": 13.2,
+    "unit": "liters",
+    "unit_implicit": false,
+    "variants": [
+     11,
+     7.86,
+     5.2
+    ]
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Four proportion columns: ordinary, semi-fine, fine, and superior.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "cinderella-water",
+  "page": 425,
+  "section_en": "Liqueurs Based on Directly Prepared Tincture",
+  "title_it": "Acqua della Cenerentola",
+  "title_en": "Cinderella Water",
+  "method": "maceration",
+  "yield": {
+   "amount": 34,
+   "unit": "liters",
+   "note": "17 liters strained tincture plus 17 liters syrup"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "Alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 65,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 80,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 130,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 130,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 130,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'aranco",
+    "name_en": "Orange peel",
+    "qty": 130,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "70° alcohol",
+    "qty": 20,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "added to 17 liters strained tincture"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 17,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in 70° alcohol for 48 hours.",
+   "Proceed with digestion.",
+   "Strain the tincture (yields 17 liters).",
+   "Add 30 grams of vanilla tincture and 17 liters of syrup to the strained tincture."
+  ],
+  "notes_en": "Red color. The recipe yields approximately 34 liters total (17 liters tincture plus 17 liters syrup).",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "montpellier-water",
+  "page": 425,
+  "section_en": "Liqueurs Based on Directly Prepared Tincture",
+  "title_it": "Acqua di Montpellier",
+  "title_en": "Montpellier Water",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 75,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 75,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete in source; only initial ingredients listed.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

@@ -1,0 +1,230 @@
+[
+ {
+  "id": "mint-peppermint-rosolio-i",
+  "page": 412,
+  "section_en": "Rosolio",
+  "title_it": "Monta piperita",
+  "title_en": "Peppermint Rosolio I",
+  "method": "infusion",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 600,
+    "unit": "g"
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 5.8,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.25,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Follow the standard procedure for rosolio."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "peppermint-rosolio-iv",
+  "page": 412,
+  "section_en": "Rosolio",
+  "title_it": "Menta piperita IV",
+  "title_en": "Peppermint Rosolio IV",
+  "method": "distillation",
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 1500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 20,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3,
+    "unit": "litres",
+    "note": "added to the distillate"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 12,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Distil 15 litres at 72° alcohol strength.",
+   "Add water and syrup."
+  ],
+  "notes_en": "Color: green. This liquor is better prepared using peppermint essence (see Liqueurs made with essences).",
+  "confidence": 0.93
+ },
+ {
+  "id": "millefiori-rosolio-i",
+  "page": 412,
+  "section_en": "Millefiori (Rosolio)",
+  "title_it": "Millefiori I",
+  "title_en": "Millefiori Rosolio I",
+  "method": "infusion",
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 125,
+    "unit": "g"
+   },
+   {
+    "name_it": "Fiori di arancio",
+    "name_en": "Orange blossoms",
+    "qty": 400,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 130,
+    "unit": "g"
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Meliloto",
+    "name_en": "Melilot",
+    "qty": 275,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Peppermint Rosolio (IV)."
+  ],
+  "confidence": 0.94
+ },
+ {
+  "id": "millefiori-rosolio-ii",
+  "page": 412,
+  "section_en": "Millefiori (Rosolio)",
+  "title_it": "Millefiori II",
+  "title_en": "Millefiori Rosolio II",
+  "method": "unknown",
+  "ingredients": [
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 90,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 225,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 250,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 40,
+    "unit": "g"
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Calamus",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": null,
+    "unit": "g",
+    "note": "quantity cut off in source"
+   }
+  ],
+  "ocr_flags": [
+   "garofani quantity incomplete at page break"
+  ],
+  "confidence": 0.88
+ }
+]

@@ -1,0 +1,283 @@
+[
+ {
+  "id": "ratafià-di-fiori",
+  "page": 569,
+  "section_en": "Ratafiás",
+  "title_it": "Ratafià di fiori",
+  "title_en": "Ratafià of Flowers",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Petali di rose muschiate",
+    "name_en": "Musk rose petals",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori di gelsomino",
+    "name_en": "Jasmine flowers",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani rossi",
+    "name_en": "Red carnations",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Foglio di arancio",
+    "name_en": "Orange leaf",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Geranio rosato",
+    "name_en": "Rose geranium",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos in polvere",
+    "name_en": "Iris powder",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit at 85° GL",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": true,
+    "note": "quantity not specified; adjust to desired dilution"
+   }
+  ],
+  "steps_en": [
+   "Macerate the iris powder, cinnamon, and vanilla in the 85° spirit beforehand.",
+   "Dissolve the sugar in boiling water.",
+   "Pour the hot sugar solution over the flowers and leaf.",
+   "Once the liquid has cooled, filter it.",
+   "Mix in the spirit (with its macerated botanicals).",
+   "Filter the final product."
+  ],
+  "notes_en": "The text notes that ratafiás can also be prepared simply by mixing previously prepared tinctures or alcohol extracts of fresh fruits with spirit, water, and sugar.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "ratafià-di-ciliege",
+  "page": 569,
+  "section_en": "Ratafiás",
+  "title_it": "Ciliege",
+  "title_en": "Ratafià of Cherries",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "L",
+   "note": "total product"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcoolaturo di ciliege",
+    "name_en": "Cherry alcoholate",
+    "qty": 3,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     3.5
+    ]
+   },
+   {
+    "name_it": "Alcoolaturo di amarene",
+    "name_en": "Sour cherry alcoholate",
+    "qty": 0.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     0.8
+    ]
+   },
+   {
+    "name_it": "Spirito di semi di albicocche",
+    "name_en": "Apricot kernel spirit",
+    "qty": 0.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     0.6
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit at 85° GL",
+    "qty": 0.4,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     0.4
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     4.375
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     2
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together.",
+   "Filter."
+  ],
+  "notes_en": "Two proportion columns are given: ordinary (Ordin.) and fine (fino).",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "ratafià-di-lamponi",
+  "page": 569,
+  "section_en": "Ratafiás",
+  "title_it": "Lamponi",
+  "title_en": "Ratafià of Raspberries",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "L",
+   "note": "total product"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcoolaturo di lamponi",
+    "name_en": "Raspberry alcoholate",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     2.5,
+     3
+    ]
+   },
+   {
+    "name_it": "Alcoolaturo di Cassie o amarene",
+    "name_en": "Cassia or sour cherry alcoholate",
+    "qty": 0.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     0.6,
+     0.8,
+     1
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Spirit at 85° GL",
+    "qty": 1.2,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     1,
+     1,
+     1
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.25,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     2.25,
+     3.75,
+     5
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     4,
+     3,
+     1.6
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients.",
+   "Filter."
+  ],
+  "notes_en": "Three proportion columns are given: ordinary (Ord.), semi-fine (semif.), fine (fino), and extra-fine (finas).",
+  "ocr_flags": [],
+  "confidence": 0.92
+ }
+]

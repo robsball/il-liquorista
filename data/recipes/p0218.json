@@ -1,0 +1,100 @@
+[
+ {
+  "id": "raspberry-water",
+  "page": 218,
+  "section_en": "Aromatic Waters",
+  "title_it": "Lamponi",
+  "title_en": "Raspberry Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Lamponi freschi e mondati",
+    "name_en": "Fresh raspberries, cleaned",
+    "qty": 6,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 20,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Distill carefully without prior maceration to collect 10 liters."
+  ],
+  "notes_en": "The same procedure is used to prepare waters from plums, apricots, prunes, and other fruits.",
+  "confidence": 0.95
+ },
+ {
+  "id": "maraschino-water",
+  "page": 218,
+  "section_en": "Aromatic Waters",
+  "title_it": "Maraschino",
+  "title_en": "Maraschino Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 14,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Lamponi maturi e mondati",
+    "name_en": "Ripe raspberries, cleaned",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Foglie di ciliegio",
+    "name_en": "Cherry leaves",
+    "qty": 750,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di pesca",
+    "name_en": "Peach kernels",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iride di Firenze in polvore",
+    "name_en": "Iris root powder (Iris of Florence)",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 20,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 14 hours (the fruits must be crushed).",
+   "Distill to collect 10 liters.",
+   "To obtain an aromatic water that does not deteriorate rapidly, it is advisable to perform a second distillation of the collected water immediately after production, by pouring it into the still pot that has been carefully cleaned of all plant residues, or by carrying out the distillation slowly and at a regular temperature."
+  ],
+  "notes_en": "This recipe produces an aromatic water suitable for preparing a special liqueur.",
+  "confidence": 0.93
+ }
+]

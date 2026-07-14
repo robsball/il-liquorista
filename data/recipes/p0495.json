@@ -1,0 +1,303 @@
+[
+ {
+  "id": "primrose-liqueur-i",
+  "page": 495,
+  "section_en": "Primrose Liqueur",
+  "title_it": "Primula I",
+  "title_en": "Primrose Liqueur I",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 30,
+   "raw": "alcool 30%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 15,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandolo",
+    "name_en": "Coriander essential oil",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cedro",
+    "name_en": "Citron essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 650,
+    "unit": "ml",
+    "unit_implicit": true,
+    "alcohol_strength": {
+     "degrees": 90
+    }
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils with 90° alcohol, sugar, and water.",
+   "Combine into the hot sugar and water solution prepared separately (2 kg sugar, 4.75 litres water)."
+  ],
+  "notes_en": "Base mixture yields 10 litres at 30% alcohol.",
+  "confidence": 0.92
+ },
+ {
+  "id": "primrose-liqueur-ii",
+  "page": 495,
+  "section_en": "Primrose Liqueur",
+  "title_it": "Primula II",
+  "title_en": "Primrose Liqueur II",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 35,
+   "raw": "alcool 35%, zucchero 30%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di cannella di Ceylan",
+    "name_en": "Ceylon cinnamon essential oil",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cardamomo",
+    "name_en": "Cardamom essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rosmarino",
+    "name_en": "Rosemary essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Anise essential oil",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Lemon essential oil",
+    "qty": 16,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arance dolci",
+    "name_en": "Sweet orange essential oil",
+    "qty": 16,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 16,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di camomilla",
+    "name_en": "Chamomile essential oil",
+    "qty": 16,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di lavanda",
+    "name_en": "Lavender essential oil",
+    "qty": 16,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 7.2,
+    "unit": "litres",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 90
+    }
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 6,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6.8,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils with alcohol, syrup, and water.",
+   "Colour with rose colouring."
+  ],
+  "notes_en": "Final product: 20 litres at 35% alcohol, 30% sugar. Rose-coloured.",
+  "confidence": 0.88
+ },
+ {
+  "id": "primrose-liqueur-iii",
+  "page": 495,
+  "section_en": "Primrose Liqueur",
+  "title_it": "Primula III",
+  "title_en": "Primrose Liqueur III",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     75
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 12.75,
+    "unit": "litres",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 90
+    },
+    "variants": [
+     12.75
+    ]
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "omitted in IV (double)"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6.75,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     50
+    ]
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     14
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix special essence with alcohol, orange flower water, water, and syrup.",
+   "Colour with cherry juice in rose-red shade."
+  ],
+  "notes_en": "Column I: standard recipe. Column IV (Doppio/Double): scaled version with increased water content and no orange flower water. Coloured rose-red with cherry juice.",
+  "confidence": 0.9
+ },
+ {
+  "id": "polka",
+  "page": 495,
+  "section_en": "Polka",
+  "title_it": "Polka",
+  "title_en": "Polka",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "see page 249"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 12.75,
+    "unit": "litres",
+    "unit_implicit": false,
+    "alcohol_strength": {
+     "degrees": 90
+    }
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.25,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix special essence (page 249) with 90° alcohol, syrup, and water.",
+   "Colour red."
+  ],
+  "notes_en": "Red liqueur.",
+  "ocr_flags": [
+   "Alcool di . (text appears truncated in source)"
+  ],
+  "confidence": 0.85
+ }
+]

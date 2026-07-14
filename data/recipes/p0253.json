@@ -1,0 +1,398 @@
+[
+ {
+  "id": "bitter-liqueur-compound",
+  "page": 253,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "Amaro (compound formula)",
+  "title_en": "Bitter Liqueur (Compound)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "Alcool assoluto"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di arancio",
+    "name_en": "Orange tincture",
+    "qty": 5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di iride",
+    "name_en": "Iris tincture",
+    "qty": 8,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di erbe stomatiche",
+    "name_en": "Stomachic herb tincture",
+    "qty": 65,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Dissolve all oils in alcohol.",
+   "Add to the tinctures.",
+   "Shake the whole mixture vigorously."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "iride"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "spanish-bitter",
+  "page": 253,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "Amaro spagnuolo",
+  "title_en": "Spanish Bitter",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Amaro spagnuolo",
+    "name_en": "Spanish bitter (base)",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true,
+    "variants": [
+     35,
+     230,
+     335
+    ]
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     15,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Assenzio francese",
+    "name_en": "French wormwood",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     15,
+     265,
+     65
+    ]
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     15,
+     100,
+     165
+    ]
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     5,
+     65,
+     30
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     15,
+     35,
+     130
+    ]
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     15,
+     35,
+     80
+    ]
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     10,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Menta crìspa",
+    "name_en": "Curly mint",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     15,
+     35,
+     null
+    ]
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     15,
+     null
+    ]
+   },
+   {
+    "name_it": "Assenzio (alcoolato)",
+    "name_en": "Wormwood (alcoholate)",
+    "qty": 40,
+    "unit": "ml",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null,
+     50
+    ]
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     5,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Ginepro",
+    "name_en": "Juniper",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     15,
+     null,
+     30
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix ingredients according to the chosen proportion column."
+  ],
+  "notes_en": "Four different proportion options are given (columns represent different scales or variations).",
+  "ocr_flags": [
+   "crìspa"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "dutch-bitter",
+  "page": 253,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "Amaro olandese",
+  "title_en": "Dutch Bitter",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Amaro fino",
+    "name_en": "Fine bitter (base)",
+    "qty": 24,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio francese",
+    "name_en": "French wormwood",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "polish-bitter",
+  "page": 253,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "Amaro polacco",
+  "title_en": "Polish Bitter",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Perfetto amore",
+    "name_en": "Perfetto amore (liqueur)",
+    "qty": 50,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Amaro fino",
+    "name_en": "Fine bitter (base)",
+    "qty": 50,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix ingredients together."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "stomsdorf-bitter",
+  "page": 253,
+  "section_en": "Bitter Liqueurs",
+  "title_it": "Amaro Stomsdorf",
+  "title_en": "Stomsdorf Bitter",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Amaro spagnuolo",
+    "name_en": "Spanish bitter",
+    "qty": 40,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cassia",
+    "name_en": "Cassia",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix Spanish bitter with cassia and cloves."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "Stomsdorf"
+  ],
+  "confidence": 0.9
+ }
+]

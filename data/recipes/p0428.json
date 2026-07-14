@@ -1,0 +1,309 @@
+[
+ {
+  "id": "angelica-liqueur",
+  "page": 428,
+  "section_en": "Liqueurs",
+  "title_it": "Angelica",
+  "title_en": "Angelica Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Semi angelica",
+    "name_en": "Angelica seed",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Spirit at 80°",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "added after maceration"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 10,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "added after maceration"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in the spirit at 80° for 10 days.",
+   "Strain and add 10 liters of water and 10 kg of sugar."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "anise-rosolio",
+  "page": 428,
+  "section_en": "Rosolios",
+  "title_it": "Anice (Rosolio)",
+  "title_en": "Anise Rosolio",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Semi d'anice verde secchi",
+    "name_en": "Dried green anise seed",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 700,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "mL",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Pound together the two types of anise.",
+   "Macerate in the spirit at 90° for 10 days.",
+   "Dissolve the sugar in cold water.",
+   "Add the sugar solution to the macerate.",
+   "Shake vigorously and macerate for another 10 days.",
+   "Filter through paper."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.97
+ },
+ {
+  "id": "orange-rosolio-method-i",
+  "page": 428,
+  "section_en": "Rosolios",
+  "title_it": "Arance (Rosolio) - Metodo I",
+  "title_en": "Orange Rosolio – Method I",
+  "method": "maceration",
+  "yield": {
+   "amount": 34,
+   "unit": "L",
+   "note": "final rosolio at 35°"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80° and 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "blanched, white pith removed"
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Spirit at 80°",
+    "qty": 7,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "first extraction"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 7,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "second extraction"
+   },
+   {
+    "name_it": "Acqua bollente",
+    "name_en": "Boiling water",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "final extraction"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 18,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": true,
+    "note": "to make 34 L total rosolio"
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "small quantity"
+   },
+   {
+    "name_it": "Colore di zucchero",
+    "name_en": "Sugar caramel coloring",
+    "qty": null,
+    "unit": null,
+    "unit_implicit": false,
+    "note": "for brown color"
+   }
+  ],
+  "steps_en": [
+   "Pour boiling water over 2 kg of orange peel (with white pith removed).",
+   "Macerate for 5 days with 500 g of oranges and 7 liters of spirit at 80°.",
+   "Decant the liquid and pour 7 more liters of spirit at 90° over the solids.",
+   "Macerate for another 3 days.",
+   "Combine the liquids from both extractions.",
+   "Pour 2 liters of boiling water over the orange peels and after 2 hours combine this liquid with the previous extract.",
+   "Sweeten with 18 kg of sugar dissolved in enough water to produce 34 liters of rosolio at 35°.",
+   "Add a small amount of orange flower water.",
+   "Color brown with sugar caramel coloring."
+  ],
+  "notes_en": "This method involves two successive spirit extractions followed by an aqueous extraction.",
+  "ocr_flags": [
+   "precedoutemente (likely 'precedentemente')"
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "orange-rosolio-method-ii",
+  "page": 428,
+  "section_en": "Rosolios",
+  "title_it": "Arance (Rosolio) - Metodo II",
+  "title_en": "Orange Rosolio – Method II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze gialle di arance ben mature",
+    "name_en": "Yellow peel from ripe oranges",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Spirit at 80°",
+    "qty": 700,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "mL",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate orange peels in spirit at 80°.",
+   "Dissolve sugar in water.",
+   "Combine and proceed as for Method I."
+  ],
+  "notes_en": "A simpler single-peel method compared to Method I.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ }
+]

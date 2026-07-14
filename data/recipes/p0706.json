@@ -1,0 +1,213 @@
+[
+ {
+  "id": "seville-water",
+  "page": 706,
+  "section_en": "Appendix to the Recipe Collection",
+  "title_it": "Acqua di Siviglia",
+  "title_en": "Seville Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 70,
+   "unit": "liters",
+   "note": "distilled at 70°"
+  },
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "70°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Gelsomino",
+    "name_en": "Jasmine",
+    "qty": 225,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 110,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 125,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 300,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 300,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 25,
+    "unit": "liters",
+    "note": "at 90°"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Tintura di ambra",
+    "name_en": "Amber tincture",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 1,
+    "unit": "liter"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 18,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanical ingredients in 25 liters of alcohol at 90° for 24 hours.",
+   "Distill 70 liters at 70°.",
+   "Add the vanilla tincture, amber tincture, orange flower water, and syrup."
+  ],
+  "notes_en": "Reference page 368 of the main recipe collection.",
+  "ocr_flags": [
+   "alcohol strength marked as '00°' in source, likely OCR error for '90°'"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "porto-water",
+  "page": 706,
+  "section_en": "Appendix to the Recipe Collection",
+  "title_it": "Acqua di Orto",
+  "title_en": "Porto Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "distilled at 70°"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "60°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Arance (frutti)",
+    "name_en": "Orange fruit",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Arance scorze",
+    "name_en": "Orange peel",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cornino",
+    "name_en": "Cornel berry",
+    "qty": 130,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 75,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 75,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 25,
+    "unit": "liters",
+    "note": "at 60°"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in 25 liters of alcohol at 60° for 24 hours.",
+   "Distill 20 liters at 70°."
+  ],
+  "notes_en": "Reference page 369 of the main recipe collection. Recipe appears incomplete in the source text.",
+  "ocr_flags": [
+   "title may be 'Acqua di Orto' or 'Acqua di Porto'—OCR unclear; 'Orto' (garden) seems less likely for a Porto-style liqueur"
+  ],
+  "confidence": 0.88
+ }
+]

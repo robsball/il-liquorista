@@ -1,0 +1,218 @@
+[
+ {
+  "id": "lilla",
+  "page": 306,
+  "section_en": "Colored Liqueurs",
+  "title_it": "Lilla",
+  "title_en": "Lilac",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di cocciniglia",
+    "name_en": "Cochineal tincture",
+    "qty": 3.75,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Carmino di indaco",
+    "name_en": "Indigo carmine",
+    "qty": 0.22,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo di amido",
+    "name_en": "Starch syrup",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Glicerina purissima",
+    "name_en": "Pure glycerin",
+    "qty": 0.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di gomma",
+    "name_en": "Gum solution",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Heat the mixture of cochineal tincture, indigo carmine, starch syrup, and refined sugar together.",
+   "Add pure glycerin and gum solution to the hot mixture."
+  ],
+  "notes_en": "Mix hot and add glycerin and gum solution.",
+  "confidence": 0.92
+ },
+ {
+  "id": "azure",
+  "page": 306,
+  "section_en": "Colored Liqueurs",
+  "title_it": "Azzurro",
+  "title_en": "Azure",
+  "method": "decoction",
+  "yield": {
+   "amount": 2,
+   "unit": "liters",
+   "note": "after concentration"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Legno campecchio",
+    "name_en": "Logwood",
+    "qty": 105,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido tartarico",
+    "name_en": "Tartaric acid",
+    "qty": 17,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Allume",
+    "name_en": "Alum",
+    "qty": 17,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 45,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di gomma",
+    "name_en": "Gum solution",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Make a decoction of logwood, tartaric acid, and alum with water.",
+   "Concentrate the liquid to 2 liters.",
+   "Add sugar syrup and gum solution."
+  ],
+  "notes_en": "Concentrate the decoction to 2 liters, then add sugar syrup and gum solution.",
+  "confidence": 0.93
+ },
+ {
+  "id": "verde",
+  "page": 306,
+  "section_en": "Colored Liqueurs",
+  "title_it": "Verde",
+  "title_en": "Green",
+  "method": "decoction",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di zafferano",
+    "name_en": "Saffron tincture",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Carmino di indaco",
+    "name_en": "Indigo carmine",
+    "qty": 0.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 0.526,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di gomma",
+    "name_en": "Gum solution",
+    "qty": 0.625,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Bacche o foglie verdi",
+    "name_en": "Green berries or green leaves",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "see page 139"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Allume",
+    "name_en": "Alum",
+    "qty": 34,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "previously dissolved in water"
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di gomma",
+    "name_en": "Gum solution",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Prepare the first mixture: combine saffron tincture, indigo carmine, sugar syrup, and gum solution.",
+   "Make a decoction of green berries or leaves with water, concentrating to a syrup consistency.",
+   "Dissolve alum previously in water and add to the concentrated decoction.",
+   "Concentrate the mixture again, then add sugar syrup and gum solution."
+  ],
+  "notes_en": "This recipe has two parts: the initial tincture mixture (part 1) and the decoction of green matter with alum (part 2). See page 139 for details on the berries or leaves used.",
+  "confidence": 0.88
+ }
+]

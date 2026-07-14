@@ -1,0 +1,306 @@
+[
+ {
+  "id": "unnamed-tincture-cinnamon-mace-cloves",
+  "page": 604,
+  "title_en": "Unnamed Tincture (Cinnamon, Mace, Cloves)",
+  "title_it": "[Unnamed]",
+  "section_en": "Digestive Tinctures & Drops",
+  "method": "maceration",
+  "yield": {
+   "amount": 2.7,
+   "unit": "liters",
+   "note": "sum of base tincture and alcohol-sugar syrup dilution"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1.8,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.9,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90° (second addition)",
+    "qty": 3.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "added to 2.7 L tincture"
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 1.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water (second addition)",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate or digest the cinnamon, mace, and cloves in alcohol (90°) and water.",
+   "Strain by pressing and filter.",
+   "To 2.7 liters of the resulting tincture, add alcohol (90°), sugar syrup, and water.",
+   "Blend and bottle."
+  ],
+  "notes_en": "Final yield approximately 2.7 L base tincture; further dilution with alcohol, syrup, and water provides the finished product.",
+  "confidence": 0.92
+ },
+ {
+  "id": "gocce-del-dr-mampe",
+  "page": 604,
+  "title_en": "Dr. Mampe's Drops",
+  "title_it": "Gocce del Dr. Mampe",
+  "section_en": "Digestive Tinctures & Drops",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "final product at 50% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 50,
+   "raw": "alcool 50%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Enula campana",
+    "name_en": "Elecampane",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Valeriana",
+    "name_en": "Valerian",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag (calamus)",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga (radice)",
+    "name_en": "Galangal root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 3.35,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.76,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90° (second addition)",
+    "qty": 7.8,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "added to tincture"
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water (second addition)",
+    "qty": 5.2,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate and digest the herbs and peels in alcohol (90°) and water for the specified time.",
+   "Strain by pressing and filter, obtaining approximately 5 liters of tincture.",
+   "Add alcohol (90°), simple syrup, and water to the filtered tincture.",
+   "Mix thoroughly and bottle. Final yield: 20 liters at 50% ABV."
+  ],
+  "notes_en": "This is a traditional bitters or digestive formula attributed to Dr. Mampe. The final alcohol content is 50% by volume.",
+  "confidence": 0.94
+ },
+ {
+  "id": "gocce-di-milano",
+  "page": 604,
+  "title_en": "Milan Drops",
+  "title_it": "Gocce di Milano",
+  "section_en": "Digestive Tinctures & Drops",
+  "method": "maceration",
+  "yield": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag (calamus)",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio (semi)",
+    "name_en": "Fennel seeds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 11,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe is incomplete in the source; only ingredients are listed. Instructions for preparation (maceration, distillation, or dilution) are not provided on this page.",
+  "ocr_flags": [
+   "Ireos – uncertain if 'Ireos' is OCR error; may be 'Iride' (iris) or similar"
+  ],
+  "confidence": 0.85
+ }
+]

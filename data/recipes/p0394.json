@@ -1,0 +1,295 @@
+[
+ {
+  "id": "melissa-liqueur-iv",
+  "page": 394,
+  "section_en": "Liqueurs",
+  "title_it": "Melissa (IV)",
+  "title_en": "Melissa Liqueur (IV)",
+  "method": "distillation",
+  "yield": {
+   "amount": 12,
+   "unit": "litres",
+   "note": "from distillation; final product after adding sugar and melissa spirit"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Melissa (foglie)",
+    "name_en": "Lemon balm (leaves)",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta pip. (foglie)",
+    "name_en": "Peppermint (leaves)",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica (root)",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arnica (fiori)",
+    "name_en": "Arnica (flowers)",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper (berries)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol (90° proof)",
+    "qty": 8500,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4000,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5000,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Spirito di melissa",
+    "name_en": "Melissa spirit",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Tintura di curcuma o di zafferano",
+    "name_en": "Turmeric or saffron tincture",
+    "qty": null,
+    "unit": "",
+    "note": "for colouring, quantity to taste"
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in alcohol and water for 24 hours.",
+   "Distil to obtain 12 litres.",
+   "Mix the distillate with sugar and melissa spirit.",
+   "Colour with turmeric or saffron tincture."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "chiuaz-persian-liqueur",
+  "page": 394,
+  "section_en": "Liqueurs",
+  "title_it": "Chiuaz (Liquore persiano)",
+  "title_en": "Chiuaz (Persian Liqueur)",
+  "method": "distillation",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ambretta",
+    "name_en": "Ambrette (musk mallow seeds)",
+    "qty": 190,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 575,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Carvi",
+    "name_en": "Caraway",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Dauco eretico",
+    "name_en": "Daucus (wild carrot)",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica (root)",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno di sassafrasso",
+    "name_en": "Sassafras wood",
+    "qty": 190,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iride fiorentina",
+    "name_en": "Florentine iris (orris root)",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia del Messico",
+    "name_en": "Mexican vanilla",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange blossom water",
+    "qty": 2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol (85° proof)",
+    "qty": 35,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 45,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   }
+  ],
+  "steps_en": [
+   "Distil the ingredients and rectify with caution.",
+   "Dissolve sugar in the obtained liquid.",
+   "Colour with saffron yellow."
+  ],
+  "notes_en": "Saffron tincture used for colouration.",
+  "confidence": 0.88
+ },
+ {
+  "id": "cordiale-i",
+  "page": 394,
+  "section_en": "Liqueurs",
+  "title_it": "Cordiale (I)",
+  "title_en": "Cordiale (I)",
+  "method": "unknown",
+  "ingredients": [
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon zest",
+    "qty": 860,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     1000
+    ]
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 90,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "omitted in variant II"
+   }
+  ],
+  "notes_en": "Recipe continues on next page; two proportional variants shown (columns I and II).",
+  "confidence": 0.75,
+  "ocr_flags": [
+   "page cut off; recipe incomplete"
+  ]
+ }
+]

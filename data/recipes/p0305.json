@@ -1,0 +1,361 @@
+[
+ {
+  "id": "cochineal-tincture-red",
+  "page": 305,
+  "section_en": "Red",
+  "title_it": "Tintura di cocciniglia",
+  "title_en": "Cochineal Tincture",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di cocciniglia",
+    "name_en": "Cochineal tincture",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ammoniaca",
+    "name_en": "Ammonia",
+    "qty": 0.4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di allume (3½%)",
+    "name_en": "Alum solution (3½%)",
+    "qty": 0.4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di cromortartaro",
+    "name_en": "Cream of tartar chromium solution",
+    "qty": 0.2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Heat the mixture and condense by adding 600 g of gum solution."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "pernambuco-wood-red",
+  "page": 305,
+  "section_en": "Red",
+  "title_it": "Legno Fernambuco",
+  "title_en": "Pernambuco Wood",
+  "method": "other",
+  "yield": {
+   "amount": 0.5,
+   "unit": "liter",
+   "note": "concentrated"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Legno Fernambuco",
+    "name_en": "Pernambuco wood",
+    "qty": 140,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Allume usto",
+    "name_en": "Burnt alum",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di gomma",
+    "name_en": "Gum solution",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Decoct, filter, and concentrate to ½ liter.",
+   "Mix in 250 g of sugar syrup and 250 g of gum solution."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "carmine-powder-red",
+  "page": 305,
+  "section_en": "Red",
+  "title_it": "Carmino polv.",
+  "title_en": "Powdered Carmine",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Carmino polv.",
+    "name_en": "Powdered carmine",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ammoniaca",
+    "name_en": "Ammonia",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di gomma",
+    "name_en": "Gum solution",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false,
+    "note": "or 2 kg of sugar syrup"
+   }
+  ],
+  "steps_en": [
+   "Blend 200 g of powdered carmine with 200 g of ammonia.",
+   "Add 2 kg of gum solution or 2 kg of sugar syrup."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "pernambuco-shavings-red",
+  "page": 305,
+  "section_en": "Red",
+  "title_it": "Legno Fernambuco raspa to",
+  "title_en": "Pernambuco Wood Shavings",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Legno Fernambuco raspa to",
+    "name_en": "Pernambuco wood shavings",
+    "qty": 34,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 9,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ittiocolla",
+    "name_en": "Isinglass",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Bacche di chermes",
+    "name_en": "Kermes berries",
+    "qty": 34,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Allume",
+    "name_en": "Alum",
+    "qty": 17,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Borace",
+    "name_en": "Borax",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di gomma",
+    "name_en": "Gum solution",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Let the mixture of pernambuco shavings, water, and isinglass stand for 3 days until the isinglass swells.",
+   "Add kermes berries, alum, and borax.",
+   "Decoct until reduced to half.",
+   "Filter the mass and mix with 120 g of sugar syrup and 80 g of gum solution."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.91
+ },
+ {
+  "id": "cochineal-powder-decoction-red",
+  "page": 305,
+  "section_en": "Red",
+  "title_it": "Cocciniglia polv.",
+  "title_en": "Cochineal Powder Decoction",
+  "method": "other",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cocciniglia polv.",
+    "name_en": "Cochineal powder",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno Fernambuco raspa to",
+    "name_en": "Pernambuco wood shavings",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cremortartaro",
+    "name_en": "Cream of tartar",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ammoniaca",
+    "name_en": "Ammonia",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "liter",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di gomma",
+    "name_en": "Gum solution",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "for condensing"
+   }
+  ],
+  "steps_en": [
+   "Decoct with 8 liters of water.",
+   "Filter and condense with gum solution."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "indigo-carmine-violet",
+  "page": 305,
+  "section_en": "Violet",
+  "title_it": "Carmino di indaco",
+  "title_en": "Indigo Carmine",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Carmino di indaco",
+    "name_en": "Indigo carmine",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cocciniglia cono.",
+    "name_en": "Concentrated cochineal tincture",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Glicerina",
+    "name_en": "Glycerin",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di gomma",
+    "name_en": "Gum solution",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo di zucchero",
+    "name_en": "Sugar syrup",
+    "qty": 375,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.93
+ }
+]

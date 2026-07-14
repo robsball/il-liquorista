@@ -1,0 +1,278 @@
+[
+ {
+  "id": "liquore-del-mézenc",
+  "page": 408,
+  "title_it": "Liquore del Mézenc",
+  "title_en": "Mézenc Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "36 liters of distillate reduced and finished to 20 liters"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Dauco eretico",
+    "name_en": "Daucus Heretical",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noci moscato",
+    "name_en": "Nutmeg",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Ambretta",
+    "name_en": "Ambrette seed",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mirabolani",
+    "name_en": "Myrobalan",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 38,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcoolato di coriandoli",
+    "name_en": "Coriander alcoholate",
+    "qty": 0.4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 56,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 22,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Colore speciale di curaçao",
+    "name_en": "Special curaçao coloring",
+    "qty": null,
+    "note": "to color"
+   }
+  ],
+  "steps_en": [
+   "Macerate ingredients for 24 hours.",
+   "Distill and rectify to obtain 36 liters of finished product.",
+   "Dissolve 56 kg white sugar in 22 liters of water while hot.",
+   "Allow to cool.",
+   "Mix all ingredients together.",
+   "Add 4 liters of vanilla tincture.",
+   "Color with special curaçao coloring."
+  ],
+  "notes_en": "This liqueur has the peculiarity of turning pink when water is added to it.",
+  "ocr_flags": [
+   "Dauco eretico (possibly Daucus carota or variant botanical name)",
+   "colore specialo (likely 'speciale')"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "liquore-igienico-itastail",
+  "page": 408,
+  "title_it": "Liquore igienico Itastail",
+  "title_en": "Itastail Hygienic Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Sommità secche di angelica",
+    "name_en": "Dried angelica tops",
+    "qty": 330,
+    "unit": "g"
+   },
+   {
+    "name_it": "Radici di angelica",
+    "name_en": "Angelica roots",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Aromatic calamus",
+    "qty": 88,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella Cina",
+    "name_en": "Chinese cinnamon",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmegs",
+    "qty": 6,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Aloe soccotrino",
+    "name_en": "Socotrine aloe",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 6,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero bianco",
+    "name_en": "White sugar",
+    "qty": 7.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 1,
+    "unit": "liter"
+   },
+   {
+    "name_it": "Tintura di zafferano",
+    "name_en": "Saffron tincture",
+    "qty": null,
+    "note": "to color"
+   },
+   {
+    "name_it": "Caramello",
+    "name_en": "Caramel",
+    "qty": null,
+    "note": "to color"
+   }
+  ],
+  "steps_en": [
+   "Macerate ingredients for 24 hours.",
+   "Distill without rectification to obtain 6 liters.",
+   "Dissolve 7.5 kg white sugar in 8 liters of water.",
+   "Add the sugar solution to the distillate.",
+   "Add 1 liter of vanilla tincture and water to complete 20 liters of product.",
+   "Color with saffron tincture and caramel.",
+   "Clarify.",
+   "After resting, filter."
+  ],
+  "ocr_flags": [
+   "Itastail (brand or proprietary name; possibly 'Itastail' or variant)"
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "maraschino",
+  "page": 408,
+  "title_it": "Maraschino",
+  "title_en": "Maraschino",
+  "method": "other",
+  "ingredients": [
+   {
+    "name_it": "Ciliegie marasche",
+    "name_en": "Marasca cherries",
+    "qty": null,
+    "note": "immature, acidic variety"
+   },
+   {
+    "name_it": "Foglie di marasca",
+    "name_en": "Marasca leaves",
+    "qty": null
+   },
+   {
+    "name_it": "Vino d'uva",
+    "name_en": "Grape wine",
+    "qty": null,
+    "note": "optional"
+   }
+  ],
+  "steps_en": [
+   "Select immature marasca cherries (a type of sour cherry), which are very acidic.",
+   "Crush the cherries to reduce them to must.",
+   "Allow the must to ferment.",
+   "Add marasca leaves during or after fermentation.",
+   "Optionally add grape wine."
+  ],
+  "notes_en": "True Dalmatian maraschino is prepared using marasca cherries, an acidic variety that is harvested immature and crushed into must, which is then fermented with added marasca leaves and optionally grape wine.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ }
+]

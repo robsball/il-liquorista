@@ -1,0 +1,260 @@
+[
+ {
+  "id": "coffee-i",
+  "page": 433,
+  "section_en": "Coffee",
+  "title_it": "Caffè. I.",
+  "title_en": "Coffee I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 20,
+   "unit": "days",
+   "note": "10 days initial maceration + 10 days after sugar addition"
+  },
+  "ingredients": [
+   {
+    "name_it": "Caffè tostato di recente e macinato",
+    "name_en": "Recently roasted and ground coffee",
+    "qty": 200,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 700,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Place ground coffee in a well-sealed container.",
+   "Heat 400 g sugar with 300 g water to boiling and pour over the coffee.",
+   "Infuse in a warm place for 6 hours.",
+   "Transfer to a bottle and macerate for 10 days.",
+   "Dissolve the remaining 400 g sugar in the remaining 300 g water at room temperature and add to the macerate.",
+   "Macerate for a further 10 days.",
+   "Filter."
+  ],
+  "notes_en": null,
+  "confidence": 0.95
+ },
+ {
+  "id": "coffee-ii",
+  "page": 433,
+  "section_en": "Coffee",
+  "title_it": "Caffè. II.",
+  "title_en": "Coffee II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Caffè tostato e macinato",
+    "name_en": "Roasted and ground coffee",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2000,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5600,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 4000,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Digest all ingredients together for 3 days.",
+   "Filter."
+  ],
+  "notes_en": null,
+  "confidence": 0.95
+ },
+ {
+  "id": "coffee-iii",
+  "page": 433,
+  "section_en": "Coffee",
+  "title_it": "Caffè. III.",
+  "title_en": "Coffee III",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days",
+   "note": "maceration period; followed by 1 additional day after sugar addition"
+  },
+  "ingredients": [
+   {
+    "name_it": "Caffè Moka di buona qualità",
+    "name_en": "Good quality Mocha coffee",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 1.5,
+    "unit": "L",
+    "note": "1.5 L total; exact strength not specified"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.5,
+    "unit": "L"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Roast 500 g Mocha coffee and pulverize while still hot.",
+   "Pour 1.5 L alcohol and 2.5 L water over the powder.",
+   "Macerate for 8 days with frequent agitation.",
+   "Decant the liquid.",
+   "Dissolve 2 kg sugar separately in 2.5 L water.",
+   "Unite the two while the sugar solution is still warm.",
+   "Let stand for 1 additional day.",
+   "Filter."
+  ],
+  "notes_en": null,
+  "confidence": 0.92,
+  "ocr_flags": [
+   "Original text shows 'I. 5' which likely means '1.5' (liters)"
+  ]
+ },
+ {
+  "id": "cinnamon-rosolio-i",
+  "page": 433,
+  "section_en": "Cinnamon (Rosolio of)",
+  "title_it": "Cannella (Rosolio di). I.",
+  "title_en": "Cinnamon Rosolio I",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 700,
+    "unit": "g"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "70° alcohol",
+    "qty": 17,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua di fiori d'arancio",
+    "name_en": "Orange flower water",
+    "qty": 150,
+    "unit": "g"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 17,
+    "unit": "L"
+   },
+   {
+    "name_it": "Colore di zucchero",
+    "name_en": "Burnt sugar coloring",
+    "qty": null,
+    "unit": "g",
+    "note": "to color brown"
+   }
+  ],
+  "steps_en": [
+   "Digest cinnamon and mace in the alcohol.",
+   "Decant the liquid.",
+   "Mix with 150 g orange flower water.",
+   "Sweeten with 17 L syrup.",
+   "Color brown with burnt sugar coloring."
+  ],
+  "notes_en": null,
+  "confidence": 0.93
+ },
+ {
+  "id": "cinnamon-rosolio-ii",
+  "page": 433,
+  "section_en": "Cinnamon (Rosolio of)",
+  "title_it": "Cannella (Rosolio di). II.",
+  "title_en": "Cinnamon Rosolio II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 500,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Coffee (II)."
+  ],
+  "notes_en": "Recipe proportions follow the method and ingredient ratios from Coffee II (with appropriate substitution of cinnamon for coffee).",
+  "confidence": 0.9
+ }
+]

@@ -1,0 +1,184 @@
+[
+ {
+  "id": "essence-of-lamponi",
+  "page": 573,
+  "section_en": "Essences",
+  "title_it": "Essenza di lamponi",
+  "title_en": "Essence of Raspberries",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di lamponi",
+    "name_en": "Raspberry essence",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": 12,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Alcohol at 96° (96% ABV)",
+    "qty": 18,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 7.5,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 62.5,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Total yield: 107.5 L",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "ratafia-di-limoni",
+  "page": 573,
+  "section_en": "Essences",
+  "title_it": "Ratafià di limoni",
+  "title_en": "Ratafia of Lemons",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Lemon essential oil",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange blossom water",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido tartarico",
+    "name_en": "Tartaric acid",
+    "qty": 60,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Liquore S.",
+    "name_en": "Liqueur S.",
+    "qty": 11.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "Designation unclear; possibly refers to a standard liqueur base"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Colour: yellow (Giallo)",
+  "ocr_flags": [
+   "Liquore S. — designation ambiguous"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "liqueurs-made-with-fruit-juices",
+  "page": 573,
+  "section_en": "Liqueurs prepared using fruit juices",
+  "title_it": "Liquori preparati mediante i succhi di frutti",
+  "title_en": "Liqueurs Prepared Using Fruit Juices",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "L",
+   "note": "Total yield per batch"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": 55,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Succo depurato semplice o composto",
+    "name_en": "Clarified juice, simple or mixed",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     1.35,
+     2
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85° (85% ABV)",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     2.8,
+     3
+    ]
+   },
+   {
+    "name_it": "Zucchero raffinato bianco",
+    "name_en": "Refined white sugar",
+    "qty": 1.25,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     2.5,
+     3.75
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.6,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     4.25,
+     2.4
+    ]
+   }
+  ],
+  "steps_en": [
+   "Prepare syrup hot by dissolving and cooking sugar in water.",
+   "Once cooled, mix syrup with juice, stirring well.",
+   "Add alcohol and colouring agent if required.",
+   "Heat the mixture to 50–60°C (not higher).",
+   "Finally, filter."
+  ],
+  "notes_en": "Three grades are provided: ordinary (ordinarii), semi-fine (semifino), and fine (fino). The manufacturer is advised to adjust quantities according to local conditions. Temperature range: 50–60°C (not to exceed).",
+  "ocr_flags": [
+   "semifino — OCR shows 'semifìao', corrected to standard Italian term"
+  ],
+  "confidence": 0.91
+ }
+]

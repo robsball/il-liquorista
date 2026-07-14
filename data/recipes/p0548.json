@@ -1,0 +1,305 @@
+[
+ {
+  "id": "hunting-liqueur",
+  "page": 548,
+  "section_en": "",
+  "title_it": "Liquore della Caccia",
+  "title_en": "Hunting Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcoolato di pepe di Spagna",
+    "name_en": "Spanish pepper alcoolate",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance amare",
+    "name_en": "Essential oil of bitter orange",
+    "qty": 33,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella Ceylan",
+    "name_en": "Essential oil of Ceylon cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di pepe",
+    "name_en": "Essential oil of pepper",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macia",
+    "name_en": "Essential oil of mace",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1500,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all essential oils and alcoolate with 85° alcohol."
+  ],
+  "notes_en": "",
+  "confidence": 0.95
+ },
+ {
+  "id": "maraschino-i",
+  "page": 548,
+  "section_en": "Maraschino",
+  "title_it": "Maraschino I",
+  "title_en": "Maraschino I",
+  "method": "essence",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "final liqueur at 50% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almond",
+    "qty": 22,
+    "unit": "cc",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di roso",
+    "name_en": "Essential oil of rose",
+    "qty": 20,
+    "unit": "cc",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella Ceylan",
+    "name_en": "Essential oil of Ceylon cinnamon",
+    "qty": 8,
+    "unit": "cc",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella cassia",
+    "name_en": "Essential oil of cassia cinnamon",
+    "qty": 10,
+    "unit": "cc",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere enantico",
+    "name_en": "Enanthic ether",
+    "qty": 0,
+    "unit": "cc",
+    "unit_implicit": false,
+    "note": "possibly corrupted OCR"
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Essential oil of lemon",
+    "qty": 4,
+    "unit": "cc",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 20,
+    "unit": "cc",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Estratto triplo di gelsomino",
+    "name_en": "Triple jasmine extract",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di carrube",
+    "name_en": "Carob tincture",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito di lamponi",
+    "name_en": "Raspberry spirit",
+    "qty": 700,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dilute 350–400 cc of this essence with 5.2 liters of 95° alcohol.",
+   "Add 4.8 liters of syrup containing 5.2 kg of refined sugar.",
+   "This yields 10 liters of liqueur at approximately 50% ABV."
+  ],
+  "notes_en": "The text indicates '3 % *4' which likely means 350–400 cc (possibly OCR corruption of a range). Enanthic ether quantity marked '00' is uncertain.",
+  "ocr_flags": [
+   "Etere enantico quantity (00)",
+   "3 % *4 (possibly range 350–400 cc)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "maraschino-ii",
+  "page": 548,
+  "section_en": "Maraschino",
+  "title_it": "Maraschino II",
+  "title_en": "Maraschino II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di maraschino",
+    "name_en": "Maraschino essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix maraschino essence with 90° alcohol."
+  ],
+  "notes_en": "A simpler maraschino preparation using pre-made essence.",
+  "confidence": 0.98
+ },
+ {
+  "id": "peppermint-i",
+  "page": 548,
+  "section_en": "Peppermint",
+  "title_it": "Menta piperita I",
+  "title_en": "Peppermint I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta rettificato",
+    "name_en": "Rectified peppermint essential oil",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix rectified peppermint oil with 90° alcohol."
+  ],
+  "notes_en": "",
+  "confidence": 0.98
+ },
+ {
+  "id": "peppermint-ii",
+  "page": 548,
+  "section_en": "Peppermint",
+  "title_it": "Menta piperita II",
+  "title_en": "Peppermint II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta pip",
+    "name_en": "Essential oil of peppermint",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 950,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix peppermint oil, rose oil, and 90° alcohol."
+  ],
+  "notes_en": "Variant with a small amount of rose oil added.",
+  "confidence": 0.96
+ }
+]

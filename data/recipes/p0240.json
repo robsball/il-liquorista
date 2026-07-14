@@ -1,0 +1,260 @@
+[
+ {
+  "id": "storax",
+  "page": 240,
+  "section_en": "Infusions and Macerations",
+  "title_it": "Storace",
+  "title_en": "Storax",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 96,
+   "raw": "alcool di 96°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Storace",
+    "name_en": "Storax",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 96°",
+    "name_en": "Alcohol 96°",
+    "qty": 3,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 15 days.",
+  "confidence": 0.95
+ },
+ {
+  "id": "fine-black-tea",
+  "page": 240,
+  "section_en": "Infusions and Macerations",
+  "title_it": "Thè",
+  "title_en": "Fine Black Tea",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 20,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Thè ottimo nero",
+    "name_en": "Fine black tea",
+    "qty": 200,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 750,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arrack Cognac",
+    "name_en": "Arrack Cognac",
+    "qty": 250,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 20 days.",
+  "ocr_flags": [
+   "Araco→Arrack (OCR 'Arrac o' may be 'Arrack')"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "thyme",
+  "page": 240,
+  "section_en": "Infusions and Macerations",
+  "title_it": "Timo",
+  "title_en": "Thyme",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 250,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 8 days.",
+  "confidence": 0.98
+ },
+ {
+  "id": "valerian-root",
+  "page": 240,
+  "section_en": "Infusions and Macerations",
+  "title_it": "Valeriana",
+  "title_en": "Valerian Root",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Radice di valeriana",
+    "name_en": "Valerian root",
+    "qty": 250,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Macerate for 15 days.",
+  "confidence": 0.97
+ },
+ {
+  "id": "vanilla-first-choice-extraction-i",
+  "page": 240,
+  "section_en": "Infusions and Macerations",
+  "title_it": "Vaniglia (I)",
+  "title_en": "Vanilla, First Choice (Extraction I)",
+  "method": "maceration",
+  "yield": {
+   "amount": null,
+   "unit": "ml",
+   "note": "sum of 5 successive extractions using 200 gr alcohol each"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vaniglia di 1° scelta",
+    "name_en": "Vanilla of first choice",
+    "qty": 100,
+    "unit": "gr",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Exhaust the vanilla in 5 successive extractions, using 200 gr of alcohol each time.",
+   "Combine the extracted liquids.",
+   "Filter."
+  ],
+  "notes_en": "After this extraction, the vanilla can be treated again with a fresh portion of alcohol, left in contact for an extended period, and then used in the preparation of another tincture with fresh plant material.",
+  "confidence": 0.96
+ },
+ {
+  "id": "vanilla-mexican-extraction-ii",
+  "page": 240,
+  "section_en": "Infusions and Macerations",
+  "title_it": "Vaniglia del Messico (II)",
+  "title_en": "Mexican Vanilla (Extraction II)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool a 85°"
+  },
+  "temperature_c": 60,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vaniglia del Messico",
+    "name_en": "Mexican vanilla",
+    "qty": 15,
+    "unit": "gr",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 50,
+    "unit": "gr",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool a 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Grind the vanilla, cut into small pieces, together with the sugar.",
+   "Heat in a water bath at 60°C with one liter of 85° alcohol.",
+   "Filter when cooled."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "'00°' is almost certainly '60°' based on water bath context; OCR corruption of '6'"
+  ],
+  "confidence": 0.88
+ }
+]

@@ -1,0 +1,273 @@
+[
+ {
+  "id": "rhubarb-wine",
+  "page": 684,
+  "section_en": "Wines",
+  "title_it": "Vino di Rabarbaro",
+  "title_en": "Rhubarb Wine",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vino di Rabarbaro",
+    "name_en": "Rhubarb wine",
+    "qty": 250,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di china comp.",
+    "name_en": "Compound china tincture",
+    "qty": 50,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vino Marsala",
+    "name_en": "Marsala wine",
+    "qty": 700,
+    "unit": "parts",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix 250 parts rhubarb wine with 50 parts compound china tincture and 700 parts Marsala wine to obtain an excellent rhubarb wine with china."
+  ],
+  "notes_en": "See page 235.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "ginger-wine",
+  "page": 684,
+  "section_en": "Wines",
+  "title_it": "Vino allo zenzero",
+  "title_en": "Ginger Wine",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 8.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Ginger essential oil",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Calamus essential oil",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cedro",
+    "name_en": "Citron essential oil",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arance",
+    "name_en": "Orange essential oil",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol (for dilution)",
+    "qty": 50,
+    "unit": "parts",
+    "unit_implicit": true,
+    "note": "Used to dilute 10 parts of essence"
+   },
+   {
+    "name_it": "Vino",
+    "name_en": "Wine",
+    "qty": null,
+    "unit": "litres",
+    "note": "500 g of the diluted solution mixed with 1 litre of wine"
+   }
+  ],
+  "steps_en": [
+   "Prepare an oily essence (oil blend) by combining all the essential oils.",
+   "For use, dilute 10 parts of this essence in 50 parts alcohol.",
+   "Mix 500 g of this solution with 1 litre of wine and filter through kaolin.",
+   "Mix the clear product with an additional 0.5 litres of wine and let it rest for some time."
+  ],
+  "notes_en": "The final product uses a total of approximately 1.5 litres of wine.",
+  "ocr_flags": [
+   "0.5 litri (OCR: '0 .> litri')"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "stomachic-wine",
+  "page": 684,
+  "section_en": "Wines",
+  "title_it": "Vino Stomachico",
+  "title_en": "Stomachic Wine",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zedoaria",
+    "name_en": "Zedoary",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "China",
+    "name_en": "Cinchona bark",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol (85°)",
+    "qty": 0.15,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino di Spagna",
+    "name_en": "Spanish wine",
+    "qty": 1.25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 140,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all dried botanicals, the high-proof alcohol, Spanish wine, and sugar."
+  ],
+  "notes_en": "A medicinal wine preparation for digestive use.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "asperula-wine-maitrank",
+  "page": 684,
+  "section_en": "Wines",
+  "title_it": "Vino di asperula (Maitrank)",
+  "title_en": "Asperula Wine (Maitrank)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Stellina odorosa (Asperula odorata)",
+    "name_en": "Sweet woodruff (Asperula odorata)",
+    "qty": 2,
+    "unit": "handfuls",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero in polvere",
+    "name_en": "Powdered sugar",
+    "qty": 750,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 4,
+    "unit": "bottles",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Place two handfuls of fresh sweet woodruff (Asperula odorata) and 750 g of powdered sugar in an earthenware bowl.",
+   "Initially, pour only one bottle of white wine to dissolve the sugar.",
+   "After approximately 10 hours, add the remaining three bottles of white wine."
+  ],
+  "notes_en": "This beverage is very popular in Germany under this name and is considered delicious.",
+  "ocr_flags": [
+   "1 0 Il (OCR artifact; context suggests ~10 hours)"
+  ],
+  "confidence": 0.8
+ }
+]

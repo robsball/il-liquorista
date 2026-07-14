@@ -1,0 +1,368 @@
+[
+ {
+  "id": "liqueur-with-vanilla-cinnamon",
+  "page": 345,
+  "section_en": "III",
+  "title_it": "Liquore con vaniglia e cannella",
+  "title_en": "Liqueur with Vanilla and Cinnamon",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vaniglia a pezzetti",
+    "name_en": "Vanilla pieces",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero candito bianco",
+    "name_en": "White candied sugar (dissolved in water)",
+    "qty": 1.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Cinnamon and vanilla are enclosed in a cloth bag suspended in the liquid.",
+   "Remove after 4–6 weeks.",
+   "Allow to rest 3–4 months.",
+   "Color as above."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "4-0 settimane → 4–6 weeks (OCR likely '4–0' for '4–6')"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "distilled-spirit-with-ether-vanilla",
+  "page": 345,
+  "section_en": "III",
+  "title_it": "Distillato con etere acetico e vaniglia",
+  "title_en": "Distilled Spirit with Acetic Ether and Vanilla",
+  "method": "distillation",
+  "yield": {
+   "amount": 95,
+   "unit": "litres",
+   "note": "distilled volume; topped to 100 L with 90° alcohol"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 112,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 24,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Balsamo del Perù",
+    "name_en": "Peruvian balsam",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia a pezzetti",
+    "name_en": "Vanilla pieces",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di fiori d'arancia",
+    "name_en": "Essential oil of orange blossoms",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pezzetti di cuoio recentemente conciato",
+    "name_en": "Pieces of recently tanned leather",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients in the alembic.",
+   "Close the alembic and macerate for 10–12 hours.",
+   "Distil slowly; collect 95 litres.",
+   "Top up to 100 litres with 90° alcohol.",
+   "Allow 5–6 months rest.",
+   "Color as above."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "Perii → Perù (Peruvian balsam)",
+   "d'aran cio → d'arancia (orange blossoms)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "arak-variants-table",
+  "page": 345,
+  "section_en": "IV–VIII",
+  "title_it": "Varianti di Arak",
+  "title_en": "Arak Variants",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di arak",
+    "name_en": "Arak extract",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     60,
+     30,
+     200,
+     200
+    ]
+   },
+   {
+    "name_it": "Arak di Goa genuino",
+    "name_en": "Genuine Goa arak",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "—; 2; 0; —; 3.2 (proportions vary)",
+    "variants": [
+     null,
+     0,
+     null,
+     3.2
+    ]
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     2,
+     2,
+     10,
+     12
+    ]
+   },
+   {
+    "name_it": "Carrube",
+    "name_en": "Carob",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     40,
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Thè nero",
+    "name_en": "Black tea",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     2,
+     2,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Miele",
+    "name_en": "Honey",
+    "qty": 90,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     75,
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     1.8,
+     1.3,
+     7,
+     1
+    ]
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "—; —; —; 100.2; —",
+    "variants": [
+     null,
+     null,
+     100.2,
+     null
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 8.8,
+    "unit": "litres",
+    "unit_implicit": false,
+    "note": "proportions in subsequent columns",
+    "variants": [
+     null,
+     null,
+     12,
+     10.3
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix ingredients according to the chosen variant (columns IV–VIII)."
+  ],
+  "notes_en": "Proportions given in five variants. Columns marked IV, V, VI, VII, VIII.",
+  "ocr_flags": [
+   "Thè → Tè (black tea)"
+  ],
+  "confidence": 0.72
+ },
+ {
+  "id": "arak-batavia",
+  "page": 345,
+  "section_en": "Arak di Batavia",
+  "title_it": "Arak di Batavia",
+  "title_en": "Batavia Arak",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     4
+    ]
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_it": "Estratto di arak",
+    "name_en": "Arak extract",
+    "qty": 85,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     80
+    ]
+   },
+   {
+    "name_it": "Aroma di arak",
+    "name_en": "Arak aroma",
+    "qty": 85,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": null
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 20,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     21.5
+    ]
+   },
+   {
+    "name_it": "Arak genuino",
+    "name_en": "Genuine arak",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false,
+    "variants": [
+     2.5
+    ]
+   }
+  ],
+  "steps_en": [
+   "Combine all spirits and essences.",
+   "Add a hot sugar solution: 100 g sugar, 250 g honey, dissolved in 8 litres of distilled water.",
+   "Allow to stand for a prolonged period."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "arac → arak (common variant spelling)"
+  ],
+  "confidence": 0.8
+ }
+]

@@ -1,0 +1,291 @@
+[
+ {
+  "id": "agua-di-baaldi-danzica",
+  "page": 372,
+  "section_en": "Waters (Aquae)",
+  "title_it": "Acqua di Baaldi Danzica",
+  "title_en": "Baaldi Danzica Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 18,
+   "unit": "liters",
+   "note": "at 72° after distillation; final product with added water and syrup"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 165,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 165,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 165,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 65,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Allspice",
+    "qty": 65,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 65,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 65,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 25,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients for 24 hours.",
+   "Distill to obtain 18 liters at 72°.",
+   "Add 2 liters of water and 16 liters of syrup."
+  ],
+  "notes_en": "Red color. Total yield approximately 36 liters.",
+  "confidence": 0.95
+ },
+ {
+  "id": "agua-di-batavia",
+  "page": 372,
+  "section_en": "Waters (Aquae)",
+  "title_it": "Acqua di Batavia",
+  "title_en": "Batavia Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "at approximately 35% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 90,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 375,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60°",
+    "qty": 25,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for the preceding recipe (macerate 24 hours, then distill)."
+  ],
+  "notes_en": "Colorless (incoloro). Product yield = 20 liters at approximately 35% ABV.",
+  "confidence": 0.95
+ },
+ {
+  "id": "agua-bianca-di-torino",
+  "page": 372,
+  "section_en": "Waters (Aquae)",
+  "title_it": "Acqua bianca di Torino",
+  "title_en": "White Water of Turin",
+  "method": "distillation",
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol at 85°",
+    "qty": 40,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 56,
+    "unit": "kilograms",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 22,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Distill without further rectification.",
+   "To the distillate obtained, add a solution of sugar dissolved in water."
+  ],
+  "notes_en": "The sugar and water are dissolved together to form a syrup before adding to the distillate.",
+  "confidence": 0.93
+ },
+ {
+  "id": "agua-di-bouquet",
+  "page": 372,
+  "section_en": "Waters (Aquae)",
+  "title_it": "Acqua di Bouquet",
+  "title_en": "Bouquet Water",
+  "method": "unknown",
+  "ingredients": [
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori d'arancio",
+    "name_en": "Orange blossoms",
+    "qty": 75,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "notes_en": "Recipe appears incomplete; no instructions or final yield given in the source.",
+  "confidence": 0.85
+ }
+]

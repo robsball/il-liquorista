@@ -1,0 +1,340 @@
+[
+ {
+  "id": "indian-punch",
+  "page": 654,
+  "section_en": "Punches",
+  "title_it": "Punch indiano",
+  "title_en": "Indian Punch",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Latte",
+    "name_en": "Milk",
+    "qty": 3,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 6,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 20,
+    "unit": "number",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di cannella",
+    "name_en": "Cinnamon tincture",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Dissolve the sugar in cold water.",
+   "Proceed as above (referring to prior punch recipe).",
+   "Serve the Indian punch chilled."
+  ],
+  "notes_en": "The sugar is dissolved cold. The punch is served chilled.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "punch-with-tea",
+  "page": 654,
+  "section_en": "Punches",
+  "title_it": "Punch al Thè",
+  "title_en": "Punch with Tea",
+  "method": "infusion",
+  "yield": {
+   "amount": 5,
+   "unit": "litres",
+   "note": "approximate from base wine volume"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "minutes"
+  },
+  "ingredients": [
+   {
+    "name_it": "Vino rosso generoso",
+    "name_en": "Generous red wine",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 8,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Thè Pekoe",
+    "name_en": "Pekoe tea",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Estratto di Vescovo",
+    "name_en": "Bishop's extract",
+    "qty": 80,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di aranci",
+    "name_en": "Essential oil of oranges",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "Essential oil of lemons",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaican rum",
+    "qty": 7,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "In 5 litres of generous red wine, dissolve 8 kg sugar and 30 g citric acid while hot.",
+   "Quickly add 100 g Pekoe tea, 20 g cinnamon, and 10 g vanilla.",
+   "Infuse for 5 minutes, then strain the hot liquid.",
+   "Mix the strained liquid with 80 g Bishop's extract, 20 g orange essential oil, 15 g lemon essential oil, and 7 litres Jamaican rum."
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "Pekoe (OCR: Pecco)"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "punch-pineapple",
+  "page": 654,
+  "section_en": "Punches",
+  "title_it": "Punch all'Ananas",
+  "title_en": "Pineapple Punch",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaican rum",
+    "qty": 41,
+    "unit": "litres",
+    "variants": [
+     10
+    ]
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "Cognac",
+    "qty": 5,
+    "unit": "litres",
+    "variants": [
+     2
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 6,
+    "unit": "litres",
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 8,
+    "unit": "litres",
+    "variants": [
+     9
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 18,
+    "unit": "kg",
+    "variants": [
+     15
+    ]
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 60,
+    "unit": "grams",
+    "variants": [
+     90
+    ]
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 10,
+    "unit": "grams",
+    "variants": [
+     25
+    ]
+   },
+   {
+    "name_it": "Essenza di ananas",
+    "name_en": "Pineapple essence",
+    "qty": 10,
+    "unit": "grams",
+    "variants": [
+     16
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di fior d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients according to one of the two given proportions (columns I or II)."
+  ],
+  "notes_en": "Two formulations are provided with different ingredient ratios.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "goa-punch",
+  "page": 654,
+  "section_en": "Punches",
+  "title_it": "Punch di Goa",
+  "title_en": "Goa Punch",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arak di Goa",
+    "name_en": "Goa arrack",
+    "qty": 1,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaican rum",
+    "qty": 1,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di ananas (non zuccherato)",
+    "name_en": "Pineapple juice (unsweetened)",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rhum aromatizzato",
+    "name_en": "Aromatized rum",
+    "qty": null,
+    "unit": "litres",
+    "note": "Maceration of rind from 6 mandarin fruits per litre, then filtered",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito di rosa",
+    "name_en": "Rose spirit",
+    "qty": 0.25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua bollente con acido citrico",
+    "name_en": "Boiling water with citric acid",
+    "qty": 8,
+    "unit": "litres",
+    "note": "containing 15 g citric acid per portion",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients: Goa arrack, Jamaican rum, unsweetened pineapple juice, aromatized rum (prepared by macerating mandarin rind), rose spirit, 90° alcohol, syrup, and boiling water containing citric acid."
+  ],
+  "notes_en": "The aromatized rum is made by macerating the rind of 6 mandarin fruits per litre, then filtering.",
+  "ocr_flags": [
+   "Arak (OCR: Arac)",
+   "citrico (OCR: citrico appears correct)"
+  ],
+  "confidence": 0.82
+ }
+]

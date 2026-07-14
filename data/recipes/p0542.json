@@ -1,0 +1,299 @@
+[
+ {
+  "id": "chartreuse-i",
+  "page": 542,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse (I)",
+  "title_en": "Chartreuse (I)",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95%"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance dolci",
+    "name_en": "Sweet oranges",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limone",
+    "name_en": "Lemon",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Neroli",
+    "name_en": "Neroli",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta pepe",
+    "name_en": "Peppermint",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rose",
+    "name_en": "Roses",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere enantico",
+    "name_en": "Enanthic ether",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura muschio",
+    "name_en": "Musk tincture",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Essenza violetta",
+    "name_en": "Violet essence",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Glucosio",
+    "name_en": "Glucose",
+    "qty": 3700,
+    "unit": "g",
+    "note": "dissolved in hot water"
+   },
+   {
+    "name_it": "Acqua bollente",
+    "name_en": "Hot water",
+    "qty": 1900,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Mix or filter the blend through magnesia.",
+   "Dissolve 5 parts of this mixture in 4500 parts of 95° alcohol.",
+   "Add 3700 g glucose dissolved in 1900 g hot water.",
+   "If a green colour is desired, colour with chlorophyll."
+  ],
+  "notes_en": "The preparation involves maceration of botanicals followed by dissolution in high-proof spirit with glucose syrup.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "chartreuse-ii",
+  "page": 542,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse (II)",
+  "title_en": "Chartreuse (II)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 900,
+   "unit": "g"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 25,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica",
+    "name_en": "Angelica",
+    "qty": 11,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Fiori d'arancio",
+    "name_en": "Orange flowers",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rose",
+    "name_en": "Roses",
+    "qty": 12,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Sedano",
+    "name_en": "Celery",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 4,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 6,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Essenza di prugne",
+    "name_en": "Plum essence",
+    "qty": 65,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 900,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Combine all drop-measured essences with vanilla extract and plum essence.",
+   "Mix into 900 g of 90° alcohol.",
+   "Stir well to combine."
+  ],
+  "notes_en": "This formula uses measured drops for aromatic essences, with fixed quantities for vanilla and plum essences in a base of 90° spirit.",
+  "ocr_flags": [
+   "prugne"
+  ],
+  "confidence": 0.92
+ }
+]

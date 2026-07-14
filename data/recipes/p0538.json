@@ -1,0 +1,181 @@
+[
+ {
+  "id": "golden-water-of-danzig",
+  "page": 538,
+  "section_en": "Extracts Based on Essential Oils",
+  "title_it": "Acqua d'oro di Danzica",
+  "title_en": "Golden Water of Danzig",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza d'acqua d'oro di Danzica",
+    "name_en": "Golden water of Danzig essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Dilute the Golden water of Danzig essence in 95° alcohol."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "anice",
+  "page": 538,
+  "section_en": "Extracts Based on Essential Oils",
+  "title_it": "Anice",
+  "title_en": "Anise",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza d'anice russo rettificata",
+    "name_en": "Rectified Russian anise essence",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Dilute the rectified Russian anise essence in 95° alcohol."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "anisette-i",
+  "page": 538,
+  "section_en": "Extracts Based on Essential Oils",
+  "title_it": "Anisette (Variante I)",
+  "title_en": "Anisette – Variant I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice russo rettificato",
+    "name_en": "Rectified Russian anise",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR uncertain; appears to be '7' or similar small quantity"
+   },
+   {
+    "name_it": "Finocchi",
+    "name_en": "Fennel",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix the rectified Russian anise, coriander seeds, and fennel with 95° alcohol."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "coriandoli quantity (OCR shows ',t' – likely 7 or similar)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "anisette-ii",
+  "page": 538,
+  "section_en": "Extracts Based on Essential Oils",
+  "title_it": "Anisette (Variante II)",
+  "title_en": "Anisette – Variant II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice russo rettificato",
+    "name_en": "Rectified Russian anise",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix the rectified Russian anise, star anise, and coriander seeds with 95° alcohol."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ }
+]

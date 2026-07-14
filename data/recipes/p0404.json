@@ -1,0 +1,241 @@
+[
+ {
+  "id": "kummel-di-breslavia-i",
+  "page": 404,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Breslavia, I.",
+  "title_en": "Kummel of Breslavia, I.",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cornino (semi)",
+    "name_en": "Caraway seeds",
+    "qty": 450,
+    "unit": "g"
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 16,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella di Cina",
+    "name_en": "Chinese cinnamon",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Spirit of 80°",
+    "qty": 6.25,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.25,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Follow standard procedure."
+  ],
+  "notes_en": "Standard preparation method.",
+  "confidence": 0.95
+ },
+ {
+  "id": "kummel-di-breslavia-ii",
+  "page": 404,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Breslavia, II.",
+  "title_en": "Kummel of Breslavia, II.",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "ingredients": [
+   {
+    "name_it": "Semi di cornino",
+    "name_en": "Caraway seeds",
+    "qty": 300,
+    "unit": "g"
+   },
+   {
+    "name_it": "Semi di finocchio",
+    "name_en": "Fennel seeds",
+    "qty": 75,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 24,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "See previous recipe."
+  ],
+  "notes_en": "Variation of Breslavia formula using different proportions.",
+  "confidence": 0.92
+ },
+ {
+  "id": "kummel-di-danzica-i",
+  "page": 404,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Danzica, I.",
+  "title_en": "Kummel of Danzig, I.",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cornino (semi)",
+    "name_en": "Caraway seeds",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 35,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannello",
+    "name_en": "Cinnamon",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seeds",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag root",
+    "qty": 8,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Orris root",
+    "qty": 30,
+    "unit": "g"
+   }
+  ],
+  "confidence": 0.94
+ },
+ {
+  "id": "kummel-di-danzica-ii",
+  "page": 404,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Danzica, II.",
+  "title_en": "Kummel of Danzig, II.",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cornino (semi)",
+    "name_en": "Caraway seeds",
+    "qty": 450,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Spirit of 80°",
+    "qty": 5.05,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Kummel of Breslavia."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "kummel-di-eckau",
+  "page": 404,
+  "section_en": "Kummels",
+  "title_it": "Kummel di Eckau",
+  "title_en": "Kummel of Eckau",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 16.8,
+   "unit": "liters",
+   "note": "sum of components"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit of 90°",
+    "qty": 7.3,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 7,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.5,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Mix compound alcoholate by blending spirit, syrup, and water."
+  ],
+  "notes_en": "Compound alcoholate preparation.",
+  "confidence": 0.96
+ }
+]

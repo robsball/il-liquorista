@@ -1,0 +1,180 @@
+[
+ {
+  "id": "anise-water",
+  "page": 217,
+  "section_en": "Distilled Waters",
+  "title_it": "Anice",
+  "title_en": "Anise Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "from maceration and distillation"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Semi di anice comune secchi e contusi",
+    "name_en": "Common anise seeds, dried and bruised",
+    "qty": 5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 40,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Kitchen salt",
+    "qty": 25,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Macerate the ingredients.",
+   "Distil to collect 20 litres of distillate.",
+   "Keep the cooling water around the condenser coil slightly warm to prevent essential oil from solidifying and blocking the collection channel."
+  ],
+  "notes_en": "The same procedure is used to prepare waters of dill, star anise, caraway (seeds), fennel (seeds), and juniper (berries).",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "cinnamon-water",
+  "page": 217,
+  "section_en": "Distilled Waters",
+  "title_it": "Cannella",
+  "title_en": "Cinnamon Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 16,
+   "unit": "litres"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylan soppesta",
+    "name_en": "Ceylon cinnamon, broken",
+    "qty": 2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 32,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Kitchen salt",
+    "qty": 800,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 24 hours.",
+   "Distil over direct heat to collect 16 litres.",
+   "Consider performing coobation (redistillation)."
+  ],
+  "notes_en": "The same procedure is used to prepare distilled waters of cascarilla, cloves, mace, nutmeg, sarsaparilla, rhodewood, and Chinese cinnamon.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "aromatic-calamus-water",
+  "page": 217,
+  "section_en": "Distilled Waters",
+  "title_it": "Calamo aromatico",
+  "title_en": "Aromatic Calamus Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 16,
+   "unit": "litres"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Radico di calamo contusa",
+    "name_en": "Calamus root, bruised",
+    "qty": 2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 32,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Kitchen salt",
+    "qty": 400,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Distil to collect 16 litres."
+  ],
+  "notes_en": "In the same manner are prepared waters of angelica, elecampane, and cardamom.",
+  "ocr_flags": [
+   "Radico (probably radice—root)",
+   "Se ìA distillano (probable OCR corruption; likely 'Si distillano')"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "citron-water",
+  "page": 217,
+  "section_en": "Distilled Waters",
+  "title_it": "Cedro",
+  "title_en": "Citron Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di N. 40 cedri freschi",
+    "name_en": "Peels of 40 fresh citron fruits",
+    "qty": null,
+    "unit": "pieces",
+    "note": "40 fresh citrons"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 20,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sale da cucina",
+    "name_en": "Kitchen salt",
+    "qty": 125,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Distil to collect 10 litres."
+  ],
+  "notes_en": "In the same manner are prepared waters of oranges, bitter oranges (curaçao), lemons, mandarins, and bergamot.",
+  "ocr_flags": [
+   "arance amare (curafao) – probably 'curaçao' (Curaçao orange liqueur)"
+  ],
+  "confidence": 0.91
+ }
+]

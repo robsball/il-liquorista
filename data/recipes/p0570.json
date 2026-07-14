@@ -1,0 +1,218 @@
+[
+ {
+  "id": "guignolet",
+  "page": 570,
+  "section_en": "Ratafias and Fruit Liqueurs",
+  "title_it": "Guignolet",
+  "title_en": "Guignolet",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Tintura di ciliegio",
+    "name_en": "Cherry tincture",
+    "qty": 2,
+    "unit": "parts",
+    "unit_implicit": true,
+    "note": "1:1 ratio"
+   },
+   {
+    "name_it": "Tintura di marasche",
+    "name_en": "Wild cherry tincture",
+    "qty": 1,
+    "unit": "parts",
+    "unit_implicit": true,
+    "note": "1:1 ratio"
+   },
+   {
+    "name_it": "Tintura di lamponi",
+    "name_en": "Raspberry tincture",
+    "qty": 1,
+    "unit": "parts",
+    "unit_implicit": true,
+    "note": "1:1 ratio"
+   },
+   {
+    "name_it": "Acqua di lauro ceraso",
+    "name_en": "Cherry laurel water",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 154,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "Dissolve the sugar in hot water.",
+   "Add the tinctures and cherry laurel water to the solution.",
+   "Clarify with gelatin.",
+   "Allow to settle for 8 days.",
+   "Filter through paper."
+  ],
+  "notes_en": "Optional: 250 g of cassis tincture may be added.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "guignolet-variant-ii",
+  "page": 570,
+  "section_en": "Ratafias and Fruit Liqueurs",
+  "title_it": "Guignolet (Variante II)",
+  "title_en": "Guignolet (Variant II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di ciliegie",
+    "name_en": "Cherry tincture",
+    "qty": 2,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di marasche",
+    "name_en": "Wild cherry tincture",
+    "qty": 2,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 1,
+    "unit": "parts",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "as needed",
+    "note": "quantity not clearly specified in source"
+   }
+  ],
+  "steps_en": [
+   "Mix the cherry and wild cherry tinctures with 85° alcohol.",
+   "Add sugar and water to desired proportions."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "rataffia-of-four-fruits",
+  "page": 570,
+  "section_en": "Ratafias and Fruit Liqueurs",
+  "title_it": "Ratafià dei quattro frutti",
+  "title_en": "Rataffia of Four Fruits",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcoolaturo di ciliege",
+    "name_en": "Cherry alcoholate",
+    "qty": 1,
+    "unit": "L",
+    "variants": [
+     1.25
+    ]
+   },
+   {
+    "name_it": "Alcoolaturo di cassia",
+    "name_en": "Cassis alcoholate",
+    "qty": 1,
+    "unit": "L",
+    "variants": [
+     1.25
+    ]
+   },
+   {
+    "name_it": "Alcoolaturo di lamponi",
+    "name_en": "Raspberry alcoholate",
+    "qty": 0.8,
+    "unit": "L",
+    "variants": [
+     1
+    ]
+   },
+   {
+    "name_it": "Alcoolaturo di fragole",
+    "name_en": "Strawberry alcoholate",
+    "qty": 0.8,
+    "unit": "L",
+    "variants": [
+     1
+    ]
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 0.8,
+    "unit": "L",
+    "variants": [
+     0.4
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.4,
+    "unit": "kg",
+    "variants": [
+     3.75
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4,
+    "unit": "kg",
+    "variants": [
+     2
+    ]
+   }
+  ],
+  "steps_en": [
+   "Combine the four fruit alcoholates.",
+   "Add 85° alcohol.",
+   "Dissolve sugar in water and add to the mixture.",
+   "Mix thoroughly."
+  ],
+  "notes_en": "Two proportions given: standard and variant (higher strength/yield variant).",
+  "ocr_flags": [],
+  "confidence": 0.92
+ }
+]

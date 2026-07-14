@@ -1,0 +1,258 @@
+[
+ {
+  "id": "ginger-rosolio",
+  "page": 456,
+  "section_en": "Rosoli (Liqueurs)",
+  "title_it": "Rosolio di Zenzero",
+  "title_en": "Ginger Rosolio",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 30,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 86,
+   "raw": "alcool di 86°"
+  },
+  "ingredients": [
+   {
+    "name_en": "Alcohol",
+    "name_it": "Alcool",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Genuine Arak",
+    "name_it": "Arac genuino",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Syrup",
+    "name_it": "Sciroppo",
+    "qty": 14,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine alcohol, water, arak, and syrup.",
+   "Leave colourless or colour with caramel colouring."
+  ],
+  "notes_en": "One litre to one and a half litres of ginger tincture is sufficient for 30 litres of finished rosolio.",
+  "confidence": 0.85
+ },
+ {
+  "id": "stomachic-elixir",
+  "page": 456,
+  "section_en": "Elixirs",
+  "title_it": "Elisir Stomatico",
+  "title_en": "Stomachic Elixir",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "final product at 38% alcohol and 36% sugar"
+  },
+  "alcohol_strength": {
+   "degrees": 38,
+   "raw": "38% di alcool"
+  },
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_en": "Jamaica Ginger Root",
+    "name_it": "Zenzero radice della Giamaica",
+    "qty": 200,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Carob",
+    "name_it": "Carrubo",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Ceylon Cinnamon",
+    "name_it": "Cannella Ceylon",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Iris Root",
+    "name_it": "Ireos radice",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Coriander",
+    "name_it": "Coriandoli",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Nutmeg",
+    "name_it": "Noce moscata",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 1.4,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 0.6,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Goa Arak",
+    "name_it": "Arac di Goa",
+    "qty": 0.6,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 2.7,
+    "unit": "litres",
+    "note": "with 2 drops of rose essence dissolved in it"
+   },
+   {
+    "name_en": "Syrup",
+    "name_it": "Sciroppo",
+    "qty": null,
+    "unit": "litres",
+    "note": "quantity not specified"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 3.2,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate the spices (Jamaica ginger root, carob, Ceylon cinnamon, iris root, coriander, and nutmeg) in 1.4 litres of 90° alcohol and 0.6 litres water for 15 days.",
+   "Filter the tincture.",
+   "Add 0.6 litres Goa arak.",
+   "Add 2.7 litres of 90° alcohol in which 2 drops of rose essence have been dissolved.",
+   "Add syrup and 3.2 litres water.",
+   "Colour pale yellow."
+  ],
+  "notes_en": "Final product: 20 litres at 38% alcohol and 36% sugar.",
+  "ocr_flags": [
+   "syrup quantity unclear from OCR"
+  ],
+  "confidence": 0.8
+ },
+ {
+  "id": "spiced-elixir-iii",
+  "page": 456,
+  "section_en": "Elixirs",
+  "title_it": "Elisir (III)",
+  "title_en": "Spiced Elixir III",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "duration": null,
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_en": "Ginger",
+    "name_it": "Zenzero",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Carob",
+    "name_it": "Carrube",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Mace",
+    "name_it": "Macis",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Coriander",
+    "name_it": "Coriandoli",
+    "qty": 7,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Nutmeg",
+    "name_it": "Noci moscate",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Iris Root",
+    "name_it": "Ireos radice",
+    "qty": 8,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Cardamom",
+    "name_it": "Cardamomo",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 1.4,
+    "unit": "litres"
+   },
+   {
+    "name_en": "Water",
+    "name_it": "Acqua",
+    "qty": 1.0,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Combine ginger, carob, mace, coriander, nutmeg, iris root, and cardamom.",
+   "Macerate in 1.4 litres of 90° alcohol and 1.0 litre water."
+  ],
+  "notes_en": "Recipe incomplete in source; further processing steps not provided.",
+  "ocr_flags": [
+   "recipe appears truncated"
+  ],
+  "confidence": 0.75
+ }
+]

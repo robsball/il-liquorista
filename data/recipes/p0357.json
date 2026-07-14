@@ -1,0 +1,250 @@
+[
+ {
+  "id": "kirschwasser-imitation-vii",
+  "page": 357,
+  "section_en": "Kirschwasser Imitations",
+  "title_it": "Imitazione di Kirschwasser VII",
+  "title_en": "Kirschwasser Imitation VII",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1,
+   "unit": "hectolitre",
+   "note": "base spirit"
+  },
+  "alcohol_strength": {
+   "degrees": 50,
+   "raw": "alcool diluito (50%)"
+  },
+  "ingredients": [
+   {
+    "name_it": "acquavite o alcool diluito",
+    "name_en": "good brandy or diluted alcohol",
+    "qty": 1,
+    "unit": "hectolitre"
+   },
+   {
+    "name_it": "tintura da noccioli di pesche e ciliege",
+    "name_en": "tincture of peach and cherry pits",
+    "qty": 2,
+    "unit": "litres",
+    "note": "pits bruised, macerated in 60° alcohol"
+   },
+   {
+    "name_it": "tintura di iride",
+    "name_en": "iris tincture",
+    "qty": null,
+    "unit": "to taste"
+   },
+   {
+    "name_it": "etere enantico",
+    "name_en": "ethyl ether or pear ether",
+    "qty": null,
+    "unit": "drops",
+    "note": "a few drops"
+   },
+   {
+    "name_it": "etere di rhum",
+    "name_en": "rum ether",
+    "qty": null,
+    "unit": "drops",
+    "note": "a few drops"
+   }
+  ],
+  "steps_en": [
+   "Prepare a tincture by bruising peach and cherry pits and macerating them in 2 litres of 60° alcohol.",
+   "Add this tincture to 1 hectolitre of good brandy or diluted alcohol (50%).",
+   "Add iris tincture and a few drops of ethyl ether or rum ether to taste."
+  ],
+  "notes_en": "A discrete imitation of Kirschwasser.",
+  "confidence": 0.92
+ },
+ {
+  "id": "kirschwasser-imitation-viii",
+  "page": 357,
+  "section_en": "Kirschwasser Imitations",
+  "title_it": "Imitazione di Kirschwasser VIII",
+  "title_en": "Kirschwasser Imitation VIII",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1,
+   "unit": "hectolitre",
+   "note": "base spirit"
+  },
+  "ingredients": [
+   {
+    "name_it": "etere enantico",
+    "name_en": "ethyl ether or pear ether",
+    "qty": 1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "etere acetico",
+    "name_en": "acetic ether",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "etere nitrico",
+    "name_en": "nitric ether",
+    "qty": 8,
+    "unit": "grams"
+   },
+   {
+    "name_it": "olio essenziale di mandorle amare",
+    "name_en": "essential oil of bitter almonds",
+    "qty": 8,
+    "unit": "grams"
+   },
+   {
+    "name_it": "essenza di pere",
+    "name_en": "pear essence",
+    "qty": 10,
+    "unit": "grams"
+   },
+   {
+    "name_it": "tintura di iride",
+    "name_en": "iris tincture",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "tintura di vaniglia",
+    "name_en": "vanilla tincture",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "glicerina",
+    "name_en": "glycerine",
+    "qty": 1,
+    "unit": "kilogram"
+   },
+   {
+    "name_it": "alcool diluito o acquavite",
+    "name_en": "diluted alcohol or brandy",
+    "qty": 1,
+    "unit": "hectolitre"
+   }
+  ],
+  "steps_en": [
+   "Combine ethyl ether, acetic ether, nitric ether, bitter almond oil, pear essence, iris tincture, vanilla tincture, and glycerine.",
+   "Add this mixture to 1 hectolitre of diluted alcohol or brandy."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "kirschwasser-imitation-ix",
+  "page": 357,
+  "section_en": "Kirschwasser Imitations",
+  "title_it": "Imitazione di Kirschwasser IX",
+  "title_en": "Kirschwasser Imitation IX",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 8.2,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "olio essenziale di mandorle amare",
+    "name_en": "essential oil of bitter almonds",
+    "qty": 20,
+    "unit": "drops"
+   },
+   {
+    "name_it": "olio essenziale di garofani",
+    "name_en": "essential oil of cloves",
+    "qty": 4,
+    "unit": "drops"
+   },
+   {
+    "name_it": "olio essenziale di limoni",
+    "name_en": "essential oil of lemon",
+    "qty": 5,
+    "unit": "drops"
+   },
+   {
+    "name_it": "etere acetico",
+    "name_en": "acetic ether",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "spirito di nitro dolce",
+    "name_en": "sweet nitre spirit (ethyl nitrite)",
+    "qty": 40,
+    "unit": "grams"
+   },
+   {
+    "name_it": "zucchero bianco",
+    "name_en": "white sugar",
+    "qty": 400,
+    "unit": "grams"
+   },
+   {
+    "name_it": "alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 8.2,
+    "unit": "litres"
+   },
+   {
+    "name_it": "acqua calda",
+    "name_en": "hot water",
+    "qty": 11,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Combine the essential oils, acetic ether, sweet nitre spirit, sugar, and 90° alcohol.",
+   "Pour 11 litres of hot water into the mixture.",
+   "After cooling, filter the mixture."
+  ],
+  "confidence": 0.91
+ },
+ {
+  "id": "cherry-kirschwasser-x",
+  "page": 357,
+  "section_en": "Kirschwasser Imitations",
+  "title_it": "Imitazione di Kirschwasser X (da succo di ciliege)",
+  "title_en": "Kirschwasser Imitation X (from cherry juice)",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "succo di ciliege",
+    "name_en": "cherry juice",
+    "qty": 4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 2,
+    "unit": "kilograms"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 7,
+    "unit": "litres"
+   },
+   {
+    "name_it": "alcool di 60°",
+    "name_en": "60° alcohol",
+    "qty": 6,
+    "unit": "litres",
+    "note": "added after cooling"
+   }
+  ],
+  "steps_en": [
+   "Heat cherry juice, sugar, and water together, skimming as needed.",
+   "Cool the mixture completely.",
+   "Add 6 litres of 60° alcohol.",
+   "The recipe continues with an additional solution (details on following page)."
+  ],
+  "notes_en": "Base mixture; recipe continues on next page with final solution addition.",
+  "confidence": 0.9
+ }
+]

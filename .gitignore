@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+
+# Regenerable pipeline intermediates (final assembled data is committed under data/)
+data/checkpoints/
+data/resolution_ckpt/
+data/checkpoints_vision/
+data/recipes_pre_qa/
+data/recipes_r1/
+data/page_images/
+data/raw_text/
+data/*.jsonl
+data/*.log
+
+# Generated build artifacts (regenerate with polish/build.sh)
+build/pdf/book.typ
+build/pdf/*.png
+
+# Secrets — never commit
+.env
+.env.*
+*.key

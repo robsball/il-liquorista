@@ -1,0 +1,272 @@
+[
+ {
+  "id": "rose-i",
+  "page": 497,
+  "section_en": "Rose",
+  "title_it": "Rosa. I.",
+  "title_en": "Rose I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of roses",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di arancio",
+    "name_en": "Essential oil of orange",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 650,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients.",
+   "Filter."
+  ],
+  "notes_en": "Clear rose color. Filtered product.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "rose-ii",
+  "page": 497,
+  "section_en": "Rose",
+  "title_it": "Rosa. II.",
+  "title_en": "Rose II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": 16,
+    "unit": "g",
+    "note": "see page 249"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 12.75,
+    "unit": "L"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 14,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6.25,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.97
+ },
+ {
+  "id": "rosa-gallica",
+  "page": 497,
+  "section_en": "Rose",
+  "title_it": "Rosa (Rosa Gallica). III.",
+  "title_en": "Rose (Rosa Gallica) III",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di rosa vera",
+    "name_en": "Essence of true rose",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 650,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "g"
+   },
+   {
+    "name_it": "Rosa (carmino) cocciniglia o petali di rose rosse",
+    "name_en": "Rose (carmine) cochineal or red rose petals",
+    "qty": null,
+    "unit": "q.b.",
+    "note": "for coloring and/or flavoring"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.96
+ },
+ {
+  "id": "rostofchin-i",
+  "page": 497,
+  "section_en": "Rostofchin",
+  "title_it": "Rostofchin. I.",
+  "title_en": "Rostofchin I",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "final product at 45% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di viole",
+    "name_en": "Essence of violet",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Tincture of vanilla",
+    "qty": 4,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 4,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di arance dolci",
+    "name_en": "Essential oil of sweet orange",
+    "qty": 2.5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 10,
+    "unit": "L"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 2.5,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.5,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients."
+  ],
+  "notes_en": "Final product yield: 20 liters at 45% ABV",
+  "ocr_flags": [],
+  "confidence": 0.96
+ }
+]

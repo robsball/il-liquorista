@@ -1,0 +1,298 @@
+[
+ {
+  "id": "rose-flower-liqueur-iii",
+  "page": 378,
+  "section_en": "Flower Liqueurs",
+  "title_it": "III",
+  "title_en": "Rose Flower Liqueur (III)",
+  "method": "distillation",
+  "yield": {
+   "amount": 7,
+   "unit": "litres",
+   "note": "from distillation; final volume after mixing with flower waters and sugar"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 3,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Rose petali recenti",
+    "name_en": "Fresh rose petals",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori di arancio secchi",
+    "name_en": "Dried orange blossoms",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori di cassia",
+    "name_en": "Cassia flowers",
+    "qty": 45,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fiori di lavanda",
+    "name_en": "Lavender flowers",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange blossom water",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3000,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the fresh rose petals, dried orange blossoms, cassia flowers, cloves, and lavender flowers with 90° alcohol and water for three days.",
+   "Distil slowly to obtain 7 litres of distillate.",
+   "Mix the distillate with orange blossom water, rose water, and sugar.",
+   "Add either gold leaf or colour blue with indigo."
+  ],
+  "notes_en": "Pale golden or blue colour depending on finishing.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "golden-water-of-danzig",
+  "page": 378,
+  "section_en": "Gold and Silver Liqueurs",
+  "title_it": "Acqua d'Oro di Danzica",
+  "title_en": "Golden Water of Danzig",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "distilled at 70°"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon zest",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 430,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 15,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Fogliolina d'argento battuto",
+    "name_en": "Beaten silver leaf",
+    "qty": null,
+    "unit": "g",
+    "note": "finely chopped, added when liqueur is cold"
+   }
+  ],
+  "steps_en": [
+   "Distil the botanicals slowly in 60° alcohol to obtain 20 litres at 70°.",
+   "Prepare a hot syrup with sugar and water.",
+   "When the liqueur is cold, add finely chopped beaten silver leaf."
+  ],
+  "notes_en": "Pale yellow colour.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "spiced-liqueur-ii",
+  "page": 378,
+  "section_en": "Spiced Liqueurs",
+  "title_it": "II",
+  "title_en": "Spiced Liqueur (II)",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arancio",
+    "name_en": "Orange zest",
+    "qty": 350,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon zest",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 25,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete on page.",
+  "ocr_flags": [
+   "Scorze d'aranoo",
+   "Ginopro"
+  ],
+  "confidence": 0.85
+ }
+]

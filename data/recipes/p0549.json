@@ -1,0 +1,302 @@
+[
+ {
+  "id": "walnut-liqueur",
+  "page": 549,
+  "section_en": "Liqueurs",
+  "title_it": "Noci (Mallo di)",
+  "title_en": "Walnut Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 100,
+   "raw": "Alcool di 100"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 65,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 2.5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 2.5,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 15,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 15,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 100",
+    "name_en": "100° alcohol",
+    "qty": 900,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "omnibus",
+  "page": 549,
+  "section_en": "Liqueurs",
+  "title_it": "Omnibus",
+  "title_en": "Omnibus",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 24,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 24,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Palmarosa",
+    "name_en": "Palmarosa",
+    "qty": 24,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arancia dolce (tintura)",
+    "name_en": "Sweet orange tincture",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Galanga (tintura)",
+    "name_en": "Galangal tincture",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 24,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 2,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "perfect-love",
+  "page": 549,
+  "section_en": "Liqueurs",
+  "title_it": "Perfetto amore",
+  "title_en": "Perfect Love",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice russo rettificato",
+    "name_en": "Rectified Russian anise",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 20,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 10,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Lavanda",
+    "name_en": "Lavender",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance dolci",
+    "name_en": "Sweet oranges",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "persico",
+  "page": 549,
+  "section_en": "Liqueurs",
+  "title_it": "Persico",
+  "title_en": "Persico",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Mandorlo amaro",
+    "name_en": "Bitter almond",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 3,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Neroli",
+    "name_en": "Neroli",
+    "qty": null,
+    "unit": "ml",
+    "unit_implicit": true,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 20,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 2,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rose",
+    "name_en": "Roses",
+    "qty": 1,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 12.5,
+    "unit": "ml",
+    "unit_implicit": true,
+    "note": "to clarify the mixture"
+   }
+  ],
+  "steps_en": [
+   "To prepare the liqueur (10 litres at 32% ABV): dilute 3 grams of this extract with 3.350 litres of 95° alcohol, and add syrup obtained from 1 kg of refined sugar dissolved in 6.050 litres of water."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "12* 15 (OCR shows asterisk; interpreted as 12.5 based on context of 'per rendere limpida')"
+  ],
+  "confidence": 0.85
+ }
+]

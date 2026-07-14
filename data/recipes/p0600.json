@@ -1,0 +1,296 @@
+[
+ {
+  "id": "liquor-with-tincture-and-syrup",
+  "page": 600,
+  "section_en": "Liquors",
+  "title_it": "Liquore",
+  "title_en": "Liquor (with Tincture and Syrup)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "liters",
+   "note": "alcohol content 10%"
+  },
+  "alcohol_strength": {
+   "degrees": 10,
+   "raw": "alcool 10%"
+  },
+  "ingredients": [
+   {
+    "name_en": "preceding tincture",
+    "name_it": "Tintura precedente",
+    "qty": 1200,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "alcohol at 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 4500,
+    "unit": "ml",
+    "unit_implicit": true,
+    "alcohol_strength": {
+     "degrees": 90,
+     "raw": "alcool di 90°"
+    }
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Sciroppo",
+    "qty": 1500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 2800,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Combine the preceding tincture, 90° alcohol, syrup, and water."
+  ],
+  "notes_en": "Produces 10 liters at 10% alcohol.",
+  "confidence": 0.85
+ },
+ {
+  "id": "kujawski-liqueur",
+  "page": 600,
+  "section_en": "Liquors",
+  "title_it": "Liquore (Kujawski)",
+  "title_en": "Kujawski Liqueur",
+  "method": "maceration",
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "yield": {
+   "amount": null,
+   "note": "after maceration, add 1000 ml syrup"
+  },
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "alcool di 65°"
+  },
+  "ingredients": [
+   {
+    "name_en": "unripe oranges",
+    "name_it": "Arance immaturo",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_en": "orange peel",
+    "name_it": "Scorzo di arance",
+    "qty": 110,
+    "unit": "g"
+   },
+   {
+    "name_en": "gentian root",
+    "name_it": "Genziana",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_en": "zedoary",
+    "name_it": "Zedoaria",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_en": "cinnamon",
+    "name_it": "Cannella",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_en": "cloves",
+    "name_it": "Garofani",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_en": "lemon balm",
+    "name_it": "Melissa",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_en": "centaury",
+    "name_it": "Centaurea",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_en": "cardamom",
+    "name_it": "Cardamomo",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_en": "star anise",
+    "name_it": "Anice stellato",
+    "qty": 18,
+    "unit": "g"
+   },
+   {
+    "name_en": "fennel",
+    "name_it": "Finocchio",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_en": "alcohol at 65°",
+    "name_it": "Alcool di 65°",
+    "qty": 2600,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 750,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanical ingredients in 65° alcohol and water for 8 days.",
+   "After maceration, add 1000 ml of syrup."
+  ],
+  "confidence": 0.8,
+  "ocr_flags": [
+   "Centauroa (likely Centaurea)"
+  ]
+ },
+ {
+  "id": "aromatic-liqueur-with-port",
+  "page": 600,
+  "section_en": "Liquors",
+  "title_it": "Liquore",
+  "title_en": "Aromatic Liqueur with Port",
+  "method": "maceration",
+  "yield": {
+   "amount": 2.5,
+   "unit": "liters",
+   "note": "initial tincture yield before final mixture"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_en": "orange peels",
+    "name_it": "Scorze di arance",
+    "qty": 30,
+    "unit": "g"
+   },
+   {
+    "name_en": "oranges",
+    "name_it": "Arance",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_en": "tonka bean",
+    "name_it": "Fava Tonka",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_en": "galangal",
+    "name_it": "Galanga",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_en": "gentian root",
+    "name_it": "Genziana",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_en": "cloves",
+    "name_it": "Garofani",
+    "qty": 15,
+    "unit": "g"
+   },
+   {
+    "name_en": "ginger",
+    "name_it": "Zenzero",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_en": "star anise",
+    "name_it": "Anice stellato",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_en": "cinnamon",
+    "name_it": "Cannella",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_en": "calamus (sweet flag)",
+    "name_it": "Calamo arom.",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_en": "cinchona bark (true)",
+    "name_it": "China Corteccia vera",
+    "qty": 25,
+    "unit": "g"
+   },
+   {
+    "name_en": "alcohol at 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 1700,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 800,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_en": "Port wine",
+    "name_it": "Vino Porto",
+    "qty": 1,
+    "unit": "liter"
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Sciroppo",
+    "qty": 1.21,
+    "unit": "liters"
+   },
+   {
+    "name_en": "alcohol at 90° (for final mix)",
+    "name_it": "Alcool di 90°",
+    "qty": 2.5,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanical ingredients in 90° alcohol and water.",
+   "After maceration, strain the tincture (yield ~2.5 liters).",
+   "To the obtained tincture, add Port wine, syrup, and 90° alcohol previously combined."
+  ],
+  "notes_en": "The final mixture combines the macerated tincture with Port wine, syrup, and additional high-proof alcohol.",
+  "confidence": 0.75,
+  "ocr_flags": [
+   "Fava Tonka (Tonka bean)",
+   "raziono (likely procedural note, partially cut off)"
+  ]
+ }
+]

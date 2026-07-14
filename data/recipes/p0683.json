@@ -1,0 +1,347 @@
+[
+ {
+  "id": "orange-and-citron-peel-port-wine",
+  "page": 683,
+  "section_en": "Herb and Fortified Wines",
+  "title_it": "Vino di scorze d'arance e cedri",
+  "title_en": "Orange and Citron Peel Wine",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 10,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di cedri",
+    "name_en": "Citron peel",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino Porto",
+    "name_en": "Port wine",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 10 days.",
+   "Press and filter."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.98
+ },
+ {
+  "id": "ulrich-herb-wine",
+  "page": 683,
+  "section_en": "Herb and Fortified Wines",
+  "title_it": "Vino d'erbe alla Ulrich (Krauterwein)",
+  "title_en": "Ulrich's Herb Wine (Krauterwein)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Vino Malaga",
+    "name_en": "Malaga wine",
+    "qty": 4.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Glicerina",
+    "name_en": "Glycerin",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino rosso",
+    "name_en": "Red wine",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di sorbe",
+    "name_en": "Service berry juice",
+    "qty": 1.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": 3.25,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "Anise",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Enula rad.",
+    "name_en": "Elecampane root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero rad.",
+    "name_en": "Ginger root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients."
+  ],
+  "notes_en": "All dry botanicals: 100 g each of fennel, anise, elecampane root, ginger root, gentian, and calamus.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "fortified-digestive-bitters",
+  "page": 683,
+  "section_en": "Herb and Fortified Wines",
+  "title_it": "Amaro digestivo",
+  "title_en": "Fortified Digestive Bitters",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "L",
+   "note": "after filtering"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 20,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Rafano (radice raspata e tagliuzzata)",
+    "name_en": "Horseradish root (grated and chopped)",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coclearia",
+    "name_en": "Scurvy grass",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci verdi immature",
+    "name_en": "Green immature walnuts",
+    "qty": 90,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iva (di ciascuna)",
+    "name_en": "Iva",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta (di ciascuna)",
+    "name_en": "Mint",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance (di ciascuna)",
+    "name_en": "Orange peel",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "China (di ciascuna)",
+    "name_en": "Cinchona bark",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cascarilla (di ciascuna)",
+    "name_en": "Cascarilla bark",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Quassia (di ciascuno)",
+    "name_en": "Quassia wood",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga (di ciascuno)",
+    "name_en": "Galangal",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo (di ciascuno)",
+    "name_en": "Cardamom",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in 2 liters of 90° alcohol for 20 days.",
+   "Strain, pressing the solids.",
+   "Mix in 10 liters white wine and 500 g sugar.",
+   "Allow to rest for several days.",
+   "Filter."
+  ],
+  "notes_en": "Base spirit is 2 liters of 90° alcohol. Final yield approximately 10 liters after adding white wine.",
+  "ocr_flags": [
+   "Quassù"
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "coca-wine",
+  "page": 683,
+  "section_en": "Coca Wine",
+  "title_it": "Vino di coca",
+  "title_en": "Coca Wine",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Foglie di coca",
+    "name_en": "Coca leaves",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cognac",
+    "name_en": "Cognac",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino di Xeres",
+    "name_en": "Sherry wine",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino dolce d'Ungheria",
+    "name_en": "Sweet Hungarian wine",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate coca leaves in the wine and cognac mixture for 8 days.",
+   "Press and strain.",
+   "Add citric acid.",
+   "Rest for several days.",
+   "Filter."
+  ],
+  "notes_en": "Citric acid is added after the initial maceration.",
+  "ocr_flags": [],
+  "confidence": 0.96
+ }
+]

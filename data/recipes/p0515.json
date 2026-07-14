@@ -1,0 +1,303 @@
+[
+ {
+  "id": "rosolio-of-maidens",
+  "page": 515,
+  "section_en": "Rosoli (Sweet Liqueurs)",
+  "title_it": "Rosolio dei le zitelle",
+  "title_en": "Rosolio of the Maidens",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'anice",
+    "name_en": "Essential oil of anise",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossoms",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 8,
+    "unit": "drops",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils of anise and orange blossoms with vanilla tincture.",
+   "Dilute with 90° alcohol."
+  ],
+  "notes_en": "Colorless.",
+  "confidence": 0.95
+ },
+ {
+  "id": "rosolio-of-venus",
+  "page": 515,
+  "section_en": "Rosoli (Sweet Liqueurs)",
+  "title_it": "Rosolio di Venere",
+  "title_en": "Rosolio of Venus",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 1,
+    "unit": "gr",
+    "note": "gr. likely = grams (unusual for oils; possibly drops intended)"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 2,
+    "unit": "gr"
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils of cloves and cinnamon."
+  ],
+  "notes_en": "Rose-colored.",
+  "ocr_flags": [
+   "gr. unit unclear for essential oils"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "rosolio-swiss",
+  "page": 515,
+  "section_en": "Rosoli (Sweet Liqueurs)",
+  "title_it": "Rosolio Svizzero",
+  "title_en": "Swiss Rosolio",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di mandorle amare",
+    "name_en": "Essential oil of bitter almonds",
+    "qty": 1,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di calamо",
+    "name_en": "Essential oil of sweet flag (calamus)",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 0.2,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di rosmarino",
+    "name_en": "Essential oil of rosemary",
+    "qty": 0.2,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 0.2,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di timo",
+    "name_en": "Essential oil of thyme",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di ginepro",
+    "name_en": "Essential oil of juniper",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 6,
+    "unit": "gr"
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils in the specified proportions.",
+   "Add vanilla tincture."
+  ],
+  "notes_en": "Green-colored.",
+  "confidence": 0.9
+ },
+ {
+  "id": "rosolio-german",
+  "page": 515,
+  "section_en": "Rosoli (Sweet Liqueurs)",
+  "title_it": "Rosolio tedesco",
+  "title_en": "German Rosolio",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di scorze d'arancio",
+    "name_en": "Essential oil of orange peel",
+    "qty": 1,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 1,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di galanga",
+    "name_en": "Essential oil of galangal",
+    "qty": 1,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 1,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 1.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Estratto di cognac",
+    "name_en": "Cognac extract",
+    "qty": 5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Etere solforico",
+    "name_en": "Sulfuric ether",
+    "qty": 2,
+    "unit": "gr"
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils and extracts in the specified proportions.",
+   "The ether aids volatility and blending."
+  ],
+  "notes_en": "Brown-green colored.",
+  "ocr_flags": [
+   "Etere solforico - sulfuric ether was used in liqueur-making of this era as a solvent/volatilizer"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "usquebaugh",
+  "page": 515,
+  "section_en": "Rosoli (Sweet Liqueurs)",
+  "title_it": "USQUEBAUGH",
+  "title_en": "Usquebaugh",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'anico",
+    "name_en": "Essential oil of anise",
+    "qty": 1,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di calamо",
+    "name_en": "Essential oil of sweet flag (calamus)",
+    "qty": 0.5,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 1,
+    "unit": "gr"
+   },
+   {
+    "name_it": "Olio essenz. di noce moscata",
+    "name_en": "Essential oil of nutmeg",
+    "qty": 0.5,
+    "unit": "gr"
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils in the specified proportions."
+  ],
+  "notes_en": "Usquebaugh is a traditional Irish/Scottish spiced liqueur.",
+  "ocr_flags": [
+   "Olio essenz. d'anico - likely 'anice' (anise)"
+  ],
+  "confidence": 0.9
+ }
+]

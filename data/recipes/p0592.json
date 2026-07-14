@@ -1,0 +1,311 @@
+[
+ {
+  "id": "liqueur-tincture-with-malaga-and-alcohol",
+  "page": 592,
+  "section_en": "Liqueur Tinctures",
+  "title_it": "Tintura (aggiunta finale)",
+  "title_en": "Liqueur Tincture (Final Addition)",
+  "method": "infusion",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "final yield at 45% ABV"
+  },
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool 45%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Tintura colata",
+    "name_en": "Strained tincture",
+    "qty": 2.5,
+    "unit": "litres",
+    "note": "from prior maceration"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol of 90°",
+    "qty": 9.2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino Malaga",
+    "name_en": "Malaga wine",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.3,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "To the strained tincture (2.5 litres) after maceration, add the alcohol, Malaga wine, and water.",
+   "Mix to obtain a final product of 10 litres at 45% alcohol strength."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "compound-bitters-essence",
+  "page": 592,
+  "section_en": "Compound Essences and Extracts",
+  "title_it": "Essenza composta (II)",
+  "title_en": "Compound Essence II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 42,
+   "raw": "alcool di 42°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Succo di liquirizia",
+    "name_en": "Liquorice juice",
+    "qty": 140,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Estratto di aloe",
+    "name_en": "Aloe extract",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Agarico",
+    "name_en": "Agaric",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio (semi)",
+    "name_en": "Fennel seeds",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Carvi",
+    "name_en": "Caraway",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 42°",
+    "name_en": "Alcohol of 42°",
+    "qty": 20,
+    "unit": "decilitres",
+    "unit_implicit": true
+   }
+  ],
+  "notes_en": "A. Mamma [recipe attribution]",
+  "confidence": 0.92
+ },
+ {
+  "id": "herbal-bitters-digestive",
+  "page": 592,
+  "section_en": "Compound Essences and Extracts",
+  "title_it": "Essenza composta",
+  "title_en": "Herbal Digestive Bitters",
+  "method": "maceration",
+  "yield": {
+   "amount": 5,
+   "unit": "litres",
+   "note": "final yield after maceration and straining"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Angelica (radici)",
+    "name_en": "Angelica root",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Calamus (aromatic)",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 75,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian root",
+    "qty": 75,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Lemon balm",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Blessed thistle",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Rosmarino",
+    "name_en": "Rosemary",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Salvia",
+    "name_en": "Sage",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Maggiorana",
+    "name_en": "Marjoram",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Timo",
+    "name_en": "Thyme",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Lavanda (fiori)",
+    "name_en": "Lavender flowers",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 15,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "Nutmeg",
+    "qty": 6,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 6,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol of 90°",
+    "qty": null,
+    "unit": "litres",
+    "note": "quantity omitted in source; alcohol to dissolve ingredients"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.75,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Combine all herbs, roots, and spices.",
+   "Add alcohol of 90° and water (1.75 litres).",
+   "Macerate or digest the mixture.",
+   "After maceration, strain through pressing or filtration to obtain 5 litres of finished tincture."
+  ],
+  "ocr_flags": [
+   "Coriandoli: likely 'coriandolo' (coriander), OCR split",
+   "Final alcohol quantity for III recipe incomplete in source"
+  ],
+  "confidence": 0.88
+ }
+]

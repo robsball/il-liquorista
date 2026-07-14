@@ -1,0 +1,225 @@
+[
+ {
+  "id": "generoso-wine-extract-with-rum-and-spices",
+  "page": 692,
+  "section_en": "Fortified Wine Extracts",
+  "title_it": "V.",
+  "title_en": "Generoso Wine Extract with Rum and Spices",
+  "method": "maceration",
+  "yield": {
+   "amount": 15,
+   "unit": "liters",
+   "note": "initial wine base; final yield depends on dilution ratio"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": 100,
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "vino generoso",
+    "name_en": "generoso wine (fortified wine)",
+    "qty": 15,
+    "unit": "liters"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Arac vero fino",
+    "name_en": "fine Arak",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Rhum Giamaica fino",
+    "name_en": "fine Jamaica Rum",
+    "qty": 1,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "alcohol 95°",
+    "qty": 4,
+    "unit": "liters"
+   },
+   {
+    "name_it": "succo di limoni",
+    "name_en": "lemon juice",
+    "qty": 4,
+    "unit": "fruits",
+    "note": "from 4 lemons"
+   },
+   {
+    "name_it": "succo di arance",
+    "name_en": "orange juice",
+    "qty": 10,
+    "unit": "fruits",
+    "note": "from 10 oranges"
+   },
+   {
+    "name_it": "scorze di limoni e arance",
+    "name_en": "lemon and orange zest",
+    "qty": null,
+    "unit": "to taste",
+    "note": "finely sliced, macerated in alcohol for 2 days"
+   },
+   {
+    "name_it": "Essenza di ananas",
+    "name_en": "pineapple essence (fruit)",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "cloves",
+    "qty": 2.5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "cinnamon",
+    "qty": 2.5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "citric acid (dissolved in little water)",
+    "qty": 9,
+    "unit": "grams",
+    "note": "range 8–10 grams; dissolved in a little water"
+   }
+  ],
+  "steps_en": [
+   "Heat 15 liters of generoso wine to boiling with 2 kg of sugar.",
+   "In alcohol, macerate the finely sliced zest of lemons and oranges separately for 2 days.",
+   "Decant the alcohol tincture and add it to the wine-sugar mixture.",
+   "Add the pineapple essence, cloves, cinnamon, and citric acid (dissolved in a little water).",
+   "For serving: dilute 1/3 of this extract with 2/3 boiling water to obtain a pleasant beverage."
+  ],
+  "notes_en": "The final beverage is prepared by diluting one part of the extract with two parts hot water.",
+  "confidence": 0.92
+ },
+ {
+  "id": "clove-cinnamon-cardamom-essential-oil-tincture",
+  "page": 692,
+  "section_en": "Essential Oil Tinctures",
+  "title_it": "VI.",
+  "title_en": "Clove, Cinnamon, and Cardamom Essential Oil Tincture",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 1000,
+   "unit": "grams"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "essential oil of cloves",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di cannella Ceylon",
+    "name_en": "essential oil of Ceylon cinnamon",
+    "qty": 4,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Olio essenz. di cardamomo",
+    "name_en": "essential oil of cardamom",
+    "qty": 1,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "alcohol 95°",
+    "qty": 1000,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Combine essential oil of cloves, Ceylon cinnamon, and cardamom.",
+   "Add to 95° alcohol."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "ore-ipus-spiced-wine",
+  "page": 692,
+  "section_en": "Spiced Wine Beverages",
+  "title_it": "Òre ipus",
+  "title_en": "Òre ipus (Spiced Wine)",
+  "method": "other",
+  "temperature_c": 100,
+  "ingredients": [
+   {
+    "name_it": "vino rosso",
+    "name_en": "red wine",
+    "qty": 1.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "cannella intera",
+    "name_en": "whole cinnamon sticks",
+    "qty": 3,
+    "unit": "grams"
+   },
+   {
+    "name_it": "vaniglia",
+    "name_en": "vanilla",
+    "qty": 2,
+    "unit": "grams"
+   },
+   {
+    "name_it": "zucchero",
+    "name_en": "sugar",
+    "qty": 250,
+    "unit": "grams"
+   },
+   {
+    "name_it": "tuorli d'uovo",
+    "name_en": "egg yolks",
+    "qty": 8,
+    "unit": "pieces"
+   },
+   {
+    "name_it": "vino freddo",
+    "name_en": "cold wine",
+    "qty": null,
+    "unit": "to taste",
+    "note": "a little, for beating the yolks"
+   }
+  ],
+  "steps_en": [
+   "Boil 1.5 liters of red wine with 3 grams of whole cinnamon, 2 grams of vanilla, and 250 grams of sugar.",
+   "Beat 8 egg yolks with a little cold wine.",
+   "Pour the beaten yolks into the boiling wine mixture.",
+   "Allow to cool, stirring continuously."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "hippocras-introduction",
+  "page": 692,
+  "section_en": "Spiced Wine Beverages",
+  "title_it": "Ippocrasso",
+  "title_en": "Hippocras (Introduction)",
+  "method": "unknown",
+  "ingredients": [],
+  "steps_en": [],
+  "notes_en": "Hippocras (Vinum hypocraticum) was a much-favored beverage among our ancestors, composed of generoso wine in which a mixture of aromatic substances has been macerated. Simple hippocras preparations using single botanicals such as cinnamon are also possible.",
+  "confidence": 0.88
+ }
+]

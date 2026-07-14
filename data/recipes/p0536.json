@@ -1,0 +1,303 @@
+[
+ {
+  "id": "persico-macerate-base",
+  "page": 536,
+  "section_en": "Persico",
+  "title_it": "Persico",
+  "title_en": "Persico (Bitter Almond Liqueur) – Base Maceration",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "Alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 1000,
+    "unit": "g"
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 130,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 400,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol, 70°",
+    "qty": 12,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Crush the bitter almonds and let them steep for one day in an equal volume of cold water.",
+   "Pound the softened almonds in a mortar, then mix them with the indicated spices.",
+   "Combine with the 70° alcohol and macerate to produce the base extract.",
+   "In place of bitter almonds, 2 kg of apricot kernels may be used."
+  ],
+  "notes_en": "This is the preparatory maceration; the resulting extract is later distilled/used to prepare the finished liqueur (see 'Persico Liqueur – Finishing Blend').",
+  "ocr_flags": [
+   "Persico",
+   "digestione"
+  ],
+  "confidence": 0.78
+ },
+ {
+  "id": "persico-liqueur-finishing",
+  "page": 536,
+  "section_en": "Persico",
+  "title_it": "Liquore (Persico)",
+  "title_en": "Persico Liqueur – Finishing Blend",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 34,
+   "unit": "L",
+   "note": "approximate total of extract + alcohol + syrup + water"
+  },
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto speciale",
+    "name_en": "Special extract",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol, 95°",
+    "qty": 12.75,
+    "unit": "L"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Simple syrup",
+    "qty": 14,
+    "unit": "L"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.25,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Combine the special extract with the 95° alcohol.",
+   "Add the syrup and water, mixing thoroughly.",
+   "Color the liqueur green."
+  ],
+  "notes_en": "Final coloring: green ('Verde').",
+  "ocr_flags": [
+   "Estratto speciale"
+  ],
+  "confidence": 0.75
+ },
+ {
+  "id": "prugne-extract-blend",
+  "page": 536,
+  "section_en": "Prugne",
+  "title_it": "Prugne",
+  "title_en": "Plum Liqueur – Extract Blend",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 18,
+   "unit": "L",
+   "note": "sum of the four extract components"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Estratto di kirsch",
+    "name_en": "Kirsch extract",
+    "qty": 12,
+    "unit": "L"
+   },
+   {
+    "name_it": "Estratto di rhum",
+    "name_en": "Rum extract",
+    "qty": 2,
+    "unit": "L"
+   },
+   {
+    "name_it": "Estratto di cognac",
+    "name_en": "Cognac extract",
+    "qty": 2,
+    "unit": "L"
+   },
+   {
+    "name_it": "Tintura d'ireos",
+    "name_en": "Orris root tincture",
+    "qty": 2,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Blend the kirsch, rum, and cognac extracts together.",
+   "Add the orris root tincture and mix well before final dilution/bottling (dilution ratios not given on this page)."
+  ],
+  "notes_en": "Likely a flavoring base to be diluted with alcohol/syrup/water as in other recipes on this page; the dilution step is not printed here.",
+  "ocr_flags": [
+   "ireos"
+  ],
+  "confidence": 0.68
+ },
+ {
+  "id": "rose-liqueur",
+  "page": 536,
+  "section_en": "Rose",
+  "title_it": "Rose",
+  "title_en": "Rose Liqueur",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Petali di rose",
+    "name_en": "Rose petals",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Fiori d'arancio",
+    "name_en": "Orange blossoms",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "Printed with ditto mark under 'gr.' column; likely should be liters, but reproduced as printed."
+   }
+  ],
+  "steps_en": [
+   "Combine rose petals, orange blossoms, cloves, and vanilla.",
+   "Infuse in alcohol (quantity as printed; likely intended in liters rather than grams)."
+  ],
+  "notes_en": "The alcohol quantity (5) is printed under the same 'gr.' column as the solids, which is unusual for an infusion base; this may be a printing/OCR artifact where the unit should be liters.",
+  "ocr_flags": [
+   "Alcool quantity/unit uncertain (printed as gr. 5)"
+  ],
+  "confidence": 0.55
+ },
+ {
+  "id": "rostock-spice-liqueur",
+  "page": 536,
+  "section_en": "Rostock",
+  "title_it": "Rostock",
+  "title_en": "Rostock (Caraway-Cumin Spice Liqueur)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "Alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 50,
+    "unit": "g"
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 33,
+    "unit": "g"
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 66,
+    "unit": "g"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 66,
+    "unit": "g"
+   },
+   {
+    "name_it": "Ireos",
+    "name_en": "Orris root",
+    "qty": 66,
+    "unit": "g"
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Allspice",
+    "qty": 100,
+    "unit": "g"
+   },
+   {
+    "name_it": "Comino (semi)",
+    "name_en": "Cumin seeds",
+    "qty": 500,
+    "unit": "g"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol, 60°",
+    "qty": 16,
+    "unit": "L"
+   }
+  ],
+  "steps_en": [
+   "Combine all spices (cinnamon, green anise, fennel, coriander, orris root, allspice, cumin seeds).",
+   "Macerate the mixture in 60° alcohol to prepare the Rostock liqueur base."
+  ],
+  "notes_en": "A caraway/cumin-forward spice liqueur in the style of Kümmel.",
+  "ocr_flags": [],
+  "confidence": 0.82
+ }
+]

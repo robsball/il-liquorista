@@ -1,0 +1,310 @@
+[
+ {
+  "id": "filtered-tincture",
+  "page": 591,
+  "section_en": "Filtered Tincture (Continuation)",
+  "title_it": "Alla tintura filtrata, spremendo, dopo macerazione",
+  "title_en": "Filtered Tincture (after maceration and pressing)",
+  "method": "maceration",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool 45%"
+  },
+  "ingredients": [
+   {
+    "name_en": "alcohol",
+    "name_it": "Alcool",
+    "qty": 3500,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Sciroppo",
+    "qty": 0.8,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 3.3,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "notes_en": "Starting base: 2.400 litres. Final product 20 litres at 45% alcohol.",
+  "confidence": 0.95
+ },
+ {
+  "id": "stomachic-of-germany",
+  "page": 591,
+  "section_en": "Stomachic Bitters",
+  "title_it": "A. Stomatico di Germania",
+  "title_en": "Stomachic of Germany",
+  "method": "maceration",
+  "ingredients": [
+   {
+    "name_en": "wormwood",
+    "name_it": "Assenzio",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "orange peel",
+    "name_it": "Scorze di arance",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "lemon peel",
+    "name_it": "Scorze di limoni",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "ginger",
+    "name_it": "Zenzero",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "calamus root",
+    "name_it": "Calamo",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "holy thistle",
+    "name_it": "Cardo santo",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "coriander",
+    "name_it": "Coriandoli",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Ceylon cinnamon",
+    "name_it": "Cannella Ceylan",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "juniper",
+    "name_it": "Ginepro",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "elderflower",
+    "name_it": "Sambuco (fiori)",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "cornflower",
+    "name_it": "Cornino",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "iris root",
+    "name_it": "Iride",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "cascarilla bark",
+    "name_it": "Cascarilla",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "zedoary",
+    "name_it": "Zedoaria",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Amaro Fino."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "stomachic-of-udine",
+  "page": 591,
+  "section_en": "Stomachic Bitters",
+  "title_it": "A. di Udine",
+  "title_en": "Stomachic of Udine",
+  "method": "maceration",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_en": "centaury (lesser)",
+    "name_it": "Centaurea min.",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "wormwood",
+    "name_it": "Assenzio",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "gentian root",
+    "name_it": "Genziana",
+    "qty": 500,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "alcohol at 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 1,
+    "unit": "litre",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "vermouth",
+    "name_it": "Vermouth",
+    "qty": 2,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 7,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "confidence": 0.9,
+  "ocr_flags": [
+   "2 fa – possibly '2' followed by page break or '2 l' (litres implied)"
+  ]
+ },
+ {
+  "id": "stomachic-boonekamp",
+  "page": 591,
+  "section_en": "Stomachic Bitters",
+  "title_it": "A. Stomatico Boonekamp I.",
+  "title_en": "Stomachic Boonekamp (Part I)",
+  "method": "maceration",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_en": "liquorice juice",
+    "name_it": "Succo di liquirizia",
+    "qty": 200,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "liquorice root",
+    "name_it": "Radice di liquirizia",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "aloe",
+    "name_it": "Aloe",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "marjoram",
+    "name_it": "Maggiorana",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "iris root",
+    "name_it": "Ireos (rad.)",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "galangal",
+    "name_it": "Galanga",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "gentian root",
+    "name_it": "Genziana",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "cloves",
+    "name_it": "Garofani",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "saffron",
+    "name_it": "Zafferano",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "alcohol at 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 1.7,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "water",
+    "name_it": "Acqua",
+    "qty": 0.8,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "confidence": 0.88,
+  "ocr_flags": [
+   "1«7 – likely '1.7' litres, OCR misread decimal as guillemet"
+  ]
+ }
+]

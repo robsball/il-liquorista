@@ -1,0 +1,291 @@
+[
+ {
+  "id": "sweet-nitro-spirit",
+  "page": 338,
+  "section_en": "Flavoring Essences and Spirits",
+  "title_it": "Spirito di nitro dolce greggio",
+  "title_en": "Sweet Nitro Spirit (crude)",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_en": "Sweet nitro spirit (crude)",
+    "name_it": "Spirito di nitro dolco greggio",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Vanilla tincture",
+    "name_it": "Tintura di vaniglia",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Gall nut tincture",
+    "name_it": "Tintura di noci di galla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR shows '00'; likely '10' given proportions"
+   },
+   {
+    "name_en": "Rectified pyroligneous acid",
+    "name_it": "Aceto pirolegnoso rettificato",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Caramel tincture",
+    "name_it": "Tintura di caramello",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Alcohol 95°",
+    "name_it": "Alcool di 95°",
+    "qty": 150,
+    "unit": "ml",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Keep the mixture in a well-sealed, cool container for 8 days, shaking frequently.",
+   "Filter."
+  ],
+  "notes_en": "Use 10 g per 1 liter of 50% alcohol.",
+  "ocr_flags": [
+   "Tintura di noci di galla quantity shown as '00', likely '10'"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "half-rum-cut-rum",
+  "page": 338,
+  "section_en": "Rum Preparations",
+  "title_it": "Mezzo Rhum o Rhum tagliato",
+  "title_en": "Half Rum or Cut Rum",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "rhum della Giamaica puro a 70% di alcool"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Jamaica Rum, fine",
+    "name_it": "Rhum Giamaica fino",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     1.5,
+     5,
+     3
+    ]
+   },
+   {
+    "name_en": "Imitation rum",
+    "name_it": "Imitazione",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "Variant I: 3.5 L; Variant II: 5 L; Variant III: 3 L",
+    "variants": [
+     3.5,
+     5,
+     3
+    ]
+   },
+   {
+    "name_en": "Alcohol 90°",
+    "name_it": "Alcool di 90°",
+    "qty": 7,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null
+    ],
+    "note": "Variant I only"
+   },
+   {
+    "name_en": "Syrup",
+    "name_it": "Siroppo",
+    "qty": 2.14,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null
+    ],
+    "note": "Variant I only"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Made with pure Jamaica rum at 70% alcohol, or a mixture of pure rum and imitation rum (fajon rum) combined together. Three variants shown for different quality grades.",
+  "ocr_flags": [
+   "fafon rhum — presumed 'fajon rhum' (imitation rum)"
+  ],
+  "confidence": 0.8
+ },
+ {
+  "id": "rum-variant-ii",
+  "page": 338,
+  "section_en": "Rum Preparations",
+  "title_it": "Mezzo Rhum o Rhum tagliato — Variante II",
+  "title_en": "Half Rum or Cut Rum — Variant II",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "alcool di 60°-70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Fine rum",
+    "name_it": "Rhum fino",
+    "qty": 12,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Alcohol 60°–70°",
+    "name_it": "Alcool di 60°-70°",
+    "qty": 8,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Vanilla",
+    "name_it": "Vaniglia",
+    "qty": 4.5,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "4–5 g"
+   }
+  ],
+  "steps_en": [
+   "First exhaust the vanilla by treating it in successive batches with alcohol (10°), or use vanilla tincture if its proof is known precisely, in a quantity corresponding to the stated vanilla."
+  ],
+  "notes_en": "Vanilla may be steeped in stages or a standardized tincture of known strength may be used instead.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "rum-variant-iii",
+  "page": 338,
+  "section_en": "Rum Preparations",
+  "title_it": "Mezzo Rhum o Rhum tagliato — Variante III",
+  "title_en": "Half Rum or Cut Rum — Variant III",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 65,
+   "raw": "alcool di 60°-70°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_en": "Fine rum",
+    "name_it": "Rhum fino",
+    "qty": 5,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ],
+    "note": "semifino ordinario: 8 L"
+   },
+   {
+    "name_en": "Alcohol 60°–70°",
+    "name_it": "Alcool di 60°-70%",
+    "qty": 15,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     18
+    ],
+    "note": "semifino ordinario: 18 L"
+   },
+   {
+    "name_en": "Refined sugar",
+    "name_it": "Zucchero raffinato",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     200
+    ],
+    "note": "semifino ordinario: 200 g"
+   },
+   {
+    "name_en": "Fine Souchong tea",
+    "name_it": "Thè Souchong fino",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "fine quality only"
+   },
+   {
+    "name_en": "Vanilla",
+    "name_it": "Vaniglia",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "fine quality only"
+   },
+   {
+    "name_en": "Ceylon cinnamon",
+    "name_it": "Cannella Ceylan",
+    "qty": 18,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ],
+    "note": "fine quality only"
+   },
+   {
+    "name_en": "Rum essence",
+    "name_it": "Essenza di rhum",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     80
+    ],
+    "note": "semifino ordinario: 80–85 g"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two quality grades shown: fine (left column) and semifino ordinario (right column). Fine quality includes tea, vanilla, and cinnamon; semifino ordinario uses rum essence instead.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

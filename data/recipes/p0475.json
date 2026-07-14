@@ -1,0 +1,250 @@
+[
+ {
+  "id": "chartreuse-i",
+  "page": 475,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse I",
+  "title_en": "Chartreuse I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di angelica (semi)",
+    "name_en": "Essential oil of angelica (seeds)",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of melissa",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di issopo",
+    "name_en": "Essential oil of hyssop",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di menta inglese",
+    "name_en": "Essential oil of English mint",
+    "qty": 40,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella Ceylan",
+    "name_en": "Essential oil of Ceylon cinnamon",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di noci moscate",
+    "name_en": "Essential oil of nutmeg",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 700,
+    "unit": "g"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "g"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "g"
+   }
+  ],
+  "steps_en": [
+   "Dilute the essential oils in the alcohol.",
+   "Add the sugar solution dissolved in water, stirring.",
+   "Color yellow with saffron tincture, green with spinach leaf tincture, or with chlorophyll.",
+   "Filter through paper."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "chartreuse-ii-yellow",
+  "page": 475,
+  "section_en": "Chartreuse",
+  "title_it": "Chartreuse II (Gialla)",
+  "title_en": "Chartreuse II (Yellow)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di angelica",
+    "name_en": "Essential oil of angelica",
+    "qty": 20,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di cajeputi",
+    "name_en": "Essential oil of cajeput",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 1,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 3,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di issopo",
+    "name_en": "Essential oil of hyssop",
+    "qty": 5,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di maois",
+    "name_en": "Essential oil of maois",
+    "qty": 3,
+    "unit": "g",
+    "note": "Possibly mace or similar spice; spelling uncertain"
+   },
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di melissa",
+    "name_en": "Essential oil of melissa",
+    "qty": null,
+    "unit": "g",
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.2,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.8,
+    "unit": "kg"
+   }
+  ],
+  "steps_en": [
+   "To the essential oil mixture, add a hot solution of sugar dissolved in water.",
+   "Color with saffron tincture."
+  ],
+  "notes_en": null,
+  "ocr_flags": [
+   "maois"
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "cordiale-di-danzica",
+  "page": 475,
+  "section_en": null,
+  "title_it": "Cordiale di Danzica",
+  "title_en": "Cordial of Danzig",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di menta piperita",
+    "name_en": "Essential oil of peppermint",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Estratto speciale p. Acqua d'oro Danzica",
+    "name_en": "Special extract for Danzig Gold Water (see p. 239)",
+    "qty": 2,
+    "unit": "g"
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": null,
+    "unit": "g",
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Olio essenz. di assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 2,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenz. di galanga",
+    "name_en": "Essential oil of galangal",
+    "qty": 8,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 8,
+    "unit": "drops"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete; preparation instructions not provided.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

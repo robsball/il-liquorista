@@ -1,0 +1,231 @@
+[
+ {
+  "id": "arac-di-goa",
+  "page": 346,
+  "section_en": "Arac and Liqueurs",
+  "title_it": "Arac di Goa",
+  "title_en": "Arac of Goa",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere butirrico",
+    "name_en": "Butyric ether",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di zafferano",
+    "name_en": "Saffron tincture",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity not specified in source"
+   },
+   {
+    "name_it": "Estratto di arac",
+    "name_en": "Arac extract",
+    "qty": 85,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aroma di arac",
+    "name_en": "Arac flavoring",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere di rhum",
+    "name_en": "Rum ether",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 20,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arac genuino",
+    "name_en": "Genuine arac",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Soluzione di miele",
+    "name_en": "Honey solution",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "dissolved in 7 L distilled water, added hot"
+   }
+  ],
+  "steps_en": [
+   "Combine all ingredients except honey solution.",
+   "Prepare a hot solution of 200 g honey in 7 L distilled water and add to the mixture."
+  ],
+  "notes_en": "The honey solution is added hot to the main mixture.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "arac-with-eggs-and-cacao",
+  "page": 346,
+  "section_en": "Arac and Liqueurs",
+  "title_it": "Arac di uova al cacao",
+  "title_en": "Arac with Eggs and Cacao",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Tuorli di uova",
+    "name_en": "Egg yolks",
+    "qty": 10,
+    "unit": "number",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Siroppo semplice",
+    "name_en": "Simple syrup",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di cacao",
+    "name_en": "Cacao essence",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "prepared separately; added after intimate mixing of egg yolks and syrup"
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 0.25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 2,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 0.1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cacao deoleato e tostato",
+    "name_en": "Defatted and roasted cacao",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 400,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arac",
+    "name_en": "Arac",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino Madera",
+    "name_en": "Madeira wine",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "in hot solution; OCR damaged original figure"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 700,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "in hot solution with sugar"
+   }
+  ],
+  "steps_en": [
+   "Mix egg yolks intimately with simple syrup.",
+   "Prepare the cacao essence separately: macerate for 8 days the spices (mace, cloves, cinnamon, vanilla, ginger) and defatted roasted cacao in 95° alcohol, arac, and Madeira wine.",
+   "Add the prepared cacao essence to the egg yolk and syrup mixture while stirring.",
+   "Strain the resulting liquid through a filter.",
+   "Pour a hot solution of sugar dissolved in water into the filtered liquid."
+  ],
+  "notes_en": "The cacao essence is prepared in advance by 8-day maceration. The final product is finished by adding a hot sugar syrup.",
+  "ocr_flags": [
+   "Zucchero quantity marked as '000' in source (likely OCR corruption of '1000')"
+  ],
+  "confidence": 0.85
+ }
+]

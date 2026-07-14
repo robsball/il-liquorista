@@ -1,0 +1,287 @@
+[
+ {
+  "id": "essence-of-arak",
+  "page": 343,
+  "section_en": "Imitations of Arak",
+  "title_it": "Essenza di Arac",
+  "title_en": "Essence of Arak",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Etere formico",
+    "name_en": "Formic ether",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Etere butirrico concentrato",
+    "name_en": "Butyric ether (concentrated)",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Essenza di rhum",
+    "name_en": "Rum essence",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di carrube",
+    "name_en": "Carob tincture",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di ireos",
+    "name_en": "Iris tincture",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Cinnamon essential oil",
+    "qty": 30,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Clove essential oil",
+    "qty": 3,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di bergamotto",
+    "name_en": "Bergamot essential oil",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di vinaccioli",
+    "name_en": "Grape seed essential oil",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "This essence is used to prepare arak imitations in a manner analogous to rum imitations, employing special extracts.",
+  "ocr_flags": [
+   "ireos (possibly 'iride' or botanical iris species)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "aroma-for-arak",
+  "page": 343,
+  "section_en": "Imitations of Arak",
+  "title_it": "Aroma per Arac",
+  "title_en": "Aroma for Arak",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "Alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di betulla",
+    "name_en": "Birch essence",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     10,
+     null
+    ]
+   },
+   {
+    "name_it": "Essenza di sedano",
+    "name_en": "Celery essence",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     8,
+     5
+    ]
+   },
+   {
+    "name_it": "Essenza di maraschino",
+    "name_en": "Maraschino essence",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     25,
+     10
+    ]
+   },
+   {
+    "name_it": "Etere enantico (cognac)",
+    "name_en": "Enanthic ether (cognac)",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     5
+    ]
+   },
+   {
+    "name_it": "Estratto di vaniglia",
+    "name_en": "Vanilla extract",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     10
+    ]
+   },
+   {
+    "name_it": "Tintura di zafferano",
+    "name_en": "Saffron tincture",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     1
+    ],
+    "note": "not used in first variant"
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol 95°",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     250,
+     500
+    ]
+   },
+   {
+    "name_it": "Estratto di rhum",
+    "name_en": "Rum extract",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     250,
+     null
+    ],
+    "note": "not used in first and third variants"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Three formulation variants presented in columns for proportional adjustment.",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "arak-extract-i",
+  "page": 343,
+  "section_en": "Imitations of Arak",
+  "title_it": "Estratti di Arac – I",
+  "title_en": "Arak Extract – I",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza di rhum incolora",
+    "name_en": "Colorless rum essence",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito di nitro dolce",
+    "name_en": "Sweet nitre spirit (ethyl nitrite)",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acido pirolegnoso greggio",
+    "name_en": "Crude pyroligneous acid (wood vinegar)",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura aromatica",
+    "name_en": "Aromatic tincture",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di noci galla",
+    "name_en": "Gall-nut tincture",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di ratania",
+    "name_en": "Rhatany tincture",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 700,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "The manufacture of arak extracts is simpler than that of rum extracts: they are composed of colorless rum extract combined with arak aroma. Use of the rum extract from the first formula is preferred.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ }
+]

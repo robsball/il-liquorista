@@ -1,0 +1,216 @@
+[
+ {
+  "id": "saffron-liqueur",
+  "page": 526,
+  "title_it": "Zafferano",
+  "title_en": "Saffron",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 2500,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cognac fino",
+    "name_en": "Fine cognac",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1700,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Allow ingredients to digest; then strain, press, and filter the liquid.",
+   "To prepare the liqueur (42% ABV), dilute 600–700 g of extract in 8.850 L of 90° alcohol and 11.500 L of syrup containing 7.500 kg of refined sugar."
+  ],
+  "notes_en": "Final product approximately 42% ABV.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "cacao-liqueur",
+  "page": 526,
+  "title_it": "Cacao",
+  "title_en": "Cacao",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cacao deoleato e torrefatto",
+    "name_en": "Defatted and roasted cacao",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 110,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Aromatic (II).",
+   "For the liqueur: combine 50 g extract, 50 g vanilla extract, 12.75 L of 80° alcohol, 17 L syrup, and 4.25 L water."
+  ],
+  "notes_en": "Liqueur color: white–red–brown. Prepared using the method for Aromatic (II).",
+  "ocr_flags": [],
+  "confidence": 0.88
+ },
+ {
+  "id": "coffee-liqueur",
+  "page": 526,
+  "title_it": "Caffè",
+  "title_en": "Coffee",
+  "method": "infusion",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "final product"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Caffè tostato e macinato di recente",
+    "name_en": "Freshly roasted and ground coffee",
+    "qty": 4000,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     2000
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ],
+    "note": "first proportion omitted"
+   },
+   {
+    "name_it": "Pimento",
+    "name_en": "Pimento",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     8
+    ],
+    "note": "first proportion omitted"
+   },
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     10
+    ],
+    "note": "first proportion omitted"
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 7.25,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     7.25
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 2.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "variants": [
+     2.25
+    ]
+   }
+  ],
+  "steps_en": [
+   "For the liqueur: combine 1500 g coffee extract, 1 g mace essence, 5 g vanilla extract, 7.5 L of 80° alcohol, 10 L syrup, and cognac to taste."
+  ],
+  "notes_en": "Color: dark brown. Final product: 20 liters. Two proportion columns provided, likely representing different batch sizes or variations.",
+  "ocr_flags": [
+   "Pimento"
+  ],
+  "confidence": 0.85
+ }
+]

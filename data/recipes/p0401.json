@@ -1,0 +1,314 @@
+[
+ {
+  "id": "clove-rosoli",
+  "page": 401,
+  "section_en": "Rosoli",
+  "title_it": "Garofani (Rosolio di)",
+  "title_en": "Clove Rosoli",
+  "method": "distillation",
+  "yield": {
+   "amount": 18,
+   "unit": "litres",
+   "note": "of 70° spirit; final volume after adding infusions and syrup"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Orris root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tintura d'ambra",
+    "name_en": "Amber tincture",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua di fior d'arancio",
+    "name_en": "Orange-flower water",
+    "qty": 150,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 18,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate the cloves, orris root, sweet flag, cardamom, ginger, Ceylon cinnamon, nutmeg, and vanilla in 25 litres of 60° alcohol for 24 hours.",
+   "Distil slowly to obtain 18 litres of 70° spirit.",
+   "Add the amber tincture, orange-flower water, and syrup.",
+   "Colour with caramel to golden hue or adjust with sugar colouring as desired."
+  ],
+  "notes_en": "Final colour should be golden (oro) or adjusted with caramel colouring.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "juniper-alpine-style",
+  "page": 401,
+  "section_en": "Alpine Genèpi",
+  "title_it": "Genèpi des Alpes",
+  "title_en": "Juniper-Alpine Genèpi",
+  "method": "infusion",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "final green product"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Genèpi in fiore",
+    "name_en": "Genèpi flowers",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Tanaceto",
+    "name_en": "Tansy",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica root",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 4.25,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3.75,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Infuse the genèpi flowers, tansy, peppermint, angelica root, and galangal in 85° alcohol.",
+   "Dissolve the sugar in the infusion.",
+   "Proceed with standard method (maceration and distillation as appropriate).",
+   "Final product should be green (Verde Pomo) with a yield of 10 litres."
+  ],
+  "notes_en": "Product name suggests olive-green colour (Verde Pomo).",
+  "ocr_flags": [
+   "Genèpi (may be variant of Génépi)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "juniper-i",
+  "page": 401,
+  "section_en": "Juniper",
+  "title_it": "Ginepro I",
+  "title_en": "Juniper I",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres",
+   "note": "olive-green product"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "alcool di 80°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 5,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 600,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Orris root",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "80° alcohol",
+    "qty": 5.65,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.8,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate juniper berries, orris root, and coriander in 80° alcohol for 5 days.",
+   "Distil slowly without rectification.",
+   "Dissolve sugar in the distillate.",
+   "Final product: olive-green colour (Verde oliva), 10 litres."
+  ],
+  "notes_en": "Distil slowly without rectification to preserve character. Final colour should be olive-green.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "juniper-ii",
+  "page": 401,
+  "section_en": "Juniper",
+  "title_it": "Ginepro II",
+  "title_en": "Juniper II",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 1000,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 35,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 20,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Infuse juniper berries, green anise, and coriander in 90° alcohol."
+  ],
+  "notes_en": "Recipe fragment; method and final proportions not fully specified in source.",
+  "ocr_flags": [
+   "Anice verde (may be 'Anice verde' or variant spelling)"
+  ],
+  "confidence": 0.78
+ }
+]

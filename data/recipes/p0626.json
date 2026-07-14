@@ -1,0 +1,302 @@
+[
+ {
+  "id": "italian-bitters-iv",
+  "page": 626,
+  "section_en": "Italian Bitters",
+  "title_it": "IV",
+  "title_en": "Italian Bitters IV",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Assenzio (sommità fiorite)",
+    "name_en": "Absinthe (flowering tops)",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Camedrio",
+    "name_en": "Germander",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (radice)",
+    "name_en": "Gentian (root)",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze d'arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro chinese",
+    "name_en": "Chinese rhubarb",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cascarilla",
+    "name_en": "Cascarilla",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Spirit at 60°",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all botanical ingredients in the spirit for 8 days."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "italian-liqueur-i",
+  "page": 626,
+  "section_en": "A. Italian",
+  "title_it": "I",
+  "title_en": "Italian Liqueur I",
+  "method": "infusion",
+  "yield": {
+   "amount": 20,
+   "unit": "L",
+   "note": "alcohol 36%"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Assenzio",
+    "name_en": "Absinthe",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo (semi)",
+    "name_en": "Cardamom (seeds)",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica (seeds)",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arancia (scorze)",
+    "name_en": "Orange (peel)",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (radice)",
+    "name_en": "Angelica (root)",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "China corteccia",
+    "name_en": "Cinchona bark",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga (rad.)",
+    "name_en": "Galangal (root)",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arancia amara (scorze)",
+    "name_en": "Bitter orange (peel)",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Legno sandalo",
+    "name_en": "Sandalwood",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (rad.)",
+    "name_en": "Iris (root)",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana (rad.)",
+    "name_en": "Gentian (root)",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Aromatic calamus",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 1600,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 600,
+    "unit": "mL",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Infuse the botanicals in the 90° spirit and water.",
+   "Filter and combine with the previous extract (2 L).",
+   "Add 6.8 L of 90° spirit and 4 kg sugar.",
+   "Dilute with 8 L water.",
+   "Final product: 20 L at 36% alcohol."
+  ],
+  "notes_en": "The liqueur is prepared in two stages: first an infusion, then mixing with a previous extract and spirits to achieve final strength.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "italian-liqueur-ii",
+  "page": 626,
+  "section_en": "A. Italian",
+  "title_it": "II",
+  "title_en": "Italian Liqueur II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 45,
+   "raw": "alcool di 45%"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Arance immature",
+    "name_en": "Unripe oranges",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 150,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scordio",
+    "name_en": "Water germander",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 45%",
+    "name_en": "Spirit at 45°",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate all ingredients in the 45° spirit for 15 days."
+  ],
+  "notes_en": null,
+  "ocr_flags": [],
+  "confidence": 0.94
+ }
+]

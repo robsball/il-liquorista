@@ -1,0 +1,331 @@
+[
+ {
+  "id": "liquore-40-percent",
+  "page": 595,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore",
+  "title_en": "Liqueur (40% ABV)",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "alcool 40%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Tintura precedente",
+    "name_en": "Previous tincture",
+    "qty": null,
+    "unit": "liters",
+    "unit_implicit": true,
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 3.8,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vino Madera",
+    "name_en": "Madeira wine",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arac",
+    "name_en": "Arrack",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 0.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the previous tincture with alcohol at 90°.",
+   "Add Madeira wine, arrack, and syrup.",
+   "Dilute with water to reach the required volume and alcohol strength."
+  ],
+  "confidence": 0.85,
+  "ocr_flags": [
+   "Arac (possibly Arak or Arrack)",
+   "Stroppo (likely Sciroppo = syrup)"
+  ]
+ },
+ {
+  "id": "herbal-liqueur-40-percent",
+  "page": 595,
+  "section_en": "Liqueurs",
+  "title_it": "Liquore (II)",
+  "title_en": "Herbal Liqueur (40% ABV)",
+  "method": "maceration",
+  "yield": {
+   "amount": 1,
+   "unit": "liter"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "alcool di 40°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Aloe",
+    "name_en": "Aloe",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Succo di liquirizia",
+    "name_en": "Licorice juice",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Agarico",
+    "name_en": "Agaric",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Valanga (radice)",
+    "name_en": "Valanga root",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zedoaria (radice)",
+    "name_en": "Zedoary root",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 40°",
+    "name_en": "Alcohol at 40°",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Combine all herbal ingredients.",
+   "Macerate in alcohol at 40° for the required duration.",
+   "Strain and bottle."
+  ],
+  "confidence": 0.82,
+  "ocr_flags": [
+   "Valanga (uncertain plant; possibly a variant spelling)"
+  ]
+ },
+ {
+  "id": "elixir-stomatico-di-krrr",
+  "page": 595,
+  "section_en": "Elixirs",
+  "title_it": "Elisir stomatico di krrr",
+  "title_en": "Stomach Elixir",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorza d'arance",
+    "name_en": "Orange peel",
+    "qty": 250,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arancia",
+    "name_en": "Orange",
+    "qty": 125,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 35,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Valeriana",
+    "name_en": "Valerian",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "Ginger",
+    "qty": 15,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "Centaury",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "Holy thistle",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "Gentian",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Trifoglio acquatico",
+    "name_en": "Water clover",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta peperita",
+    "name_en": "Peppermint",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Rabarbaro",
+    "name_en": "Rhubarb",
+    "qty": 6,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 3,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 70°",
+    "name_en": "Alcohol at 70°",
+    "qty": 0,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "quantity not fully visible in OCR"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Stomatico (I).",
+   "Instead of 40°, the final strength may be left at 38°.",
+   "Optionally add 0.5 kg honey per liter."
+  ],
+  "notes_en": "This is variant I of the stomach elixir recipe. Variant II follows with different citrus proportions.",
+  "confidence": 0.78,
+  "ocr_flags": [
+   "krrr (source text unclear; likely a corruption or printer's mark)",
+   "Cannella (OCR: Ganno lla)",
+   "final alcohol quantity cut off in OCR"
+  ]
+ },
+ {
+  "id": "elixir-stomatico-variant-ii",
+  "page": 595,
+  "section_en": "Elixirs",
+  "title_it": "Elisir stomatico (II)",
+  "title_en": "Stomach Elixir – Variant II",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "ingredients": [
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "Orange peel",
+    "qty": 40,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Orange",
+    "qty": 30,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Use the citrus ingredients listed here in place of or in addition to variant I.",
+   "Follow the preparation method as described for variant I."
+  ],
+  "notes_en": "This is the beginning of variant II; the full recipe continues beyond the OCR boundary.",
+  "confidence": 0.72,
+  "ocr_flags": [
+   "recipe incomplete; final ingredients and instructions cut off"
+  ]
+ }
+]

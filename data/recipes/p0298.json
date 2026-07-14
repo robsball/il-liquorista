@@ -1,0 +1,205 @@
+[
+ {
+  "id": "saffron-tincture-continuation",
+  "page": 298,
+  "section_en": "Saffron Tincture (continued)",
+  "title_it": "Tintura di zafferano",
+  "title_en": "Saffron Tincture",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool a 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "acqua bollente",
+    "name_en": "boiling water",
+    "qty": 350,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "at 85°"
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "at 85°, for exhausting residue"
+   }
+  ],
+  "steps_en": [
+   "Treat the saffron residue with another 350 g of boiling water.",
+   "Press again and combine the two liquids, adding 1 liter of alcohol at 85°.",
+   "Treat the remaining saffron residue with 1 liter of alcohol at 85° to exhaust it completely; this alcoholic tincture serves for coloring absinthe.",
+   "Saffron tinctures serve for coloring those liqueurs to which the flavor of saffron cannot cause harm; for more delicate ones, recourse is had to another yellow colorant.",
+   "If small quantities of liquor (3–4 liters) are involved, they can be colored directly by placing some saffron threads into them."
+  ],
+  "notes_en": "Saffron tinctures are used for coloring liqueurs where the saffron flavor is acceptable. For delicate liqueurs, alternative yellow colorants are preferred.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "safflower-tincture",
+  "page": 298,
+  "section_en": "II. Safflower",
+  "title_it": "Tintura di cartamo",
+  "title_en": "Safflower Tincture",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "cartamo",
+    "name_en": "safflower (petals/flowers)",
+    "qty": 500,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 2,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "first extraction"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 1.5,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "second extraction"
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "at 95°"
+   }
+  ],
+  "steps_en": [
+   "Macerate 500 g of safflower with 2 liters of water.",
+   "After 24 hours, extract the liquid by pressing and treat the residue anew with 1.5 liters of water.",
+   "After a further 24 hours, press again and add this second liquid to the first.",
+   "Finally add 1 liter of alcohol at 95° and filter the tincture."
+  ],
+  "notes_en": "Safflower flower contains a yellow substance easily soluble in water and a brown-red substance soluble in alkaline solutions. This tincture combines both extractions.",
+  "ocr_flags": [
+   "cartamo (safflower—standard term)"
+  ],
+  "confidence": 0.88
+ },
+ {
+  "id": "calendula-tincture",
+  "page": 298,
+  "section_en": "III. Calendula",
+  "title_it": "Tintura di calendola",
+  "title_en": "Calendula Tincture",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "fiori di calendola",
+    "name_en": "calendula flowers",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 800,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "at 90°"
+   },
+   {
+    "name_it": "acqua",
+    "name_en": "water",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the ingredients in a wide-mouth vessel or cover it with a wooden disc.",
+   "Leave in digestion for 8 days in a warm (tepid) environment.",
+   "Press and filter the liquid through paper."
+  ],
+  "notes_en": "The substances are digested in a tepid environment for 8 days, then pressed and filtered.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "turmeric-tincture",
+  "page": 298,
+  "section_en": "Turmeric",
+  "title_it": "Tintura di curcuma",
+  "title_en": "Turmeric Tincture",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 70,
+   "raw": "alcool di 70°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 4,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "curcuma in polvere",
+    "name_en": "turmeric powder",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "alcool",
+    "name_en": "alcohol",
+    "qty": 1,
+    "unit": "L",
+    "unit_implicit": false,
+    "note": "at 70°"
+   }
+  ],
+  "steps_en": [
+   "Macerate in a well-sealed bottle for 4 days."
+  ],
+  "notes_en": "The recipe is incomplete in the source text but indicates maceration in a sealed bottle for 4 days.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ }
+]

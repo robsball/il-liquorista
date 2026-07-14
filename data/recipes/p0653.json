@@ -1,0 +1,232 @@
+[
+ {
+  "id": "swedish-punch",
+  "page": 653,
+  "section_en": "Punch & Mixed Drinks",
+  "title_it": "Punch Svedese",
+  "title_en": "Swedish Punch",
+  "method": "cold_mix",
+  "yield": {
+   "amount": 20,
+   "unit": "liters",
+   "note": "alcohol strength 20%"
+  },
+  "alcohol_strength": {
+   "degrees": 20,
+   "raw": "alcool 20%"
+  },
+  "ingredients": [
+   {
+    "name_it": "Arac di Goa",
+    "name_en": "Arak from Goa",
+    "qty": 1.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaican Rum",
+    "qty": 0.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcool di 80°",
+    "name_en": "Spirit at 80°",
+    "qty": 0.5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Spirito di limoni",
+    "name_en": "Lemon spirit",
+    "qty": null,
+    "unit": "liters",
+    "note": "quantity not specified"
+   },
+   {
+    "name_it": "Vino Porto",
+    "name_en": "Port wine",
+    "qty": 3,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 3.6,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Succo di N. 2 limoni",
+    "name_en": "Juice from 2 lemons",
+    "qty": null,
+    "unit": "liters",
+    "note": "2 lemons"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 7.8,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Dissolve sugar in 7.5 liters of water over gentle heat, skimming until perfectly clear.",
+   "Allow to cool for half an hour.",
+   "Peel lemons; let the zest macerate with 2 liters of alcohol for 24 hours before preparing the syrup.",
+   "Squeeze the lemons and filter the juice.",
+   "Infuse black tea with boiling water; add when cooled.",
+   "Dissolve rose essence in absolute alcohol.",
+   "Mix all other ingredients together thoroughly.",
+   "Add the mixture slowly to the spirit liquid, stirring continuously.",
+   "Add this to the syrup while still hot, stirring constantly.",
+   "Pour into bottles and allow to clarify for several days."
+  ],
+  "notes_en": "Achieved color: light brown. See also variants II, III, IV, V below (alternative proportions).",
+  "confidence": 0.92,
+  "ocr_flags": []
+ },
+ {
+  "id": "swedish-punch-ii",
+  "page": 653,
+  "section_en": "Punch & Mixed Drinks",
+  "title_it": "Punch Svedese II",
+  "title_en": "Swedish Punch (Variant II)",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Vino bianco",
+    "name_en": "White wine",
+    "qty": 17,
+    "unit": "liters",
+    "variants": [
+     20,
+     1.5,
+     1.25
+    ]
+   },
+   {
+    "name_it": "Rhum Giamaica",
+    "name_en": "Jamaican Rum",
+    "qty": 1,
+    "unit": "liters",
+    "variants": [
+     1,
+     0.25,
+     0.5
+    ]
+   },
+   {
+    "name_it": "Arac di Goa",
+    "name_en": "Arak from Goa",
+    "qty": 4,
+    "unit": "liters",
+    "variants": [
+     2,
+     3.25,
+     2
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di limoni",
+    "name_en": "Lemon essential oil",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     2,
+     null,
+     5
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di arance",
+    "name_en": "Orange essential oil",
+    "qty": 1,
+    "unit": "drops",
+    "unit_implicit": true,
+    "variants": [
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Acido citrico",
+    "name_en": "Citric acid",
+    "qty": 35,
+    "unit": "grams",
+    "variants": [
+     65,
+     null,
+     10
+    ]
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 7.5,
+    "unit": "kilograms",
+    "variants": [
+     6,
+     5,
+     5
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "liters",
+    "variants": [
+     5,
+     2.5,
+     4
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Spirit at 90°",
+    "qty": 2.5,
+    "unit": "liters",
+    "variants": [
+     3,
+     null,
+     1
+    ]
+   }
+  ],
+  "confidence": 0.88,
+  "ocr_flags": [
+   "Arac",
+   "Giamaica"
+  ]
+ },
+ {
+  "id": "indian-punch",
+  "page": 653,
+  "section_en": "Punch & Mixed Drinks",
+  "title_it": "Punch Indiano",
+  "title_en": "Indian Punch",
+  "method": "cold_mix",
+  "ingredients": [
+   {
+    "name_it": "Rhum Giamaica genuino",
+    "name_en": "Genuine Jamaican Rum",
+    "qty": 8,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Vino",
+    "name_en": "Wine",
+    "qty": 5,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 11,
+    "unit": "liters"
+   }
+  ],
+  "confidence": 0.95,
+  "ocr_flags": []
+ }
+]

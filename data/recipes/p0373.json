@@ -1,0 +1,293 @@
+[
+ {
+  "id": "rosemary-liqueur",
+  "page": 373,
+  "section_en": "Liqueurs",
+  "title_it": "Rosmarino",
+  "title_en": "Rosemary Liqueur",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres",
+   "note": "at 70°"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_en": "rosemary",
+    "name_it": "Rosmarino",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "vanilla",
+    "name_it": "Vaniglia",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "nutmeg",
+    "name_it": "Noci moscate",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "cloves",
+    "name_it": "Garofani",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "lemon zest",
+    "name_it": "Scorze di limoni",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "fresh orange zest",
+    "name_it": "Scorze d'arance fresche",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "orris root",
+    "name_it": "Ireos (radice)",
+    "qty": 120,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "rose water",
+    "name_it": "Acqua di rose",
+    "qty": 150,
+    "unit": "ml",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "alcohol at 60°",
+    "name_it": "Alcool di 60°",
+    "qty": 25,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Distil 20 litres at 70°.",
+   "Sweeten with 20 litres of syrup.",
+   "Colour green or violet."
+  ],
+  "notes_en": "Yields 20 litres at 70° after sweetening.",
+  "confidence": 0.95
+ },
+ {
+  "id": "bread-liqueur",
+  "page": 373,
+  "section_en": "Liqueurs",
+  "title_it": "Acqua di Pane (Brotwasser-liqueur)",
+  "title_en": "Bread Liqueur (Brotwasser)",
+  "method": "distillation",
+  "yield": {
+   "amount": 30,
+   "unit": "litres",
+   "note": "at 36°"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 4,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_en": "rye bread crusts (Schwarzbrot)",
+    "name_it": "Croste di pane di segale (Schwarzbrot)",
+    "qty": 850,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "dried lemon zest",
+    "name_it": "Scorze secche di limoni",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "green anise",
+    "name_it": "Anice verde",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "cinnamon and cloves (each)",
+    "name_it": "Cannella e Garofani (di ciascuno)",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "coriander and mace (each)",
+    "name_it": "Coriandoli e Macis (di ciascuno)",
+    "qty": 5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "alcohol at 85°",
+    "name_it": "Alcool di 85°",
+    "qty": 4.65,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "syrup",
+    "name_it": "Sciroppo",
+    "qty": 3.14,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "water for completion",
+    "name_it": "Acqua per completare",
+    "qty": 10,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 4 days.",
+   "Distil without rectification.",
+   "Add syrup and water to complete.",
+   "Colour brown with sugar caramel.",
+   "Filter."
+  ],
+  "notes_en": "Final product: 30 litres at 36°.",
+  "confidence": 0.92
+ },
+ {
+  "id": "carminative-water",
+  "page": 373,
+  "section_en": "Liqueurs",
+  "title_it": "Acqua carminativa",
+  "title_en": "Carminative Water",
+  "method": "distillation",
+  "yield": {
+   "amount": 30,
+   "unit": "litres",
+   "note": "at 36°"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "ingredients": [
+   {
+    "name_en": "cloves",
+    "name_it": "Garofani",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "nutmeg",
+    "name_it": "Noci moscate",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "cinnamon",
+    "name_it": "Cannella",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "gentian",
+    "name_it": "Genziana",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "galangal",
+    "name_it": "Galanga",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "quantity illegible in OCR"
+   },
+   {
+    "name_en": "juniper berries",
+    "name_it": "Ginopro (bacche)",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "chamomile",
+    "name_it": "Camomilla",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "green anise",
+    "name_it": "Anice verde",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "orange zest",
+    "name_it": "Scorze di arance",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "lemon zest",
+    "name_it": "Scorze di limoni",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "cornel cherry seeds",
+    "name_it": "Cornino (semi)",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "alcohol at 60°",
+    "name_it": "Alcool di 60°",
+    "qty": 20,
+    "unit": "litres",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Distil 16 litres at 70°.",
+   "Add 16 litres of syrup.",
+   "Colour red."
+  ],
+  "notes_en": "Final product: 30 litres at 36°.",
+  "ocr_flags": [
+   "Galanga (quantity illegible)"
+  ],
+  "confidence": 0.88
+ }
+]

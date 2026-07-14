@@ -1,0 +1,311 @@
+[
+ {
+  "id": "acqua-di-mannheim-i",
+  "page": 464,
+  "section_en": "Acqua di Mannheim",
+  "title_it": "Acqua di Mannheim I",
+  "title_en": "Mannheim Water I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 20,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 10,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 650,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 800,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 650,
+    "unit": "grams",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix essential oils, alcohol, sugar, and water.",
+   "Filter the mixture.",
+   "The result should be clear and pale yellow (colored with saffron)."
+  ],
+  "notes_en": "Pale yellow colour from saffron.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "acqua-di-mannheim-ii",
+  "page": 464,
+  "section_en": "Acqua di Mannheim",
+  "title_it": "Acqua di Mannheim II",
+  "title_en": "Mannheim Water II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "see page 230"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 12.75,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 10,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 3.5,
+    "unit": "liters",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Mix the special essence, alcohol at 90°, syrup, and water together."
+  ],
+  "notes_en": "Colourless preparation.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "acqua-d-oro-i",
+  "page": 464,
+  "section_en": "Acqua d'oro",
+  "title_it": "Acqua d'oro I",
+  "title_en": "Gold Water I",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di calamo",
+    "name_en": "Essential oil of calamus",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di cardamomo",
+    "name_en": "Essential oil of cardamom",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di macis",
+    "name_en": "Essential oil of mace",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rosmarino",
+    "name_en": "Essential oil of rosemary",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di rose",
+    "name_en": "Essential oil of roses",
+    "qty": 0.5,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "Alcohol at 95°",
+    "qty": 12.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 15,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6.5,
+    "unit": "liters",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Foglietto d'oro battuto",
+    "name_en": "Beaten gold leaf",
+    "qty": null,
+    "unit": "minuscule pieces",
+    "unit_implicit": false,
+    "note": "in small pieces"
+   }
+  ],
+  "steps_en": [
+   "Mix all essential oils with the alcohol at 95°.",
+   "Add syrup and water.",
+   "Add a few pieces of beaten gold leaf in minuscule form."
+  ],
+  "notes_en": "Golden yellow colour.",
+  "ocr_flags": [],
+  "confidence": 0.94
+ },
+ {
+  "id": "acqua-d-oro-ii",
+  "page": 464,
+  "section_en": "Acqua d'oro",
+  "title_it": "Acqua d'oro II",
+  "title_en": "Gold Water II",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza speciale",
+    "name_en": "Special essence",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "note": "as per Acqua di Mannheim II"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Acqua di Mannheim II (using the same proportions and method)."
+  ],
+  "notes_en": "Reference to Acqua di Mannheim II preparation method.",
+  "ocr_flags": [],
+  "confidence": 0.9
+ },
+ {
+  "id": "acqua-reale",
+  "page": 464,
+  "section_en": "Acqua reale",
+  "title_it": "Acqua reale",
+  "title_en": "Royal Water",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenziale di limone",
+    "name_en": "Essential oil of lemon",
+    "qty": 1,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arancio amaro",
+    "name_en": "Essential oil of bitter orange",
+    "qty": 4,
+    "unit": "grams",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di arancio dolce",
+    "name_en": "Essential oil of sweet orange",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": false,
+    "note": "quantity cut off in source text"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Recipe incomplete in source text; continues on next page.",
+  "ocr_flags": [
+   "arancio (OCR: 'araned' possibly misread)"
+  ],
+  "confidence": 0.7
+ }
+]

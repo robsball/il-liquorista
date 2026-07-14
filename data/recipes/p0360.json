@@ -1,0 +1,170 @@
+[
+ {
+  "id": "angelica",
+  "page": 360,
+  "section_en": "Double Spirits (Acqueviti Doppie)",
+  "title_it": "Angelica",
+  "title_en": "Angelica",
+  "method": "distillation",
+  "yield": {
+   "amount": 50,
+   "unit": "liters",
+   "note": "at 40° ABV after distillation and adjustment"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "40°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Angelica radice",
+    "name_en": "Angelica root",
+    "qty": 1,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60° ABV",
+    "qty": 33,
+    "unit": "liters"
+   },
+   {
+    "name_en": "Alcohol (adjustment)",
+    "qty": null,
+    "unit": "liters",
+    "note": "as needed to bring to final volume and strength"
+   },
+   {
+    "name_en": "Water (adjustment)",
+    "qty": null,
+    "unit": "liters",
+    "note": "as needed to bring to final volume and strength"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kg",
+    "note": "dissolved in water before addition"
+   }
+  ],
+  "steps_en": [
+   "Distill 20–27 liters of approximately 60° ABV spirit from the angelica root in 33 liters of 60° alcohol.",
+   "Bring the distillate to 50 liters at 40° ABV by adding alcohol and water as needed.",
+   "Dissolve 4 kg of sugar in water and add to the spirit.",
+   "Mix thoroughly."
+  ],
+  "notes_en": "Double spirits (acqueviti doppie) are liqueurs with 36–50% alcohol, rich in aromatic compounds and containing little sugar (5–7%). They should be aged for a long time before consumption.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "anise",
+  "page": 360,
+  "section_en": "Double Spirits (Acqueviti Doppie)",
+  "title_it": "Anice",
+  "title_en": "Anise",
+  "method": "distillation",
+  "yield": {
+   "amount": 100,
+   "unit": "liters",
+   "note": "at 40° ABV after distillation and adjustment"
+  },
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "40°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Anice verde semi",
+    "name_en": "Green anise seed",
+    "qty": 3,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol at 60° ABV",
+    "qty": 67,
+    "unit": "liters"
+   },
+   {
+    "name_en": "Alcohol (adjustment)",
+    "qty": null,
+    "unit": "liters",
+    "note": "as needed to bring to final volume and strength"
+   },
+   {
+    "name_en": "Water (adjustment containing sugar)",
+    "qty": null,
+    "unit": "liters",
+    "note": "as needed to bring to final volume and strength"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kg",
+    "note": "in solution"
+   }
+  ],
+  "steps_en": [
+   "Distill 55 liters of 50–60° ABV spirit from the anise seeds in 67 liters of 60° alcohol.",
+   "Bring the distillate to 100 liters at 40° ABV by adding alcohol and water containing 5 kg of sugar in solution.",
+   "Mix thoroughly."
+  ],
+  "notes_en": "Green anise is a key aromatic ingredient in double spirits.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "orange-citron-lemon",
+  "page": 360,
+  "section_en": "Double Spirits (Acqueviti Doppie)",
+  "title_it": "Arangio - Cedrato - Limone",
+  "title_en": "Orange, Citron, or Lemon",
+  "method": "distillation",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 40,
+   "raw": "40°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Scorzo d'arance o cedri o limoni",
+    "name_en": "Peel of orange, citron, or lemon",
+    "qty": 2.5,
+    "unit": "kg"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 5,
+    "unit": "kg",
+    "note": "minimum; use 5–7 kg as preferred"
+   },
+   {
+    "name_en": "Essential oil of orange, citron, or lemon (optional)",
+    "qty": 3,
+    "unit": "grams",
+    "note": "dissolved in absolute alcohol; optional enhancement"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Anise: distill the peels in alcohol at 60° ABV.",
+   "Bring the distillate to final volume at 40° ABV by adding alcohol and water as needed.",
+   "Sweeten with 5–7 kg of sugar according to taste.",
+   "Optional: dissolve 3 grams of essential oil of the chosen citrus fruit in absolute alcohol and add to the spirit."
+  ],
+  "notes_en": "Method is identical to Anise. The essential oil enhancement is optional and should be dissolved in absolute alcohol before incorporation.",
+  "ocr_flags": [
+   "Abangio (likely 'Arangio', with 'A' misread or run-on)"
+  ],
+  "confidence": 0.88
+ }
+]

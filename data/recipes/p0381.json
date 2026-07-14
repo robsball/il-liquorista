@@ -1,0 +1,256 @@
+[
+ {
+  "id": "acquavite-di-danzica-i",
+  "page": 381,
+  "section_en": "Acquavite di Danzica (Danzig Brandy)",
+  "title_it": "Acquavite di Danzica. I.",
+  "title_en": "Acquavite di Danzica I",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cannella Ceylon",
+    "name_en": "Ceylon cinnamon",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 12.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di sedano",
+    "name_en": "Celery seed",
+    "qty": 12.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di carvi",
+    "name_en": "Caraway seed",
+    "qty": 12.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di cornico",
+    "name_en": "Coriander seed",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2.5,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Follow the general method without rectification."
+  ],
+  "notes_en": "Yields 10 litres of product.",
+  "confidence": 0.92
+ },
+ {
+  "id": "acquavite-di-danzica-ii",
+  "page": 381,
+  "section_en": "Acquavite di Danzica (Danzig Brandy)",
+  "title_it": "Acquavite di Danzica. II.",
+  "title_en": "Acquavite di Danzica II",
+  "method": "distillation",
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Anice verde",
+    "name_en": "Green anise",
+    "qty": 180,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Semi di sedano",
+    "name_en": "Celery seed",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR uncertain"
+   },
+   {
+    "name_it": "Semi di cornino",
+    "name_en": "Coriander seed",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorzo di arancio, secche",
+    "name_en": "Dried orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR uncertain"
+   },
+   {
+    "name_it": "Noci moscato",
+    "name_en": "Nutmeg",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "90° alcohol",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1.25,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Follow the customary procedure.",
+   "Add a beaten gold leaf, finely minced, to the bottle."
+  ],
+  "confidence": 0.88,
+  "ocr_flags": [
+   "Semi di sedano (OCR shows '00', inferred 100 g)",
+   "Scorzo di aranco (OCR shows '(10', inferred 100 g)"
+  ]
+ },
+ {
+  "id": "acquavite-di-hendaye-i",
+  "page": 381,
+  "section_en": "Acquavite di Hendaye",
+  "title_it": "Acquavite di Hendaye. I.",
+  "title_en": "Acquavite di Hendaye I",
+  "method": "distillation",
+  "yield": {
+   "amount": 10,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 85,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "note": "OCR uncertain"
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze fresche di arance",
+    "name_en": "Fresh orange peel",
+    "qty": 6,
+    "unit": "number",
+    "unit_implicit": false,
+    "note": "6 fresh oranges"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "85° alcohol",
+    "qty": 3.8,
+    "unit": "litres",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3.6,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Macerate for 8 days.",
+   "Distil without rectification.",
+   "Add the sugar dissolved in sufficient water to obtain 10 litres of liqueur."
+  ],
+  "confidence": 0.9,
+  "ocr_flags": [
+   "Anice stellato (OCR shows '»00', inferred 100 g)"
+  ]
+ },
+ {
+  "id": "acquavite-di-hendaye-ii",
+  "page": 381,
+  "section_en": "Acquavite di Hendaye",
+  "title_it": "Acquavite di Hendaye. II.",
+  "title_en": "Acquavite di Hendaye II",
+  "method": "distillation",
+  "ingredients": [
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 75,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "notes_en": "Recipe appears incomplete in source; only first two ingredients listed.",
+  "confidence": 0.7
+ }
+]

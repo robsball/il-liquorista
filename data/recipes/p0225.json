@@ -1,0 +1,261 @@
+[
+ {
+  "id": "coca",
+  "page": 225,
+  "title_it": "Coca",
+  "title_en": "Coca",
+  "method": "distillation",
+  "yield": {
+   "amount": 8,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "Alcool 90°"
+  },
+  "duration": {
+   "amount": 12,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Coca foglie",
+    "name_en": "Coca leaves",
+    "qty": 1000,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Melissa",
+    "name_en": "Melissa (balm)",
+    "qty": 100,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Scorze limoni",
+    "name_en": "Lemon peel",
+    "qty": 50,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Angelica rad.",
+    "name_en": "Angelica root",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arnica fiori",
+    "name_en": "Arnica flowers",
+    "qty": 10,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 6.5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5.4,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in the alembic with alcohol 90° and water for 12 hours after lightly warming the mixture.",
+   "Distil 8 litres of the resulting liquid."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "gartis",
+  "page": 225,
+  "title_it": "Gartis",
+  "title_en": "Gartis",
+  "method": "distillation",
+  "yield": {
+   "amount": 5.5,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 80,
+   "raw": "Alcool 80°"
+  },
+  "duration": {
+   "amount": 4,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Aloe di Socotra",
+    "name_en": "Aloe of Socotra",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 18,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zafferano",
+    "name_en": "Saffron",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mirra",
+    "name_en": "Myrrh",
+    "qty": 2,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 5,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool 80°",
+    "name_en": "Alcohol 80°",
+    "qty": 6,
+    "unit": "litres"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in the alcohol for 4 days.",
+   "Filter and add 1 litre of water.",
+   "Distil to obtain 5.5 litres of product."
+  ],
+  "confidence": 0.9
+ },
+ {
+  "id": "juniper-i",
+  "page": 225,
+  "title_it": "Ginepro I",
+  "title_en": "Juniper I",
+  "method": "distillation",
+  "yield": {
+   "amount": 4,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "Alcool 85°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 500,
+    "unit": "grams",
+    "variants": [
+     750
+    ]
+   },
+   {
+    "name_it": "Carvi",
+    "name_en": "Caraway",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 60,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Angelica rad.",
+    "name_en": "Angelica root",
+    "qty": 25,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 20,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Luppolo",
+    "name_en": "Hops",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true,
+    "variants": [
+     75
+    ],
+    "note": "Only in column II"
+   },
+   {
+    "name_it": "Alcool 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 4.5,
+    "unit": "litres",
+    "variants": [
+     null
+    ]
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in the alcohol for 24 hours.",
+   "Add 2 litres of water.",
+   "Distil (4 to 4.5 litres) and rectify (4 litres)."
+  ],
+  "notes_en": "Two variants shown: column I uses caraway, fennel, angelica, and coriander with 500g juniper; column II uses 750g juniper and hops instead.",
+  "confidence": 0.88
+ }
+]

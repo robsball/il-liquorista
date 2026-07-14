@@ -1,0 +1,68 @@
+Pages profiled: 734
+Total characters (text layer): 1,946,792
+  empty   (need image OCR): 15
+  table   (watch layout):   391
+  recipe  (structure to JSON): 34
+  heading (section boundary):  169
+
+First 60 heading lines (rough table of contents):
+  p   1  PALATIASPASSO.IT
+  p   4  MANUALI                  HOEPLI
+  p   4  Doti. A . CASTOLDI
+  p   4  LIQUORISTA
+  p   4  DUEMILA RICETTE E PROCEDIMENTI PRATICI
+  p   6  INDICE GENERALE
+  p   6  INTRODUZIONE
+  p   6  PARTE PRIMA
+  p   7  PARTE SECONDA
+  p   8  PARTE TERZA
+  p  12  INTRODUZIONE
+  p  12  E CARATTERI DEI LIQUORI.
+  p  19  PER LA FABBRICAZIONE DEI LIQUORI.
+  p  22  P A R T E P R IM A
+  p  24  DEL MATERIALE
+  p  24  E DEL          LABORATORIO
+  p  28  .DELLE MATERIE PRIME
+  p  51  t r i­       GRADO APPARENTE SEGNATO DALL’ALCOOLOMETRO
+  p  52  fin­        GRADO APPARENTE SEGNATO DALL'ALCOOLOMETRO
+  p  54  Tem­          GRADO APPARENTE SEGNATO DALL'ALCOOLOMETRO
+  p  55  n-        CRADO APPARENTE SEGNATO DALL'ALCOOLOMETRO
+  p  56  >m-          GRADO APPARENTE SEGNATO DALL’ALGOOLOMETRO
+  p  57  1-      GRADO APPARENTE SEGNATO DALL’ALCOOLOMETRO
+  p  58  mi-         GRADO APPARENTE SEGNATO DALL’ALCOOLOMETRO
+  p  58  71 I 72 ! 73 I 74 I 75 I 76 I 77    78
+  p  59  in ­          GRADO APPARENTE SEGNATO DALL’ALCOOLONETRO
+  p  62  T a KKUsA I I I .
+  p  64  J____ I__ I__ I__               '    i_J.
+  p  67  h H t '. H ^ f f i Q H O O O X
+  p  67  .2    O                                       © CD
+  p  67  H i M M i O C c C O f O t 'i M C O C C i O C O
+  p  67  C O C C C ì O M H - f H Q O l 'H H C O W
+  p  68  PH         Tt*
+  p  68  r- ©     CO PH ©      © ©       Ol © 03       ©
+  p  68  O l TU IO I— © ©            © IO ©        ©
+  p  69  i            SS
+  p  71  CJS ©
+  p  80  S 3 « S             - o T3
+  p  84  E DROGHE (1).
+  p 119  OLII ESSENZIALI
+  p 156  DELLE MANIPOLAZIONI
+  p 179  SPIRITI AROMATIZZATI E DELLE TINTURE (ESTRATTI) ME­
+  p 179  DIANTE DISTILLAZIONE, OPPURE PER DIGESTIONE.
+  p 199  PESI E MISURE
+  p 201  1lANIMAROA.
+  p 202  F R A N C IA .
+  p 210  c6.h NUMERO
+  p 214  PREPARAZIONI
+  p 214  COLLE QUALI SI COMPONGONO I LIQUORI
+  p 214  PER   D IS T IL L A Z IO N E .
+  p 225  I.                        II.
+  p 230  III.
+  p 231  III.
+  p 233  III.
+  p 234  C o M IN O .
+  p 237  M A C 4 G IO R A N A .
+  p 239  RABARBARO.
+  p 241  III.
+  p 252  III.
+  p 257  ClXRAgAO OLANDESE.

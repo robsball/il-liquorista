@@ -1,0 +1,350 @@
+[
+ {
+  "id": "krambambuli-i",
+  "page": 258,
+  "section_en": "Krambambuli",
+  "title_it": "Krambambuli I",
+  "title_en": "Krambambuli I",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Arance amaro",
+    "name_en": "Bitter oranges",
+    "qty": 105,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Limoni (1a qualità)",
+    "name_en": "Lemons (first quality)",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Amaro spagnuolo",
+    "name_en": "Spanish bitter (p. 242)",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rose (turche)",
+    "name_en": "Turkish roses",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "krambambuli-ii",
+  "page": 258,
+  "section_en": "Krambambuli",
+  "title_it": "Krambambuli II",
+  "title_en": "Krambambuli II",
+  "method": "unknown",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Limoni",
+    "name_en": "Lemons",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "Peppermint",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Arance amare",
+    "name_en": "Bitter oranges",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Anice russo",
+    "name_en": "Russian anise",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Macis",
+    "name_en": "Mace",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "krambambuli-iii",
+  "page": 258,
+  "section_en": "Krambambuli",
+  "title_it": "Krambambuli III",
+  "title_en": "Krambambuli III",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Rose (turche)",
+    "name_en": "Turkish roses",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Fior di arancio",
+    "name_en": "Orange blossom",
+    "qty": 6,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Mandorle amare",
+    "name_en": "Bitter almonds",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Estratto di gelsomino",
+    "name_en": "Jasmine extract",
+    "qty": 200,
+    "unit": "ml",
+    "unit_implicit": true,
+    "note": "Added after dissolution"
+   }
+  ],
+  "steps_en": [
+   "After dissolution, add jasmine extract."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "kummel-di-berlino",
+  "page": 258,
+  "section_en": "Kummel",
+  "title_it": "Kummel di Berlino",
+  "title_en": "Kummel of Berlin",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cornino doppio rettificato",
+    "name_en": "Double-rectified cornino",
+    "qty": 3000,
+    "unit": "ml",
+    "unit_implicit": true,
+    "variants": [
+     2000
+    ]
+   },
+   {
+    "name_it": "Camomilla",
+    "name_en": "Chamomile",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 12,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Vinaccioli",
+    "name_en": "Grape seeds",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Anice stellato rettificato",
+    "name_en": "Rectified star anise",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Anice russo",
+    "name_en": "Russian anise",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     25
+    ],
+    "note": "absent in first variant"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander",
+    "qty": 16,
+    "unit": "g",
+    "unit_implicit": true,
+    "variants": [
+     8
+    ]
+   },
+   {
+    "name_it": "Iride (alcoolato)",
+    "name_en": "Iris (alcoholized)",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "Acetic ether",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true,
+    "variants": [
+     125
+    ]
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 100,
+    "unit": "ml",
+    "unit_implicit": true,
+    "variants": [
+     100
+    ]
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Two proportion columns given.",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "kummel-di-breslavia",
+  "page": 258,
+  "section_en": "Kummel",
+  "title_it": "Kummel di Breslavia",
+  "title_en": "Kummel of Breslau",
+  "method": "infusion",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Cornino (semi)",
+    "name_en": "Caraway seeds",
+    "qty": 1000,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Tintura aromatica",
+    "name_en": "Aromatic tincture (p. 232)",
+    "qty": 16,
+    "unit": "ml",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Iride (alcoolato)",
+    "name_en": "Iris (alcoholized)",
+    "qty": 30,
+    "unit": "ml",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.94
+ }
+]

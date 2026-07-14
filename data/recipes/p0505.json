@@ -1,0 +1,302 @@
+[
+ {
+  "id": "anise",
+  "page": 505,
+  "section_en": "Essential Oil Essences",
+  "title_it": "Anice",
+  "title_en": "Anise",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'anice comune",
+    "name_en": "Essential oil of common anise",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice stellato",
+    "name_en": "Essential oil of star anise",
+    "qty": 4,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Colourless.",
+  "confidence": 0.98
+ },
+ {
+  "id": "anisette",
+  "page": 505,
+  "section_en": "Essential Oil Essences",
+  "title_it": "Anisette",
+  "title_en": "Anisette",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'anice",
+    "name_en": "Essential oil of anise",
+    "qty": 2.6,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     1.6
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di finocchio",
+    "name_en": "Essential oil of fennel",
+    "qty": 0.4,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     4
+    ],
+    "note": "Not listed in first proportion"
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 0.4,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Colourless. Two proportions shown: Martinica and Bordeaux.",
+  "confidence": 0.97
+ },
+ {
+  "id": "orange",
+  "page": 505,
+  "section_en": "Essential Oil Essences",
+  "title_it": "Arancio",
+  "title_en": "Orange",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di scorze d'arance",
+    "name_en": "Essential oil of orange peel",
+    "qty": 28,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di fiori d'arancio",
+    "name_en": "Essential oil of orange blossom",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Colourless.",
+  "confidence": 0.99
+ },
+ {
+  "id": "english-absinthe",
+  "page": 505,
+  "section_en": "Essential Oil Essences",
+  "title_it": "Assenzio inglese",
+  "title_en": "English Absinthe",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di anice",
+    "name_en": "Essential oil of anise",
+    "qty": 8,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Green.",
+  "confidence": 0.99
+ },
+ {
+  "id": "superfine-absinthe",
+  "page": 505,
+  "section_en": "Essential Oil Essences",
+  "title_it": "Assenzio sopraffino",
+  "title_en": "Superfine Absinthe",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. d'assenzio",
+    "name_en": "Essential oil of wormwood",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di coriandoli",
+    "name_en": "Essential oil of coriander",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di calamo",
+    "name_en": "Essential oil of sweet flag",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di zenzero",
+    "name_en": "Essential oil of ginger",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Green.",
+  "confidence": 0.98
+ },
+ {
+  "id": "bouquet-des-dames",
+  "page": 505,
+  "section_en": "Essential Oil Essences",
+  "title_it": "Bouquet des dames",
+  "title_en": "Bouquet des Dames",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Olio essenz. di garofani",
+    "name_en": "Essential oil of cloves",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di rose",
+    "name_en": "Essential oil of rose",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di cannella",
+    "name_en": "Essential oil of cinnamon",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenz. di macia",
+    "name_en": "Essential oil of mace",
+    "qty": 0.5,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Colourless.",
+  "confidence": 0.98
+ },
+ {
+  "id": "cocoa",
+  "page": 505,
+  "section_en": "Essential Oil Essences",
+  "title_it": "Cacao",
+  "title_en": "Cocoa",
+  "method": "essence",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di cacao",
+    "name_en": "Cocoa tincture",
+    "qty": 1.5,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     1.25
+    ]
+   },
+   {
+    "name_it": "Tintura aromatica",
+    "name_en": "Aromatic tincture",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     25
+    ],
+    "note": "Not listed in first proportion"
+   },
+   {
+    "name_it": "Tintura di vaniglia",
+    "name_en": "Vanilla tincture",
+    "qty": 25,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null
+    ]
+   },
+   {
+    "name_it": "Tintura di balsamo peruviano",
+    "name_en": "Peruvian balsam tincture",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     30
+    ],
+    "note": "Not listed in first proportion"
+   }
+  ],
+  "steps_en": [],
+  "notes_en": "Brown. Two proportions shown.",
+  "confidence": 0.96
+ }
+]

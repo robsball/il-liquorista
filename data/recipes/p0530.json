@@ -1,0 +1,197 @@
+[
+ {
+  "id": "elixir-of-cyclists",
+  "page": 530,
+  "section_en": "Elixirs",
+  "title_it": "Elixir dei Ciclisti",
+  "title_en": "Elixir of Cyclists",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 75,
+   "raw": "alcool di 75°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "weeks"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci di kola",
+    "name_en": "Kola nuts",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Corteccia di angostura",
+    "name_en": "Angostura bark",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance amare",
+    "name_en": "Bitter orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero bianco",
+    "name_en": "White ginger",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Crosta di pane di segale",
+    "name_en": "Rye bread crust",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di arance comuni",
+    "name_en": "Sweet orange peel",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "Sweet flag root",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos radice",
+    "name_en": "Orris root",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Sedano semi",
+    "name_en": "Celery seeds",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Pour alcohol of 75° over the mixed botanical ingredients, ensuring they are fully submerged.",
+   "Macerate for one week.",
+   "Strain the liquid; press the residue and combine with the strained liquid.",
+   "Filter the combined liquid.",
+   "Compose the final liqueur by mixing: 1 L extract, 4 L alcohol of 95°, 1.25 L good cognac, 1 L Port wine, 3.2 L syrup, and 1 L water.",
+   "Color with saffron tincture and caramel to achieve a golden yellow hue.",
+   "Age for some time before consumption."
+  ],
+  "notes_en": "The liqueur should be aged before serving.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "elixir-of-hyssop",
+  "page": 530,
+  "section_en": "Elixirs",
+  "title_it": "Elixir di Hyssope",
+  "title_en": "Elixir of Hyssop",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 55,
+   "raw": "alcool di 50°–60°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Issopo",
+    "name_en": "Hyssop",
+    "qty": 750,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Iva",
+    "name_en": "Ground ivy",
+    "qty": 350,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica radice",
+    "name_en": "Angelica root",
+    "qty": 135,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Imperatoria",
+    "name_en": "Masterwort",
+    "qty": 45,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella cassia",
+    "name_en": "Cassia cinnamon",
+    "qty": 22,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cardamomo",
+    "name_en": "Cardamom",
+    "qty": 7,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Vaniglia",
+    "name_en": "Vanilla",
+    "qty": 14,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandolo semi",
+    "name_en": "Coriander seeds",
+    "qty": 22,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 50°–60°",
+    "name_en": "Alcohol of 50°–60°",
+    "qty": 10,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Digest the mixed herbs in alcohol of 50°–60° for an unspecified period.",
+   "Strain the liquid and press the residue.",
+   "Filter the collected liquid.",
+   "To each liter of this extract, add 5 L of alcohol of 90°, or alternatively mix 5.5 L of sugar syrup prepared with 4 kg of sugar, 4 mL of acetic acid, and 2 mL of acetic ether.",
+   "Color the elixir pale green."
+  ],
+  "notes_en": "Two finishing options are given: one with high-strength alcohol, one with a syrup base. The acetic ether and acetic acid are likely used both for flavor and preservation.",
+  "ocr_flags": [
+   "liqyido (should be 'liquido')",
+   "Cornino (should be 'Coriandolo')"
+  ],
+  "confidence": 0.88
+ }
+]

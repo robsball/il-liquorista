@@ -1,0 +1,231 @@
+[
+ {
+  "name": "Abelmosco",
+  "kind": "material"
+ },
+ {
+  "name": "Achillea",
+  "kind": "material"
+ },
+ {
+  "name": "Bigarade",
+  "kind": "material"
+ },
+ {
+  "name": "Bilancia",
+  "kind": "equipment"
+ },
+ {
+  "name": "Bixa orellana",
+  "kind": "material"
+ },
+ {
+  "name": "Bommerlunder",
+  "kind": "liquor",
+  "equiv": "Aquavit"
+ },
+ {
+  "name": "Camedrio",
+  "kind": "material"
+ },
+ {
+  "name": "Campeccio",
+  "kind": "material"
+ },
+ {
+  "name": "Capillarometro",
+  "kind": "equipment"
+ },
+ {
+  "name": "Capelvenere",
+  "kind": "material"
+ },
+ {
+  "name": "Caramello",
+  "kind": "material"
+ },
+ {
+  "name": "Cariofillata",
+  "kind": "material"
+ },
+ {
+  "name": "Carvi",
+  "kind": "liquor",
+  "equiv": "Kümmel"
+ },
+ {
+  "name": "Catta",
+  "kind": "material"
+ },
+ {
+  "name": "Cerfoglio",
+  "kind": "material"
+ },
+ {
+  "name": "Chermes",
+  "kind": "material"
+ },
+ {
+  "name": "Gradi Baumé e densità corrispondenti",
+  "kind": "reference"
+ },
+ {
+  "name": "Grani di Provenza",
+  "kind": "material"
+ },
+ {
+  "name": "Guaiaco",
+  "kind": "material"
+ },
+ {
+  "name": "Idromele",
+  "kind": "liquor",
+  "equiv": "Mead"
+ },
+ {
+  "name": "Idrometri",
+  "kind": "equipment"
+ },
+ {
+  "name": "Imbuti",
+  "kind": "equipment"
+ },
+ {
+  "name": "Ireos",
+  "kind": "material"
+ },
+ {
+  "name": "Iwan",
+  "kind": "liquor",
+  "equiv": "Vodka (Polish)"
+ },
+ {
+  "name": "Kujawier",
+  "kind": "liquor",
+  "equiv": "Kujawiak"
+ },
+ {
+  "name": "Laboratorio",
+  "kind": "reference"
+ },
+ {
+  "name": "Marasche",
+  "kind": "liquor",
+  "equiv": "Maraschino"
+ },
+ {
+  "name": "Mastice",
+  "kind": "material"
+ },
+ {
+  "name": "Materiale",
+  "kind": "reference"
+ },
+ {
+  "name": "Materie coloranti",
+  "kind": "reference"
+ },
+ {
+  "name": "Materie prime",
+  "kind": "reference"
+ },
+ {
+  "name": "Matricaria",
+  "kind": "material"
+ },
+ {
+  "name": "Melagrana",
+  "kind": "material"
+ },
+ {
+  "name": "Meliloto",
+  "kind": "material"
+ },
+ {
+  "name": "Mirobolani",
+  "kind": "material"
+ },
+ {
+  "name": "Mirra",
+  "kind": "material"
+ },
+ {
+  "name": "Mirtilli",
+  "kind": "material"
+ },
+ {
+  "name": "Misure",
+  "kind": "reference"
+ },
+ {
+  "name": "More",
+  "kind": "material"
+ },
+ {
+  "name": "Mortai",
+  "kind": "equipment"
+ },
+ {
+  "name": "Napoleone",
+  "kind": "liquor",
+  "equiv": "Napoleon liqueur"
+ },
+ {
+  "name": "Neroli",
+  "kind": "material"
+ },
+ {
+  "name": "Obozowka",
+  "kind": "liquor",
+  "equiv": "Obozowka (Polish liqueur)"
+ },
+ {
+  "name": "Legni coloranti",
+  "kind": "reference"
+ },
+ {
+  "name": "Levistico",
+  "kind": "material"
+ },
+ {
+  "name": "Liquore del Mozenc",
+  "kind": "liquor",
+  "equiv": "Mozenc liqueur"
+ },
+ {
+  "name": "Liquore di Teichmeyer",
+  "kind": "liquor",
+  "equiv": "Teichmeyer liqueur"
+ },
+ {
+  "name": "Luppolo",
+  "kind": "material"
+ },
+ {
+  "name": "Macinatore",
+  "kind": "equipment"
+ },
+ {
+  "name": "Tafia",
+  "kind": "liquor",
+  "equiv": "Rum"
+ },
+ {
+  "name": "Tanaceto",
+  "kind": "material"
+ },
+ {
+  "name": "Tarassaco",
+  "kind": "material"
+ },
+ {
+  "name": "Teichmeyer",
+  "kind": "liquor",
+  "equiv": "Teichmeyer liqueur"
+ },
+ {
+  "name": "Whisky",
+  "kind": "liquor",
+  "equiv": "Whisky"
+ }
+]

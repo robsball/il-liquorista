@@ -1,0 +1,249 @@
+[
+ {
+  "id": "quince-liqueur-i",
+  "page": 563,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Cotogne (Liquore di)",
+  "title_en": "Quince Liqueur I",
+  "method": "maceration",
+  "yield": {
+   "amount": 1,
+   "unit": "kg",
+   "note": "of liquid from pulp"
+  },
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": {
+   "amount": 20,
+   "unit": "days",
+   "note": "total: 10 days first maceration + 10 days after sugar addition"
+  },
+  "ingredients": [
+   {
+    "name_it": "Polpa di cotogne",
+    "name_en": "Quince pulp",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Aromatic alcohol",
+    "qty": null,
+    "unit": "unknown",
+    "note": "amount not specified in this section"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Press the quince pulp and place it in a cool location.",
+   "Let rest for 3–4 days.",
+   "Decant the clear liquid and pass the remaining pulp through fine cloth.",
+   "Obtain approximately 1 kg of liquid and add to aromatic alcohol.",
+   "Macerate for 10 days.",
+   "Add 1 kg of sugar and macerate for a further 10 days.",
+   "Finally, filter."
+  ],
+  "notes_en": "The initial maceration period of 3–4 days is a resting phase before decanting.",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "quince-liqueur-ii",
+  "page": 563,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Cotogne (Liquore di) II",
+  "title_en": "Quince Liqueur II",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Succo di mele cotogne mature",
+    "name_en": "Juice of ripe quinces",
+    "qty": 0.6,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     0.8,
+     1.2
+    ]
+   },
+   {
+    "name_it": "Alcoolato di garofani",
+    "name_en": "Clove alcoholate",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     0.5,
+     0.5
+    ]
+   },
+   {
+    "name_en": "Alcohol 85°",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     2.8,
+     3.0
+    ]
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 1.25,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     2.0,
+     4.375
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 6,
+    "unit": "kg",
+    "unit_implicit": false,
+    "variants": [
+     4.7,
+     3.2
+    ]
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients.",
+   "Add yellow coloring by means of caramel.",
+   "Filter."
+  ],
+  "notes_en": "Three proportion columns are given: Ordinary (Ordinato), semi-fine (semifinio), and fine (fino). Yield is 10 liters.",
+  "ocr_flags": [],
+  "confidence": 0.89
+ },
+ {
+  "id": "walnut-hull-liqueur",
+  "page": 563,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Noci (Mallo di)",
+  "title_en": "Walnut Hull Liqueur",
+  "method": "maceration",
+  "yield": {
+   "amount": 10,
+   "unit": "liters"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "ingredients": [
+   {
+    "name_it": "Noci verdi",
+    "name_en": "Green walnuts",
+    "qty": 40,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Ceylan",
+    "name_en": "Ceylon cinnamon",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Macia",
+    "name_en": "Mace",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_en": "Alcohol 85°",
+    "qty": 5.85,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": null,
+    "unit": "kg",
+    "note": "quantity unclear in OCR; appears to be approximately 1 kg based on yield"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.65,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "Crush the walnuts well.",
+   "Leave them in the air for 24 hours so they blacken.",
+   "Macerate in alcohol for one month.",
+   "Strain and press the residue, combining all expressed liquid.",
+   "Add the syrup cold.",
+   "Finally, filter."
+  ],
+  "notes_en": "Yield is 10 liters. The walnut hulls (mallo) darken during air exposure.",
+  "ocr_flags": [
+   "ay* (sugar quantity unclear)"
+  ],
+  "confidence": 0.85
+ },
+ {
+  "id": "pear-liqueur",
+  "page": 563,
+  "section_en": "Fruit Liqueurs",
+  "title_it": "Pere",
+  "title_en": "Pear Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Pere",
+    "name_en": "Pears",
+    "qty": null,
+    "unit": "unknown",
+    "note": "prepared as in the quince liqueur recipe, substituting pears for quinces"
+   }
+  ],
+  "steps_en": [
+   "Prepare as for quince liqueur, using pears instead of quinces."
+  ],
+  "notes_en": "Light green color. Full ingredients and proportions are given in the quince liqueur recipe (I).",
+  "ocr_flags": [],
+  "confidence": 0.95
+ }
+]

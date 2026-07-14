@@ -1,0 +1,252 @@
+[
+ {
+  "id": "artificial-cherry-essence-liqueur",
+  "page": 559,
+  "section_en": "Cherry Liqueurs",
+  "title_it": "Essenza artif. di ciliege",
+  "title_en": "Artificial Cherry Essence Liqueur",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Essenza artif. di ciliege",
+    "name_en": "Artificial cherry essence",
+    "qty": 3,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": 10,
+    "unit": "mL",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 4,
+    "unit": "mL",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 8,
+    "unit": "mL",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 12,
+    "unit": "mL",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Mix all ingredients together."
+  ],
+  "notes_en": "Red-colored liqueur.",
+  "ocr_flags": [],
+  "confidence": 0.95
+ },
+ {
+  "id": "bitter-cherry-liqueur",
+  "page": 559,
+  "section_en": "Cherry Liqueurs",
+  "title_it": "Liquore di ciliege amarasche",
+  "title_en": "Bitter Cherry Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 20,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ciliege amarasche ben mature",
+    "name_en": "Ripe bitter cherries",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 1,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.5,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 1,
+    "unit": "unit",
+    "unit_implicit": true,
+    "note": "quantity unit unclear from source"
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 1,
+    "unit": "unit",
+    "unit_implicit": true,
+    "note": "quantity unit unclear from source"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seeds",
+    "qty": 1,
+    "unit": "unit",
+    "unit_implicit": true,
+    "note": "quantity unit unclear from source"
+   }
+  ],
+  "steps_en": [
+   "Crush the cherries and grind the pits.",
+   "Place everything in alcohol to macerate for 20 days with the spices reduced to powder.",
+   "Add the sugar solution.",
+   "After a further 10 days of maceration, filter through paper."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.92
+ },
+ {
+  "id": "date-liqueur",
+  "page": 559,
+  "section_en": "Date and Fig Liqueurs",
+  "title_it": "Datterì",
+  "title_en": "Date Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 4,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Datteri schiacciati",
+    "name_en": "Crushed dates",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.6,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4.6,
+    "unit": "L",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 4,
+    "unit": "kg",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "The date pulp is macerated in water for 4 days.",
+   "Decant carefully, add the alcohol and sugar.",
+   "Allow to clarify and filter."
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.93
+ },
+ {
+  "id": "fig-liqueur",
+  "page": 559,
+  "section_en": "Date and Fig Liqueurs",
+  "title_it": "Fichi",
+  "title_en": "Fig Liqueur",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Fichi",
+    "name_en": "Figs",
+    "qty": 5,
+    "unit": "kg",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "unit": "L",
+    "unit_implicit": true,
+    "note": "quantity not clearly specified; implied proportional to figs"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 2,
+    "unit": "kg",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 4.6,
+    "unit": "L",
+    "unit_implicit": false
+   }
+  ],
+  "steps_en": [
+   "The figs must be fresh.",
+   "Proceed as for the date ratafià."
+  ],
+  "notes_en": "Colorless.",
+  "ocr_flags": [
+   "Acqua quantity line appears incomplete in source"
+  ],
+  "confidence": 0.88
+ }
+]

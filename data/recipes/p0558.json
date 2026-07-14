@@ -1,0 +1,277 @@
+[
+ {
+  "id": "giallo-d-oro",
+  "page": 558,
+  "section_en": "Liqueurs",
+  "title_it": "Giallo d'oro",
+  "title_en": "Golden Yellow",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 0.5,
+   "raw": "alcool di 0.5°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 2,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Bergamotti",
+    "name_en": "Bergamot",
+    "qty": null,
+    "unit": "as stated",
+    "unit_implicit": false,
+    "note": "grated"
+   },
+   {
+    "name_it": "Alcool",
+    "name_en": "Alcohol",
+    "qty": 1.1,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 0.0,
+    "unit": "liters",
+    "note": "OCR uncertain; possibly should be higher quantity"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": null,
+    "unit": "as stated",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.8,
+    "unit": "liters"
+   }
+  ],
+  "steps_en": [
+   "Grate the bergamots",
+   "Mix the pulp with 1.1 liters of alcohol at 0.5° or water",
+   "Let rest for 2 days",
+   "Filter or mix with the sugar solution in 1.8 liters of water"
+  ],
+  "notes_en": "",
+  "ocr_flags": [
+   "litri 0,0 d'acqua (possibly corrupted; 0.0 seems implausible)"
+  ],
+  "confidence": 0.65
+ },
+ {
+  "id": "cassis",
+  "page": 558,
+  "section_en": "Liqueurs",
+  "title_it": "Cassis",
+  "title_en": "Cassis",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Tintura di Cassis",
+    "name_en": "Cassis tincture",
+    "qty": 4,
+    "unit": "liters",
+    "note": "unclear measure in source"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 1,
+    "unit": "liters",
+    "note": "unclear measure in source"
+   },
+   {
+    "name_it": "Garofani pestati",
+    "name_en": "Crushed cloves",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Cannella Ceylana",
+    "name_en": "Ceylon cinnamon",
+    "qty": null,
+    "unit": "grams",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": null,
+    "unit": "kilograms",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua distillata",
+    "name_en": "Distilled water",
+    "qty": 2.25,
+    "unit": "kilograms"
+   }
+  ],
+  "steps_en": [
+   "Prepare aromatic alcohol separately by macerating cloves and cinnamon in the alcohol",
+   "Mix everything together",
+   "Filter through paper"
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.6
+ },
+ {
+  "id": "ciliege-liqueur-1",
+  "page": 558,
+  "section_en": "Liqueurs",
+  "title_it": "Ciliege (I)",
+  "title_en": "Cherries (I)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": null,
+   "unit": "days",
+   "note": "alcuni giorni (several days)"
+  },
+  "ingredients": [
+   {
+    "name_it": "Ciliege",
+    "name_en": "Cherries",
+    "qty": 5.7,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 4.0,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 1.1,
+    "unit": "liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 3,
+    "unit": "kilograms"
+   },
+   {
+    "name_it": "Tintura di mandorlo amaro",
+    "name_en": "Bitter almond tincture",
+    "qty": 50,
+    "unit": "grams"
+   }
+  ],
+  "steps_en": [
+   "Use sweet, black, fully ripe cherries",
+   "Pound in a stone mortar together with the pits",
+   "Leave the pulp in a dark place for several days",
+   "Press and collect the liquid",
+   "Mix the liquid with water and sugar",
+   "Bring to a boil",
+   "Filter when cold",
+   "Mix with the remaining ingredients"
+  ],
+  "notes_en": "",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "ciliege-liqueur-2",
+  "page": 558,
+  "section_en": "Liqueurs",
+  "title_it": "Ciliege (II)",
+  "title_en": "Cherries (II)",
+  "method": "cold_mix",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Succo di ciliege",
+    "name_en": "Cherry juice",
+    "qty": 33,
+    "unit": "liters",
+    "variants": [
+     11
+    ]
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol at 90°",
+    "qty": 17.75,
+    "unit": "liters",
+    "variants": [
+     3
+    ]
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 10,
+    "unit": "liters",
+    "variants": [
+     12
+    ]
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "liters",
+    "variants": [
+     5
+    ]
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "Bitter almond essential oil",
+    "qty": 50,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Olio di cannella",
+    "name_en": "Cinnamon oil",
+    "qty": 10,
+    "unit": "drops"
+   },
+   {
+    "name_it": "Alcool assoluto",
+    "name_en": "Absolute alcohol",
+    "qty": 1.25,
+    "unit": "kilograms"
+   }
+  ],
+  "steps_en": [
+   "Dissolve 50 drops of bitter almond essential oil and 10 drops of cinnamon oil in 1.25 kilograms of absolute alcohol",
+   "Add to the preceding substances"
+  ],
+  "notes_en": "Two proportion columns given in source; variant column shown for comparison",
+  "ocr_flags": [
+   "esenz (abbreviation for essenziale)"
+  ],
+  "confidence": 0.8
+ }
+]

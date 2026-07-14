@@ -1,0 +1,372 @@
+[
+ {
+  "id": "vermouth-extract-continued-instructions",
+  "page": 674,
+  "section_en": "Liqueur Manufacture – Recipe Book",
+  "title_it": "(seguito) Estratto per Vermouth",
+  "title_en": "Vermouth Extract – Continued Instructions (from previous page)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": 95,
+   "raw": "alcool di 95°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 15,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Alcool di 95°",
+    "name_en": "95° alcohol",
+    "qty": 18,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "Total alcohol added in two stages; carried over from a recipe begun on the previous page"
+   },
+   {
+    "name_it": "Vino comune",
+    "name_en": "common wine",
+    "qty": 7,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "Used to substitute for the still if unavailable"
+   }
+  ],
+  "steps_en": [
+   "Put 95° alcohol and 7 liters of common wine into the still; if the still is not available, before adding the 18 liters of alcohol, pour the boiling wine over the mixed herbs and spices instead.",
+   "When cooled, add the remaining 18 liters (of alcohol).",
+   "Let rest for a further 15 days, stirring every day.",
+   "Then press under the press.",
+   "To prepare Vermouth, use this extract at a rate of 1½ to 2 liters per hectoliter."
+  ],
+  "notes_en": "This passage is the closing portion of a recipe whose ingredient list appears on the preceding page (not shown here). Included for completeness.",
+  "ocr_flags": [
+   "partial recipe - ingredient list not on this page"
+  ],
+  "confidence": 0.55
+ },
+ {
+  "id": "bitter-liqueur-v-dieterich",
+  "page": 674,
+  "section_en": "Liqueur Manufacture – Recipe Book",
+  "title_it": "V. (Dieterich)",
+  "title_en": "Bitter Liqueur No. V (Dieterich)",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": {
+   "degrees": null,
+   "raw": "cognac (base spirit, strength not specified)"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 8,
+   "unit": "days"
+  },
+  "ingredients": [
+   {
+    "name_it": "Cognac",
+    "name_en": "cognac",
+    "qty": 1,
+    "unit": "liter",
+    "unit_implicit": false,
+    "note": "Base spirit for maceration"
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "wormwood",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Achillea moscata (Iva)",
+    "name_en": "musk yarrow (Iva)",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "galangal",
+    "qty": 20,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Zenzero",
+    "name_en": "ginger",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella Cina",
+    "name_en": "Chinese cinnamon (cassia)",
+    "qty": 10,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "angelica root",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Luppolino",
+    "name_en": "hop cones",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice",
+    "name_en": "anise",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noce moscata",
+    "name_en": "nutmeg",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di assenzio francese",
+    "name_en": "essential oil of French wormwood",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di galanga",
+    "name_en": "essential oil of galangal",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di limoni",
+    "name_en": "essential oil of lemon",
+    "qty": 5,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Olio essenziale di mandorle amare",
+    "name_en": "essential oil of bitter almond",
+    "qty": 2,
+    "unit": "drops",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cumarina",
+    "name_en": "coumarin",
+    "qty": 0.1,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Spirito di nitro dolce",
+    "name_en": "sweet spirit of nitre",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Etere acetico",
+    "name_en": "acetic ether",
+    "qty": 1,
+    "unit": "g",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Vino bianco",
+    "name_en": "white wine",
+    "qty": 8000,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "approximately 8 liters"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "sugar",
+    "qty": 2000,
+    "unit": "g",
+    "unit_implicit": true,
+    "note": "2 kg"
+   }
+  ],
+  "steps_en": [
+   "Macerate the ground herbs and spices in 1 liter of cognac for 8 days.",
+   "Press, and to the pressed liquid add the essential oils, coumarin, sweet spirit of nitre, and acetic ether.",
+   "Add the white wine and sugar.",
+   "After a few days' rest in a cool place, filter."
+  ],
+  "notes_en": "Recipe attributed to Dieterich; second stage additions are dissolved/mixed into the pressed macerate before dilution with wine and sugar.",
+  "ocr_flags": [],
+  "confidence": 0.85
+ },
+ {
+  "id": "herbal-bitter-base-variants-vi-to-x",
+  "page": 674,
+  "section_en": "Liqueur Manufacture – Recipe Book",
+  "title_it": "VI. VII. VIII. IX. X.",
+  "title_en": "Herbal Bitter Base – Variants VI to X",
+  "method": "maceration",
+  "yield": null,
+  "alcohol_strength": null,
+  "temperature_c": null,
+  "duration": null,
+  "ingredients": [
+   {
+    "name_it": "Issopo",
+    "name_en": "hyssop",
+    "qty": null,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     200,
+     100,
+     200,
+     null
+    ],
+    "note": "Column alignment uncertain for this row due to page/print condition"
+   },
+   {
+    "name_it": "Cardo santo",
+    "name_en": "blessed thistle",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     200,
+     50,
+     null
+    ]
+   },
+   {
+    "name_it": "China",
+    "name_en": "cinchona bark (China)",
+    "qty": 250,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     500,
+     200,
+     200,
+     200
+    ]
+   },
+   {
+    "name_it": "Centaurea",
+    "name_en": "centaury",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     100,
+     50
+    ]
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "wormwood",
+    "qty": 200,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     200,
+     300,
+     100,
+     300
+    ]
+   },
+   {
+    "name_it": "Menta piperita",
+    "name_en": "peppermint",
+    "qty": 50,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     null,
+     null,
+     200
+    ],
+    "note": "Column IX substitutes Sage (Salvia) instead of peppermint, per printed note"
+   },
+   {
+    "name_it": "Scorze di arance",
+    "name_en": "orange peel",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     100,
+     null,
+     50,
+     null
+    ]
+   },
+   {
+    "name_it": "Agarico",
+    "name_en": "agaric",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     null,
+     20,
+     null,
+     null
+    ]
+   },
+   {
+    "name_it": "Calamo aromatico",
+    "name_en": "sweet flag (calamus root)",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     100,
+     200,
+     50,
+     200
+    ]
+   },
+   {
+    "name_it": "Genziana",
+    "name_en": "gentian root",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false,
+    "variants": [
+     300,
+     null,
+     100,
+     50
+    ]
+   }
+  ],
+  "steps_en": [
+   "Combine the listed herbs in the given proportions per each of the five variant formulas (VI, VII, VIII, IX, X).",
+   "Table continues onto the following page with further ingredients and finishing steps (essential oils, wine, sugar, etc., not shown on this page)."
+  ],
+  "notes_en": "This is a comparative table of five bitter/amaro herb-base variants (columns VI–X), likely continuing a series of recipes by different formulators. The table is cut off at the bottom of the page; some values (especially in the Hyssop row) could not be reliably read from the scan.",
+  "ocr_flags": [
+   "Issopo row has only 4 values instead of 5 (VI–X); alignment approximate",
+   "'Salvia' in Menta piperita row treated as ingredient substitution, not a numeric quantity",
+   "dashes (—) interpreted as 'not used / null' for that variant"
+  ],
+  "confidence": 0.55
+ }
+]

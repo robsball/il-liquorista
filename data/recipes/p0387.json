@@ -1,0 +1,299 @@
+[
+ {
+  "id": "anisette-continuation",
+  "page": 387,
+  "section_en": "Anisette (continued)",
+  "title_it": "Anisette (seguito)",
+  "title_en": "Anisette (continued)",
+  "method": "infusion",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Calamo arom.",
+    "name_en": "Calamus (aromatic)",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 2,
+    "unit": "pieces",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 7,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": null,
+    "note": "to complete 20 litres"
+   }
+  ],
+  "steps_en": [
+   "Proceed as for Anisette I°-II°.",
+   "Complete to 20 litres with water."
+  ],
+  "confidence": 0.92
+ },
+ {
+  "id": "badiana-rosolio",
+  "page": 387,
+  "section_en": "Rosolio",
+  "title_it": "Badiana (Rosolio di)",
+  "title_en": "Star Anise (Rosolio)",
+  "method": "distillation",
+  "yield": {
+   "amount": 8,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Badiana (anice stellato)",
+    "name_en": "Star anise",
+    "qty": 400,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Cascarilla",
+    "name_en": "Cascarilla bark",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Legno di Rodi",
+    "name_en": "Rhodium wood",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 8.4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Sciroppo",
+    "name_en": "Syrup",
+    "qty": 11.2,
+    "unit": "kilograms",
+    "note": "prepared by dissolving sugar in 5 litres water"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 11.2,
+    "unit": "kilograms",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "litres",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "After appropriate maceration, distil and rectify to obtain 8 litres.",
+   "Add prepared syrup made by dissolving 11.2 kg sugar in 5 litres water."
+  ],
+  "confidence": 0.95
+ },
+ {
+  "id": "balsamo-divino",
+  "page": 387,
+  "section_en": "Balsams",
+  "title_it": "Balsamo divino",
+  "title_en": "Divine Balsam",
+  "method": "distillation",
+  "yield": {
+   "amount": 8,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 85,
+   "raw": "alcool di 85°"
+  },
+  "duration": {
+   "amount": 24,
+   "unit": "hours"
+  },
+  "temperature_c": null,
+  "ingredients": [
+   {
+    "name_it": "Legno di Rodi",
+    "name_en": "Rhodium wood",
+    "qty": 0,
+    "unit": "grams",
+    "note": "OCR corruption; likely 50–100 grams"
+   },
+   {
+    "name_it": "Ambretta",
+    "name_en": "Ambrette (musk mallow seed)",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Balsamo del Beni",
+    "name_en": "Balm of Mecca (Balm of Gilead)",
+    "qty": 25,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Balsamo di Tolti",
+    "name_en": "Balsam of Peru",
+    "qty": 25,
+    "unit": "grams",
+    "ocr_flags": [
+     "Tolti"
+    ]
+   },
+   {
+    "name_it": "Aloe soccotrino",
+    "name_en": "Socotrine aloe",
+    "qty": 5,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Alcool di 85°",
+    "name_en": "Alcohol 85°",
+    "qty": 8.4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua di rose",
+    "name_en": "Rose water",
+    "qty": 0.6,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua di cannella",
+    "name_en": "Cinnamon water",
+    "qty": 0.4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua comune",
+    "name_en": "Common water",
+    "qty": 3.4,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero",
+    "name_en": "Sugar",
+    "qty": 11.3,
+    "unit": "kilograms"
+   }
+  ],
+  "steps_en": [
+   "Macerate for 24 hours.",
+   "Distil and rectify to obtain 8 litres of aromatic spirit.",
+   "Add rose water (0.6 L), cinnamon water (0.4 L), and common water (3.4 L).",
+   "Add sugar (11.3 kg)."
+  ],
+  "confidence": 0.93
+ },
+ {
+  "id": "balsamo-di-gerusalemme",
+  "page": 387,
+  "section_en": "Balsams",
+  "title_it": "Balsamo di Gerusalemme",
+  "title_en": "Balsam of Jerusalem",
+  "method": "distillation",
+  "yield": {
+   "amount": 20,
+   "unit": "litres"
+  },
+  "alcohol_strength": {
+   "degrees": 90,
+   "raw": "alcool di 90°"
+  },
+  "ingredients": [
+   {
+    "name_it": "Angelica (semi)",
+    "name_en": "Angelica seed",
+    "qty": 200,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Anice (semi)",
+    "name_en": "Anise seed",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Coriandoli",
+    "name_en": "Coriander seed",
+    "qty": 100,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Finocchio",
+    "name_en": "Fennel",
+    "qty": 50,
+    "unit": "grams"
+   },
+   {
+    "name_it": "Limoni tagliati a fette",
+    "name_en": "Lemons sliced",
+    "qty": 8,
+    "unit": "pieces",
+    "unit_implicit": true
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 10,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "litres"
+   },
+   {
+    "name_it": "Zucchero raffinato",
+    "name_en": "Refined sugar",
+    "qty": 6,
+    "unit": "kilograms",
+    "note": "from OCR '(i'; likely 6 kg"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water (for syrup)",
+    "qty": 2,
+    "unit": "litres",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate.",
+   "Distil 10 litres, then rectify to obtain 12 litres.",
+   "Mix with syrup prepared from refined sugar (6 kg) and water (2 litres).",
+   "Complete to 20 litres with water.",
+   "Color: rose."
+  ],
+  "notes_en": "Final colour should be rose/pink.",
+  "ocr_flags": [
+   "(i"
+  ],
+  "confidence": 0.9
+ }
+]

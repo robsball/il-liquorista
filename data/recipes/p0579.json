@@ -1,0 +1,285 @@
+[
+ {
+  "id": "spanish-bitter-i",
+  "page": 579,
+  "section_en": "A. Spagnuolo (Spanish Bitter)",
+  "title_it": "A. Spagnuolo I",
+  "title_en": "Spanish Bitter I",
+  "method": "distillation",
+  "yield": {
+   "amount": 17,
+   "unit": "liters",
+   "note": "distilled product at 72°; final blend yield not explicitly stated"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Arance",
+    "name_en": "Oranges",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ginepro (bacche)",
+    "name_en": "Juniper berries",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Calamo",
+    "name_en": "Calamus",
+    "qty": 100,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 80,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 70,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos",
+    "name_en": "Iris root",
+    "qty": 36,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 22,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "base spirit"
+   },
+   {
+    "name_it": "Alcool di 90°",
+    "name_en": "Alcohol 90°",
+    "qty": 0.75,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 4.25,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 13,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Bruno scuro",
+    "name_en": "Dark caramel coloring",
+    "qty": null,
+    "unit": "to taste",
+    "unit_implicit": true
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in 60° alcohol for 48 hours.",
+   "Distill to obtain 17 liters of 72° spirit.",
+   "Mix the distillate with 90° alcohol (0.75 L), water (4.25 L), and syrup (13 L).",
+   "Add dark caramel coloring to taste."
+  ],
+  "notes_en": "This recipe yields a Spanish-style bitter liqueur through maceration and redistillation, with final proofing and sweetening.",
+  "confidence": 0.95
+ },
+ {
+  "id": "spanish-bitter-ii",
+  "page": 579,
+  "section_en": "A. Spagnuolo (Spanish Bitter)",
+  "title_it": "A. Spagnuolo II",
+  "title_en": "Spanish Bitter II",
+  "method": "distillation",
+  "yield": {
+   "amount": 17,
+   "unit": "liters",
+   "note": "distilled product at 72°; final blend yield not explicitly stated"
+  },
+  "alcohol_strength": {
+   "degrees": 60,
+   "raw": "alcool di 60°"
+  },
+  "temperature_c": null,
+  "duration": {
+   "amount": 48,
+   "unit": "hours"
+  },
+  "ingredients": [
+   {
+    "name_it": "Scorze d'arance",
+    "name_en": "Orange peel",
+    "qty": 300,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Scorze di limoni",
+    "name_en": "Lemon peel",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Coriandolo (semi)",
+    "name_en": "Coriander seeds",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Menta crispa",
+    "name_en": "Curly mint",
+    "qty": 125,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Angelica (rad.)",
+    "name_en": "Angelica root",
+    "qty": 95,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Cannella",
+    "name_en": "Cinnamon",
+    "qty": 95,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Galanga",
+    "name_en": "Galangal",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Assenzio",
+    "name_en": "Wormwood",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Garofani",
+    "name_en": "Cloves",
+    "qty": 65,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Anice stellato",
+    "name_en": "Star anise",
+    "qty": 30,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Noci moscate",
+    "name_en": "Nutmeg",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Ireos (radice)",
+    "name_en": "Iris root",
+    "qty": 15,
+    "unit": "g",
+    "unit_implicit": false
+   },
+   {
+    "name_it": "Alcool di 60°",
+    "name_en": "Alcohol 60°",
+    "qty": 22,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "base spirit"
+   },
+   {
+    "name_it": "Acqua",
+    "name_en": "Water",
+    "qty": 5,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   },
+   {
+    "name_it": "Siroppo",
+    "name_en": "Syrup",
+    "qty": 1,
+    "unit": "liters",
+    "unit_implicit": false,
+    "note": "added after distillation"
+   }
+  ],
+  "steps_en": [
+   "Macerate the botanicals in 60° alcohol for 48 hours.",
+   "Distill to obtain 17 liters of 72° spirit.",
+   "Mix the distillate with water (5 L) and syrup (1 L)."
+  ],
+  "notes_en": "This variant uses a different botanical blend with more citrus peel and mint, and a lighter final sweetening than variant I.",
+  "ocr_flags": [
+   "Cornino - likely 'Coriandolo' (coriander); OCR may have misread"
+  ],
+  "confidence": 0.93
+ }
+]
